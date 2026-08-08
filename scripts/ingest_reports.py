@@ -58,7 +58,7 @@ def ensure_company(conn, ticker):
 
 
 def upsert_report(conn, company_id, skill, date, rel_path):
-    """每(公司,skill)保留最新日期；新日期更大才覆盖。"""
+    """每(公司,skill)保留最新日期；日期更大或相等时更新路径（路径始终指向文件实际位置）。"""
     conn.execute(
         """INSERT INTO skill_reports (company_id, skill, latest_report_date, report_path)
            VALUES (?, ?, ?, ?)
@@ -67,7 +67,7 @@ def upsert_report(conn, company_id, skill, date, rel_path):
                WHEN excluded.latest_report_date > skill_reports.latest_report_date
                  THEN excluded.latest_report_date ELSE skill_reports.latest_report_date END,
              report_path = CASE
-               WHEN excluded.latest_report_date > skill_reports.latest_report_date
+               WHEN excluded.latest_report_date >= skill_reports.latest_report_date
                  THEN excluded.report_path ELSE skill_reports.report_path END,
              updated_at = datetime('now','localtime')""",
         (company_id, skill, date, rel_path),
