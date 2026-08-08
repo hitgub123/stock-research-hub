@@ -1,0 +1,1474 @@
+[
+ {
+  "ticker": "GDDY",
+  "name": "GoDaddy Inc. Class A Common Stock",
+  "mcap_b": 11.533806403,
+  "pe": 13.52,
+  "roe": 442.86,
+  "score": 32.8
+ },
+ {
+  "ticker": "LTM",
+  "name": "LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2000) shares of Common Stock)",
+  "mcap_b": 16.284765306,
+  "pe": 10.37,
+  "roe": 107.99,
+  "score": 10.4
+ },
+ {
+  "ticker": "HAS",
+  "name": "Hasbro Inc. Common Stock",
+  "mcap_b": 13.190478554,
+  "pe": 16.69,
+  "roe": 159.56,
+  "score": 9.6
+ },
+ {
+  "ticker": "ALL",
+  "name": "Allstate Corporation (The) Common Stock",
+  "mcap_b": 67.51307265,
+  "pe": 5.33,
+  "roe": 46.11,
+  "score": 8.7
+ },
+ {
+  "ticker": "SPG",
+  "name": "Simon Property Group Inc. Common Stock",
+  "mcap_b": 72.287464284,
+  "pe": 15.5,
+  "roe": 113.59,
+  "score": 7.3
+ },
+ {
+  "ticker": "RCI",
+  "name": "Rogers Communication Inc. Common Stock",
+  "mcap_b": 18.621530863,
+  "pe": 4.3,
+  "roe": 30.92,
+  "score": 7.2
+ },
+ {
+  "ticker": "LVS",
+  "name": "Las Vegas Sands Corp. Common Stock",
+  "mcap_b": 29.645283192,
+  "pe": 17.75,
+  "roe": 122.87,
+  "score": 6.9
+ },
+ {
+  "ticker": "CHTR",
+  "name": "Charter Communications Inc. Class A Common Stock New",
+  "mcap_b": 18.198166954,
+  "pe": 3.97,
+  "roe": 27.2,
+  "score": 6.9
+ },
+ {
+  "ticker": "IT",
+  "name": "Gartner Inc. Common Stock",
+  "mcap_b": 11.720449946,
+  "pe": 16.97,
+  "roe": 113.58,
+  "score": 6.7
+ },
+ {
+  "ticker": "KEP",
+  "name": "Korea Electric Power Corporation Common Stock",
+  "mcap_b": 16.036262643,
+  "pe": 2.83,
+  "roe": 18.67,
+  "score": 6.6
+ },
+ {
+  "ticker": "BCE",
+  "name": "BCE Inc. Common Stock",
+  "mcap_b": 21.214962337,
+  "pe": 4.8,
+  "roe": 30.47,
+  "score": 6.3
+ },
+ {
+  "ticker": "KSPI",
+  "name": "Joint Stock Company Kaspi.kz American Depository Shares",
+  "mcap_b": 17.09681189,
+  "pe": 7.71,
+  "roe": 46.75,
+  "score": 6.1
+ },
+ {
+  "ticker": "DVA",
+  "name": "DaVita Inc. Common Stock",
+  "mcap_b": 11.724526,
+  "pe": 15.64,
+  "roe": 88.48,
+  "score": 5.7
+ },
+ {
+  "ticker": "SUZ",
+  "name": "Suzano S.A. American Depositary Shares (each representing One Ordinary Share)",
+  "mcap_b": 10.391046795,
+  "pe": 4.64,
+  "roe": 26.3,
+  "score": 5.7
+ },
+ {
+  "ticker": "ZTS",
+  "name": "Zoetis Inc. Class A Common Stock",
+  "mcap_b": 30.461115054,
+  "pe": 11.85,
+  "roe": 64.91,
+  "score": 5.5
+ },
+ {
+  "ticker": "GFI",
+  "name": "Gold Fields Limited American Depositary Shares",
+  "mcap_b": 36.534889763,
+  "pe": 10.29,
+  "roe": 51.93,
+  "score": 5.0
+ },
+ {
+  "ticker": "AMP",
+  "name": "Ameriprise Financial Inc. Common Stock",
+  "mcap_b": 49.621392426,
+  "pe": 13.33,
+  "roe": 63.43,
+  "score": 4.8
+ },
+ {
+  "ticker": "EXPE",
+  "name": "Expedia Group Inc. Common Stock",
+  "mcap_b": 37.288458882,
+  "pe": 19.31,
+  "roe": 89.49,
+  "score": 4.6
+ },
+ {
+  "ticker": "MPC",
+  "name": "Marathon Petroleum Corporation Common Stock",
+  "mcap_b": 83.741944327,
+  "pe": 10.37,
+  "roe": 42.1,
+  "score": 4.1
+ },
+ {
+  "ticker": "RNR",
+  "name": "RenaissanceRe Holdings Ltd. Common Stock",
+  "mcap_b": 13.3743078,
+  "pe": 5.49,
+  "roe": 21.47,
+  "score": 3.9
+ },
+ {
+  "ticker": "THC",
+  "name": "Tenet Healthcare Corporation Common Stock",
+  "mcap_b": 21.10644547,
+  "pe": 10.18,
+  "roe": 37.34,
+  "score": 3.7
+ },
+ {
+  "ticker": "LII",
+  "name": "Lennox International Inc. Common Stock",
+  "mcap_b": 15.198748045,
+  "pe": 19.53,
+  "roe": 71.76,
+  "score": 3.7
+ },
+ {
+  "ticker": "KGC",
+  "name": "Kinross Gold Corporation Common Stock",
+  "mcap_b": 33.004924,
+  "pe": 10.31,
+  "roe": 36.99,
+  "score": 3.6
+ },
+ {
+  "ticker": "IAG",
+  "name": "Iamgold Corporation Ordinary Shares",
+  "mcap_b": 10.627432,
+  "pe": 9.06,
+  "roe": 32.33,
+  "score": 3.6
+ },
+ {
+  "ticker": "AU",
+  "name": "AngloGold Ashanti PLC Ordinary Shares",
+  "mcap_b": 48.665117812,
+  "pe": 12.9,
+  "roe": 44.73,
+  "score": 3.5
+ },
+ {
+  "ticker": "CF",
+  "name": "CF Industries Holdings Inc. Common Stock",
+  "mcap_b": 17.567507482,
+  "pe": 8.51,
+  "roe": 29.87,
+  "score": 3.5
+ },
+ {
+  "ticker": "FIS",
+  "name": "Fidelity National Information Services Inc. Common Stock",
+  "mcap_b": 22.05674207,
+  "pe": 6.58,
+  "roe": 22.35,
+  "score": 3.4
+ },
+ {
+  "ticker": "APA",
+  "name": "APA Corporation Common Stock",
+  "mcap_b": 13.301084642,
+  "pe": 7.97,
+  "roe": 26.66,
+  "score": 3.3
+ },
+ {
+  "ticker": "LULU",
+  "name": "lululemon athletica inc. Common Stock",
+  "mcap_b": 13.942952511,
+  "pe": 10.37,
+  "roe": 32.03,
+  "score": 3.1
+ },
+ {
+  "ticker": "DECK",
+  "name": "Deckers Outdoor Corporation Common Stock",
+  "mcap_b": 13.294930563,
+  "pe": 13.74,
+  "roe": 42.56,
+  "score": 3.1
+ },
+ {
+  "ticker": "UHS",
+  "name": "Universal Health Services Inc. Common Stock",
+  "mcap_b": 10.505478353,
+  "pe": 7.06,
+  "roe": 20.95,
+  "score": 3.0
+ },
+ {
+  "ticker": "CHKP",
+  "name": "Check Point Software Technologies Ltd. Ordinary Shares",
+  "mcap_b": 13.050503038,
+  "pe": 13.02,
+  "roe": 37.64,
+  "score": 2.9
+ },
+ {
+  "ticker": "MKC",
+  "name": "McCormick & Company Incorporated Common Stock",
+  "mcap_b": 14.238378194,
+  "pe": 8.81,
+  "roe": 24.73,
+  "score": 2.8
+ },
+ {
+  "ticker": "PAYP",
+  "name": "PayPay Corporation American Depository Shares",
+  "mcap_b": 10.394147122,
+  "pe": 13.33,
+  "roe": 37.27,
+  "score": 2.8
+ },
+ {
+  "ticker": "HMY",
+  "name": "Harmony Gold Mining Company Limited",
+  "mcap_b": 12.504924163,
+  "pe": 12.54,
+  "roe": 33.49,
+  "score": 2.7
+ },
+ {
+  "ticker": "TRV",
+  "name": "The Travelers Companies Inc. Common Stock",
+  "mcap_b": 80.157466705,
+  "pe": 10.29,
+  "roe": 26.51,
+  "score": 2.6
+ },
+ {
+  "ticker": "ACGL",
+  "name": "Arch Capital Group Ltd. Common Stock",
+  "mcap_b": 33.604244328,
+  "pe": 7.67,
+  "roe": 19.94,
+  "score": 2.6
+ },
+ {
+  "ticker": "SYF",
+  "name": "Synchrony Financial Common Stock",
+  "mcap_b": 29.240002697,
+  "pe": 8.05,
+  "roe": 20.79,
+  "score": 2.6
+ },
+ {
+  "ticker": "CINF",
+  "name": "Cincinnati Financial Corporation Common Stock",
+  "mcap_b": 27.144127039,
+  "pe": 8.35,
+  "roe": 21.48,
+  "score": 2.6
+ },
+ {
+  "ticker": "BBY",
+  "name": "Best Buy Co. Inc. Common Stock",
+  "mcap_b": 17.282904332,
+  "pe": 15.18,
+  "roe": 39.1,
+  "score": 2.6
+ },
+ {
+  "ticker": "EXEL",
+  "name": "Exelixis Inc. Common Stock",
+  "mcap_b": 13.397556086,
+  "pe": 16.97,
+  "roe": 44.39,
+  "score": 2.6
+ },
+ {
+  "ticker": "PRI",
+  "name": "Primerica Inc. Common Stock",
+  "mcap_b": 10.090394213,
+  "pe": 12.9,
+  "roe": 32.97,
+  "score": 2.6
+ },
+ {
+  "ticker": "GEN",
+  "name": "Gen Digital Inc. Common Stock",
+  "mcap_b": 17.460492986,
+  "pe": 17.02,
+  "roe": 41.94,
+  "score": 2.5
+ },
+ {
+  "ticker": "HTHT",
+  "name": "H World Group Limited American Depositary Shares",
+  "mcap_b": 13.029784211,
+  "pe": 18.55,
+  "roe": 46.36,
+  "score": 2.5
+ },
+ {
+  "ticker": "CNQ",
+  "name": "Canadian Natural Resources Limited Common Stock",
+  "mcap_b": 94.93258572,
+  "pe": 11.34,
+  "roe": 26.69,
+  "score": 2.4
+ },
+ {
+  "ticker": "BR",
+  "name": "Broadridge Financial Solutions Inc. Common Stock",
+  "mcap_b": 18.984629367,
+  "pe": 17.34,
+  "roe": 40.92,
+  "score": 2.4
+ },
+ {
+  "ticker": "PTC",
+  "name": "PTC Inc. Common Stock",
+  "mcap_b": 16.027459812,
+  "pe": 14.31,
+  "roe": 35.05,
+  "score": 2.4
+ },
+ {
+  "ticker": "AON",
+  "name": "Aon plc Class A Ordinary Shares (Ireland)",
+  "mcap_b": 76.004543002,
+  "pe": 19.74,
+  "roe": 44.7,
+  "score": 2.3
+ },
+ {
+  "ticker": "WES",
+  "name": "Western Midstream Partners LP Common Units Representing Limited Partner Interests",
+  "mcap_b": 19.262199526,
+  "pe": 14.71,
+  "roe": 34.11,
+  "score": 2.3
+ },
+ {
+  "ticker": "FUTU",
+  "name": "Futu Holdings Limited American Depositary Shares",
+  "mcap_b": 15.281074696,
+  "pe": 12.05,
+  "roe": 27.84,
+  "score": 2.3
+ },
+ {
+  "ticker": "AGI",
+  "name": "Alamos Gold Inc. Class A Common Shares",
+  "mcap_b": 13.921853375,
+  "pe": 11.84,
+  "roe": 27.41,
+  "score": 2.3
+ },
+ {
+  "ticker": "EVR",
+  "name": "Evercore Inc. Class A Common Stock",
+  "mcap_b": 11.765772601,
+  "pe": 17.27,
+  "roe": 39.5,
+  "score": 2.3
+ },
+ {
+  "ticker": "VLO",
+  "name": "Valero Energy Corporation Common Stock",
+  "mcap_b": 85.891640891,
+  "pe": 12.47,
+  "roe": 27.64,
+  "score": 2.2
+ },
+ {
+  "ticker": "HIG",
+  "name": "The Hartford Insurance Group Inc. Common Stock",
+  "mcap_b": 38.810540447,
+  "pe": 9.86,
+  "roe": 22.06,
+  "score": 2.2
+ },
+ {
+  "ticker": "RYAAY",
+  "name": "Ryanair Holdings plc American Depositary Shares",
+  "mcap_b": 31.67401176,
+  "pe": 12.6,
+  "roe": 28.21,
+  "score": 2.2
+ },
+ {
+  "ticker": "TSCO",
+  "name": "Tractor Supply Company Common Stock",
+  "mcap_b": 18.124978729,
+  "pe": 18.01,
+  "roe": 39.51,
+  "score": 2.2
+ },
+ {
+  "ticker": "LDOS",
+  "name": "Leidos Holdings Inc. Common Stock",
+  "mcap_b": 17.263963192,
+  "pe": 12.85,
+  "roe": 27.78,
+  "score": 2.2
+ },
+ {
+  "ticker": "EQNR",
+  "name": "Equinor ASA",
+  "mcap_b": 97.310548488,
+  "pe": 10.28,
+  "roe": 21.27,
+  "score": 2.1
+ },
+ {
+  "ticker": "ITUB",
+  "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)",
+  "mcap_b": 87.550604768,
+  "pe": 10.11,
+  "roe": 21.48,
+  "score": 2.1
+ },
+ {
+  "ticker": "B",
+  "name": "Barrick Mining Corporation Common Shares",
+  "mcap_b": 73.186205165,
+  "pe": 11.97,
+  "roe": 25.18,
+  "score": 2.1
+ },
+ {
+  "ticker": "EOG",
+  "name": "EOG Resources Inc. Common Stock",
+  "mcap_b": 70.675061174,
+  "pe": 10.53,
+  "roe": 22.51,
+  "score": 2.1
+ },
+ {
+  "ticker": "LNG",
+  "name": "Cheniere Energy Inc. Common Stock",
+  "mcap_b": 53.67461547,
+  "pe": 18.83,
+  "roe": 39.12,
+  "score": 2.1
+ },
+ {
+  "ticker": "INFY",
+  "name": "Infosys Limited American Depositary Shares",
+  "mcap_b": 50.82619194,
+  "pe": 15.05,
+  "roe": 32.0,
+  "score": 2.1
+ },
+ {
+  "ticker": "PSX",
+  "name": "Phillips 66 Common Stock",
+  "mcap_b": 81.364354982,
+  "pe": 11.64,
+  "roe": 23.45,
+  "score": 2.0
+ },
+ {
+  "ticker": "CCL",
+  "name": "Carnival Corporation Ltd. Common Shares",
+  "mcap_b": 39.70612796,
+  "pe": 13.3,
+  "roe": 26.69,
+  "score": 2.0
+ },
+ {
+  "ticker": "ERIC",
+  "name": "Ericsson American Depositary Shares",
+  "mcap_b": 34.21922011,
+  "pe": 13.19,
+  "roe": 26.08,
+  "score": 2.0
+ },
+ {
+  "ticker": "INCY",
+  "name": "Incyte Corp. Common Stock",
+  "mcap_b": 24.437240258,
+  "pe": 15.36,
+  "roe": 30.67,
+  "score": 2.0
+ },
+ {
+  "ticker": "ORI",
+  "name": "Old Republic International Corporation Common Stock",
+  "mcap_b": 10.388858634,
+  "pe": 9.45,
+  "roe": 18.57,
+  "score": 2.0
+ },
+ {
+  "ticker": "CVE",
+  "name": "Cenovus Energy Inc Common Stock",
+  "mcap_b": 52.96875,
+  "pe": 11.12,
+  "roe": 20.93,
+  "score": 1.9
+ },
+ {
+  "ticker": "UAL",
+  "name": "United Airlines Holdings Inc. Common Stock",
+  "mcap_b": 42.0530735,
+  "pe": 12.12,
+  "roe": 23.25,
+  "score": 1.9
+ },
+ {
+  "ticker": "QSR",
+  "name": "Restaurant Brands International Inc. Common Shares",
+  "mcap_b": 33.718733098,
+  "pe": 18.58,
+  "roe": 34.79,
+  "score": 1.9
+ },
+ {
+  "ticker": "EXE",
+  "name": "Expand Energy Corporation Common Stock",
+  "mcap_b": 21.492811771,
+  "pe": 8.0,
+  "roe": 14.89,
+  "score": 1.9
+ },
+ {
+  "ticker": "NVR",
+  "name": "NVR Inc. Common Stock",
+  "mcap_b": 17.02882848,
+  "pe": 16.5,
+  "roe": 31.54,
+  "score": 1.9
+ },
+ {
+  "ticker": "LOGI",
+  "name": "Logitech International S.A. Ordinary Shares",
+  "mcap_b": 15.225215342,
+  "pe": 18.74,
+  "roe": 35.29,
+  "score": 1.9
+ },
+ {
+  "ticker": "STZ",
+  "name": "Constellation Brands Inc. Common Stock",
+  "mcap_b": 23.1848802,
+  "pe": 12.96,
+  "roe": 23.69,
+  "score": 1.8
+ },
+ {
+  "ticker": "AA",
+  "name": "Alcoa Corporation Common Stock ",
+  "mcap_b": 13.240336856,
+  "pe": 10.4,
+  "roe": 18.23,
+  "score": 1.8
+ },
+ {
+  "ticker": "ZION",
+  "name": "Zions Bancorporation N.A. Common Stock",
+  "mcap_b": 10.343496571,
+  "pe": 8.96,
+  "roe": 16.4,
+  "score": 1.8
+ },
+ {
+  "ticker": "SU",
+  "name": "Suncor Energy  Inc. Common Stock",
+  "mcap_b": 70.294739681,
+  "pe": 11.19,
+  "roe": 19.25,
+  "score": 1.7
+ },
+ {
+  "ticker": "EC",
+  "name": "Ecopetrol S.A. American Depositary Shares",
+  "mcap_b": 34.496906853,
+  "pe": 9.49,
+  "roe": 15.95,
+  "score": 1.7
+ },
+ {
+  "ticker": "TROW",
+  "name": "T. Rowe Price Group Inc. Common Stock",
+  "mcap_b": 24.322273217,
+  "pe": 11.45,
+  "roe": 19.4,
+  "score": 1.7
+ },
+ {
+  "ticker": "GL",
+  "name": "Globe Life Inc. Common Stock",
+  "mcap_b": 14.128770831,
+  "pe": 12.19,
+  "roe": 20.95,
+  "score": 1.7
+ },
+ {
+  "ticker": "EG",
+  "name": "Everest Group Ltd. Common Stock",
+  "mcap_b": 14.376991541,
+  "pe": 7.99,
+  "roe": 12.57,
+  "score": 1.6
+ },
+ {
+  "ticker": "AVY",
+  "name": "Avery Dennison Corporation Common Stock",
+  "mcap_b": 13.428143,
+  "pe": 19.4,
+  "roe": 31.16,
+  "score": 1.6
+ },
+ {
+  "ticker": "CCK",
+  "name": "Crown Holdings Inc.",
+  "mcap_b": 13.126306073,
+  "pe": 17.39,
+  "roe": 27.37,
+  "score": 1.6
+ },
+ {
+  "ticker": "AFG",
+  "name": "American Financial Group Inc. Common Stock",
+  "mcap_b": 12.096502824,
+  "pe": 12.72,
+  "roe": 20.41,
+  "score": 1.6
+ },
+ {
+  "ticker": "AEM",
+  "name": "Agnico Eagle Mines Limited Common Stock",
+  "mcap_b": 90.762057662,
+  "pe": 15.31,
+  "roe": 22.97,
+  "score": 1.5
+ },
+ {
+  "ticker": "UPS",
+  "name": "United Parcel Service Inc. Common Stock",
+  "mcap_b": 88.906675319,
+  "pe": 19.43,
+  "roe": 29.6,
+  "score": 1.5
+ },
+ {
+  "ticker": "NOC",
+  "name": "Northrop Grumman Corporation Common Stock",
+  "mcap_b": 81.200384401,
+  "pe": 18.15,
+  "roe": 26.96,
+  "score": 1.5
+ },
+ {
+  "ticker": "AMX",
+  "name": "America Movil S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares",
+  "mcap_b": 71.4815625,
+  "pe": 13.95,
+  "roe": 21.58,
+  "score": 1.5
+ },
+ {
+  "ticker": "MLI",
+  "name": "Mueller Industries Inc. Common Stock",
+  "mcap_b": 15.228338564,
+  "pe": 17.94,
+  "roe": 26.33,
+  "score": 1.5
+ },
+ {
+  "ticker": "SEIC",
+  "name": "SEI Investments Company Common Stock",
+  "mcap_b": 12.566008355,
+  "pe": 18.48,
+  "roe": 27.59,
+  "score": 1.5
+ },
+ {
+  "ticker": "CMCSA",
+  "name": "Comcast Corporation Class A Common Stock",
+  "mcap_b": 89.993423491,
+  "pe": 8.21,
+  "roe": 11.49,
+  "score": 1.4
+ },
+ {
+  "ticker": "BSBR",
+  "name": "Banco Santander Brasil SA American Depositary Shares each representing one unit",
+  "mcap_b": 43.407661141,
+  "pe": 8.05,
+  "roe": 11.15,
+  "score": 1.4
+ },
+ {
+  "ticker": "ZM",
+  "name": "Zoom Communications Inc. Class A Common Stock",
+  "mcap_b": 30.642766781,
+  "pe": 15.35,
+  "roe": 21.95,
+  "score": 1.4
+ },
+ {
+  "ticker": "WRB",
+  "name": "W.R. Berkley Corporation Common Stock",
+  "mcap_b": 26.579891076,
+  "pe": 14.73,
+  "roe": 20.21,
+  "score": 1.4
+ },
+ {
+  "ticker": "GIB",
+  "name": "CGI Inc. Common Stock",
+  "mcap_b": 17.331337596,
+  "pe": 12.55,
+  "roe": 17.03,
+  "score": 1.4
+ },
+ {
+  "ticker": "AR",
+  "name": "Antero Resources Corporation Common Stock",
+  "mcap_b": 10.67120769,
+  "pe": 9.95,
+  "roe": 14.22,
+  "score": 1.4
+ },
+ {
+  "ticker": "FDS",
+  "name": "FactSet Research Systems Inc. Common Stock",
+  "mcap_b": 10.156452115,
+  "pe": 18.8,
+  "roe": 27.03,
+  "score": 1.4
+ },
+ {
+  "ticker": "NTES",
+  "name": "NetEase Inc. American Depositary Shares",
+  "mcap_b": 84.373298043,
+  "pe": 16.92,
+  "roe": 22.13,
+  "score": 1.3
+ },
+ {
+  "ticker": "DAL",
+  "name": "Delta Air Lines Inc. Common Stock",
+  "mcap_b": 60.06728756,
+  "pe": 15.15,
+  "roe": 20.12,
+  "score": 1.3
+ },
+ {
+  "ticker": "DVN",
+  "name": "Devon Energy Corporation Common Stock",
+  "mcap_b": 47.278,
+  "pe": 9.21,
+  "roe": 11.52,
+  "score": 1.3
+ },
+ {
+  "ticker": "EWBC",
+  "name": "East West Bancorp Inc. Common Stock",
+  "mcap_b": 18.042407705,
+  "pe": 12.65,
+  "roe": 16.58,
+  "score": 1.3
+ },
+ {
+  "ticker": "JAZZ",
+  "name": "Jazz Pharmaceuticals plc Common Stock (Ireland)",
+  "mcap_b": 16.654483875,
+  "pe": 17.53,
+  "roe": 22.11,
+  "score": 1.3
+ },
+ {
+  "ticker": "TOL",
+  "name": "Toll Brothers Inc. Common Stock",
+  "mcap_b": 14.49641739,
+  "pe": 11.71,
+  "roe": 15.66,
+  "score": 1.3
+ },
+ {
+  "ticker": "BPOP",
+  "name": "Popular Inc. Common Stock",
+  "mcap_b": 11.232142874,
+  "pe": 11.77,
+  "roe": 15.65,
+  "score": 1.3
+ },
+ {
+  "ticker": "ABEV",
+  "name": "Ambev S.A. American Depositary Shares (Each representing 1 Common Share)",
+  "mcap_b": 47.284916268,
+  "pe": 14.98,
+  "roe": 18.4,
+  "score": 1.2
+ },
+ {
+  "ticker": "UMC",
+  "name": "United Microelectronics Corporation (NEW) Common Stock",
+  "mcap_b": 47.130057356,
+  "pe": 17.22,
+  "roe": 21.33,
+  "score": 1.2
+ },
+ {
+  "ticker": "IX",
+  "name": "ORIX Corporation American Depositary Shares",
+  "mcap_b": 45.065434556,
+  "pe": 11.52,
+  "roe": 14.04,
+  "score": 1.2
+ },
+ {
+  "ticker": "RJF",
+  "name": "Raymond James Financial Inc. Common Stock",
+  "mcap_b": 33.963383694,
+  "pe": 15.38,
+  "roe": 18.42,
+  "score": 1.2
+ },
+ {
+  "ticker": "GEHC",
+  "name": "GE HealthCare Technologies Inc. Common Stock ",
+  "mcap_b": 32.417522306,
+  "pe": 16.54,
+  "roe": 19.38,
+  "score": 1.2
+ },
+ {
+  "ticker": "FSLR",
+  "name": "First Solar Inc. Common Stock",
+  "mcap_b": 26.872820489,
+  "pe": 15.42,
+  "roe": 18.51,
+  "score": 1.2
+ },
+ {
+  "ticker": "CTSH",
+  "name": "Cognizant Technology Solutions Corporation Class A Common Stock",
+  "mcap_b": 25.977117533,
+  "pe": 12.42,
+  "roe": 14.92,
+  "score": 1.2
+ },
+ {
+  "ticker": "MKL",
+  "name": "Markel Group Inc. Common Stock",
+  "mcap_b": 23.231790748,
+  "pe": 10.33,
+  "roe": 12.46,
+  "score": 1.2
+ },
+ {
+  "ticker": "PAAS",
+  "name": "Pan American Silver Corp. Common Stock",
+  "mcap_b": 21.585340558,
+  "pe": 17.06,
+  "roe": 20.8,
+  "score": 1.2
+ },
+ {
+  "ticker": "WIT",
+  "name": "Wipro Limited Common Stock",
+  "mcap_b": 21.186593165,
+  "pe": 13.88,
+  "roe": 16.13,
+  "score": 1.2
+ },
+ {
+  "ticker": "TLK",
+  "name": "PT Telekomunikasi Indonesia Tbk",
+  "mcap_b": 14.958394707,
+  "pe": 14.85,
+  "roe": 17.68,
+  "score": 1.2
+ },
+ {
+  "ticker": "INTU",
+  "name": "Intuit Inc. Common Stock",
+  "mcap_b": 88.96790925,
+  "pe": 19.89,
+  "roe": 22.5,
+  "score": 1.1
+ },
+ {
+  "ticker": "TGT",
+  "name": "Target Corporation Common Stock",
+  "mcap_b": 67.992409466,
+  "pe": 19.78,
+  "roe": 22.02,
+  "score": 1.1
+ },
+ {
+  "ticker": "NKE",
+  "name": "Nike Inc. Common Stock",
+  "mcap_b": 61.861895915,
+  "pe": 19.86,
+  "roe": 22.14,
+  "score": 1.1
+ },
+ {
+  "ticker": "OKE",
+  "name": "ONEOK Inc. Common Stock",
+  "mcap_b": 54.476546622,
+  "pe": 14.94,
+  "roe": 16.28,
+  "score": 1.1
+ },
+ {
+  "ticker": "PRU",
+  "name": "Prudential Financial Inc. Common Stock",
+  "mcap_b": 41.8416,
+  "pe": 10.97,
+  "roe": 12.01,
+  "score": 1.1
+ },
+ {
+  "ticker": "FISV",
+  "name": "Fiserv Inc. Common Stock",
+  "mcap_b": 27.947841406,
+  "pe": 10.05,
+  "roe": 10.69,
+  "score": 1.1
+ },
+ {
+  "ticker": "PPG",
+  "name": "PPG Industries Inc. Common Stock",
+  "mcap_b": 26.613756,
+  "pe": 17.18,
+  "roe": 19.3,
+  "score": 1.1
+ },
+ {
+  "ticker": "PHM",
+  "name": "PulteGroup Inc. Common Stock",
+  "mcap_b": 24.912442566,
+  "pe": 13.55,
+  "roe": 14.9,
+  "score": 1.1
+ },
+ {
+  "ticker": "USB",
+  "name": "U.S. Bancorp Common Stock",
+  "mcap_b": 99.17932848,
+  "pe": 12.76,
+  "roe": 12.62,
+  "score": 1.0
+ },
+ {
+  "ticker": "CPRT",
+  "name": "Copart Inc. (DE) Common Stock",
+  "mcap_b": 27.459568556,
+  "pe": 18.42,
+  "roe": 17.61,
+  "score": 1.0
+ },
+ {
+  "ticker": "FOX",
+  "name": "Fox Corporation Class B Common Stock",
+  "mcap_b": 23.963225544,
+  "pe": 15.03,
+  "roe": 14.29,
+  "score": 1.0
+ },
+ {
+  "ticker": "UTHR",
+  "name": "United Therapeutics Corporation Common Stock",
+  "mcap_b": 23.111220477,
+  "pe": 19.28,
+  "roe": 19.32,
+  "score": 1.0
+ },
+ {
+  "ticker": "ZTO",
+  "name": "ZTO Express (Cayman) Inc. American Depositary Shares each representing one Class A ordinary share.",
+  "mcap_b": 18.169656355,
+  "pe": 14.23,
+  "roe": 14.88,
+  "score": 1.0
+ },
+ {
+  "ticker": "YUMC",
+  "name": "Yum China Holdings Inc. Common Stock",
+  "mcap_b": 16.759197574,
+  "pe": 17.55,
+  "roe": 16.81,
+  "score": 1.0
+ },
+ {
+  "ticker": "HST",
+  "name": "Host Hotels & Resorts Inc. Common Stock",
+  "mcap_b": 15.950838454,
+  "pe": 15.66,
+  "roe": 15.56,
+  "score": 1.0
+ },
+ {
+  "ticker": "TME",
+  "name": "Tencent Music Entertainment Group American Depositary Shares each representing two Class A Ordinary Shares",
+  "mcap_b": 14.999309885,
+  "pe": 11.56,
+  "roe": 11.95,
+  "score": 1.0
+ },
+ {
+  "ticker": "OHI",
+  "name": "Omega Healthcare Investors Inc. Common Stock",
+  "mcap_b": 14.68400998,
+  "pe": 17.28,
+  "roe": 16.53,
+  "score": 1.0
+ },
+ {
+  "ticker": "CNA",
+  "name": "CNA Financial Corporation Common Stock",
+  "mcap_b": 14.076660275,
+  "pe": 11.46,
+  "roe": 11.32,
+  "score": 1.0
+ },
+ {
+  "ticker": "PNR",
+  "name": "Pentair plc. Ordinary Share",
+  "mcap_b": 10.997458376,
+  "pe": 17.74,
+  "roe": 17.13,
+  "score": 1.0
+ },
+ {
+  "ticker": "WTFC",
+  "name": "Wintrust Financial Corporation Common Stock",
+  "mcap_b": 10.710222261,
+  "pe": 12.75,
+  "roe": 12.21,
+  "score": 1.0
+ },
+ {
+  "ticker": "CFR",
+  "name": "Cullen/Frost Bankers Inc. Common Stock",
+  "mcap_b": 10.223475133,
+  "pe": 15.56,
+  "roe": 15.5,
+  "score": 1.0
+ },
+ {
+  "ticker": "CRH",
+  "name": "CRH PLC Ordinary Shares",
+  "mcap_b": 67.255226127,
+  "pe": 17.71,
+  "roe": 15.81,
+  "score": 0.9
+ },
+ {
+  "ticker": "DHI",
+  "name": "D.R. Horton Inc. Common Stock",
+  "mcap_b": 42.257267418,
+  "pe": 14.37,
+  "roe": 12.63,
+  "score": 0.9
+ },
+ {
+  "ticker": "EQT",
+  "name": "EQT Corporation Common Stock",
+  "mcap_b": 32.33292204,
+  "pe": 11.99,
+  "roe": 11.08,
+  "score": 0.9
+ },
+ {
+  "ticker": "VICI",
+  "name": "VICI Properties Inc. Common Stock",
+  "mcap_b": 29.442814008,
+  "pe": 10.38,
+  "roe": 9.85,
+  "score": 0.9
+ },
+ {
+  "ticker": "FOXA",
+  "name": "Fox Corporation Class A Common Stock",
+  "mcap_b": 26.904529749,
+  "pe": 16.67,
+  "roe": 14.29,
+  "score": 0.9
+ },
+ {
+  "ticker": "RF",
+  "name": "Regions Financial Corporation Common Stock",
+  "mcap_b": 26.821718879,
+  "pe": 12.78,
+  "roe": 11.87,
+  "score": 0.9
+ },
+ {
+  "ticker": "HAL",
+  "name": "Halliburton Company Common Stock",
+  "mcap_b": 26.568527404,
+  "pe": 16.72,
+  "roe": 14.92,
+  "score": 0.9
+ },
+ {
+  "ticker": "FCNCA",
+  "name": "First Citizens BancShares Inc. Class A Common Stock",
+  "mcap_b": 25.705585949,
+  "pe": 11.9,
+  "roe": 10.65,
+  "score": 0.9
+ },
+ {
+  "ticker": "WF",
+  "name": "Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock)",
+  "mcap_b": 17.696013714,
+  "pe": 9.22,
+  "roe": 8.61,
+  "score": 0.9
+ },
+ {
+  "ticker": "PR",
+  "name": "Permian Resources Corporation Class A Common Stock",
+  "mcap_b": 16.871355699,
+  "pe": 12.74,
+  "roe": 11.4,
+  "score": 0.9
+ },
+ {
+  "ticker": "BALL",
+  "name": "Ball Corporation Common Stock",
+  "mcap_b": 16.795428002,
+  "pe": 18.12,
+  "roe": 17.15,
+  "score": 0.9
+ },
+ {
+  "ticker": "ALLY",
+  "name": "Ally Financial Inc. Common Stock",
+  "mcap_b": 13.299610578,
+  "pe": 10.3,
+  "roe": 9.68,
+  "score": 0.9
+ },
+ {
+  "ticker": "HBM",
+  "name": "Hudbay Minerals Inc. Ordinary Shares (Canada)",
+  "mcap_b": 12.262836824,
+  "pe": 18.06,
+  "roe": 16.74,
+  "score": 0.9
+ },
+ {
+  "ticker": "SSB",
+  "name": "SouthState Bank Corporation Common Stock",
+  "mcap_b": 10.484886616,
+  "pe": 11.35,
+  "roe": 10.6,
+  "score": 0.9
+ },
+ {
+  "ticker": "ONB",
+  "name": "Old National Bancorp Common Stock",
+  "mcap_b": 10.1610592,
+  "pe": 11.84,
+  "roe": 10.61,
+  "score": 0.9
+ },
+ {
+  "ticker": "E",
+  "name": "ENI S.p.A. Common Stock",
+  "mcap_b": 84.349038881,
+  "pe": 13.65,
+  "roe": 10.9,
+  "score": 0.8
+ },
+ {
+  "ticker": "MFC",
+  "name": "Manulife Financial Corporation Common Stock",
+  "mcap_b": 73.96522758,
+  "pe": 16.76,
+  "roe": 13.31,
+  "score": 0.8
+ },
+ {
+  "ticker": "BSX",
+  "name": "Boston Scientific Corporation Common Stock",
+  "mcap_b": 71.461507927,
+  "pe": 19.98,
+  "roe": 15.34,
+  "score": 0.8
+ },
+ {
+  "ticker": "TFC",
+  "name": "Truist Financial Corporation Common Stock",
+  "mcap_b": 63.952130942,
+  "pe": 12.04,
+  "roe": 9.06,
+  "score": 0.8
+ },
+ {
+  "ticker": "BKR",
+  "name": "Baker Hughes Company Class A Common Stock",
+  "mcap_b": 61.09908907,
+  "pe": 19.79,
+  "roe": 16.46,
+  "score": 0.8
+ },
+ {
+  "ticker": "STT",
+  "name": "State Street Corporation Common Stock",
+  "mcap_b": 50.73192196,
+  "pe": 16.3,
+  "roe": 12.44,
+  "score": 0.8
+ },
+ {
+  "ticker": "ROP",
+  "name": "Roper Technologies Inc. Common Stock",
+  "mcap_b": 39.782876567,
+  "pe": 16.92,
+  "roe": 13.07,
+  "score": 0.8
+ },
+ {
+  "ticker": "MTB",
+  "name": "M&T Bank Corporation Common Stock",
+  "mcap_b": 36.169052818,
+  "pe": 13.23,
+  "roe": 10.74,
+  "score": 0.8
+ },
+ {
+  "ticker": "TS",
+  "name": "Tenaris S.A. American Depositary Shares",
+  "mcap_b": 28.429305544,
+  "pe": 14.12,
+  "roe": 11.58,
+  "score": 0.8
+ },
+ {
+  "ticker": "PFG",
+  "name": "Principal Financial Group Inc Common Stock",
+  "mcap_b": 24.279466289,
+  "pe": 16.14,
+  "roe": 12.95,
+  "score": 0.8
+ },
+ {
+  "ticker": "WBS",
+  "name": "Webster Financial Corporation Common Stock",
+  "mcap_b": 12.805503395,
+  "pe": 12.86,
+  "roe": 10.68,
+  "score": 0.8
+ },
+ {
+  "ticker": "REGN",
+  "name": "Regeneron Pharmaceuticals Inc. Common Stock",
+  "mcap_b": 80.753774388,
+  "pe": 19.4,
+  "roe": 14.04,
+  "score": 0.7
+ },
+ {
+  "ticker": "SLF",
+  "name": "Sun Life Financial Inc. Common Stock",
+  "mcap_b": 45.652051709,
+  "pe": 19.64,
+  "roe": 13.09,
+  "score": 0.7
+ },
+ {
+  "ticker": "HBAN",
+  "name": "Huntington Bancshares Incorporated Common Stock",
+  "mcap_b": 35.458280196,
+  "pe": 13.67,
+  "roe": 9.0,
+  "score": 0.7
+ },
+ {
+  "ticker": "NTR",
+  "name": "Nutrien Ltd. Common Shares",
+  "mcap_b": 31.04800705,
+  "pe": 12.93,
+  "roe": 9.44,
+  "score": 0.7
+ },
+ {
+  "ticker": "L",
+  "name": "Loews Corporation Common Stock",
+  "mcap_b": 23.617534492,
+  "pe": 14.16,
+  "roe": 9.31,
+  "score": 0.7
+ },
+ {
+  "ticker": "VIV",
+  "name": "Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)",
+  "mcap_b": 19.189616144,
+  "pe": 15.07,
+  "roe": 9.87,
+  "score": 0.7
+ },
+ {
+  "ticker": "TXT",
+  "name": "Textron Inc. Common Stock",
+  "mcap_b": 15.380789987,
+  "pe": 16.84,
+  "roe": 12.13,
+  "score": 0.7
+ },
+ {
+  "ticker": "KMI",
+  "name": "Kinder Morgan Inc. Common Stock",
+  "mcap_b": 68.696844446,
+  "pe": 19.9,
+  "roe": 10.99,
+  "score": 0.6
+ },
+ {
+  "ticker": "OXY",
+  "name": "Occidental Petroleum Corporation Common Stock",
+  "mcap_b": 55.889725413,
+  "pe": 16.45,
+  "roe": 10.63,
+  "score": 0.6
+ },
+ {
+  "ticker": "PEG",
+  "name": "Public Service Enterprise Group Incorporated Common Stock",
+  "mcap_b": 37.71045947,
+  "pe": 18.82,
+  "roe": 11.84,
+  "score": 0.6
+ },
+ {
+  "ticker": "FNF",
+  "name": "Fidelity National Financial Inc. Common Stock",
+  "mcap_b": 13.506325357,
+  "pe": 17.53,
+  "roe": 10.21,
+  "score": 0.6
+ },
+ {
+  "ticker": "SNN",
+  "name": "Smith & Nephew SNATS Inc. Common Stock",
+  "mcap_b": 12.792595121,
+  "pe": 19.9,
+  "roe": 11.85,
+  "score": 0.6
+ },
+ {
+  "ticker": "SIRI",
+  "name": "SiriusXM Holdings Inc. Common Stock",
+  "mcap_b": 10.08167071,
+  "pe": 12.04,
+  "roe": 7.57,
+  "score": 0.6
+ },
+ {
+  "ticker": "AIG",
+  "name": "American International Group Inc. New Common Stock",
+  "mcap_b": 41.76964609,
+  "pe": 14.48,
+  "roe": 7.22,
+  "score": 0.5
+ },
+ {
+  "ticker": "TECK",
+  "name": "Teck Resources Ltd Ordinary Shares",
+  "mcap_b": 32.53991191,
+  "pe": 18.56,
+  "roe": 8.72,
+  "score": 0.5
+ },
+ {
+  "ticker": "CFG",
+  "name": "Citizens Financial Group Inc. Common Stock",
+  "mcap_b": 30.606917184,
+  "pe": 15.83,
+  "roe": 8.27,
+  "score": 0.5
+ },
+ {
+  "ticker": "ES",
+  "name": "Eversource Energy (D/B/A) Common Stock",
+  "mcap_b": 27.244884957,
+  "pe": 18.73,
+  "roe": 9.02,
+  "score": 0.5
+ },
+ {
+  "ticker": "OVV",
+  "name": "Ovintiv Inc. (DE)",
+  "mcap_b": 16.781072,
+  "pe": 17.17,
+  "roe": 8.41,
+  "score": 0.5
+ },
+ {
+  "ticker": "JEF",
+  "name": "Jefferies Financial Group Inc. Common Stock",
+  "mcap_b": 10.969711108,
+  "pe": 15.81,
+  "roe": 8.27,
+  "score": 0.5
+ },
+ {
+  "ticker": "MAS",
+  "name": "Masco Corporation Common Stock",
+  "mcap_b": 15.283997699,
+  "pe": 17.9,
+  "roe": 5.0,
+  "score": 0.3
+ },
+ {
+  "ticker": "CQP",
+  "name": "Cheniere Energy Partners LP Common Units",
+  "mcap_b": 31.323142299,
+  "pe": 11.73,
+  "roe": 1.0,
+  "score": 0.1
+ }
+]
