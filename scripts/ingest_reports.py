@@ -76,6 +76,7 @@ def upsert_report(conn, company_id, skill, date, rel_path):
 
 def main():
     conn = sqlite3.connect(DB_PATH)
+    conn.execute("PRAGMA foreign_keys = ON")
     count = 0
     skipped = []
 
