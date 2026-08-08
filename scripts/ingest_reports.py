@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """扫描报告目录，把每份报告登记到 skill_reports（每公司每 skill 取最新日期）。
 
-目录约定：项目下 报告_<skill名>/ 存放该 skill 生成的报告
+目录约定：项目下 report/报告_<skill名>/ 存放该 skill 生成的报告
 文件命名约定（新）：
     {股票名}_{skill名}_研究报告_{YYYYMMDD}.md   例：CEG_earnings-review_研究报告_20260808.md
 遗留命名（旧）：
@@ -80,7 +80,13 @@ def main():
     count = 0
     skipped = []
 
-    for folder in sorted(PROJECT_ROOT.iterdir()):
+    report_root = PROJECT_ROOT / "report"
+    if not report_root.is_dir():
+        print(f"未找到报告根目录: {report_root}（应先创建 report/ 并把 报告_* 放进去）")
+        conn.close()
+        return
+
+    for folder in sorted(report_root.iterdir()):
         if not (folder.is_dir() and folder.name.startswith("报告_")):
             continue
         skill = folder.name[len("报告_"):]

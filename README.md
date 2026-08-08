@@ -5,13 +5,14 @@
 ## 目录约定
 
 ```
-报告_<skill名>/    ← 该 skill 生成的报告都放这里（没有就新建）
+report/报告_<skill名>/    ← 该 skill 生成的报告都放这里（没有就新建）
 ```
 
-| 目录 | 内容 |
+| 路径 | 内容 |
 |------|------|
-| `报告_investment-team/` | investment-team 四角色报告（已含 2026-08-07/08 的 21 份） |
-| `报告_earnings-review/` | earnings-review 财报精读报告（预留） |
+| `report/报告_investment-team/` | investment-team 四角色报告（已含 2026-08-07/08 的 21 份） |
+| `report/报告_earnings-review/` | earnings-review 财报精读报告（预留） |
+| `report/报告_investment-research/` | investment-research 综合研究报告（需要时新建） |
 
 ## 报告命名约定
 
@@ -50,7 +51,7 @@ CEG_investment-team_研究报告_20260808.md
 
 ```bash
 python3 scripts/init_db.py           # 建表 + 种子市值数据（幂等，可重复跑更新市值）
-python3 scripts/ingest_reports.py    # 扫描所有 报告_* 目录 → 登记到 skill_reports（自动取最新）
+python3 scripts/ingest_reports.py    # 扫描 report/报告_* 目录 → 登记到 skill_reports（自动取最新）
 
 # 查询示例
 sqlite3 research.db "SELECT * FROM companies WHERE market_cap_b >= 10;"
@@ -59,5 +60,5 @@ sqlite3 research.db "SELECT c.ticker, s.skill, s.latest_report_date FROM skill_r
 
 ## 工作流
 
-1. 用某 skill 生成报告 → 存到 `报告_<skill名>/`，文件名 `股票名_skill名_研究报告_日期.md`
+1. 用某 skill 生成报告 → 存到 `report/报告_<skill名>/`，文件名 `股票名_skill名_研究报告_日期.md`
 2. 跑 `python3 scripts/ingest_reports.py` → 自动登记，同 skill 新报告会覆盖旧的（取最新日期）
