@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <schemaVersion>X0202</schemaVersion>
+<headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001309416</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>15</amendmentNo>
+      <securitiesClassTitle>Common Stock, Par Value $0.001 Per Share</securitiesClassTitle>
+      <dateOfEvent>06/16/2026</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001300514</issuerCIK>
+        <issuerCusips>
+          <issuerCusipNumber>517834107</issuerCusipNumber>
+        </issuerCusips>
+        <issuerName>LAS VEGAS SANDS CORP.</issuerName>
+        <address>
+          <street1 xmlns="http://www.sec.gov/edgar/common">5420 S. Durango Dr.</street1>
+          <city xmlns="http://www.sec.gov/edgar/common">Las Vegas</city>
+          <stateOrCountry xmlns="http://www.sec.gov/edgar/common">NV</stateOrCountry>
+          <zipCode xmlns="http://www.sec.gov/edgar/common">89113</zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>D. Zachary Hudson, Esq.</personName>
+          <personPhoneNum>(702) 923-9000</personPhoneNum>
+          <personAddress>
+            <street1 xmlns="http://www.sec.gov/edgar/common">c/o Las Vegas Sands Corp.</street1>
+            <street2 xmlns="http://www.sec.gov/edgar/common">5420 S. Durango Dr.</street2>
+            <city xmlns="http://www.sec.gov/edgar/common">Las Vegas</city>
+            <stateOrCountry xmlns="http://www.sec.gov/edgar/common">NV</stateOrCountry>
+            <zipCode xmlns="http://www.sec.gov/edgar/common">89113</zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001309416</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Miriam Adelson</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>48767951</soleVotingPower>
+        <sharedVotingPower>2208548</sharedVotingPower>
+        <soleDispositivePower>102957851</soleDispositivePower>
+        <sharedDispositivePower>238485060</sharedDispositivePower>
+        <aggregateAmountOwned>341442911</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>51.5</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001319523</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Irwin Chafetz</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>335752290</soleVotingPower>
+        <sharedVotingPower>2208548</sharedVotingPower>
+        <soleDispositivePower>43935878</soleDispositivePower>
+        <sharedDispositivePower>239835060</sharedDispositivePower>
+        <aggregateAmountOwned>337960838</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>51.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001543244</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>General Trust under the Sheldon G. Adelson 2007 Remainder Trust</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NV</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>General Trust under the Sheldon G. Adelson 2007 Friends and Family Trust</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NV</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>ESBT S-II Trust</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NV</citizenshipOrOrganization>
+        <soleVotingPower>43859460.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>43859460.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>43859460.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.6</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>ESBT Y-II Trust</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NV</citizenshipOrOrganization>
+        <soleVotingPower>43859459.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>43859459.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>43859459.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.6</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>QSST A-II Trust</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NV</citizenshipOrOrganization>
+        <soleVotingPower>43859459.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>43859459.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>43859459.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.6</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>QSST M-II Trust</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NV</citizenshipOrOrganization>
+        <soleVotingPower>43859459.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>43859459.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>43859459.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.6</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, Par Value $0.001 Per Share</securityTitle>
+        <issuerName>LAS VEGAS SANDS CORP.</issuerName>
+        <issuerPrincipalAddress>
+          <street1 xmlns="http://www.sec.gov/edgar/common">5420 S. Durango Dr.</street1>
+          <city xmlns="http://www.sec.gov/edgar/common">Las Vegas</city>
+          <stateOrCountry xmlns="http://www.sec.gov/edgar/common">NV</stateOrCountry>
+          <zipCode xmlns="http://www.sec.gov/edgar/common">89113</zipCode>
+        </issuerPrincipalAddress>
+        <commentText>Explanatory Note
+
+This Amendment No. 15 (the "Amendment") to the Schedule 13D filed on November 24, 2008, as previously amended (the "Schedule 13D"), is being filed to reflect (i) passive increases in the percentages of outstanding Common Stock of the Issuer beneficially owned by certain of the Reporting Persons (as defined below) solely due to the Issuer's repurchases of Common Stock, (ii) the distribution of all shares of the Issuer's Common Stock held by each of the General Trust under the Sheldon G. Adelson 2007 Remainder Trust (the "Remainder Trust") and the General Trust under the Sheldon G. Adelson 2007 Friends and Family Trust (the "Friends and Family Trust") in substantially equal proportions to ESBT S-II Trust, ESBT Y-II Trust, QSST A-II Trust and QSST M-II Trust and (iii) the addition of ESBT S-II Trust, ESBT Y-II Trust, QSST A-II Trust and QSST M-II Trust as new Reporting Persons. This Amendment also constitutes an initial Statement on Schedule 13D for ESBT S-II Trust, ESBT Y-II Trust, QSST A-II Trust and QSST M-II Trust.
+
+All items not described herein remain as previously reported in the Schedule 13D, and all capitalized terms used herein and not otherwise defined herein shall have the meanings ascribed to them in the Schedule 13D.
+
+Dr. Miriam Adelson ("Dr. Adelson") and Irwin Chafetz ("Mr. Chafetz") constitute a "group," which, as of the date hereof, collectively beneficially owns approximately 386,728,789 shares of Common Stock, or 58.3%, of the Issuer's 662,637,325 shares of Common Stock issued and outstanding as of April 22, 2026 (the "Outstanding Common Stock") for purposes of Section 13(d)(3) of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), plus options to purchase 561,578 shares of Common Stock held by The Miriam Adelson Trust.</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>This Amendment is being filed by Dr. Adelson, Mr. Chafetz, ESBT S-II Trust, ESBT Y-II Trust, QSST A-II Trust and QSST M-II Trust (each a "Reporting Person" and collectively, the "Reporting Persons").</filingPersonName>
+        <principalBusinessAddress>The business address of the Reporting Persons is c/o Las Vegas Sands Corp., 5420 S. Durango Dr., Las Vegas, Nevada, 89113.</principalBusinessAddress>
+        <principalJob>The present principal occupations of the Reporting Persons are:
+(i) Dr. Adelson: Physician.
+(ii) Mr. Chafetz: Member of the Board of Directors of the Issuer and manager of The Interface Group, LLC, a Massachusetts limited liability company.
+(iii) ESBT S-II Trust: Not applicable.
+(iv) ESBT Y-II Trust: Not applicable.
+(v) QSST A-II Trust: Not applicable.
+(vi) QSST M-II Trust: Not applicable.</principalJob>
+        <hasBeenConvicted>During the last five years, none of the Reporting Persons has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the last five years, none of the Reporting Persons has been party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>(i) Dr. Adelson is a citizen of the United States and Israel.
+(ii) Mr. Chafetz is a citizen of the United States.
+(iii) ESBT S-II Trust is organized under the laws of Nevada.
+(iv) ESBT Y-II Trust is organized under the laws of Nevada.
+(v) QSST A-II Trust is organized under the laws of Nevada.
+(vi) QSST M-II Trust is organized under the laws of Nevada.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>Item 3 of the Schedule 13D is hereby amended by adding the text below to the end of Item 3 of the Schedule 13D.
+
+On June 16, 2026, the Remainder Trust and the Friends and Family Trust distributed 87,718,919 and 87,718,918 shares of the Issuer's Common Stock, respectively, for no consideration in substantially equal proportions to ESBT S-II Trust, ESBT Y-II Trust, QSST A-II Trust and QSST M-II Trust. As a result of the distributions, as of the date of this Amendment, the Remainder Trust and the Friends and Family Trust no longer beneficially own any share of the Issuer's Common Stock, and ESBT S-II Trust, ESBT Y-II Trust, QSST A-II Trust and QSST M-II Trust beneficially own 43,859,460, 43,859,459, 43,859,459 and 43,859,459 shares of the Issuer's Common Stock, respectively.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 of the Schedule 13D is hereby amended by adding the text below to the end of Item 4 of the Schedule 13D.
+
+The Issuer has historically maintained a share repurchase program for the repurchase of shares of its Common Stock from time to time. As a result of repurchases under this program, the number of shares of outstanding Common Stock has decreased, and consequently, the percentages of shares of Common Stock beneficially owned by certain of the Reporting Persons have passively increased.
+
+ESBT S-II Trust, ESBT Y-II Trust, QSST A-II Trust and QSST M-II Trust adopt the disclosure made by the other Reporting Persons in Item 4 of the Schedule 13D.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5(a) of the Schedule 13D is hereby amended and restated as follows:
+
+The responses of the Reporting Persons to Rows (11) and (13) of the cover page of this Amendment are incorporated herein by reference. Each Reporting Person may be deemed to beneficially own the shares of Common Stock beneficially owned by the other Reporting Persons but disclaims such beneficial ownership. The beneficial ownership of all of the Reporting Persons together is 386,728,789 shares of Common Stock, or 58.3% of the Outstanding Common Stock.</percentageOfClassSecurities>
+        <numberOfShares>Item 5(b) of the Schedule 13D is hereby amended and restated as follows:
+
+Dr. Adelson beneficially owns an aggregate of 341,442,911 shares of Common Stock (approximately 51.5% of the Outstanding Common Stock). Of these shares, (i) 43,859,460 shares are held by ESBT S-II Trust, (ii) 43,859,459 shares are held by ESBT Y-II Trust, (iii) 43,859,459 shares are held by QSST A-II Trust, (iv) 43,859,459 shares are held by QSST M-II Trust, (v) 561,578 shares are issuable upon the exercise of options held by The Miriam Adelson Trust that are exercisable currently and (vi) 165,443,496 shares are held by various entities as described below.
+
+Dr. Adelson has sole voting control over 48,767,951 shares of Common Stock, of which (i) 561,578 shares are issuable upon the exercise of options held by The Miriam Adelson Trust that are exercisable currently and (ii) 48,206,373 shares are held by various entities as described below. Dr. Adelson has shared voting control over 2,208,548 shares of Common Stock.
+
+Dr. Adelson has sole dispositive power over 102,957,851 shares of Common Stock, of which (i) 561,578 shares are issuable upon the exercise of options held by The Miriam Adelson Trust that are exercisable currently and (ii) 102,396,273 shares are held by various entities as described below. Dr. Adelson has shared dispositive control over 238,485,060 shares of Common Stock, of which  (i) 43,859,460 shares are held by ESBT S-II Trust, (ii) 43,859,459 shares are held by ESBT Y-II Trust, (iii) 43,859,459 shares are held by QSST A-II Trust, (iv) 43,859,459 shares are held by QSST M-II Trust and (v) 63,047,223 shares are held by various entities as described below.
+
+Mr. Chafetz is deemed to beneficially own an aggregate of 337,960,838 shares of Common Stock (approximately 51.0% of the Outstanding Common Stock). Of these shares, (i) 70,949 shares are owned directly by Mr. Chafetz and (ii) 337,889,889 shares are held by various entities as described below, with respect to which he is deemed to have a beneficial interest by virtue of the interest and authority granted to him under the trust instruments or organizational documents, as applicable. Mr. Chafetz disclaims beneficial ownership of those shares of Common Stock not owned directly by him.
+
+Mr. Chafetz has sole voting control over 335,752,290 shares of Common Stock, of which (i) 70,949 shares are owned directly by Mr. Chafetz and (ii) 335,681,341 shares are held by various entities as described below. Mr. Chafetz has shared voting control over 2,208,548 shares of Common Stock.
+
+Mr. Chafetz has sole dispositive control over 43,935,878 shares of Common Stock, of which (i) 70,949 shares are owned directly by Mr. Chafetz and (ii) 43,864,929 shares are held by various entities as described below. Mr. Chafetz has shared dispositive control over 239,835,060 shares of Common Stock, of which (i) 43,859,460 shares are held by ESBT S-II Trust, (ii) 43,859,459 shares are held by ESBT Y-II Trust, (iii) 43,859,459 shares are held by QSST A-II Trust, (iv) 43,859,459 shares are held by QSST M-II Trust and (v) 64,397,223 shares are held by various entities as described below.
+
+Dr. Adelson and Mr. Chafetz are co-trustees of ESBT S-II Trust. ESBT S-II Trust directly owns 43,859,460 shares of Common Stock (approximately 6.6% of the Outstanding Common Stock). Mr. Chafetz has the authority to vote the shares of Common Stock owned by this trust. Dr. Adelson and Mr. Chafetz share dispositive control over the shares of Common Stock owned by this trust.
+
+Dr. Adelson and Mr. Chafetz are co-trustees of ESBT Y-II Trust. ESBT Y-II Trust directly owns 43,859,459 shares of Common Stock (approximately 6.6% of the Outstanding Common Stock). Mr. Chafetz has the authority to vote the shares of Common Stock owned by this trust. Dr. Adelson and Mr. Chafetz share dispositive control over the shares of Common Stock owned by this trust.
+
+Dr. Adelson and Mr. Chafetz are co-trustees of QSST A-II Trust. QSST A-II Trust directly owns 43,859,459 shares of Common Stock (approximately 6.6% of the Outstanding Common Stock). Mr. Chafetz has the authority to vote the shares of Common Stock owned by this trust. Dr. Adelson and Mr. Chafetz share dispositive control over the shares of Common Stock owned by this trust.
+
+Dr. Adelson and Mr. Chafetz are co-trustees of QSST M-II Trust. QSST M-II Trust directly owns 43,859,459 shares of Common Stock (approximately 6.6% of the Outstanding Common Stock). Mr. Chafetz has the authority to vote the shares of Common Stock owned by this trust. Dr. Adelson and Mr. Chafetz share dispositive control over the shares of Common Stock owned by this trust.
+
+Dr. Adelson and Mr. Chafetz are co-trustees of several trusts for the benefit of members of the Adelson family. These trusts directly own 292,674,960 shares of Common Stock. Dr. Adelson and Mr. Chafetz share authority to vote 2,208,548 shares of Common Stock owned by these trusts. Mr. Chafetz has sole authority to vote 290,466,412 shares of Common Stock owned by these trusts. Dr. Adelson and Mr. Chafetz share dispositive control over 238,485,060 shares of Common Stock owned by these trusts. Dr. Adelson has sole dispositive control over 54,189,900 shares of Common Stock owned by these trusts.
+
+Mr. Chafetz is the trustee of several trusts for the benefit of members of the Adelson family. These trusts directly own 43,864,929 shares of Common Stock. Mr. Chafetz has the sole authority to vote and sole dispositive control over the shares of Common Stock owned by these trusts.
+
+Dr. Adelson is the trustee of several trusts for the benefit of members of the Adelson family. These trusts directly own 48,206,373 shares of Common Stock and options to purchase 561,578 shares of Common Stock.
+
+Mr. Chafetz is a co-manager of a limited liability company for the benefit of members of the Adelson family, which directly owns 1,350,000 shares of Common Stock. Mr. Chafetz, as co-manager, shares dispositive control over these shares of Common Stock, and Mr. Chafetz has the sole authority to vote such shares. Mr. Chafetz disclaims beneficial ownership of these shares of Common Stock.</numberOfShares>
+        <transactionDesc>Item 5(c) of the Schedule 13D is hereby amended and restated as follows:
+
+Except as described in this Amendment, there have been no transactions by the Reporting Persons in shares of Common Stock during the past 60 days.</transactionDesc>
+        <listOfShareholders>Item 5(d) of the Schedule 13D is hereby amended and restated as follows:
+
+Except as set forth above regarding the beneficiaries and trustees of the trusts disclosed herein, no other person has the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the securities set forth above.</listOfShareholders>
+        <date5PercentOwnership>Item 5(e) of the Schedule 13D is hereby amended by adding the text below to the end of Item 5(e) of the Schedule 13D.
+
+As of June 16, 2026, the Remainder Trust and the Friends and Family Trust ceased to be the beneficial owners of more than five percent of the Outstanding Common Stock.</date5PercentOwnership>
+      </item5>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Miriam Adelson</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Miriam Adelson</signature>
+          <title>Miriam Adelson</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Irwin Chafetz</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Irwin Chafetz</signature>
+          <title>Irwin Chafetz</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Trust under the Sheldon G. Adelson 2007 Remainder Trust</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Miriam Adelson</signature>
+          <title>Miriam Adelson/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ Irwin Chafetz</signature>
+          <title>Irwin Chafetz/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Trust under the Sheldon G. Adelson 2007 Friends and Family Trust</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Miriam Adelson</signature>
+          <title>Miriam Adelson/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ Irwin Chafetz</signature>
+          <title>Irwin Chafetz/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>ESBT S-II Trust</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Miriam Adelson</signature>
+          <title>Miriam Adelson/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ Irwin Chafetz</signature>
+          <title>Irwin Chafetz/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>ESBT Y-II Trust</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Miriam Adelson</signature>
+          <title>Miriam Adelson/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ Irwin Chafetz</signature>
+          <title>Irwin Chafetz/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>QSST A-II Trust</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Miriam Adelson</signature>
+          <title>Miriam Adelson/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ Irwin Chafetz</signature>
+          <title>Irwin Chafetz/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>QSST M-II Trust</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Miriam Adelson</signature>
+          <title>Miriam Adelson/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ Irwin Chafetz</signature>
+          <title>Irwin Chafetz/Trustee</title>
+          <date>06/18/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
