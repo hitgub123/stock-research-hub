@@ -1,0 +1,222 @@
+Title: Fox (FOXA) Q4 2026 Earnings Call Transcript
+
+URL Source: https://www.fool.com/earnings/call-transcripts/2026/08/06/fox-foxa-q4-2026-earnings-call-transcript/
+
+Published Time: 2026-08-07T00:52:17.000Z
+
+Markdown Content:
+![Image 1: Logo of jester cap with thought bubble.](https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Ffool-transcripts-logo.png&w=3840&op=resize)
+
+Image source: The Motley Fool.
+
+## DATE
+
+Thursday, Aug. 6, 2026 at 8:30 a.m. ET
+
+## CALL PARTICIPANTS
+
+*   Chief Investor Relations Officer - Gabrielle Brown
+*   Executive Chair and Chief Executive Officer - Lachlan Murdoch
+*   President and Chief Operating Officer - John Nallen
+*   Chief Financial Officer - Steve Tomsic
+
+**Need a quote from a Motley Fool analyst? Email pr@fool.com**
+
+## Where to invest $1,000 right now
+
+**When our analyst team has a stock tip, it can pay to listen. After all, _Stock Advisor’s_ total average return is**968%** — a market-crushing outperformance compared to**215%** for the S&P 500.**
+
+They just revealed what they believe are the **[10 best stocks](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=189fe86e-1334-4ebd-bcd3-c714984835ca&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-foolcom-sa-bbn-dyn%3Faid%3D8867%26source%3Disaediica0000029%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Din_line_article_pitch%26ftm_pit%3D17193)**for investors to buy right now…
+
+[Continue ›](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=189fe86e-1334-4ebd-bcd3-c714984835ca&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-foolcom-sa-bbn-dyn%3Faid%3D8867%26source%3Disaediica0000029%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Din_line_article_pitch%26ftm_pit%3D17193)
+
+_*Stock Advisor returns as of August 3, 2026_
+
+## TAKEAWAYS
+
+*   **Annual Revenue** -- $17.1 billion for fiscal 2026, representing 5% growth driven by record advertising and distribution revenue.
+*   **Annual Adjusted EBITDA** -- $3.9 billion, an 8% increase resulting from record top-line performance despite higher digital and production costs.
+*   **Quarterly Revenue** -- $4.2 billion for the fourth quarter, a 28% increase fueled by the broadcast of the 2026 FIFA Men's World Cup.
+*   **Quarterly Advertising Revenue** -- $1.9 billion, rising 78% due to World Cup coverage and digital momentum at Tubi.
+*   **Adjusted EPS** -- $1.79 for the fourth quarter, a 41% increase compared to $1.27 in the prior year quarter.
+*   **Tubi Revenue Growth** -- 35% in the fourth quarter, supported by a 17% increase in total viewing time.
+*   **Tubi Monthly Active Users** -- 110 million at the end of the fiscal year, reflecting successful audience acquisition and engagement.
+*   **Cable Distribution Revenue** -- $1.2 billion in the quarter, growing 7% as pricing gains from affiliate renewals outpaced subscriber attrition.
+*   **Cable Subscriber Attrition** -- Under 6.5% across third-party distributors, remaining consistent with levels reported in the prior quarter.
+*   **Television Segment Revenue** -- $2.5 billion, a 45% increase driven by record quarterly advertising revenue of $1.5 billion.
+*   **Television Advertising Revenue** -- $1.5 billion, a 108% increase resulting from World Cup matches, higher political ad spend, and Tubi growth.
+*   **Digital Net Investment** -- Less than $200 million for fiscal 2026, a reduction from $300 million in the prior year reflecting improved performance at Tubi and FOX One.
+*   **Cash Balance** -- $4.2 billion at fiscal year end, providing capital for operations and planned acquisitions.
+*   **Debt Level** -- $6.6 billion at the end of the fourth quarter.
+*   **Share Repurchases** -- $2 billion during fiscal 2026, representing approximately 36% of total shares outstanding since the program's 2019 launch.
+*   **Dividend Increase** -- $0.29 per share authorized as a semiannual payout, continuing the company's commitment to capital return.
+*   **NFL Rights Duration** -- Existing contractual terms remain unchanged through the 2029 season, with no amendments following recent league discussions.
+*   **Tubi World Cup Engagement** -- 20 million viewers attracted to the platform's World Cup Hub, which generated two of the highest traffic days in Tubi history.
+*   **Midterm Political Spending** -- Estimated at over $11 billion industry-wide, which management anticipates will drive record political revenue for its stations.
+*   **Quarterly Free Cash Flow** -- $726 million, impacted by the timing of World Cup rights payments and working capital cycles.
+*   **FOX One Impact** -- Minimal cannibalization of the traditional pay-TV business reported, as management stated the service is reaching incremental cordless audiences.
+*   **Roku Acquisition Leverage** -- 2.8 times net leverage anticipated at the close of the transaction in the first half of calendar 2027.
+*   **FOX One Retention** -- Churn rates remained below company expectations through the fourth quarter.
+*   **Ad Upfront Performance** -- Double-digit growth in volume achieved with eight of 10 tracked categories showing strength.
+
+## SUMMARY
+
+**Fox Corporation**([FOXA](https://www.fool.com/quote/nasdaq/foxa/)+3.62%) reported record fiscal 2026 financial results driven by the broadcast of the FIFA Men's World Cup and growth in its digital segments. Management highlighted the successful launch year of the FOX One streaming service and the expansion of Tubi's user base to 110 million monthly active users. The company reported that its pending acquisition of Roku is on track to close in calendar 2027, aimed at enhancing its connected television footprint and advertising capabilities. Financial performance was further supported by a strong advertising upfront market and disciplined digital investment, while the company maintained its long-term sports rights relationship with the NFL through the 2029 season.
+
+*   Executive Chair and Chief Executive Officer Murdoch noted that the World Cup allowed the company to "top all networks in live event sports consumption in fiscal '26," even against competitors carrying the Super Bowl and Olympics.
+*   Management reported that 96% of Tubi viewing is video on demand, which Murdoch stated indicates viewers are "proactively choosing to watch that content in their living room or in their home" rather than passive streaming.
+*   The company reported that the launch of FOX One saw "minimal cannibalization" of the traditional pay-TV business, with new subscribers appearing to be incremental to the ecosystem.
+*   CEO Murdoch confirmed that negotiations for NFL rights extensions will occur closer to the 2030 season, noting the relationship remains "incredibly positive."
+*   Murdoch reported that Tubi now generates "tenfold" the revenue compared to when it was first acquired, reflecting a strategic shift in digital advertising scale.
+*   CFO Tomsic stated that the company's buyback program is expected to "continue unabated through the pendency of the [Roku] transaction and beyond" due to balance sheet flexibility.
+*   Management indicated that the upcoming midterm election cycle is expected to exceed the $260 million revenue record set during the previous midterm period.
+
+## Should you buy stock in Fox right now?
+
+Before you buy stock in Fox, consider this:
+
+The Motley Fool _Stock Advisor_ analyst team just identified what they believe are the**[10 best stocks](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=d03c6e13-c985-4503-bbe5-b13b5b413b32&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-sa-bbn-bn%3Faid%3D11287%26source%3Disaeditxt0001229%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Darticle_pitch%26ftm_pit%3D19769)**for investors to buy now… and Fox wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+**Consider when**Netflix**made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation,**you’d have $399,832**!*****Or when**Nvidia**made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation,**you’d have $1,374,595**!***
+
+**Now, it’s worth noting _Stock Advisor_’s total average return is 968% — a market-crushing outperformance compared to 215%for the S&P 500.Don't miss the latest top 10 list, available with _Stock Advisor_, and join an investing community built by individual investors for individual investors.**
+
+[See the 10 stocks ›](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=d03c6e13-c985-4503-bbe5-b13b5b413b32&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-sa-bbn-bn%3Faid%3D11287%26source%3Disaeditxt0001229%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Darticle_pitch%26ftm_pit%3D19769)
+
+_*Stock Advisor returns as of August 10, 2026._
+
+## INDUSTRY GLOSSARY
+
+*   **AVOD**: Advertising-based Video on Demand, a streaming service model where content is free to users and supported by advertisements.
+*   **FOX One**: The company's direct-to-consumer streaming service launched in fiscal 2026.
+*   **Midterm Election Cycle**: The period surrounding U.S. elections that occur two years after a presidential election, often characterized by high political advertising spend.
+*   **MVPD**: Multichannel Video Programming Distributor, a service provider that delivers multiple television channels, such as cable or satellite companies.
+*   **Retransmission Fees**: Payments made by cable and satellite providers to local broadcast stations for the right to carry their signal.
+*   **Tubi**: A free, ad-supported streaming service owned by Fox Corporation.
+*   **Upfronts**: An annual period where television networks sell the majority of their advertising inventory for the upcoming broadcast season.
+
+## Full Conference Call Transcript
+
+**Operator:** Ladies and gentlemen, thank you for standing by. Welcome to the Fox Corporation Fourth Quarter Fiscal Year 2026 Earnings Conference Call. _[Operator Instructions]_ As a reminder, this conference is being recorded. I'll now turn the conference over to Chief Investor Relations Officer, Ms. Gabrielle Brown. Please go ahead, Ms. Brown.
+
+**Gabrielle Brown:** Thank you, Polly. Good morning, and welcome to our fiscal 2026 fourth quarter earnings call. Joining me on the call today are Lachlan Murdoch, Executive Chair and Chief Executive Officer; John Nallen, President and Chief Operating Officer; and Steve Tomsic, our Chief Financial Officer. First, Lachlan and Steve will give some prepared remarks on the most recent quarter, and then we'll take questions from the investment community. Please note that this call may include forward-looking statements regarding FOX Corporation's financial performance and operating results. These statements are based on management's current expectations, and actual results could differ from what is stated as a result of certain factors identified on today's call and in the company's SEC filings.
+
+Additionally, this call will include certain non-GAAP financial measures, including adjusted EPS and adjusted EBITDA or EBITDA, as we refer to it on this call. Reconciliations of non-GAAP financial measures are included in our earnings release and our SEC filings, which are available in the Investor Relations section of our website. We also refer to free cash flow, which we define as net cash provided by operating activities less capital expenditures. And with that, I'm pleased to turn the call over to Lachlan.
+
+**Lachlan Murdoch:** Thank you, Gaby, and thank you all for joining us today. Our fiscal 2026 was a notable year for FOX. We successfully launched our direct-to-consumer streaming service, FOX One, broadcast the FIFA Men's World Cup to record audiences in the U.S., continued to keep America informed through a dynamic and fast-moving news cycle, enhanced Tubi's position as a leading streaming service and announced the next chapter in FOX's digital evolution with our pending acquisition of Roku. These milestones were underpinned by a year of record financial performance. Revenue grew by 5% to over $17 billion, driven by record advertising and distribution revenue, while EBITDA grew 8% to a record $3.9 billion.
+
+These are excellent results, made even more impressive by comparison to the especially strong prior year, which benefited from the Super Bowl and the presidential election. We closed the year with outstanding top and bottom line momentum. Our fiscal fourth quarter total revenue increased 28% to $4.2 billion and EBITDA improved 27% to $1.2 billion. On the distribution side, revenue in the fourth quarter increased 5%, supported in part by the strong momentum of FOX One, which continues to exceed our expectations.
+
+Advertising revenue during the quarter was notably strong, increasing 78% with growth fueled by continued strength of Tubi, healthy advertising trends across the broader FOX portfolio and our broadcast of the first stages of the 2026 FIFA Men's World Cup. At a time when audiences are increasingly fragmented, the World Cup demonstrated the unique power of FOX to deliver live premium sports that bring people together at scale. I'm proud of what the team achieved through the broadcast of the entire World Cup across the entirety of FOX. As we have shown time and again, we excel at mobilizing the whole company to deliver outstanding experiences for viewers, advertisers and distributors.
+
+What is not explicit on screen or in the financial results is the intense amount of skillful work, preparation, promotion, production, marketing and ad sales that goes on behind the scenes. We had thousands of colleagues directly involved in the production of all of our programming over the course of the tournament. We deployed all of our platforms, including the stations, the network, FOX Sports, FOX News, FOX One, Tubi and our other digital assets to proactively drive record-breaking broadcasts from FOX. From the flawless simulcast of the opening matches on Tubi right through to the historic final, we brought the 104 matches and shoulder programming to American homes and watch parties like no other World Cup before.
+
+The success of the World Cup led FOX to top all networks in live event sports consumption in fiscal '26, a remarkable achievement given that the next highest-rated broadcast network benefited from both the Super Bowl and the Winter Olympics. The tournament also proved to be a customer acquisition opportunity for FOX One, driving incremental subscriber acquisition and strong retention rates that surpassed our expectations. Importantly, through FOX One, we continue to see minimal cannibalization of our traditional pay-TV business, reinforcing our strategy of targeting the cordless population, which has delivered meaningful additional distribution revenue across the company. We are a nimble, purposeful company, expert at delivering complex events at scale.
+
+We'll demonstrate this expertise again as we begin another broadcast season of the NFL on FOX starting next month. In advance of the season, we've had a recent thorough and productive discussions with the league. And as a result, we will not be making any amendments to our existing contractual relationship, which extends to the completion of the 2029 season. We'll be ready to engage with the NFL on the opt-out seasons and beyond at a date closer to the 2030 season, which has been the customary timetable.
+
+While our sports calendar had the most attention in the quarter, FOX News remained the leader in live news, finishing the quarter and the year as both the most watched cable network in total day and in prime time, while continuing to reinforce its leadership position with market share levels well ahead of all of its competitors combined. This robust audience engagement, combined with the addition of another 400 new advertisers to the platform during the year, helped drive record revenue at FOX News Media in both the fourth quarter and the fiscal year. Tubi delivered its most streamed and highest revenue quarter ever. Fourth quarter revenue growth accelerated to 35%, fueled by a 17% increase in total viewing time.
+
+Tubi's World Cup Hub attracted over 20 million viewers across the tournament, while additionally, the simulcast of 2 early round matches generated 2 of the highest traffic days in the platform's history in addition to promoting the tournament in the broadest way possible. That momentum helped Tubi close the fiscal year with 110 million monthly active users. Tubi and FOX One are the result of a successful strategy and skilled execution. Our pending acquisition of Roku is an extension of these. This transaction will bolster our position in connected TV distribution and advertising, which have compelling long-term growth profiles.
+
+FOX has deep digital resources and skills, most notably seen in our consumer-facing products such as Tubi, FOX One, FOX Nation and FOX News and FOX Sports Digital. We have developed these businesses across their growth path to become important digital brands. For example, when we acquired Tubi in its early stages, we have turned it into a leading streaming platform with 10x the revenue from when we started. The addition of Roku to FOX will expand our digital footprint and offerings even further. Roku brings us streaming at scale through its open partner-friendly platform that makes it a leading TV streaming platform in the U.S.
+
+Together, FOX and Roku combine premium live content, deep market relationships, scale distribution and leading platform capabilities, including subscriptions to respond to the evolving needs of consumers and advertisers. I know I speak for Anthony in saying that we are eager to get the transaction closed and for our teams to get started. While we are in the early approval process -- only in the early approval process, the transaction is on track, and we expect closing in the first half calendar 2027. We have had an outstanding fiscal 2026, and fiscal 2027 is also off to an excellent start.
+
+The success of the World Cup, combined with the early stages of the midterm political cycle has driven continued advertising momentum across our national, local and digital portfolio during our fiscal first quarter. The healthy advertising environment we saw throughout fiscal 2026 has carried into the new year, culminating in one of the strongest upfronts in our history with double-digit growth in volume. These results underscore the strength of the FOX portfolio and our unmatched ability to deliver premium, highly engaged audiences at scale across linear, digital and streaming platforms while also delivering sustained growth and shareholder value. I'll now turn it over to Steve to discuss the financials.
+
+**Steven Tomsic:** Thanks, Lachlan, and good morning, everyone. FOX has just delivered an exceptionally strong fiscal '26, highlighted by record annual revenue of over $17 billion and record EBITDA of $3.9 billion. Advertising revenue across the company grew 7%, which is particularly noteworthy when measured against last year's Super Bowl 59 and presidential election cycle. This growth was led by our broadcast of the 2026 FIFA Men's World Cup, along with continued growth at Tubi. Despite it being a relatively light year of renewals, distribution revenue increased 4%, led by 5% growth at our Cable segment. Content and other revenue was up 4%, primarily due to higher sports sublicensing revenue at our Cable segment.
+
+Total expenses increased 4%, mainly a result of World Cup rights and production costs, FOX One first year costs and higher digital content costs. Net income attributable to stockholders was $1.7 billion or $3.84 per share as compared to the $2.3 billion or $4.91 per share reported in fiscal '25. Excluding noncore items, full year adjusted net income was $2.4 billion and adjusted EPS was $5.42 per share, up 13% compared to the $4.78 per share reported in the prior year. Our financial delivery has been strong throughout fiscal '26, and we ended the year with tremendous momentum with our fiscal fourth quarter results headlined by 28% growth in total revenue and 27% growth in EBITDA.
+
+This was driven by a 78% increase in advertising revenue, primarily a result of this year's broadcast of the World Cup and accelerating growth at Tubi. Distribution revenue grew 5%, once again demonstrating the strength of our brands and focused portfolio of channels. Content and other revenue was $262 million as compared to the $269 million reported in the prior year quarter, primarily due to the timing of sports sublicensing revenue. Expenses increased 28%, driven by higher sports programming rights amortization and production costs led by the World Cup as well as costs associated with the growth of FOX One.
+
+Net income attributable to FOX stockholders was $691 million or $1.61 per share as compared to the $717 million or $1.57 per share reported in the prior year period. Excluding noncore items, adjusted net income was $765 million and adjusted EPS was $1.79, up 41% compared to the $1.27 per share recorded in the prior year period. Now let's turn to the quarterly results of our operating segments. Starting with the Cable Network Programming segment, where revenue grew 9% and EBITDA declined 3%. Cable advertising revenue grew 22% over the prior year, driven by this year's broadcast of the World Cup.
+
+Cable distribution revenue grew 7% over the prior year quarter as pricing gains from our affiliate renewals outpaced the impact from net subscriber declines, which remained consistent with the prior quarter at under 6.5% across our third-party distributors. This is before taking into account the meaningful positive contribution from FOX One. Cable content and other revenue declined 39% due to the timing of sports sublicensing revenue. Revenue growth at the Cable segment was more than offset by a 20% increase in expenses, primarily attributable to an increase in sports programming rights amortization and production costs led by the World Cup. Turning to our Television segment, which delivered 45% revenue growth and 129% EBITDA growth.
+
+Advertising revenue at our Television segment grew 108% over the prior year, led by the current year broadcast of the World Cup, higher political advertising revenue at our television stations and continued growth at Tubi, which was EBITDA positive in each quarter of fiscal 2026. Television distribution revenue was essentially flat compared to the prior year. Television content and other revenue was up 14%, primarily due to higher content revenues tied to our entertainment production studios. Expenses at the Television segment increased 27%, primarily reflecting higher sports programming rights amortization and production costs led by the broadcast of the World Cup. Turning to cash flow, where we generated robust quarterly free cash flow of $726 million.
+
+As expected, quarterly free cash flow was impacted by the timing of working capital related to the World Cup, where rights payments for the tournament landed in fiscal '26, while advertising receivables will be collected early in fiscal '27. Before we get to capital allocation and balance sheet, it is worth noting some key items for this coming fiscal year. From a cyclical event perspective, we will continue to have the benefit of the World Cup in the first quarter of '27 with total tournament revenues weighted towards fiscal '26 versus '27 and with 2027 revenues strongly weighted towards our television segment, which carried the majority of the knockout stage matches.
+
+The other major cyclical tailwind will be the midterm elections, which are expected to boost advertising revenues, particularly at our local stations and Tubi within our TV segment. From a distribution revenue perspective, we returned to a more normalized level of renewals in fiscal '27, which will be more skewed towards TV. We continue to expect both our cable and TV segments to contribute to distribution revenue growth in fiscal '27. With the performance of Tubi and FOX One running ahead of expectations, the level of investment in digital-led growth initiatives moderated in fiscal '26 versus the prior year, and we expect to see continued bottom line improvement in this portfolio going into fiscal '27.
+
+In terms of capital allocation, in fiscal '26, we repurchased an additional $2 billion through our share buyback program and distributed approximately $243 million in dividend payments. As Lachlan mentioned, underscoring our commitment to return capital to shareholders, today, we announced an increase in our semiannual dividend to $0.29 per share. With the payment of this dividend and our share repurchase activity, we will have cumulatively returned $10.7 billion of capital to our shareholders since the spin. This includes $8.6 billion of share repurchases, representing approximately 36% of our total shares outstanding since the launch of the buyback program in November 2019.
+
+This is all supported by the strength of our balance sheet, where we ended the quarter with approximately $4.2 billion in cash and $6.6 billion in debt. And with that, I'll turn the call back over to Gaby.
+
+**Gabrielle Brown:** Great. Thank you, Steve. And now we would be happy to take questions from the investment community. Please note that we are limited in what we can say regarding FOX's pending Roku transaction at this time. We have filed materials about the transaction, including the merger agreement with the SEC. When we file the registration statement for the transaction, it will provide additional information. For today, we would ask that questions focus on FOX's stand-alone results.
+
+**Operator:**_[Operator Instructions]_ We have a question from John Hodulik of UBS.
+
+**John Hodulik:** Lachlan, any color you can provide on the underlying ad market? Some of your peers during the earnings season here have sort of talked about sort of mixed results. Maybe first on the linear side, what you saw in the upfront in terms of pricing and then sort of overall demand for sports and news inventory? And then any comments you could provide on the health of the CTV market. You had some positive trends there with Tubi, but just anything you could provide in terms of pricing and fill rates. And then lastly, just a quick clarification on your comments on the NFL.
+
+I guess, at this point, we shouldn't expect a change in pricing of those rights until 2030. And if you could provide any color in terms of how that came to be? I think there's a lot of expectations that you would see price increase either up for this season or for next season. So any color there would be great, too.
+
+**Lachlan Murdoch:** Great. Thanks, John. So first, on the ad market, we are seeing a very strong ad market for us. I can't speak for the total ad market, but certainly for our businesses and really across our entire portfolio, we are very pleased with the strength of the demand for impressions across sports, news, the local stations, Tubi and also entertainment. So it's a strong market. Our upfronts, we completed some time ago with double-digit volume growth across sports, news and Tubi. And we achieved rates of change, which we believe are sort of leading amongst our peers. It's always difficult to tell, but certainly, that's what our sort of front-facing sort of ad sales team is telling us.
+
+They believe we've both achieved this double-digit volume growth in addition to leading rates of change. So we're pleased with that. When I look at the categories that we're benefiting from, I think of the 10 categories that we track, we're up in sort of 8 of the 10 categories in the upfront. So entertainment, financial, auto, pharma, dining, retail, technology and telecom, all had very strong upfronts for us. So that's from an upfront perspective. Moving into where we are today, we're seeing that momentum and that strength continue into the first quarter. So we are very pleased. The CTV market remains very competitive. There's a lot of new inventory available in that market.
+
+But in that segment, Tubi has seen a 35% revenue growth, so has competed exceedingly well despite the heavy competition. And we're seeing that momentum continue in the first quarter. On the NFL, you're correct. We don't see any changes to our contractual terms until the 2030 season. But I can't really give you any color in terms of the background of how we've come to that. So -- but thank you for the question, John.
+
+**Operator:** We had a question from Michael Morris of Guggenheim.
+
+**Michael Morris:** Thanks for all the work on the World Cup. It was a very enjoyable event as a fan. I want to ask you about that. First of all, can you help us any more with the size of the contribution to ad revenue and profitability, both in the fiscal fourth quarter and what you're expecting from a contribution perspective in the fiscal first quarter? And then bigger picture, Lachlan, maybe for you, I'd love to hear how the strength of a unique event like the World Cup in the U.S. and North America, which is not recurring, does help the business on a sustainable basis? How do you keep momentum for this -- from this?
+
+And what else does this fuel for FOX going forward post World Cup?
+
+**Lachlan Murdoch:** Thanks, Mike. I'm glad you enjoyed the World Cup as a fan. We also enjoyed it as a business even more. Look, it was -- as you alluded to in your question, it really was a unique event. And I think in addition to the -- which I think speaks to the second part of your question, in addition to the sort of the strength of FOX, our focus, our ability to amplify the World Cup across our entire portfolio, a tremendous amount of planning and work went into this. I think it illustrated that really only FOX can take events like this and amplify them in a way that's frankly, unique in the market.
+
+So we're very pleased with the World Cup. Obviously, though, it's an American World Cup. It came in the summer months without a lot of sports competition, and I had tremendous enthusiasm by both viewers and fans, but also by our clients and advertising partners. So the stars really aligned to deliver a tremendous result for both FIFA and for fans and for us. And I think that goes to your -- the second part of your question, how this is -- how we move forward. I think we can show all sports leagues the value of FOX and the value of what we bring.
+
+Obviously, leagues are intent and focused on monetizing their IP and their properties most efficiently, but it's important to realize the strength of the marketing, the reach, the planning, the production that we put behind events like this.
+
+**Operator:** We have a question from Michael Ng of Goldman Sachs.
+
+**Michael Ng:** I have two as well. Just first on Tubi and the very strong 35% year-over-year growth. Maybe you could just help us break that down between benefits from things like the World Cup Hub versus underlying? And then could you just remind us what the digital loss number or digital investment number was for fiscal '25, so we can model off of that. And could you just comment on the free cash flow outlook for next year?
+
+**Lachlan Murdoch:** Great. Thanks, Mike. I'll talk to the Tubi momentum and Steve can talk to investment. You use your word losses, but really important and sort of disciplined investment in our digital categories. So Tubi grew, as you mentioned, 35%. That momentum has continued into the first quarter. That's driven off a number of things. Obviously, it's total viewing time, which grew 17%. That's the key metric. If we can continue to grow the engagement and the viewing time, the impressions and ad revenue flow from that. Why -- if you just take a step back and think about why Tubi has been so successful in addition to its sort of really industry-leading library and sort of user interface platform.
+
+It's that -- I think it's close to 70% of Tubi's viewers are cordless, right, or either cord-nevers or cord cutters. And this far exceeds any of our competitors in the marketplace. So we have the largest cohort of cordless, which means very hard to reach audience viewers for the advertising market. So when you add Tubi to a media buy, you really are getting -- expanding your reach dramatically and it's a very valuable position to be in. In addition to that, you have to remember that Tubi's viewing is like 96% of video on demand. Someone is actually choosing -- proactively choosing to watch that content in their living room or in their home.
+
+It's not a FAST channel or driven by FAST channels, which is much more akin to a linear stream, which makes its advertising even more valuable for that high engagement with the consumer. So we're very pleased with Tubi, and we're pleased to see its momentum continue into the new fiscal year. Steve?
+
+**Steven Tomsic:** Thanks, Lachlan. Mike, just in terms of the digital investments, just to remind people, in fiscal '25, we were just under $300 million in digital investments. This current year, just picking up the comments Lachlan had about Tubi and the outperformance there, plus the incredible outperformance we saw at FOX One saw that, that digital investment number collectively come in at less than $200 million in the most recent fiscal year, so fiscal '26, and we'd expect, as I mentioned in my remarks, for that improvement to continue going into fiscal '27.
+
+**Lachlan Murdoch:** And Mike, I didn't answer your part about the Tubi World Cup revenue. It was important revenue, good revenue, but it's relatively small in the context of the overall revenue growth of Tubi.
+
+**Operator:** We have a question from Peter Supino of Wolfe Research.
+
+**Peter Supino:** Another one on Tubi. I wondered if you could discuss ad sales at Tubi from the perspective of sellout and CPM trends and whether you can share levels, especially on sellout to give us a sense of how that's going? And obviously, it relates to your proposed acquisition of Roku, even though the question isn't directly about Roku. And as a brief second one, if you could talk about FOX One subscriber retention, how important has been bundling FOX One to your churn rate?
+
+**Lachlan Murdoch:** Thanks, Peter. So let me start with Tubi. So as we mentioned, the CTV ad market remains very active and very competitive, which means very price sensitive. Tubi, though, has always been priced very efficiently for the current environment. And so while I think other platforms in the market have had to reduce price to compete or compete for volume in the market, Tubi has not had to drop its rates of change of advertising rate in order to compete. So -- but that's partially because we're already a tremendously efficient advertising vehicle for people. So on the second question on FOX One, bundling is important for FOX One.
+
+We will continue to bundle FOX One where it makes sense for consumers. Consumers are either self-bundling, obviously, as they choose their streaming services. But where it makes sense, we will continue to bundle to make it more efficient for consumers and more attractive for consumers where there's a natural fit for FOX One with another provider. So that will continue. And the pleasing thing with FOX One, in addition to the fact that the subscribers to date are truly incremental. We've seen that through our data and our numbers. We are not churning any traditional MVPD customers, which are incredibly valuable to us. We are huge supporters of the MVPD marketplace.
+
+And so these are new subscribers, incremental subscribers that come from outside the traditional ecosystem. And so that's very encouraging. But the second thing that's encouraging is the churn has been well below our expectations and looks like it's continuing that in the first quarter.
+
+**Operator:** We have a question from Sean Diffley of Morgan Stanley.
+
+**Sean Diffley:** Two, if I may. First on political, any thoughts on how ad revs are shaping up into this cycle relative to prior? And then on capital allocation, obviously, Roku deal announced, you're still buying back stock. Anything we should think about in terms of being able to buy back more stock over the course of the next fiscal year?
+
+**Lachlan Murdoch:** Sure. Sean, so I'll answer political, Steve can talk to the rest of the question. So political ad sales, it looks like -- well, I'll start by saying the independent political ad tracking firms are estimating over $11 billion of political ad spending in the upcoming midterm election. This combined with what we're already seeing in an off-cycle year, strong political revenue, we believe this will be a record midterm cycle for us. Just to put that in context, in the presidential election, so not the midterm cycle, but the presidential election in 2024, we saw over $400 million of political revenue. And then 2 years before that, the last midterm cycle, we did over $260 million in revenue.
+
+And we would expect this midterm cycle to beat that and be a record cycle.
+
+**Steven Tomsic:** Yes. So Sean, in terms of capital allocation, listen, we ended the year with the balance sheet exactly where we expected it to be as we are planning out the Roku transaction. You remember the Roku sort of the coordinates on the deal from a leverage perspective, see us close the deal at about net leverage of 2.8x. And so the structure of that deal gives us an incredible amount of capital allocation flexibility. So you should expect that our buyback program continues unabated through the pendency of the transaction and beyond.
+
+**Gabrielle Brown:** We have time for one more question.
+
+**Operator:** We have a question from David Karnovsky of JPMorgan.
+
+**David Karnovsky:** Lachlan, I appreciate you can't give comments around the NFL conversations, but can you maybe shed any light into what your thinking was around engaging with the league now versus entering a more open market after '29. And then when we look at the rights landscape, there's a lot in the pipeline in the next couple of years, including some things that you're the incumbent on like MLB or World Cup. Just assuming the NFL would opt out, how are you thinking about your rights portfolio ahead of them?
+
+**Lachlan Murdoch:** Thanks, David. So we always err on the side of not going into specifics about discussions with our partners. But suffice to say that our relationship with the NFL is an incredibly positive one. We engage with them all the time. Obviously, we've been talking with them over the last period about the future of our rights, certainly for the next 4 years and then beyond the opt-out period. But we feel we continue to have a great relationship with them in a good place. When we sit down and talk about the contractual extension of our rights after 2029 in the 2030 season or 2029 season, I think we'll do that much closer to that date.
+
+I'd point to the fact that we might have talked about on the last earnings call that in Mexico, we've just taken the NFL rights for Mexico. We continue to promote and amplify their games and the league, which we've been doing for the last 30 years. So we're very pleased with the relationship, and we think we can see a clear path forward certainly through the '29 season and also beyond.
+
+**Gabrielle Brown:** Great. Thank you. At this point, we are out of time. But if you have any further questions, please give me or Charlie Costanzo a call. Thanks so much for joining us today.
+
+**Lachlan Murdoch:** Thanks, everyone. Thank you.
+
+**Operator:** Ladies and gentlemen, that does conclude the Fox Corporation Fourth Quarter Fiscal Year 2026 Earnings Conference Call. Thank you.

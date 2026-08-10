@@ -1,0 +1,18 @@
+[
+ {"id":4,"label":"FY2021 营收","reported_value":30406.0,"unit":"","fetched_value":30405.8,"fetched_source":"FY2021公告 30405.8百万","fetched_value2":30406,"fetched_source2":"stockanalysis"},
+ {"id":5,"label":"FY2021 毛利率","reported_value":21.7,"unit":"%","fetched_value":21.67,"fetched_source":"计算 6589.4/30405.8","fetched_value2":21.7,"fetched_source2":"stockanalysis"},
+ {"id":15,"label":"FY2022 调整净利","reported_value":6806.0,"unit":"","fetched_value":6806.0,"fetched_source":"FY2022公告 6806.0百万","fetched_value2":6806.0,"fetched_source2":"FY2023公告比较期"},
+ {"id":18,"label":"FY2022 FCF","reported_value":4412.0,"unit":"","fetched_value":4411,"fetched_source":"计算 11479-7068","fetched_value2":4412,"fetched_source2":"stockanalysis"},
+ {"id":14,"label":"FY2022 归母净利","reported_value":6809.0,"unit":"","fetched_value":6809,"fetched_source":"stockanalysis归母","fetched_value2":6659.0,"fetched_source2":"公司公告总额 口径差2.3%"},
+ {"id":12,"label":"FY2022 营收","reported_value":35377.0,"unit":"","fetched_value":35377,"fetched_source":"stockanalysis","fetched_value2":35377.0,"fetched_source2":"FY2023公告比较期"},
+ {"id":32,"label":"FY2024 经营现金流","reported_value":11429.0,"unit":"","fetched_value":11429,"fetched_source":"stockanalysis","fetched_value2":11429.4,"fetched_source2":"FY2024公告"},
+ {"id":29,"label":"FY2024 毛利率","reported_value":31.0,"unit":"%","fetched_value":30.98,"fetched_source":"计算 13717.1/44280.7","fetched_value2":31.0,"fetched_source2":"stockanalysis"},
+ {"id":28,"label":"FY2024 营收","reported_value":44281.0,"unit":"","fetched_value":44281,"fetched_source":"stockanalysis","fetched_value2":44280.7,"fetched_source2":"FY2024公告"},
+ {"id":30,"label":"FY2024 归母净利","reported_value":8817.0,"unit":"","fetched_value":8817,"fetched_source":"stockanalysis归母","fetched_value2":8887.6,"fetched_source2":"公司公告总额 口径差0.8%"},
+ {"id":36,"label":"FY2025 营收","reported_value":49099.0,"unit":"","fetched_value":49099,"fetched_source":"stockanalysis","fetched_value2":49098.7,"fetched_source2":"FY2025公告"},
+ {"id":55,"label":"可转债规模","reported_value":1.5,"unit":"B","fetched_value":1.5,"fetched_source":"公司公告1.5B可转债","fetched_value2":1.5,"fetched_source2":"6-K 2026-05-20"},
+ {"id":70,"label":"FY2021市场份额","reported_value":20.6,"unit":"%","fetched_value":20.6,"fetched_source":"FY2021公告 market share 20.6%","fetched_value2":20.6,"fetched_source2":"FY2021公告标题"},
+ {"id":76,"label":"Forward PE","reported_value":10.7,"unit":"x","fetched_value":10.71,"fetched_source":"stockanalysis","fetched_value2":10.71,"fetched_source2":"stockanalysis"},
+ {"id":87,"label":"PE TTM","reported_value":14.2,"unit":"x","fetched_value":14.22,"fetched_source":"financial_rigor 23.60/1.66","fetched_value2":14.23,"fetched_source2":"stockanalysis"},
+ {"id":95,"label":"FY25营收·来源1","reported_value":49098.7,"unit":"M","fetched_value":49098.7,"fetched_source":"FY2025公告","fetched_value2":49099,"fetched_source2":"stockanalysis"}
+]

@@ -1,0 +1,180 @@
+ 
+ EX-99.1
+ 2
+ tm2622171d1_ex99-1.htm
+ EXHIBIT 99.1
+ Exhibit 99.1 FF301
+Page 1 of 11 v 1.2.1
+Monthly Return for Equity Issuer and Hong Kong Depositary Receipts listed under Chapter 19B of the Exchange Listing Rules on Movements in
+Securities
+For the month ended: 31 July 2026 Status: New Submission
+To : Hong Kong Exchanges and Clearing Limited
+Name of Issuer: ZTO Express (Cayman) Inc. (A company controlled through weighted voting rights and incorporated in the Cayman Islands with limited liability)
+Date Submitted: 04 August 2026
+I. Movements in Authorised / Registered Share Capital
+1. Class of shares WVR ordinary shares Type of shares A Listed on the Exchange (Note 1) Yes
+Stock code (if listed) 02057 Description Class A Ordinary Shares
+Number of authorised/registered shares Par value Authorised/registered share capital
+Balance at close of preceding month 8,000,000,000 USD 0.0001 USD 800,000
+Increase / decrease (-) USD
+Balance at close of the month 8,000,000,000 USD 0.0001 USD 800,000
+2. Class of shares WVR ordinary shares Type of shares B Listed on the Exchange (Note 1) No
+Stock code (if listed) N/A Description Class B Ordinary Shares
+Number of authorised/registered shares Par value Authorised/registered share capital
+Balance at close of preceding month 1,000,000,000 USD 0.0001 USD 100,000
+Increase / decrease (-) USD
+Balance at close of the month 1,000,000,000 USD 0.0001 USD 100,000
+3. Class of shares WVR ordinary shares Type of shares Other type (specify in description) Listed on the Exchange (Note 1) No
+Stock code (if listed) N/A Description Undesignated FF301
+Page 2 of 11 v 1.2.1
+Number of authorised/registered shares Par value Authorised/registered share capital
+Balance at close of preceding month 1,000,000,000 USD 0.0001 USD 100,000
+Increase / decrease (-) USD
+Balance at close of the month 1,000,000,000 USD 0.0001 USD 100,000
+Total authorised/registered share capital at the end of the month: USD 1,000,000 FF301
+Page 3 of 11 v 1.2.1
+II. Movements in Issued Shares and/or Treasury Shares and Public Float Sufficiency Confirmation
+1. Class of shares WVR ordinary shares Type of shares A Listed on the Exchange (Note 1) Yes
+Stock code (if listed) 02057 Description Class A Ordinary Shares
+Number of issued shares
+(excluding treasury shares) Number of treasury shares Total number of issued shares
+Balance at close of preceding month 563,800,693 0 563,800,693
+Increase / decrease (-) -6,469,787
+Balance at close of the month 557,330,906 0 557,330,906
+Public float sufficiency confirmation (Note 4)
+Pursuant to Main Board Rule 13.32D(1) or 19A.28D(1) / GEM Rule 17.37D(1) or 25.21D(1), we hereby confirm that, in relation to the class of shares as set out above, as at the close of the
+month:
+ ✔ the applicable public float requirement (see below) has been complied with
+the applicable public float requirement (see below) has not been complied with
+The applicable minimum public float requirement for the class of shares as set out above pursuant to Main Board Rule 13.32B or 19A.28B / GEM Rule 17.37B or 25.21B (as the case may be) is:
+Applicable public float threshold Initial Prescribed Threshold - 25% of the total number of issued shares in the class to which the listed shares belong
+(excluding treasury shares)
+Additional information
+2. Class of shares WVR ordinary shares Type of shares B Listed on the Exchange (Note 1) No
+Stock code (if listed) N/A Description Class B Ordinary Shares
+Number of issued shares
+(excluding treasury shares) Number of treasury shares Total number of issued shares
+Balance at close of preceding month 206,100,000 0 206,100,000
+Increase / decrease (-) 0
+Balance at close of the month 206,100,000 0 206,100,000 FF301
+Page 4 of 11 v 1.2.1
+III. Details of Movements in Issued Shares and/or Treasury Shares
+(A). Share Options (under Share Option Schemes of the Issuer) Not applicable FF301
+Page 5 of 11 v 1.2.1
+(B). Warrants to Issue Shares of the Issuer Not applicable FF301
+Page 6 of 11 v 1.2.1
+(C). Convertibles (i.e. Convertible into Shares of the Issuer)
+1. Class of shares WVR ordinary shares Type of shares A Listed on the Exchange (Note 1) Yes
+Stock code (if listed) 02057 Description Class A Ordinary Shares
+Description of the Convertibles Currency Amount at close of
+preceding month Movement during the month Amount at close of the
+month
+Number of new shares
+issued during the month
+pursuant thereto (C1)
+Number of treasury
+shares transferred out of
+treasury during the month
+pursuant thereto (C2)
+Number of shares which
+may be issued or
+transferred out of treasury
+pursuant thereto as at
+close of the month
+1). Convertible Senior Notes Due 2027 (the “2027
+Notes”)
+USD 17,748,000 17,748,000 0 0 626,967
+Type of the Convertibles Bond/Notes
+Stock code of the Convertibles
+(if listed on the Exchange) (Note 1)
+Subscription/Conversion price USD 28.3076
+General Meeting approval date
+(if applicable)
+2). Convertible Senior Notes Due 2031 (the “2031
+Notes”)
+USD 1,500,000,000 1,500,000,000 0 0 49,246,650
+Type of the Convertibles Bond/Notes
+Stock code of the Convertibles
+(if listed on the Exchange) (Note 1)
+Subscription/Conversion price USD 30.4589
+General Meeting approval date
+(if applicable) 17 June 2025
+Increase in issued shares (excluding treasury shares): 0 WVR ordinary shares A (CC1)
+Decrease in treasury shares: 0 WVR ordinary shares A (CC2) FF301
+Page 7 of 11 v 1.2.1
+(D). Any other Agreements or Arrangements to Issue Shares of the Issuer, including Options (other than Share Option Schemes) Not applicable FF301
+Page 8 of 11 v 1.2.1
+(E). Other Movements in Issued Shares and/or Treasury Shares
+1. Class of shares WVR ordinary shares Type of shares A Listed on the Exchange (Note 1) Yes
+Stock code (if listed) 02057 Description Class A Ordinary Shares
+Events
+At price (if applicable)
+Currency Amount
+Date of event
+(Note 2)
+General Meeting
+approval date
+(if applicable)
+Increase/ decrease (-) in issued
+shares (excluding treasury
+shares) during the month
+pursuant thereto (E1)
+Increase/ decrease (-) in
+treasury shares during the
+month pursuant thereto (E2)
+Number of shares redeemed or
+repurchased for cancellation but
+not yet cancelled as at close of
+the month (Note 3)
+1). Repurchase of shares (shares repurchased and cancelled) 29 July 2026 17 June 2025 -3,901,131
+2). Repurchase of shares (shares repurchased and cancelled) 29 July 2026 16 June 2026 -2,568,656
+Increase/ decrease (-) in issued shares (excluding treasury shares): -6,469,787 WVR ordinary shares A (EE1)
+Increase/ decrease (-) in treasury shares: WVR ordinary shares A (EE2)
+Remarks:
+The 6,469,787 Class A ordinary shares that are represented by a total of 6,469,787 American depository shares repurchased from the New York Stock Exchange on May 20, 21, 22, 26, 27, 28,
+29 and June 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 15, 16, 17, 18, 22, 23, 24, 25, 26, 29, 30 and July 1, 2 and 6, 2026 were cancelled on July 29, 2026.
+Total increase/ decrease (-) in issued shares (excluding treasury shares) during the month (i.e. Total of AA1 to EE1): -6,469,787 WVR ordinary shares A
+Total increase/ decrease (-) in treasury shares during the month (i.e. Total of AA2 to EE2): 0 WVR ordinary shares A FF301
+Page 9 of 11 v 1.2.1
+IV. Information about Hong Kong Depositary Receipt (HDR) Not applicable FF301
+Page 10 of 11 v 1.2.1
+V. Confirmations
+Pursuant to Main Board Rule 13.25C / GEM Rule 17.27C, we hereby confirm to the best knowledge, information and belief that, in relation to each of the securities issued, or the treasury shares
+sold or transferred by the issuer during the month as set out in Parts III and IV which has not been previously disclosed in a return published under Main Board Rule 13.25A / GEM Rule 17.27A, it
+has been duly authorised by the board of directors of the listed issuer and carried out in compliance with all applicable listing rules, laws and other regulatory requirements and, insofar as
+applicable:
+(Note 5)
+(i) all money due to the listed issuer in respect of the issue of securities, or sale or transfer of treasury shares has been received by it;
+(ii) all pre-conditions for listing imposed by the Rules Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited under "Qualifications of listing" have been fulfilled;
+(iii) all (if any) conditions contained in the formal letter granting listing of and permission to deal in the securities have been fulfilled;
+(iv) all the securities of each class are in all respects identical (Note 6);
+(v) all documents required by the Companies (Winding Up and Miscellaneous Provisions) Ordinance to be filed with the Registrar of Companies have been duly filed and that compliance has
+ been made with all other legal requirements;
+(vi) all the definitive documents of title have been delivered/are ready to be delivered/are being prepared and will be delivered in accordance with the terms of issue, sale or transfer;
+(vii) completion has taken place of the purchase by the issuer of all property shown in the listing document to have been purchased or agreed to be purchased by it and the purchase
+ consideration for all such property has been duly satisfied; and
+(viii) the trust deed/deed poll relating to the debenture, loan stock, notes or bonds has been completed and executed, and particulars thereof, if so required by law, have been filed with the
+ Registrar of Companies.
+Submitted by: Songfei LI
+Title: Joint Company Secretary
+(Director, Secretary or other Duly Authorised Officer) FF301
+Page 11 of 11 v 1.2.1
+Notes
+1. The Exchange refers to The Stock Exchange of Hong Kong Limited.
+2. In the case of repurchase of shares (shares repurchased and cancelled) and redemption of shares (shares redeemed and cancelled), "date of event" should be construed as
+"cancellation date".
+In the case of repurchase of shares (shares held as treasury shares), "date of event" should be construed as "date on which shares were repurchased and held by the issuer in
+treasury".
+3. The information is required in the case of repurchase of shares (shares repurchased for cancellation but not yet cancelled) and redemption of shares (shares redeemed but not yet
+cancelled). Please state the number of shares repurchased or redeemed during the month or in preceding month(s) but pending cancellation as at close of the month as a negative
+number.
+4. "Initial Prescribed Threshold”, "Alternative Threshold” and "market value" have the meanings ascribed thereto under Main Board Rule 13.32A or 19A.28A / GEM Rule 17.37A or
+25.21A. See also Main Board Rule 13.32D(4) or 19A.28D(4) / GEM Rule 17.37D(4) or 25.21D(4) on the basis of the public float disclosure.
+5. Items (i) to (viii) are suggested forms of confirmation. The listed issuer may amend the item(s) that is/are not applicable to meet individual cases. Where the issuer has already
+made the relevant confirmations in a return published under Main Board Rule 13.25A / GEM Rule 17.27A in relation to the securities issued, or the treasury shares sold or
+transferred, no further confirmation is required to be made in this return.
+6. “Identical” means in this context:
+ ． the securities are of the same nominal value with the same amount called up or paid up;
+ ． they are entitled to dividend/interest at the same rate and for the same period, so that at the next ensuing distribution, the dividend/interest payable per unit will amount to
+exactly the same sum (gross and net); and
+ ． they carry the same rights as to unrestricted transfer, attendance and voting at meetings and rank pari passu in all other respects. 

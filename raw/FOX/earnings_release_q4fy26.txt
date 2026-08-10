@@ -1,0 +1,265 @@
+
+EX-99.1
+2
+foxq42026earningsrelease.htm
+EX-99.1
+Document
+Exhibit 99.1
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+FOX REPORTS FOURTH QUARTER FISCAL 2026 
+REVENUE OF $4.21 BILLION,
+ NET INCOME OF $696 MILLION, AND
+ADJUSTED EBITDA OF $1.20 BILLION
+FOX REPORTS FULL YEAR FISCAL 2026 
+REVENUE OF $17.13 BILLION,
+ NET INCOME OF $1.73 BILLION, AND
+ADJUSTED EBITDA OF $3.91 BILLION
+NEW YORK, NY, August 6, 2026 – Fox Corporation (Nasdaq: FOXA, FOX; “FOX” or the “Company”) today reported financial results for the three and twelve months ended June 30, 2026.
+Commenting on the results, Executive Chair and Chief Executive Officer Lachlan Murdoch said: 
+“Fiscal 2026 was an exceptional year for FOX, capped by our broadcast of a remarkable FIFA Men's World Cup. We successfully launched our direct-to-consumer streaming service, FOX One, continued to keep America informed across a dynamic news cycle, enhanced Tubi's position as a leading streaming service, and announced the acquisition of Roku which will transform the scope and growth profile of our company. Financially, these milestones were underpinned by the delivery of record top-line revenue which converted into record EBITDA. With strong momentum across our portfolio, we enter fiscal 2027 exceptionally well positioned to drive sustained growth and long-term shareholder value."
+FOURTH QUARTER COMPANY RESULTS
+The Company reported total quarterly revenue of $4.21 billion, an increase of $925 million or 28% from the amount reported in the prior year quarter. Distribution revenue increased 5%, driven by 7% growth at the Cable Network Programming segment. Advertising revenue increased 78%, primarily due to the current year broadcast of the FIFA Men’s World Cup (“World Cup”), and continued digital growth led by the Tubi AVOD service. Content and other revenue was $262 million as compared to the $269 million reported in the prior year quarter, primarily due to the timing of sports sublicensing revenue.
+The Company reported quarterly net income of $696 million as compared to the $719 million reported in the prior year quarter. Net income attributable to Fox Corporation stockholders was $691 million ($1.61 per share) as compared to the $717 million ($1.57 per share) reported in the prior year quarter. Adjusted net income attributable to Fox Corporation stockholders1 was $765 million ($1.79 per share) as compared to the $581 million ($1.27 per share) reported in the prior year quarter.
+Quarterly Adjusted EBITDA2 was $1.20 billion, an increase of $256 million or 27% from the amount reported in the prior year quarter, as the revenue increase noted above was partially offset by higher expenses. The increase in expenses was primarily due to higher sports programming rights amortization and production costs, led by the current year broadcast of the World Cup, and costs associated with the launch of FOX One.
+1 Excludes net income effects of Restructuring, impairment and other corporate matters, adjustments to Equity earnings (losses) of affiliates, Non-operating other, net, Tax provision and Noncontrolling interest adjustments. See Note 1 for a description of adjusted net income attributable to Fox Corporation stockholders and adjusted earnings per share attributable to Fox Corporation stockholders, which are considered non-GAAP financial measures, and a reconciliation of reported net income attributable to Fox Corporation stockholders and earnings per share attributable to Fox Corporation stockholders to adjusted net income attributable to Fox Corporation stockholders and adjusted earnings per share attributable to Fox Corporation stockholders.
+2 Adjusted EBITDA is considered a non-GAAP financial measure. See Note 2 for a description of Adjusted EBITDA and a reconciliation of net income to Adjusted
+EBITDA.
+Page 1
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+FULL YEAR COMPANY RESULTS
+The Company reported total full year revenue of $17.13 billion, an increase of $826 million or 5% from the amount reported in the prior year. Distribution revenue increased 4%, driven by 5% growth at the Cable Network Programming segment. Advertising revenue increased 7%, primarily due to the current year broadcast of the World Cup and continued digital growth led by the Tubi AVOD service, partially offset by the absence of the prior year broadcast of Super Bowl LIX and lower political advertising revenue. Content and other revenue increased 4%, primarily due to higher sports sublicensing revenue.
+The Company reported full year net income of $1.73 billion as compared to the $2.29 billion reported in the prior year. Net Income attributable to Fox Corporation stockholders was $1.69 billion ($3.84 per share) as compared to the $2.26 billion ($4.91 per share) reported in the prior year. Adjusted net income attributable to Fox Corporation stockholders was $2.38 billion ($5.42 per share) as compared to the $2.20 billion ($4.78 per share) reported in the prior year.
+Full year Adjusted EBITDA was $3.91 billion, an increase of $282 million or 8% from the amount reported in the prior year, as the revenue increase noted above was partially offset by higher expenses. The increase in expenses was primarily due to costs associated with the launch of FOX One and higher digital content costs. 
+Page 2
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+REVIEW OF OPERATING RESULTS 
+Three Months Ended June 30,Twelve Months Ended June 30,
+2026202520262025
+$ Millions
+Revenues by Component:
+Distribution3$2,034 $1,940 $8,058 $7,780 
+Advertising1,916 1,078 7,339 6,865 
+Content and Other262 269 1,729 1,655 
+Total revenues$4,212 $3,287 $17,126 $16,300 
+Segment Revenues:
+Cable Network Programming$1,670 $1,532 $7,348 $6,930 
+Television2,482 1,707 9,666 9,325 
+Corporate and Other161 63 526 244 
+Eliminations(101)(15)(414)(199)
+Total revenues$4,212 $3,287 $17,126 $16,300 
+Adjusted EBITDA:
+Cable Network Programming$728 $747 $3,099 $3,030 
+Television705 308 1,438 945 
+Corporate and Other(238)(116)(631)(351)
+Adjusted EBITDA4$1,195 $939 $3,906 $3,624 
+Depreciation and amortization:
+Cable Network Programming$27 $25 $105 $94 
+Television34 32 126 119 
+Corporate and Other50 45 179 172 
+Total depreciation and amortization$111 $102 $410 $385 
+3 The Company generates distribution revenue from agreements with MVPDs for cable network programming and retransmission fees for the broadcast of the Company’s owned and operated television stations and from subscription fees for the Company’s direct-to-consumer streaming services. In addition, the Company generates distribution revenue from agreements with independently owned television stations that are affiliated with the FOX Network. Prior period amounts have been reclassified to conform to the current presentation.
+4 Adjusted EBITDA is considered a non-GAAP financial measure. See Note 2 for a description of Adjusted EBITDA and a reconciliation of net income to Adjusted EBITDA.
+Page 3
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+CABLE NETWORK PROGRAMMING
+Three Months Ended June 30,Twelve Months Ended June 30,
+2026202520262025
+$ Millions
+Revenues
+Distribution$1,176 $1,100 $4,662 $4,440 
+Advertising461 378 1,687 1,531 
+Content and Other33 54 999 959 
+Total revenues1,670 1,532 7,348 6,930 
+Operating expenses(731)(618)(3,562)(3,275)
+Selling, general and administrative(211)(168)(687)(635)
+Amortization of cable distribution investments— 1 — 10 
+Segment EBITDA$728 $747 $3,099 $3,030 
+Three Months Ended June 30, 2026
+Cable Network Programming reported quarterly segment revenue of $1.67 billion, an increase of $138 million or 9% from the amount reported in the prior year quarter. Distribution revenue increased $76 million or 7% as contractual price increases were partially offset by the impact of net subscriber declines. Advertising revenue increased $83 million or 22%, primarily due to the current year broadcast of the World Cup. Content and other revenue was $33 million as compared to the $54 million reported in the prior year quarter, primarily due to the timing of sports sublicensing revenue.
+Cable Network Programming reported quarterly segment EBITDA of $728 million as compared to the $747 million reported in the prior year quarter, as the revenue increase noted above was more than offset by higher expenses. The increase in expenses was primarily due to higher sports programming rights amortization and production costs, led by the current year broadcast of the World Cup.
+Twelve Months Ended June 30, 2026
+Cable Network Programming reported full year segment revenue of $7.35 billion, an increase of $418 million or 6% from the amount reported in the prior year. Distribution revenue increased $222 million or 5%, as contractual price increases were partially offset by the impact of net subscriber declines. Advertising revenue increased $156 million or 10%, primarily due to higher news and sports pricing and the current year broadcast of the World Cup, partially offset by lower ratings. Content and other revenue increased $40 million or 4%, primarily due to higher sports sublicensing revenue.
+Cable Network Programming reported full year segment EBITDA of $3.10 billion, an increase of $69 million or 2% from the amount reported in the prior year, as the revenue increase noted above was partially offset by higher expenses. The increase in expenses was primarily due to higher sports programming rights amortization and production costs.
+Page 4
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+TELEVISION
+Three Months Ended June 30,Twelve Months Ended June 30,
+2026202520262025
+$ Millions
+Revenues
+Advertising$1,455 $700 $5,652 $5,334 
+Distribution836 840 3,346 3,340 
+Content and Other191 167 668 651 
+Total revenues2,482 1,707 9,666 9,325 
+Operating expenses(1,459)(1,117)(7,101)(7,308)
+Selling, general and administrative(318)(282)(1,127)(1,072)
+Segment EBITDA$705 $308 $1,438 $945 
+Three Months Ended June 30, 2026
+Television reported quarterly segment revenue of $2.48 billion, an increase of $775 million or 45% from the amount reported in the prior year quarter. Advertising revenue increased $755 million or 108%, primarily due to the current year broadcast of the World Cup, continued digital growth led by the Tubi AVOD service and higher political advertising revenue at the FOX Television Stations. Distribution revenue was essentially unchanged from the prior year quarter. Content and other revenue increased $24 million or 14%, primarily due to higher entertainment content revenue.
+Television reported quarterly segment EBITDA of $705 million, an increase of $397 million or 129% from the amount reported in the prior year quarter, as the revenue increase noted above was partially offset by higher expenses. The increase in expenses was primarily due to higher sports programming rights amortization and production costs, led by the current year broadcast of the World Cup. 
+Twelve Months Ended June 30, 2026
+Television reported full year segment revenue of $9.67 billion, an increase of $341 million or 4% from the amount reported in the prior year. Advertising revenue increased $318 million or 6%, primarily due the current year broadcast of the World Cup and continued digital growth led by the Tubi AVOD service, partially offset by the absence of the prior year broadcast of Super Bowl LIX and lower political advertising revenue. Distribution revenue was essentially unchanged from the prior year, as higher average rates at the Company's owned and operated television stations and increases in fees from third-party FOX affiliates were partially offset by the net impact of subscriber declines. Content and other revenue increased $17 million or 3%, primarily due to higher digital content revenue.
+Television reported full year segment EBITDA of $1.44 billion, an increase of $493 million or 52% from the amount reported in the prior year, due to the revenue increase noted above and lower expenses. The decrease in expenses was primarily driven by lower sports programming rights amortization partially offset by higher digital content costs. 
+Page 5
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+DIVIDEND
+The Company’s Board of Directors has authorized an increase in the Company’s semi-annual dividend and has declared a dividend of $0.29 per Class A and Class B share. This dividend is payable on September 23, 2026 with a record date for determining dividend entitlements of September 02, 2026.
+SHARE REPURCHASE PROGRAM
+As of June 30, 2026, the Company has cumulatively repurchased approximately $6.7 billion of its Class A common stock and approximately $1.9 billion of its Class B common stock, with a remaining authorization of $3.4 billion. During the quarter, the Company repurchased approximately $50 million of its Class A common stock and $50 million of its Class B common stock.
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS
+This press release contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, including statements regarding the Roku transaction. Words such as “may,” “will,” “could,” “should,” “would,” “likely,” “anticipates,” “expects,” “intends,” “plans,” “projects,” “believes,” “estimates,” “outlook” and similar expressions are used to identify these forward-looking statements. These statements are based on management’s current expectations and beliefs and are subject to uncertainty and changes in circumstances. Actual results may vary materially from those expressed or implied by the statements in this press release due to the impact of the Roku transaction and related risks, changes in economic, business, competitive, technological, strategic and/or regulatory factors and other factors affecting the operation of the Company’s businesses. More detailed information about these factors is contained in the documents the Company has filed with or furnished to the Securities and Exchange Commission, including the Company’s Annual Report on Form 10-K and subsequent Quarterly Reports on Form 10-Q, as well as in the joint proxy statement/prospectus that will be included in the registration statement on Form S-4 that will be filed with the SEC in connection with the Roku transaction.
+Statements in this press release speak only as of the date they were made, and the Company undertakes no duty to update or release any revisions to any forward-looking statement made in this press release or to report any events or circumstances after the date of this press release or to reflect the occurrence of unanticipated events or to conform such statements to actual results or changes in the Company’s expectations, except as required by law.
+To access a copy of this press release through the Internet, access Fox Corporation’s corporate website located at http://www.foxcorporation.com.
+CONTACTS
+Gabrielle Brown, Investor RelationsBrian Nick, Press Inquiries
+212-852-7720310-369-3545
+Charlie Costanzo, Investor RelationsLauren Townsend, Press Inquiries
+212-852-7908310-369-2729
+Page 6
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+Three Months Ended June 30,Twelve Months Ended June 30,
+2026202520262025
+$ Millions, except per share amounts
+Revenues$4,212 $3,287 $17,126 $16,300 
+Operating expenses(2,380)(1,759)(10,853)(10,518)
+Selling, general and administrative(637)(590)(2,367)(2,168)
+Depreciation and amortization(111)(102)(410)(385)
+Restructuring, impairment and other corporate matters(113)(99)(151)(350)
+Equity losses of affiliates(2)(18)(20)(29)
+Interest expense, net(60)(42)(274)(227)
+Non-operating other, net
+12 282 (773)438 
+Income before income tax expense921 959 2,278 3,061 
+Income tax expense(225)(240)(551)(768)
+Net income696 719 1,727 2,293 
+Less: Net income attributable to noncontrolling interests(5)(2)(42)(30)
+Net income attributable to Fox Corporation stockholders$691 $717 $1,685 $2,263 
+Weighted average shares:428 457 439 461 
+Net income attributable to Fox Corporation stockholders per share:$1.61 $1.57 $3.84 $4.91 
+Page 7
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+CONSOLIDATED BALANCE SHEETS
+June 30, 2026June 30, 2025
+$ Millions
+Assets:
+Current assets:
+Cash and cash equivalents$4,205 $5,351 
+Receivables, net3,455 2,472 
+Inventories, net487 432 
+Other306 174 
+Total current assets8,453 8,429 
+Non-current assets:
+Property and equipment, net1,842 1,705 
+Intangible assets, net2,870 2,969 
+Goodwill3,647 3,639 
+Deferred tax assets2,443 2,721 
+Other non-current assets3,227 3,732 
+Total assets$22,482 $23,195 
+Liabilities and Equity:
+Current liabilities:
+Accounts payable, accrued expenses and other current liabilities$2,667 $2,897 
+Total current liabilities2,667 2,897 
+Non-current liabilities:
+Borrowings6,606 6,602 
+Other liabilities1,395 1,341 
+Redeemable noncontrolling interests86 288 
+Commitments and contingencies
+Equity:
+Class A common stock, $0.01 par value2 2 
+Class B common stock, $0.01 par value2 2 
+Additional paid-in capital7,274 7,603 
+Retained earnings4,457 4,479 
+Accumulated other comprehensive loss(107)(124)
+Total Fox Corporation stockholders’ equity11,628 11,962 
+Noncontrolling interests100 105 
+Total equity11,728 12,067 
+Total liabilities and equity$22,482 $23,195 
+Page 8
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+Twelve Months Ended June 30,
+20262025
+$ Millions
+OPERATING ACTIVITIES:
+Net income$1,727 $2,293 
+Adjustments to reconcile net income to net cash provided by operating activities
+Depreciation and amortization410 385 
+Restructuring, impairment and other corporate matters151 267 
+Equity-based compensation132 135 
+Equity losses of affiliates20 29 
+Cash distributions received from affiliates32 13 
+Non-operating other, net773 (438)
+Deferred income taxes271 164 
+Change in operating assets and liabilities, net of acquisitions and dispositions
+Receivables and other assets(1,055)(85)
+Inventories net of programming payable(493)521 
+Accounts payable and accrued expenses66 89 
+Other changes, net(64)(49)
+Net cash provided by operating activities1,970 3,324 
+INVESTING ACTIVITIES:
+Property and equipment(502)(331)
+Purchase of investments(178)(79)
+Acquisitions, net of cash acquired(8)(97)
+Other investing activities, net(17)(30)
+Net cash used in investing activities(705)(537)
+FINANCING ACTIVITIES:
+Repurchase of shares (2,000)(1,000)
+Dividends paid and distributions(287)(277)
+Purchase of noncontrolling interest(208)— 
+Repayment of borrowings— (600)
+Other financing activities, net84 122 
+Net cash used in financing activities(2,411)(1,755)
+Net (decrease) increase in cash and cash equivalents(1,146)1,032 
+Cash and cash equivalents, beginning of year5,351 4,319 
+Cash and cash equivalents, end of year$4,205 $5,351 
+Page 9
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+NOTE 1 – ADJUSTED NET INCOME AND ADJUSTED EPS
+The Company uses net income attributable to Fox Corporation stockholders and earnings per share (“EPS”) attributable to Fox Corporation stockholders excluding net income effects of Restructuring, impairment and other corporate matters, adjustments to Equity earnings (losses) of affiliates, Non-operating other, net, Tax provisions and Noncontrolling interest adjustments (“Adjusted Net Income” and “Adjusted EPS” respectively) to evaluate the performance of the Company’s operations exclusive of certain items that impact the comparability of results from period to period. 
+Adjusted Net Income and Adjusted EPS may not be comparable to similarly titled measures reported by other companies. Adjusted Net Income and Adjusted EPS are not measures of performance under GAAP and should be considered in addition to, and not as substitutes for, net income attributable to Fox Corporation stockholders and EPS as reported in accordance with GAAP. However, management uses these measures in comparing the Company’s historical performance and believes that they provide meaningful and comparable information to management, investors and equity analysts to assist in their analysis of the Company’s performance relative to prior periods and the Company’s competitors.
+The following table reconciles net income attributable to Fox Corporation stockholders and EPS attributable to Fox Corporation stockholders to Adjusted Net Income and Adjusted EPS for the three months ended June 30, 2026 and 2025:
+Three Months Ended
+June 30, 2026June 30, 2025
+IncomeEPSIncomeEPS
+$ Millions, except per share data
+Net income attributable to Fox Corporation stockholders$691 $1.61 $717 $1.57 
+Restructuring, impairment and other corporate matters113 0.26 99 0.22 
+Non-operating other, net(12)(0.03)(282)(0.62)
+Tax provision(27)(0.06)47 0.10 
+Rounding— 0.01 — — 
+As adjusted$765 $1.79 $581 $1.27 
+Page 10
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+The following table reconciles net income attributable to Fox Corporation stockholders and EPS attributable to Fox Corporation stockholders to Adjusted Net Income and Adjusted EPS for the twelve months ended June 30, 2026 and 2025:
+Twelve Months Ended 
+June 30, 2026June 30, 2025
+IncomeEPSIncomeEPS
+$ Millions, except per share data
+Net income attributable to Fox Corporation stockholders$1,685 $3.84 $2,263 $4.91 
+Restructuring, impairment and other corporate matters151 0.34 350 0.76 
+Non-operating other, net773 1.76 (438)(0.95)
+Tax provision(229)(0.52)27 0.06 
+Noncontrolling interest adjustment1 — — — 
+As adjusted$2,381 $5.42 $2,202 $4.78 
+Page 11
+EARNINGS RELEASE FOR THE QUARTER AND FISCAL YEAR ENDED JUNE 30, 2026
+NOTE 2 – ADJUSTED EBITDA 
+Adjusted EBITDA is defined as Revenues less Operating expenses and Selling, general and administrative expenses. Adjusted EBITDA does not include: Depreciation and amortization, Restructuring, impairment and other corporate matters, Equity earnings (losses) of affiliates, Interest expense, net, Non-operating other, net and Income tax expense. Effective July 1, 2025, the Company no longer removes the impact of amortization of cable distribution investments when calculating Adjusted EBITDA. Prior periods were not restated as the impact of the change is immaterial to the calculation.
+Management believes that information about Adjusted EBITDA assists all users of the Company’s Unaudited Consolidated Financial Statements by allowing them to evaluate changes in the operating results of the Company’s portfolio of businesses separate from non-operational factors that affect Net income, thus providing insight into both operations and the other factors that affect reported results. Adjusted EBITDA provides management, investors and equity analysts a measure to analyze the operating performance of the Company’s business and its enterprise value against historical data and competitors’ data, although historical results, including Adjusted EBITDA, may not be indicative of future results (as operating performance is highly contingent on many factors, including customer tastes and preferences). 
+Adjusted EBITDA is considered a non-GAAP financial measure and should be considered in addition to, not as a substitute for, net income, cash flow and other measures of financial performance reported in accordance with GAAP. In addition, this measure does not reflect cash available to fund requirements and excludes items, such as depreciation and amortization and impairment charges, which are significant components in assessing the Company’s financial performance. Adjusted EBITDA may not be comparable to similarly titled measures reported by other companies.
+The following table reconciles net income to Adjusted EBITDA for the three and twelve months ended June 30, 2026:
+Three Months Ended June 30,Twelve Months Ended June 30,
+2026202520262025
+$ Millions
+Net income$696 $719 $1,727 $2,293 
+Add:
+Amortization of cable distribution investments— 1 — 10 
+Depreciation and amortization111 102 410 385 
+Restructuring, impairment and other corporate matters113 99 151 350 
+Equity losses of affiliates2 18 20 29 
+Interest expense, net60 42 274 227 
+Non-operating other, net(12)(282)773 (438)
+Income tax expense225 240 551 768 
+Adjusted EBITDA$1,195 $939 $3,906 $3,624 
+Page 12

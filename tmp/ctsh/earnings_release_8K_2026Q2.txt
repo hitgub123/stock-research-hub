@@ -1,0 +1,1207 @@
+EX-99.1
+2
+exhibit9916302026.htm
+EX-99.1
+Document
+Exhibit 99.1
+Cognizant Reports Second Quarter 2026 Results
+12% year-over-year revenue growth in Financial Services; $1.1 billion deployed on share repurchases
+•
+Revenue of $5.5 billion increased 4.5% year-over-year or 4.1% in constant currency
+1
+•
+Operating margin of 15.9% increased 30 basis points year-over-year; Adjusted Operating Margin
+1
+of 16.0% increased 40 basis points year-over-year
+•
+GAAP EPS of $1.36 increased 3.8% year-over-year; Adjusted EPS
+1
+of $1.37 increased 4.6% year-over-year
+•
+Trailing 12-month bookings of $29.1 billion increased 5% year-over-year
+•
+2026 constant currency revenue growth guidance is revised to 4.0% to 5.5% year-over-year growth
+•
+2026 Adjusted Operating Margin guidance is unchanged at 16.0% to 16.2%, year-over-year expansion of 20 to 40 basis points
+•
+2026 Adjusted Diluted EPS guidance is increased to $5.70 to $5.82, year-over-year growth of 8% to 10%
+TEANECK, N.J., July 29, 2026 - Cognizant (Nasdaq: CTSH), a leading AI builder and technology services provider, today announced its second quarter 2026 financial results.
+“Our organic revenue growth momentum continued in the second quarter and was at the high end of our expectations,” said Ravi Kumar S, Chief Executive Officer. “We are helping our clients close the AI velocity gap by pairing deep industry expertise with engineering, infrastructure and data modernization capabilities while safeguarding their data and IP. We are doing this by scaling our Frontier workforce and reskilling for the future. We are confident our strategy is resonating with clients, as reflected in a second consecutive quarter of double-digit year-over-year growth in Financial Services, our largest and most mature segment. As organizations shift from AI experimentation to enterprise-scale execution, we believe the market opportunity ahead is larger than ever, and we're positioning Cognizant to lead in this next era.”
+$ in millions, except per share data
+Q2 2026
+Q2 2025
+Revenue
+$5,481
+$5,245
+Y/Y Change
+4.5
+%
+8.1
+%
+Y/Y Change CC
+1
+4.1
+%
+7.2
+%
+GAAP Operating Margin
+15.9
+%
+15.6
+%
+Adjusted Operating Margin
+1
+16.0
+%
+15.6
+%
+GAAP Diluted EPS
+$1.36
+$1.31
+Adjusted Diluted EPS
+1
+$1.37
+$1.31
+See "
+Revenue by Business Segment and Geography
+" section for additional revenue details and drivers of growth.
+1
+Constant currency ("CC") revenue growth, Adjusted Operating Margin and Adjusted Diluted Earnings Per Share ("Adjusted Diluted EPS" or "Adjusted EPS") are not measures of financial performance prepared in accordance with U.S. generally accepted accounting principles ("GAAP"). A full reconciliation of Adjusted Operating Margin guidance to the corresponding GAAP measure on a forward-looking basis cannot be provided without unreasonable efforts. See “About Non-GAAP Financial Measures and Performance Metrics” for more information and a partial reconciliation to the most directly comparable GAAP financial measure at the end of this release.
+“
+Our second quarter results reflect disciplined execution and the resilience of our operating model. We delivered 4.1% constant currency revenue growth and 40 basis points of adjusted operating margin expansion year-over-year, despite a complex environment
+,” said Jatin Dalal, Chief Financial Officer. "In the first half of 2026, we deployed $1.6 billion on share repurchases and $1.3 billion on acquisitions aligned with our AI builder strategy. W
+e remain focused on operational rigor and consistent margin expansion while funding growth investments and deploying capital strategically
+.”
+Bookings
+On a trailing-twelve-month basis, bookings increased 5% year-over-year to $29.1 billion, which represented a book-to-bill of approximately 1.3x. Bookings in the second quarter declined 6% year-over-year. Second quarter bookings included seven large deals, which are deals with total contract value of $100 million or greater.
+Employee Metrics
+On a trailing-twelve months basis, Voluntary Attrition - Tech Services was 13.0% for the period ended June 30, 2026, as compared to 12.3% and 12.6% for the periods ended March 31, 2026 and June 30, 2025, respectively. Total headcount as of June 30, 2026 was 356,700, a decrease of 900 from March 31, 2026 and an increase of 12,900 from June 30, 2025.
+Capital Allocation
+The Company repurchased 22.5 million shares for $1,153 million during the second quarter under its share repurchase program, including 9.7 million shares through its previously announced $500 million accelerated share repurchase (ASR) as well as another 12.8 million shares for $653 million through open market transactions. As of June 30, 2026, there was $2.3 billion remaining under the share repurchase authorization. In July 2026, the Company declared a quarterly cash dividend of $0.33 per share for shareholders of record on August 18, 2026. This dividend will be payable on August 25, 2026.
+During the second quarter of 2026, the company completed its acquisition of Astreya for a purchase price of $634 million, including contingent consideration of $25 million, net of cash acquired, while borrowing $1.0 billion under its revolving credit facility.
+Third Quarter and Full-Year 2026 Guidance
+2
+(all growth rates year-over-year)
+•
+Third quarter revenue is expected to be $5.60 to $5.68 billion, growth of 3.4% to 4.9%, or 3.8% to 5.3% in constant currency.
+•
+Full-year 2026 revenue is expected to be $22.04 to $22.35 billion, growth of 4.4% to 5.9%, or 4.0% to 5.5% in constant currency.
+•
+Full-year 2026 Adjusted Operating Margin
+3
+is expected to be approximately 16.0% to 16.2%, or 20 to 40 basis points of expansion.
+•
+Full-year 2026 Adjusted Diluted EPS
+3
+is expected to be in the range of $5.70 to $5.82, growth of  8% to 10%.
+2
+Guidance as of July 29, 2026
+3
+A full reconciliation of Adjusted Operating Margin and Adjusted Diluted EPS guidance to the corresponding GAAP measures on a forward-looking basis cannot be provided without unreasonable efforts. See “About Non-GAAP Financial Measures and Performance Metrics” for more information and a partial reconciliation to the most directly comparable GAAP financial measures at the end of this release.
+Select Company, Client and Partnership Announcements
+Cognizant is building a portfolio of capabilities combined with deep domain expertise to harness and advance an AI-led future. Cognizant’s progress has been accelerated through client agreements, platform enhancements, and partnerships. Recent announcements include:
+Client Announcements
+•
+Announced it is working with
+Travelport
+on a strategic AI transformation that will deploy Anthropic's Claude to modernize the way Travelport builds, tests and maintains software across its travel retailing and distribution platforms. The work aims to accelerate the delivery of AI-led innovation to airlines, hoteliers, travel management companies and online travel agencies worldwide, while embedding AI features within Travelport's platform.
+•
+Named as Global AI Services Partner of the
+Aston Martin Aramco Formula One™ (AMF1) Team
+, marking an evolution of the collaboration to advance performance, innovation, and operational excellence across its Formula 1™ program. Under the new designation, Cognizant and the team will work to operationalize AI - bridging the gap between experimentation and sustained value. Cognizant will also help the team identify how context-enabled AI can manage, support, and define the team's fan database.
+•
+Selected by UK public service broadcaster
+Channel 4
+to transform its advertising campaign delivery operations, which are responsible for booking, scheduling, and airing adverts across Channel 4 and its partner channels. As part of the project, Cognizant looks to enhance Channel 4’s account management hub, campaign operations and traffic functions, which are responsible for ensuring that advertising reaches the right audiences at the right time, meets advertisers’ objectives, and supports compliance with applicable regulations under Channel 4’s oversight.
+•
+Chosen by
+JG Summit Holdings, Inc.
+, one of the Philippines' largest and more diversified conglomerates, for a ServiceNow implementation and managed services engagement supporting its IT modernization journey.  Cognizant is expected to deploy ServiceNow IT Service Management (ITSM) Professional, IT Asset Management and Strategic Portfolio Management (SPM) capabilities to establish a unified platform for helping automate IT service processes, track hardware and software assets, and govern project demand and portfolios.
+•
+Selected by
+Snohomish County Public Utility District (PUD)
+, a public utility in the state of Washington, to lead SAP S/4 HANA transformation to modernize utility operations. Cognizant is expected to migrate the PUD’s SAP on‑premise environment to SAP’s cloud platform, implement Cognizant’s Finance4U SAP S/4 HANA‑certified Asset Lifecycle Accounting solution and deploy SAP mobility capabilities to support field and warehouse operations.
+•
+Selected by
+The Andover Companies, Inc.,
+one of the longest-standing mutual property and casualty insurance groups in the Northeast, to scale its core and portal systems, unify its data and help lay the foundation for responsible AI adoption in underwriting and claims.  Under the agreement, Cognizant will modernize integration of Andover's core policy administration platform to its digital properties, build a new enterprise data platform and strengthen the security of Andover's policyholder- and agent-facing digital portals.
+Platform Enhancements and Partnerships
+•
+Revealed new headless API model that treats AI agents as first-tier consumers of
+TriZetto Unify
+, Cognizant's platform strategy that spans payer and provider workflows. Electronic Prior Authorization is the first solution to go live, following the rollout of TriZetto Assistant and TriZetto Autonomous Workflow Agents to existing customers.
+•
+Announced an expanded partnership with
+Anthropic,
+with Cognizant becoming one of a small number of Global Premier Partners in the Claude Partner Network.  Cognizant is embedding Claude across its own business and engineering platforms, while scaling a Claude-certified workforce as part of its new Frontier Certified workforce model.  Cognizant is already applying Claude in client work spanning manufacturing, life sciences and insurance, delivering measurable results in production.
+•
+Expanded its partnership with
+Google Cloud
+, broadening how the companies bring
+Gemini Enterprise
+to clients and deepening Cognizant's own internal use of the technology.  Through the expanded partnership, Cognizant and Google Cloud are bringing together jointly delivered solutions, a portfolio of reusable agents and certified Cognizant Frontier Certified Engineers who work directly within client environments to accelerate time to value on Gemini deployments.
+•
+Announced it is applying OpenAI's GPT-5.5 with Trusted Access for Cyber, through Cognizant's
+Frontier AI Cyber Defense services
+, to help enterprises move faster from vulnerability discovery to validated, tested fixes. As a member of the
+OpenAI Daybreak Cyber Partner Program
+, Cognizant is putting frontier AI capability into its security experts' hands, helping strengthen how clients defend the software they build and operate.
+•
+Deepened its partnership with
+CrowdStrike
+by bringing the CrowdStrike Falcon® platform to Cognizant's AI Factory and its Managed Cybersecurity Services, powered by the Cognizant Neuro® Cybersecurity platform.
+•
+Expanded cross-platform agentic AI with new
+ServiceNow AI Agent
+interoperability. ServiceNow AI Agents now work with the Cognizant Neuro® AI Multi-Agent Accelerator, giving enterprises a unified environment to orchestrate AI agents across the platforms they already run. Enterprises can coordinate ServiceNow agents alongside custom-built systems and other third-party agent platforms.
+•
+Announced the integration of Cognizant
+Neuro® AI Trust with ServiceNow
+, pairing ServiceNow's visibility and governance with Cognizant's agentic intelligence and control platform. The integration is designed to give organizations a single, interoperable environment in which AI governance is actively enforced through responsible AI agents operating across every stage of the AI lifecycle.
+•
+Expanded its partnership with
+Snowflake
+, an AI data cloud company,  through the Snowflake CoCo platform. As a Preferred Launch Partner for CoCo and Snowflake's 2026 CoCo Catalyst Partner of the Year for Impactful Customer Story, Cognizant is deploying a growing portfolio of AI-powered intelligent agents that support and enhance data engineering, analytics and business decision workflows.
+•
+Announced an expanded strategic alliance with
+Rubrik
+to help enterprises run autonomous AI safely at scale. As a launch partner for Rubrik's Project Hourglass, an alliance with leading Global Systems Integrators (GSIs) to deliver agentic resilience for enterprise AI coding agents, Cognizant intends to be one of the first global systems integrators to operationalize the offering as a governance layer within its delivery platforms.
+•
+Partnered with
+Domyn
+, a European leader in sovereign AI infrastructure for regulated industries, to bring sovereign AI capabilities to enterprises in highly regulated sectors across the EMEA region.  Under the partnership, Domyn will provide the AI infrastructure layer, delivering LLMs that can be deployed within client environments, on-premise or in private cloud configurations, while Cognizant will serve as the application, integration, and domain execution layer.
+•
+Launched
+Cognizant Neuro® AI Trust
+, a new platform designed to provide enterprises with continuous governance and real-time assurance across AI systems. As AI environments grow more autonomous and complex, Neuro AI Trust empowers enterprises to monitor, manage and help control AI behavior and performance in real time.
+•
+Launched its sovereign
+Physical AI Platform-as-a-Service
+, an integrated capability that moves autonomous systems from experimentation into core enterprise infrastructure. Built on the Cognizant Intelligence Spine, the offering connects disparate physical systems, including industrial sensors, IoT devices, factory automation and energy infrastructure, into a single coherent intelligence fabric.
+Select Company Announcements and Recognition
+•
+Launched
+Cognizant Secure AI Services
+, a new integrated offering designed to help enterprises secure, govern and scale AI and agentic systems across their operations.  The offering is designed to help enterprises move from assumed trust toward "provable trust" – an approach grounded in evidence, traceability and continuous assurance.
+•
+Announced the creation of two new job categories;
+Frontier Certified Engineer
+and
+Frontier Business Operator
+, and announced plans to scale its
+Frontier-certified workforce
+, the human and operational infrastructure enterprises need to convert AI capability into measurable business results, to 5,000 Frontier Certified Engineers and 10,000 Frontier Business Operators.  Cognizant expects its people investment will yield its first cohort by fourth quarter, 2026. Cognizant also plans to augment its own Frontier talent pipeline through annual direct hires of Frontier-native talent from American and global universities.
+•
+Launched its
+Ace Team Program
+, a strategic initiative designed to build a cohort of top engineering minds who will deliver cutting-edge digital transformation for clients and play a central role in the company's evolution into an AI builder organization. The Cognizant Ace Team is structured as a combination of a selective hiring program, an elite talent pathway and a centrally governed engineering community aligned to Cognizant's advanced capability strategy.
+•
+Completed its acquisition of
+Astreya
+, a global AI-first IT managed services and solutions provider, effective June 22, 2026. The combination is expected to strengthen Cognizant's AI infrastructure and managed services capabilities by bringing together Cognizant's global delivery model and AI builder approach with Astreya's deep expertise supporting complex technology environments for many of the world's largest technology companies, including six of the "Magnificent Seven" hyperscalers.
+•
+Was named to
+TIME's list of America's Best Companies 2026
+in the ranking's inaugural edition. TIME and Statista evaluated America's Best Companies 2026 across three dimensions: employee satisfaction, financial performance and sustainability transparency.
+•
+Earned a place on the
+Fortune 500 list,
+marking its 16th consecutive year of recognition. The annual ranking by Fortune Magazine evaluates companies based on total revenues for their respective fiscal years. In the 2026 edition, Cognizant ranked 216 overall and third in the IT services industry.
+•
+Released new research showing that AI's real-world results depend less on the technology itself than on the maturity of a company's tech infrastructure and where it directs its investment. The study, "
+Closing the AI Execution Gap: A $2 Billion Business Boost
+," revealed $4.7 trillion in untapped AI value across Global 2000 companies.
+•
+Unveiled a new report focused on India titled “
+Smarter IT spend: From cost control to cost intelligence
+.” The report revealed that while technology investments are rising across industries, only 12% of organizations have an enterprise-wide unified view of IT spend, limiting their ability to translate technology investments into measurable business outcomes.
+•
+Revealed new findings from a joint study with
+Pearson
+,
+The AI Workforce Pulse
+, signaling that entry-level roles are being reimagined by AI, and work is evolving faster than organizations can redesign how they hire, develop and support talent.
+•
+Released findings from a joint study with
+Pearson
+,
+The AI Workforce Pulse: The Adaptability Imperative
+, highlighting how AI is transforming India’s entry-level workforce at a faster pace than the global average, while simultaneously creating new career pathways and urgent skilling challenges.
+•
+Recognized as a Leader by Everest Group® in:
+◦
+Healthcare Payer Digital Services PEAK Matrix
+®
+Assessment, 2026
+◦
+Marketing Transformation Services PEAK Matrix
+®
+Assessment, 2026
+◦
+Guidewire Services PEAK Matrix
+®
+Assessment, 2026
+◦
+Agentic Process Automation (APA) Solutions PEAK Matrix
+®
+Assessment, 2026
+◦
+Oracle Cloud Applications Services PEAK Matrix
+®
+Assessment, 2026
+◦
+Healthcare Customer Experience Management (CXM) Intelligent Operations PEAK Matrix
+®
+Assessment, 2026
+◦
+Software Product Engineering Services PEAK Matrix
+®
+Assessment, 2026 – Global
+◦
+Google Cloud Services PEAK Matrix
+®
+Assessment, 2026
+◦
+Mainframe Modernization Services PEAK Matrix
+®
+Assessment, 2026
+•
+Market Leader in HFS Horizons:
+◦
+Financial Crime Compliance (FCC) in Financial Services, 2026 Report
+◦
+Data Modernization and AI, 2026 Report
+◦
+HCP Service Providers, 2026 Report
+◦
+SAP S/4HANA Transformation Services, 2026 Report
+◦
+Global Capability Centers (GCC) Services, 2026 Report
+•
+Leadership in Avasant’s RadarView:
+◦
+Clinical and Care Management Services Business Process Transformation, 2026
+◦
+Higher Education Digital Services, 2026
+◦
+Advanced Network Services, 2026
+◦
+High-Tech Digital Services, 2026
+◦
+Airlines and Airports Digital Services, 2026
+◦
+Manufacturing Digital Services, 2026
+◦
+Banking Process Transformation, 2026
+◦
+Healthcare Payer Business Process Transformation, 2026
+◦
+Property and Casualty Insurance Digital Services, 2026
+◦
+Banking Digital Services, 2026
+◦
+Global Competency Center (GCC) Setup and Scale Services, 2026
+◦
+Digital Commerce Services, 2026
+◦
+Cybersecurity Services, 2026
+•
+Leadership in ISG Provider Lens
+®
+Global Capability Center (GCC) Services, 2026 - Global
+•
+Named to the Leading Pack in TechMarketView’s Market Readiness Index 2026
+Conference Call
+Cognizant will host a conference call on July 29, 2026, at 8:30 a.m. (Eastern) to discuss the Company’s
+second quarter
+2026 results. To listen to the conference call, please dial (877) 810-9510 (domestic) or +1 (201) 493-6778
+(international) and provide the following conference passcode: “
+Cognizant Call
+.”
+The conference call will also be available live on the Investor Relations section of the Cognizant website at
+http://investors.cognizant.com
+. An earnings supplement will also be available on the Cognizant website at the time of the conference call. For those who cannot access the live broadcast, a replay will be available. To listen to the replay, please dial (877) 660-6853 (domestically) or +1 (201) 612-7415 (internationally) and enter 13760925 beginning two hours after the end of the call until 11:59 p.m. (Eastern) on Wednesday, August 12, 2026. The replay will also be available at Cognizant’s website
+www.cognizant.com
+for 60 days following the call.
+About Cognizant
+Cognizant (Nasdaq: CTSH) is an AI builder and technology services provider, building the bridge between AI investment and enterprise value by building full-stack AI solutions for our clients. Our deep industry, process and engineering expertise enables us to build an organization's unique context into technology systems that amplify human potential, realize tangible returns and keep global enterprises ahead in a fast-changing world. See how at www.cognizant.ai or @cognizant.
+Forward-Looking Statements
+This press release includes statements that may constitute forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, the accuracy of which is necessarily subject to risks, uncertainties and assumptions as to future events that may not prove to be accurate. These statements include, but are not limited to, express or implied forward-looking statements relating to our strategy, strategic partnerships and collaborations, competitive position and opportunities in the marketplace, investment in and growth of our business, the pace and magnitude of change and client needs related to AI, the effectiveness of and plans related to our recruiting and talent efforts and related costs, labor market trends, the anticipated amount of capital to be returned to shareholders, our anticipated financial performance, matters related to Project Leap, expected benefits resulting from our acquisition of Astreya and other statements regarding matters that are not historical facts. These statements are neither promises nor guarantees, but are subject to a variety of risks and uncertainties, many of which are beyond our control, which could cause actual results to differ materially from those contemplated in these forward-looking statements. Existing and prospective investors are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. Factors that could cause actual results to differ materially from those expressed or implied include general economic conditions, the competitive and rapidly changing nature of the markets we compete in, our ability to successfully use AI-based technologies and the impact those technologies may have on the demand and terms for our services, the competitive marketplace for talent and its impact on employee recruitment and retention, legal, reputational and financial risks resulting from cyberattacks, changes in the regulatory environment, including with respect to immigration, trade and taxes, and the other factors discussed in our most recent Annual Report on Form 10-K and other filings with the Securities and Exchange Commission. Cognizant undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as may be required under applicable securities law.
+About Non-GAAP Financial Measures and Performance Metrics
+Non-GAAP Financial Measures
+To supplement our financial results presented in accordance with GAAP, this press release includes references to the following measures defined by the Securities and Exchange Commission as non-GAAP financial measures: Adjusted Operating Margin, Adjusted Net Income, Adjusted Diluted EPS (or Adjusted EPS), free cash flow, net cash and constant currency revenue growth. These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other companies. In addition, these non-GAAP financial measures should be read in conjunction with our financial statements prepared in accordance with GAAP. The reconciliations of our non-GAAP financial measures to the corresponding GAAP measures should be carefully evaluated.
+Our non-GAAP financial measures Adjusted Operating Margin and Adjusted Income from Operations exclude unusual items, such as Project Leap charges and the partial reversal of the India Defined Contribution Obligation in 2026 and the gain on sale of property and equipment in 2025. Our non-GAAP financial measures Adjusted Net Income and Adjusted Diluted EPS
+exclude unusual items, such as Project Leap charges, the partial reversal of the India Defined Contribution Obligation and the gain on sale of property and equipment, net non-operating foreign currency exchange gains or losses and the tax impact of all the applicable adjustments.
+The income tax impact of each item excluded from Adjusted Net Income and Adjusted Diluted EPS is calculated by applying the statutory rate and local tax regulations in the jurisdiction in which the item was incurred. Free cash flow is defined as cash flows from operating activities plus proceeds from sale of property and equipment, net of purchases of property and equipment. Net cash is defined as cash and cash equivalents and short-term investments less short-term and long-term debt. Constant currency revenue growth is defined as revenues for a given period restated at the comparative period’s foreign currency exchange rates measured against the comparative period's reported revenues.
+Management believes providing investors with an operating view consistent with how we manage the Company provides enhanced transparency into our operating results. For our internal management reporting and budgeting purposes, we use various GAAP and non-GAAP financial measures for financial and operational decision-making, to evaluate period-to-period comparisons, to determine portions of the compensation for our executive officers and for making comparisons of our operating results to those of our competitors. Accordingly, we believe that the presentation of our non-GAAP measures, which exclude certain costs, when read in conjunction with our reported GAAP results, can provide useful supplemental information to our management and investors regarding financial and business trends relating to our financial condition and results of operations.
+A limitation of using non-GAAP financial measures versus financial measures calculated in accordance with GAAP is that non-GAAP financial measures do not reflect all of the amounts associated with our operating results as determined in accordance with GAAP and may exclude costs that are recurring such as our net non-operating foreign currency exchange gains or losses. In addition, other companies may calculate non-GAAP financial measures differently than us, thereby limiting the usefulness of these non-GAAP financial measures as a comparative tool. We compensate for these limitations by providing specific information regarding the GAAP amounts excluded from our non-GAAP financial measures to allow investors to evaluate such non-GAAP financial measures.
+Performance Metrics
+Bookings are defined as total contract value (or TCV) of new contracts, including new contract sales as well as renewals and expansions of existing contracts. Bookings can vary significantly quarter to quarter depending in part on the timing of the signing of a small number of large contracts. Our book-to-bill ratio is defined as bookings for the trailing twelve months divided by revenue for the same period. Measuring bookings involves the use of estimates and judgments and there are no independent standards or requirements governing the calculation of bookings. The extent and timing of conversion of bookings to revenues may be impacted by, among other factors, the types of services and solutions sold, contract duration, the pace of client spending, actual volumes of services delivered as compared to the volumes anticipated at the time of sale, and contract modifications, including terminations, over the lifetime of a contract. The majority of our contracts are terminable by the client on short notice often without penalty, and some without notice. We do not update our bookings for subsequent terminations, reductions or foreign currency exchange rate fluctuations. Information regarding our bookings is not comparable to, nor should it be substituted for, an analysis of our reported revenues. However, management believes that it is a key indicator of potential future revenues and provides a useful indicator of the volume of our business over time. Large deals and mega deals are defined as deals with a total contract value of $100 million or greater and $500 million or greater, respectively.
+Investor Relations Contact:
+Media Contact:
+Tyler Scott
+Jeff DeMarrais
+SVP, Investor Relations
+SVP, Corporate Communications
++1 551-220-8246
++1 475-223-2298
+Tyler.Scott@cognizant.com
+Jeff.DeMarrais@cognizant.com
+- tables to follow -
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+(in millions, except per share data)
+Three Months Ended
+June 30,
+Six Months Ended
+June 30,
+2026
+2025
+2026
+2025
+Revenues
+$
+5,481
+$
+5,245
+$
+10,894
+$
+10,360
+Operating expenses:
+Cost of revenues (exclusive of depreciation and amortization expense shown separately below)
+3,652
+3,479
+7,290
+6,876
+Selling, general and administrative expenses
+728
+810
+1,519
+1,601
+Restructuring charges
+84
+—
+84
+—
+Depreciation and amortization expense
+143
+139
+284
+275
+(Gain) on sale of property and equipment
+—
+—
+—
+(62)
+Income from operations
+874
+817
+1,717
+1,670
+Other income (expense), net:
+Interest income
+18
+23
+40
+53
+Interest expense
+(13)
+(9)
+(20)
+(21)
+Foreign currency exchange gains (losses), net
+7
+7
+25
+9
+Other, net
+(11)
+4
+(20)
+3
+Total other income (expense), net
+1
+25
+25
+44
+Income before provision for income taxes
+875
+842
+1,742
+1,714
+Provision for income taxes
+(231)
+(197)
+(439)
+(410)
+Income (loss) from equity method investments
+(8)
+—
+(5)
+4
+Net income
+$
+636
+$
+645
+$
+1,298
+$
+1,308
+Basic earnings per share
+$
+1.36
+$
+1.31
+$
+2.76
+$
+2.65
+Diluted earnings per share
+$
+1.36
+$
+1.31
+$
+2.75
+$
+2.65
+Weighted average number of common shares outstanding - Basic
+466
+492
+471
+493
+Dilutive effect of shares issuable under stock-based compensation plans
+—
+—
+1
+—
+Weighted average number of common shares outstanding - Diluted
+466
+492
+472
+493
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+(Unaudited)
+(in millions, except par values)
+June 30,
+2026
+December 31,
+2025
+Assets
+Current assets:
+Cash and cash equivalents
+$
+1,038
+$
+1,901
+Short-term investments
+13
+13
+Trade accounts receivable, net
+4,780
+4,439
+Other current assets
+1,728
+1,465
+Total current assets
+7,559
+7,818
+Property and equipment, net
+981
+933
+Operating lease assets, net
+555
+573
+Goodwill
+8,083
+7,106
+Intangible assets, net
+1,675
+1,417
+Deferred income tax assets, net
+764
+967
+Long-term investments
+106
+111
+Other noncurrent assets
+1,102
+1,767
+Total assets
+$
+20,825
+$
+20,692
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable
+$
+357
+$
+308
+Deferred revenue
+490
+501
+Short-term debt
+33
+33
+Operating lease liabilities
+145
+153
+Accrued expenses and other current liabilities
+2,439
+2,664
+Total current liabilities
+3,464
+3,659
+Deferred revenue, noncurrent
+31
+37
+Operating lease liabilities, noncurrent
+389
+423
+Deferred income tax liabilities, net
+177
+168
+Long-term debt
+1,527
+543
+Other noncurrent liabilities
+775
+847
+Total liabilities
+6,363
+5,677
+Stockholders’ equity:
+Preferred stock, $0.10 par value, 15 shares authorized, none issued
+—
+—
+Class A common stock, $0.01 par value, 1,000 shares authorized, 452 and 479 shares issued and outstanding as of June 30, 2026 and December 31, 2025, respectively
+5
+5
+Additional paid-in capital
+11
+12
+Retained earnings
+14,647
+15,158
+Accumulated other comprehensive income (loss)
+(201)
+(160)
+Total stockholders’ equity
+14,462
+15,015
+Total liabilities and stockholders’ equity
+$
+20,825
+$
+20,692
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+Reconciliations of Non-GAAP Financial Measures
+(Unaudited)
+(dollars in millions, except per share amounts)
+Three Months Ended
+June 30,
+Six Months Ended
+June 30,
+Guidance
+2026
+2025
+2026
+2025
+Full Year 2026
+(1)
+GAAP income from operations
+$
+874
+$
+817
+$
+1,717
+$
+1,670
+Project Leap charges
+(a)
+84
+—
+84
+—
+$230 - $320
+India Defined Contribution Obligation
+(b)
+(81)
+—
+(81)
+—
+$(81)
+(Gain) on sale of property and equipment
+(c)
+—
+—
+—
+(62)
+—
+Adjusted Income From Operations
+$
+877
+$
+817
+$
+1,720
+$
+1,608
+GAAP operating margin
+15.9
+%
+15.6
+%
+15.8
+%
+16.1
+%
+Project Leap charges
+(a)
+1.5
+—
+0.8
+—
+1.0% - 1.5%
+India Defined Contribution Obligation
+(b)
+(1.4)
+—
+(0.8)
+—
+(0.4)%
+(Gain) on sale of property and equipment
+(c)
+—
+—
+—
+(0.6)
+—
+Adjusted Operating Margin
+16.0
+%
+15.6
+%
+15.8
+%
+15.5
+%
+16.0% - 16.2%
+GAAP net income
+$
+636
+$
+645
+$
+1,298
+$
+1,308
+Effect of adjustments to income from operations, pre-tax
+3
+—
+3
+(62)
+Non-operating foreign currency exchange (gains) losses, pre-tax
+(d)
+(7)
+(7)
+(25)
+(9)
+Tax effect of above adjustments
+(e)
+7
+7
+29
+19
+Adjusted Net Income
+$
+639
+$
+645
+$
+1,305
+$
+1,256
+GAAP diluted earnings per share
+$
+1.36
+$
+1.31
+$
+2.75
+$
+2.65
+Effect of adjustments to income from operations, pre-tax
+0.01
+—
+0.01
+(0.13)
+(a)(b)(c)
+Non-operating foreign currency exchange (gains) losses, pre-tax
+(d)
+(0.02)
+(0.01)
+(0.05)
+(0.02)
+(d)
+Tax effect of above adjustments
+(e)
+0.02
+0.01
+0.05
+0.05
+(d)
+Adjusted Diluted Earnings Per Share
+$
+1.37
+$
+1.31
+$
+2.76
+$
+2.55
+$5.70 - $5.82
+(1) A full reconciliation of Adjusted Operating Margin and Adjusted Diluted Earnings Per Share guidance to the corresponding GAAP measures on a forward-looking basis cannot be provided without unreasonable efforts, as we are unable to provide reconciling information with respect to unusual items, net non-operating foreign currency exchange gains or losses and the tax effects of these adjustments, and such adjustments may be significant.
+Notes:
+(a)
+Project Leap charges for the three and six months ended June 30, 2026 were $84 million and included $56 million of employee separation costs and $28 million of other costs. We expect to incur costs of $230 million to $320 million in connection with Project Leap, with substantially all of the costs expected to be incurred in 2026. The total costs related to Project Leap are reported in "Restructuring charges" in our unaudited consolidated statements of operations. Our guidance anticipates pre-tax charges of approximately $0.50 to $0.70 per diluted share for the full year 2026. The tax benefit of these charges is expected to be approximately ($0.13) to ($0.18) per diluted share for the full year 2026.
+(b)
+On February 28, 2019, a ruling of the Supreme Court of India interpreting certain statutory defined contribution obligations of employees and employers (the “India Defined Contribution Obligation”) altered historical understandings of the obligation under the Employees’ Provident Fund and Miscellaneous Provision Act, 1952, extending it to cover additional portions of the employee’s income. As a result, the ongoing contributions of our affected employees and the Company were required to be increased. In the first quarter of 2019, we accrued $117 million with respect to prior periods, assuming retroactive application of the SCI’s ruling, in "Selling, general and administrative expenses" in our unaudited consolidated statement of operations.
+Labor law reforms implemented by the Government of India effective November 21, 2025, including the Code on Social Security, 2020, were designed to repeal and replace the Employees’ Provident fund and Miscellaneous Provisions Act, 1952, subject to the issuance of applicable rules. The Social Security Rules were notified by the government of India in May 2026. Additionally, the government of India published the Employees Provident Fund Scheme of 2026 in June 2026. As a result of these developments, management concluded that the liability relating to periods where no proceedings had been initiated by the government is no longer required. Thus, in the second quarter of 2026, management recorded a benefit of $81 million in "Selling, general and administrative expenses" in our unaudited consolidated statement of operations. Our guidance anticipates a pre-tax benefit of approximately ($0.18) per diluted share with a corresponding tax expense of approximately $0.05 per diluted share for the full year 2026.
+(c)
+During the three months ended March 31, 2025, we realized a gain on the sale of an office complex in India, which was reported in "(Gain) on sale of property and equipment" on our unaudited consolidated statement of operations.
+(d)
+Non-operating foreign currency exchange gains and losses, inclusive of gains and losses related to foreign exchange forward contracts not designated as hedging instruments for accounting purposes, are reported in "Foreign currency exchange gains (losses), net" in our unaudited consolidated statements of operations. Non-operating foreign currency exchange gains and losses are subject to high variability and low visibility and therefore cannot be provided on a forward-looking basis without unreasonable efforts.
+(e)
+Presented below are the tax impacts of our non-GAAP adjustment to pre-tax income for the:
+(in millions)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Non-GAAP income tax benefit (expense) related to:
+Project Leap charges
+22
+—
+22
+—
+India Defined Contribution Obligation
+(21)
+—
+(21)
+—
+Gain on sale of property and equipment
+—
+—
+—
+(9)
+Foreign currency exchange gains and losses
+(8)
+(7)
+(30)
+(10)
+The effective tax rate related to non-operating foreign currency exchange gains and losses varies depending on the jurisdictions in which such income and expenses are generated and the statutory rates applicable in those jurisdictions. As such, the income tax effect of non-operating foreign currency exchange gains and losses shown in the above table may not appear proportionate to the net pre-tax foreign currency exchange gains and losses reported in our unaudited consolidated statements of operations.
+The above tables serve to reconcile the Non-GAAP financial measures to the most directly comparable GAAP measures. Refer to the “About Non-GAAP Financial Measures and Performance Metrics” section of our press release for further information on the use of these Non-GAAP measures.
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+Revenue by Business Segment and Geography
+(Unaudited)
+(dollars in millions)
+Three Months Ended June 30, 2026
+Year over Year
+$
+% of total
+% Change
+Constant Currency     % Change
+(a)
+Revenues by Segment:
+Health Sciences
+$
+1,572
+28.7
+%
+1.4
+%
+1.0
+%
+Financial Services
+(c)
+1,733
+31.6
+%
+12.0
+%
+11.7
+%
+Products and Resources
+(c)
+1,322
+24.1
+%
+1.2
+%
+0.7
+%
+Communications, Media and Technology
+(c)
+854
+15.6
+%
+1.5
+%
+1.4
+%
+Total Revenues
+(b)(c)
+$
+5,481
+4.5
+%
+4.1
+%
+Revenues by Geography:
+North America
+(b)(c)
+$
+4,127
+75.3
+%
+5.5
+%
+5.5
+%
+United Kingdom
+492
+9.0
+%
+2.1
+%
+1.5
+%
+Continental Europe
+535
+9.7
+%
+2.9
+%
+0.1
+%
+Europe
+- Total
+1,027
+18.7
+%
+2.5
+%
+0.8
+%
+Rest of World
+327
+6.0
+%
+(1.2)
+%
+(1.5)
+%
+Total Revenues
+(b)(c)
+$
+5,481
+4.5
+%
+4.1
+%
+Six Months Ended June 30, 2026
+Year over Year
+$
+% of total
+% Change
+Constant Currency     % Change
+(a)
+Revenues by Segment:
+Health Sciences
+$
+3,151
+28.9
+%
+0.9
+%
+—
+%
+Financial Services
+(c)
+3,377
+31.0
+%
+12.2
+%
+11.0
+%
+Products and Resources
+(c)
+2,643
+24.3
+%
+2.3
+%
+0.9
+%
+Communications, Media and Technology
+(c)
+1,723
+15.8
+%
+4.7
+%
+3.9
+%
+Total Revenues
+(b)(c)
+$
+10,894
+5.2
+%
+4.0
+%
+Revenues by Geography:
+North America
+(b)(c)
+$
+8,179
+75.0
+%
+5.3
+%
+5.2
+%
+United Kingdom
+1,001
+9.2
+%
+6.6
+%
+3.0
+%
+Continental Europe
+1,065
+9.8
+%
+5.1
+%
+(1.5)
+%
+Europe
+- Total
+2,066
+19.0
+%
+5.8
+%
+0.7
+%
+Rest of World
+649
+6.0
+%
+1.1
+%
+(0.1)
+%
+Total Revenues
+(b)(c)
+$
+10,894
+5.2
+%
+4.0
+%
+Notes:
+(a)
+Constant currency revenue growth is not a measure of financial performance prepared in accordance with GAAP. See “About Non-GAAP Financial Measures and Performance Metrics” section of our press release for further information.
+(b)
+For the three and six months ended June 30, 2026, revenues from our recently completed acquisitions contributed approximately 100 basis points and 90 basis points, respectively, to overall revenue growth, across all segments in North America.
+(c)
+For the quarter ended June 30, 2026, the sale of third-party products in connection with our integrated offerings strategy contributed approximately 170 basis points to overall revenue growth. These sales contributed 175 basis points of growth to our North America region and 350 basis points of growth to our Continental Europe region. These sales contributed 350 basis points of growth to our Communications Media and Technology segment, 250 basis points of growth to our Financial Services segment and 125 basis points of growth to our Products and Resources segment. For the six months ended
+June 30, 2026, the sale of third-party products, primarily in North America and Europe, in connection with our integrated offerings strategy, contributed approximately 160 basis points to overall revenue growth. These sales contributed 675 basis points of growth to our Communications Media and Technology segment and 250 basis points growth to our Financial Services segment.
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+(in millions)
+Three Months Ended
+June 30,
+Six Months Ended
+June 30,
+2026
+2025
+2026
+2025
+Cash flows from operating activities:
+Net income
+$
+636
+$
+645
+$
+1,298
+$
+1,308
+Adjustments for non-cash income and expenses
+224
+133
+516
+297
+Changes in operating assets and liabilities, net of effects of businesses acquired
+(302)
+(380)
+(982)
+(807)
+Net cash provided by operating activities
+558
+398
+832
+798
+Cash flows from investing activities:
+Purchases of property and equipment
+(99)
+(67)
+(175)
+(144)
+Proceeds from sale of property and equipment
+—
+—
+—
+70
+Net (purchases) of investments
+—
+(15)
+—
+(15)
+Payments for business combinations, net of cash acquired
+(604)
+—
+(1,334)
+—
+Net cash (used in) investing activities
+(703)
+(82)
+(1,509)
+(89)
+Cash flows from financing activities:
+Issuance of common stock under stock-based compensation plans
+12
+14
+29
+33
+Repurchases of common stock
+(1,163)
+(368)
+(1,607)
+(577)
+Net change in term loan borrowings and finance leases
+(12)
+(9)
+(23)
+(21)
+Proceeds from borrowing under the revolving credit facility
+1,000
+—
+1,000
+—
+Repayment of notes outstanding under the revolving credit facility
+—
+—
+—
+(300)
+Dividends paid
+(157)
+(153)
+(316)
+(308)
+Net cash (used in) financing activities
+(320)
+(516)
+(917)
+(1,173)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash
+(1)
+16
+(2)
+29
+(Decrease) in cash, cash equivalents and restricted cash
+(466)
+(184)
+(1,596)
+(435)
+Cash, cash equivalents and restricted cash, beginning of period
+1,504
+1,980
+2,634
+2,231
+Cash and cash equivalents, end of period
+$
+1,038
+$
+1,796
+$
+1,038
+$
+1,796
+SUPPLEMENTAL CASH FLOW INFORMATION
+(in millions)
+Three Months Ended
+June 30,
+Stock Repurchases under Board of Directors' authorized stock repurchase program:
+2026
+2025
+Number of shares repurchased
+22.5
+4.5
+Remaining authorized balance as of June 30, 2026
+$
+2,338
+Reconciliation of Free Cash Flow Non-GAAP Financial Measure
+(in millions)
+Three Months Ended
+June 30,
+Six Months Ended
+June 30,
+2026
+2025
+2026
+2025
+Net cash provided by operating activities
+$
+558
+$
+398
+$
+832
+$
+798
+Purchases of property and equipment
+(99)
+(67)
+(175)
+(144)
+Proceeds from sale of property and equipment
+—
+—
+—
+70
+Free cash flow
+$
+459
+$
+331
+$
+657
+$
+724

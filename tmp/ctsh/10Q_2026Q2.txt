@@ -1,0 +1,6647 @@
+ctsh-20260630
+false
+2026
+Q2
+0001058290
+--12-31
+http://fasb.org/us-gaap/2025#ForeignCurrencyTransactionGainLossBeforeTax
+http://fasb.org/us-gaap/2025#ForeignCurrencyTransactionGainLossBeforeTax
+http://fasb.org/us-gaap/2025#ForeignCurrencyTransactionGainLossBeforeTax
+http://fasb.org/us-gaap/2025#ForeignCurrencyTransactionGainLossBeforeTax
+244
+299
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+iso4217:INR
+ctsh:Segment
+0001058290
+2026-01-01
+2026-06-30
+0001058290
+2026-07-24
+0001058290
+2026-06-30
+0001058290
+2025-12-31
+0001058290
+2026-04-01
+2026-06-30
+0001058290
+2025-04-01
+2025-06-30
+0001058290
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:CommonStockMember
+2025-12-31
+0001058290
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0001058290
+us-gaap:RetainedEarningsMember
+2025-12-31
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-31
+0001058290
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001058290
+2026-01-01
+2026-03-31
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-01-01
+2026-03-31
+0001058290
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0001058290
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0001058290
+us-gaap:CommonStockMember
+2026-03-31
+0001058290
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0001058290
+us-gaap:RetainedEarningsMember
+2026-03-31
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-31
+0001058290
+2026-03-31
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:AdditionalPaidInCapitalMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:CommonStockMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:RetainedEarningsMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:CommonStockMember
+2026-06-30
+0001058290
+us-gaap:AdditionalPaidInCapitalMember
+2026-06-30
+0001058290
+us-gaap:RetainedEarningsMember
+2026-06-30
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-06-30
+0001058290
+us-gaap:CommonStockMember
+2024-12-31
+0001058290
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001058290
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001058290
+2024-12-31
+0001058290
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001058290
+2025-01-01
+2025-03-31
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001058290
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001058290
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001058290
+us-gaap:CommonStockMember
+2025-03-31
+0001058290
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001058290
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001058290
+2025-03-31
+0001058290
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:CommonStockMember
+2025-06-30
+0001058290
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001058290
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001058290
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+2026-04-01
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+2026-01-01
+2026-06-30
+0001058290
+country:GB
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+country:GB
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+country:GB
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+country:GB
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+country:GB
+2026-04-01
+2026-06-30
+0001058290
+country:GB
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+country:GB
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+country:GB
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+country:GB
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+country:GB
+2026-01-01
+2026-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+2026-01-01
+2026-06-30
+0001058290
+srt:EuropeMember
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+srt:EuropeMember
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+srt:EuropeMember
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+srt:EuropeMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+srt:EuropeMember
+2026-04-01
+2026-06-30
+0001058290
+srt:EuropeMember
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+srt:EuropeMember
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+srt:EuropeMember
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+srt:EuropeMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+srt:EuropeMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+2026-01-01
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+2025-04-01
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+2025-01-01
+2025-06-30
+0001058290
+country:GB
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+country:GB
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+country:GB
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+country:GB
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+country:GB
+2025-04-01
+2025-06-30
+0001058290
+country:GB
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+country:GB
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+country:GB
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+country:GB
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+country:GB
+2025-01-01
+2025-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:EuropeexcludingUnitedKingdomMember
+2025-01-01
+2025-06-30
+0001058290
+srt:EuropeMember
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+srt:EuropeMember
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+srt:EuropeMember
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+srt:EuropeMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+srt:EuropeMember
+2025-04-01
+2025-06-30
+0001058290
+srt:EuropeMember
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+srt:EuropeMember
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+srt:EuropeMember
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+srt:EuropeMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+srt:EuropeMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:RestofWorldMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:RestofWorldMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:RestofWorldMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:ConsultingAndTechnologyServicesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:OutsourcingServicesMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:TimeAndMaterialsContractMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:FixedPriceContractMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:TransactionOrVolumeBasedMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:RevenueRemainingPerformanceObligationPeriodOneMember
+2026-07-01
+2026-06-30
+0001058290
+ctsh:RevenueRemainingPerformanceObligationPeriodTwoMember
+2026-07-01
+2026-06-30
+0001058290
+ctsh:RevenueRemainingPerformanceObligationPeriodThreeMember
+2026-07-01
+2026-06-30
+0001058290
+ctsh:A3CloudMember
+2026-01-01
+0001058290
+ctsh:AstreyaMember
+2026-06-22
+0001058290
+ctsh:A3CloudMember
+us-gaap:CustomerRelationshipsMember
+2026-01-01
+0001058290
+ctsh:AstreyaMember
+us-gaap:CustomerRelationshipsMember
+2026-06-22
+0001058290
+us-gaap:CustomerRelationshipsMember
+2026-06-30
+0001058290
+us-gaap:CustomerRelationshipsMember
+2026-01-01
+2026-06-30
+0001058290
+ctsh:A3CloudMember
+us-gaap:OtherIntangibleAssetsMember
+2026-01-01
+0001058290
+ctsh:AstreyaMember
+us-gaap:OtherIntangibleAssetsMember
+2026-06-22
+0001058290
+us-gaap:OtherIntangibleAssetsMember
+2026-06-30
+0001058290
+us-gaap:OtherIntangibleAssetsMember
+2026-01-01
+2026-06-30
+0001058290
+srt:MinimumMember
+ctsh:ProjectLeapMember
+2026-06-30
+0001058290
+srt:MaximumMember
+ctsh:ProjectLeapMember
+2026-06-30
+0001058290
+us-gaap:EmployeeSeveranceMember
+srt:MinimumMember
+ctsh:ProjectLeapMember
+2026-06-30
+0001058290
+us-gaap:EmployeeSeveranceMember
+srt:MaximumMember
+ctsh:ProjectLeapMember
+2026-06-30
+0001058290
+us-gaap:OtherRestructuringMember
+srt:MinimumMember
+ctsh:ProjectLeapMember
+2026-06-30
+0001058290
+us-gaap:OtherRestructuringMember
+srt:MaximumMember
+ctsh:ProjectLeapMember
+2026-06-30
+0001058290
+ctsh:ProjectLeapMember
+2025-04-01
+2025-06-30
+0001058290
+ctsh:ProjectLeapMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:EmployeeSeveranceMember
+ctsh:ProjectLeapMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:EmployeeSeveranceMember
+ctsh:ProjectLeapMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:OtherRestructuringMember
+ctsh:ProjectLeapMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:OtherRestructuringMember
+ctsh:ProjectLeapMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:EmployeeSeveranceMember
+2025-12-31
+0001058290
+us-gaap:EmployeeSeveranceMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:EmployeeSeveranceMember
+2026-06-30
+0001058290
+ctsh:CreditAgreementMember
+us-gaap:LoansPayableMember
+2024-04-30
+0001058290
+us-gaap:RevolvingCreditFacilityMember
+ctsh:CreditAgreementMember
+us-gaap:UnsecuredDebtMember
+2024-04-30
+0001058290
+us-gaap:RevolvingCreditFacilityMember
+ctsh:CreditAgreementMember
+us-gaap:UnsecuredDebtMember
+2026-06-30
+0001058290
+ctsh:CreditAgreementMember
+ctsh:TermBenchmarkMember
+2024-04-01
+2024-04-30
+0001058290
+ctsh:CreditAgreementMember
+us-gaap:BaseRateMember
+2024-04-01
+2024-04-30
+0001058290
+ctsh:TermBenchmarkMember
+ctsh:CreditAgreementMember
+srt:MinimumMember
+2024-04-01
+2024-04-30
+0001058290
+ctsh:TermBenchmarkMember
+ctsh:CreditAgreementMember
+srt:MaximumMember
+2024-04-01
+2024-04-30
+0001058290
+ctsh:TermBenchmarkWithoutDebtRatingsMember
+ctsh:CreditAgreementMember
+srt:MinimumMember
+2024-04-01
+2024-04-30
+0001058290
+ctsh:TermBenchmarkWithoutDebtRatingsMember
+ctsh:CreditAgreementMember
+srt:MaximumMember
+2024-04-01
+2024-04-30
+0001058290
+ctsh:CreditAgreementMember
+us-gaap:LoansPayableMember
+2025-12-31
+0001058290
+ctsh:CreditAgreementMember
+us-gaap:LoansPayableMember
+2026-06-30
+0001058290
+us-gaap:RevolvingCreditFacilityMember
+ctsh:CreditAgreementMember
+us-gaap:UnsecuredDebtMember
+2025-12-31
+0001058290
+ctsh:CreditAgreementMember
+us-gaap:LoansPayableMember
+2025-06-30
+0001058290
+ctsh:CreditAgreementMember
+2026-06-30
+0001058290
+ctsh:CreditAgreementMember
+2025-12-31
+0001058290
+us-gaap:ForeignCountryMember
+us-gaap:MinistryOfFinanceIndiaMember
+ctsh:A2013IndiaShareRepurchaseMember
+2013-01-01
+2013-12-31
+0001058290
+us-gaap:ForeignCountryMember
+us-gaap:MinistryOfFinanceIndiaMember
+ctsh:A2016IndiaCashRemittanceMember
+2016-01-01
+2016-12-31
+0001058290
+us-gaap:ForeignCountryMember
+us-gaap:MinistryOfFinanceIndiaMember
+ctsh:A2016IndiaCashRemittanceMember
+2018-03-31
+0001058290
+us-gaap:ForeignCountryMember
+us-gaap:MinistryOfFinanceIndiaMember
+ctsh:A2016IndiaCashRemittanceMember
+2026-06-30
+0001058290
+us-gaap:ForeignCountryMember
+us-gaap:MinistryOfFinanceIndiaMember
+ctsh:A2016IndiaCashRemittanceMember
+2018-04-30
+0001058290
+ctsh:LongterminvestmentsMember
+us-gaap:ForeignCountryMember
+us-gaap:MinistryOfFinanceIndiaMember
+ctsh:A2016IndiaCashRemittanceMember
+2024-01-08
+0001058290
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:ForeignCountryMember
+us-gaap:MinistryOfFinanceIndiaMember
+ctsh:A2016IndiaCashRemittanceMember
+2026-06-30
+0001058290
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:ForeignCountryMember
+us-gaap:MinistryOfFinanceIndiaMember
+ctsh:A2016IndiaCashRemittanceMember
+2025-12-31
+0001058290
+us-gaap:ForeignExchangeContractMember
+us-gaap:OtherCurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-06-30
+0001058290
+us-gaap:ForeignExchangeContractMember
+us-gaap:OtherCurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-31
+0001058290
+us-gaap:ForeignExchangeContractMember
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-06-30
+0001058290
+us-gaap:ForeignExchangeContractMember
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-31
+0001058290
+us-gaap:ForeignExchangeContractMember
+ctsh:AccruedExpensesAndOtherCurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-06-30
+0001058290
+us-gaap:ForeignExchangeContractMember
+ctsh:AccruedExpensesAndOtherCurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-31
+0001058290
+us-gaap:ForeignExchangeContractMember
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-06-30
+0001058290
+us-gaap:ForeignExchangeContractMember
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-31
+0001058290
+us-gaap:ForeignExchangeContractMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-06-30
+0001058290
+us-gaap:ForeignExchangeContractMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-31
+0001058290
+us-gaap:ForeignExchangeForwardMember
+us-gaap:OtherCurrentAssetsMember
+us-gaap:NondesignatedMember
+2026-06-30
+0001058290
+us-gaap:ForeignExchangeForwardMember
+us-gaap:OtherCurrentAssetsMember
+us-gaap:NondesignatedMember
+2025-12-31
+0001058290
+us-gaap:ForeignExchangeForwardMember
+ctsh:AccruedExpensesAndOtherCurrentLiabilitiesMember
+us-gaap:NondesignatedMember
+2026-06-30
+0001058290
+us-gaap:ForeignExchangeForwardMember
+ctsh:AccruedExpensesAndOtherCurrentLiabilitiesMember
+us-gaap:NondesignatedMember
+2025-12-31
+0001058290
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+2026-06-30
+0001058290
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+2025-12-31
+0001058290
+ctsh:ForeignExchangeContractMaturity2026Member
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-06-30
+0001058290
+ctsh:ForeignExchangeContractMaturity2026Member
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-31
+0001058290
+ctsh:ForeignExchangeContractMaturity2027Member
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-06-30
+0001058290
+ctsh:ForeignExchangeContractMaturity2027Member
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-31
+0001058290
+ctsh:ForeignExchangeContractMaturity2028Member
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2026-06-30
+0001058290
+ctsh:ForeignExchangeContractMaturity2028Member
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:CashFlowHedgingMember
+2025-12-31
+0001058290
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:ForeignExchangeForwardMember
+us-gaap:NondesignatedMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:CashEquivalentsMember
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel1Member
+2026-06-30
+0001058290
+us-gaap:MoneyMarketFundsMember
+2026-06-30
+0001058290
+us-gaap:CashEquivalentsMember
+us-gaap:BankTimeDepositsMember
+us-gaap:FairValueInputsLevel2Member
+2026-06-30
+0001058290
+us-gaap:BankTimeDepositsMember
+2026-06-30
+0001058290
+us-gaap:ShortTermInvestmentsMember
+us-gaap:FairValueInputsLevel1Member
+2026-06-30
+0001058290
+us-gaap:ShortTermInvestmentsMember
+us-gaap:FairValueInputsLevel2Member
+2026-06-30
+0001058290
+us-gaap:ShortTermInvestmentsMember
+us-gaap:FairValueInputsLevel3Member
+2026-06-30
+0001058290
+us-gaap:ShortTermInvestmentsMember
+2026-06-30
+0001058290
+us-gaap:OtherCurrentAssetsMember
+us-gaap:FairValueInputsLevel1Member
+2026-06-30
+0001058290
+us-gaap:OtherCurrentAssetsMember
+us-gaap:FairValueInputsLevel2Member
+2026-06-30
+0001058290
+us-gaap:OtherCurrentAssetsMember
+us-gaap:FairValueInputsLevel3Member
+2026-06-30
+0001058290
+us-gaap:OtherCurrentAssetsMember
+2026-06-30
+0001058290
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-06-30
+0001058290
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-06-30
+0001058290
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-06-30
+0001058290
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-06-30
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel1Member
+2026-06-30
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel2Member
+2026-06-30
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel3Member
+2026-06-30
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+2026-06-30
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-06-30
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-06-30
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-06-30
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-06-30
+0001058290
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel1Member
+2026-06-30
+0001058290
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel2Member
+2026-06-30
+0001058290
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel3Member
+2026-06-30
+0001058290
+us-gaap:OtherNoncurrentLiabilitiesMember
+2026-06-30
+0001058290
+us-gaap:CashEquivalentsMember
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001058290
+us-gaap:MoneyMarketFundsMember
+2025-12-31
+0001058290
+us-gaap:CashEquivalentsMember
+us-gaap:BankTimeDepositsMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001058290
+us-gaap:BankTimeDepositsMember
+2025-12-31
+0001058290
+us-gaap:ShortTermInvestmentsMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001058290
+us-gaap:ShortTermInvestmentsMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001058290
+us-gaap:ShortTermInvestmentsMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001058290
+us-gaap:ShortTermInvestmentsMember
+2025-12-31
+0001058290
+us-gaap:OtherCurrentAssetsMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001058290
+us-gaap:OtherCurrentAssetsMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001058290
+us-gaap:OtherCurrentAssetsMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001058290
+us-gaap:OtherCurrentAssetsMember
+2025-12-31
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001058290
+us-gaap:OtherCurrentLiabilitiesMember
+2025-12-31
+0001058290
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001058290
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001058290
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001058290
+us-gaap:OtherNoncurrentLiabilitiesMember
+2025-12-31
+0001058290
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-03-31
+0001058290
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-12-31
+0001058290
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-06-30
+0001058290
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-03-31
+0001058290
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-12-31
+0001058290
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:CostOfSalesMember
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:CostOfSalesMember
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-06-30
+0001058290
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2026-03-31
+0001058290
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2025-12-31
+0001058290
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2026-06-30
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-03-31
+0001058290
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-31
+0001058290
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-06-30
+0001058290
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-03-31
+0001058290
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-12-31
+0001058290
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:CostOfSalesMember
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:CostOfSalesMember
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-06-30
+0001058290
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2024-12-31
+0001058290
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember
+2025-06-30
+0001058290
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-06-30
+0001058290
+ctsh:SyntelSterlingBestShoresMauritiusLtdMember
+2020-10-27
+2020-10-27
+0001058290
+ctsh:SyntelSterlingBestShoresMauritiusLtdMember
+2021-04-20
+2021-04-20
+0001058290
+ctsh:SyntelSterlingBestShoresMauritiusLtdMember
+2023-05-25
+2023-05-25
+0001058290
+ctsh:PositiveOutcomeOfLitigationAttorneyFeesMember
+ctsh:SyntelSterlingBestShoresMauritiusLtdMember
+2024-03-13
+2024-03-13
+0001058290
+ctsh:SyntelSterlingBestShoresMauritiusLtdMember
+2025-06-30
+2025-06-30
+0001058290
+ctsh:SyntelSterlingBestShoresMauritiusLtdMember
+2026-03-27
+2026-03-27
+0001058290
+ctsh:IndiaDefinedContributionObligationMember
+2019-03-31
+0001058290
+ctsh:IndiaDefinedContributionObligationMember
+2026-03-31
+0001058290
+ctsh:IndiaDefinedContributionObligationMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:IndiaDefinedContributionObligationMember
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:HealthSciencesMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:FinancialServicesMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:ProductsandResourcesMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:FinancialServicesMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:HealthSciencesMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:ProductsandResourcesMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:CorporateNonSegmentMember
+2026-04-01
+2026-06-30
+0001058290
+us-gaap:CorporateNonSegmentMember
+2026-01-01
+2026-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:HealthSciencesMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:FinancialServicesMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:ProductsandResourcesMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:FinancialServicesMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:HealthSciencesMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:ProductsandResourcesMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+ctsh:CommunicationsMediaAndTechnologyMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-06-30
+0001058290
+us-gaap:CorporateNonSegmentMember
+2025-04-01
+2025-06-30
+0001058290
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-06-30
+0001058290
+srt:NorthAmericaMember
+2026-06-30
+0001058290
+srt:NorthAmericaMember
+2025-12-31
+0001058290
+srt:EuropeMember
+2026-06-30
+0001058290
+srt:EuropeMember
+2025-12-31
+0001058290
+ctsh:RestofWorldMember
+2026-06-30
+0001058290
+ctsh:RestofWorldMember
+2025-12-31
+0001058290
+us-gaap:SubsequentEventMember
+2026-07-27
+2026-07-27
+0001058290
+ctsh:JatinDalalMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:JatinDalalMember
+2026-06-30
+0001058290
+ctsh:JohnKimMember
+2026-04-01
+2026-06-30
+0001058290
+ctsh:JohnKimMember
+2026-06-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+Quarterly Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the quarterly period ended
+June 30, 2026
+or
+☐
+Transition Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from                      to
+Commission File Number:
+0-24429
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+(Exact Name of Registrant as Specified in Its Charter)
+Delaware
+13-3728359
+(State or Other Jurisdiction of
+Incorporation or Organization)
+(I.R.S. Employer
+Identification No.)
+300 Frank W. Burr Blvd.
+,
+Suite 36
+,
+6th Floor
+Teaneck
+,
+New Jersey
+07666
+(Address of Principal Executive Offices) (Zip Code)
+Registrant’s telephone number, including area code: (
+201
+)
+801-0233
+N/A
+(Former Name, Former Address and Former Fiscal Year,
+if Changed Since Last Report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock,
+$0.01 par value per share
+CTSH
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No:
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No:
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes
+☐
+No
+☒
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of July 24, 2026:
+Class
+Number of Shares
+Class A Common Stock, par value $0.01 per share
+450,444,209
+Table of Contents
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+TABLE OF CONTENTS
+Page
+GLOSSARY
+1
+FORWARD LOOKING STATEMENTS
+2
+PART I.
+FINANCIAL INFORMATION
+4
+Item 1.
+Financial Statements
+4
+Consolidated Statements of Financial Position (Unaudited) as of
+June 30
+, 2026 and December 31, 2025
+4
+Consolidated Statements of Operations (Unaudited) for the Three
+and Six
+Months Ended
+June 30
+, 2026 and 2025
+5
+Consolidated Statements of Comprehensive Income (Unaudited) for the Three
+and Six
+Months Ended
+J
+une 30
+, 2026 a
+nd
+2025
+6
+Consolidated Statements of Stockholders' Equity (Unaudited) for the Three Months Ended March 31, 2026 and
+2025 and
+June 30, 2026 and 2025
+7
+Consolidated Statements of Cash Flows (Unaudited) for the
+Six
+Months Ended
+June 30
+, 2026 and 2025
+8
+Notes to Consolidated Financial Statements (Unaudited)
+9
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+26
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+42
+Item 4.
+Controls and Procedures
+43
+PART II.
+OTHER INFORMATION
+44
+Item 1.
+Legal Proceedings
+44
+Item 1A.
+Risk Factors
+44
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+44
+Item 5.
+Other Information
+45
+Item 6.
+Exhibits
+46
+SIGNATURES
+47
+Table of Contents
+GLOSSARY
+Defined Term
+Definition
+10b5-1 Plan
+Trading plan adopted pursuant to Rule 10b5-1 under the Exchange Act
+Adjusted Diluted EPS
+Adjusted diluted earnings per share
+AI
+Artificial intelligence
+ASC
+Accounting Standards Codification
+ASR
+Accelerated Share Repurchase
+CC
+Constant Currency
+CE
+Continental Europe
+CITA
+Commissioner of Income Tax (Appeals) in India
+CMT
+Communications, Media and Technology
+CODM
+Chief Operating Decision Maker
+Credit Agreement
+Credit agreement with a commercial bank syndicate dated April 18, 2024, as amended
+CTS India
+Our principal operating subsidiary in India
+DSO
+Days Sales Outstanding
+DTSA
+Defend Trade Secrets Act
+EPS
+Earnings per share
+EU
+European Union
+Exchange Act
+Securities Exchange Act of 1934, as amended
+FS
+Financial Services
+GAAP
+Generally Accepted Accounting Principles in the United States of America
+GenAI
+Generative artificial intelligence
+HS
+Health Sciences
+High Court
+Madras, India High Court
+India Defined Contribution Obligation
+Certain statutory defined contribution obligations of employees and employers in India
+IP
+Intellectual property
+ITAT
+Income Tax Appellate Tribunal in India
+ITD
+Indian Income Tax Department
+Labor Code
+Labor law reforms implemented by the Government of India effective November 21, 2025, including the Code on Social Security, 2020
+NA
+North America
+Ninth Circuit
+United States Court of Appeals for the Ninth Circuit
+P&R
+Products & Resources
+Project Leap
+Program introduced in Q2 2026
+aimed at streamlining operations and enhancing productivity through AI-led efficiencies
+Recently completed acquisitions
+Acquisitions that were completed in the 12 months preceding the beginning of the reporting period (in order to identify the impact of such acquisitions for the first twelve months of ownership)
+RoW
+Rest of World
+SCI
+Supreme Court of India
+SEC
+United States Securities and Exchange Commission
+Second Circuit
+United States Court of Appeals for the Second Circuit
+SG&A
+Selling, general and administrative
+Syntel
+Syntel Sterling Best Shores Mauritius Ltd.
+Term Loan
+Unsecured term loan under the Credit Agreement
+Title VII
+Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e
+et seq.
+TriZetto
+The TriZetto Group, Inc., now known as Cognizant Technology Software Group, Inc.
+UK
+United Kingdom
+USDC-CDCA
+United States District Court for the Central District of California
+USDC-NJ
+United States District Court for the District of New Jersey
+USDC-SDNY
+United States District Court for the Southern District of New York
+Voluntary Attrition - Tech Services
+Includes all voluntary separations with the exception of employees in our Intuitive Operations and Automation practice and certain categories of negotiated separations
+Cognizant Technology Solutions
+1
+June 30, 2026 Form 10-Q
+Table of Contents
+Forward Looking Statements
+The statements contained in this Quarterly Report on Form 10-Q that are not historical facts are forward-looking statements (within the meaning of Section 21E of the Exchange Act) that involve risks and uncertainties. Such forward-looking statements may be identified by, among other things, the use of forward-looking terminology such as “believe,” “expect,” “may,” “could,” “would,” “plan,” “intend,” “estimate,” “predict,” “potential,” “continue,” “should” or “anticipate” or the negative thereof or other variations thereon or comparable terminology, or by discussions of strategy that involve risks and uncertainties. From time to time, we or our representatives have made or may make forward-looking statements, orally or in writing.
+Such forward-looking statements may be included in various filings made by us with the SEC, in press releases or in oral statements made by or with the approval of one of our authorized executive officers. These forwar
+d-looking statements, such as statements regarding our anticipated future revenues, operating margin, earnings, capital expenditures, impacts to our business, financial results and financial condition as a result of the competitive marketplace for talent and future attrition trends, anticipated effective income tax rate and income tax expense, liquidity, financing strategy, access to capital, capital return strategy, investment strategies, cost management, plans and objectives, investment in our business, potential acquisitions, industry trends, client behaviors and trends, the outcome of and costs associated with regulatory and litigation matters, matters related to Project Leap and other statements regarding matters that are not historical facts, are based on our current expectations, estimates and projections, management’s beliefs and certain assumptions made by management, many of which, by their nature, are inherently uncertain and beyond our control. Actual results, performance, achievements and outcomes could differ materially from the results expressed in, or anticipated or implied by, these forward-looking statements. There are a number of important factors that could cause our results to differ materially from those indicated by such forward-looking statements, including:
+•
+macroeconomic and geopolitical conditions globally, in particular in the markets in which our clients and operations are concentrated;
+•
+intense and evolving competition and significant technological advances that our service offerings must keep pace with in the rapidly changing markets we compete in;
+•
+our ability to successfully use AI-based technologies in our client offerings and our own internal operations and the impact AI-based technologies may have on the demand for our services or our ability to obtain favorable pricing or other terms for our services;
+•
+our ability to attract, train and retain skilled employees, including highly skilled technical personnel and personnel with experience in key AI and digital areas and senior management to lead our business globally, at an acceptable cost;
+•
+unexpected terminations of client contracts on short notice or reduced spending by clients;
+•
+our ability to meet specified service levels or milestones required by certain of our contracts;
+•
+our ability to achieve our profitability goals and maintain our capital return strategy;
+•
+our ability to successfully implement Project Leap and the amount of costs, timing of incurring costs, and ultimate benefits of such project;
+•
+challenges related to growing our business organically as well as inorganically through acquisitions, and our ability to achieve our targeted growth rates and successfully integrate acquired businesses;
+•
+legal, reputation and financial risks if we fail to protect client and/or our data from security breaches and/or cyber attacks;
+•
+fluctuations in foreign currency exchange rates, or the failure of our hedging strategies to mitigate such fluctuations;
+•
+the impact of future pandemics, epidemics or other outbreaks of disease, on our business, results of operations, liquidity and financial condition;
+•
+the impact of extreme weather on our business;
+•
+our ability to meet sustainability and societal related expectations and ambitions;
+•
+the effectiveness of our risk management, business resilience and disaster recovery plans and the potential that our global delivery capabilities could be impacted;
+•
+restrictions on visas, in particular in the United States, UK and EU, or immigration more generally or increased costs of such visas or the wages we are required to pay employees on visas, which may affect our ability to compete for and provide services to our clients;
+•
+risks related to anti-outsourcing legislation, if adopted, and negative perceptions associated with offshore outsourcing, both of which could impair our ability to serve our clients;
+Cognizant Technology Solutions
+2
+June 30, 2026 Form 10-Q
+Table of Contents
+•
+risks and costs related to complying with numerous and evolving legal and regulatory requirements and client expectations in the many jurisdictions in which we operate;
+•
+actual and potential changes in tax laws, or in their interpretation or enforcement, failure by us to adapt our corporate structure and intercompany arrangements, or adverse outcomes of tax audits, investigations or proceedings;
+•
+actual and potential exposure to litigation and legal claims in the conduct of our business;
+•
+risks related to infringement upon the IP rights of others or having our IP rights infringed upon; and
+•
+the other risks described herein, as well as the factors set forth in "Part I, Item 1A. Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2025 and “Part II, Item 1A. Risk Factors” in our Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2026.
+You are advised to consult any further disclosures we make on related subjects in the reports we file with the SEC, including this report in the section titled “
+Part I, Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+" We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+Cognizant Technology Solutions
+3
+June 30, 2026 Form 10-Q
+Table of Contents
+PART I. FINANCIAL INFORMATION
+Item 1.     Financial Statements.
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+(Unaudited)
+(in millions, except par values)
+June 30, 2026
+December 31, 2025
+Assets
+Current assets:
+Cash and cash equivalents
+$
+1,038
+$
+1,901
+Short-term investments
+13
+13
+Trade accounts receivable, net
+4,780
+4,439
+Other current assets
+1,728
+1,465
+Total current assets
+7,559
+7,818
+Property and equipment, net
+981
+933
+Operating lease assets, net
+555
+573
+Goodwill
+8,083
+7,106
+Intangible assets, net
+1,675
+1,417
+Deferred income tax assets, net
+764
+967
+Long-term investments
+106
+111
+Other noncurrent assets
+1,102
+1,767
+Total assets
+$
+20,825
+$
+20,692
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable
+$
+357
+$
+308
+Deferred revenue
+490
+501
+Short-term debt
+33
+33
+Operating lease liabilities
+145
+153
+Accrued expenses and other current liabilities
+2,439
+2,664
+Total current liabilities
+3,464
+3,659
+Deferred revenue, noncurrent
+31
+37
+Operating lease liabilities, noncurrent
+389
+423
+Deferred income tax liabilities, net
+177
+168
+Long-term debt
+1,527
+543
+Other noncurrent liabilities
+775
+847
+Total liabilities
+6,363
+5,677
+Commitments and contingencies (See
+Note 1
+1
+)
+Stockholders’ equity:
+Preferred stock, $
+0.10
+par value
+,
+15
+shares authorized,
+none
+issued
+—
+—
+Class A common stock, $
+0.01
+par value,
+1,000
+shares authorized,
+452
+and
+479
+shares issued and outstanding as of June 30, 2026 and December 31, 2025, respectively
+5
+5
+Additional paid-in capital
+11
+12
+Retained earnings
+14,647
+15,158
+Accumulated other comprehensive income (loss)
+(
+201
+)
+(
+160
+)
+Total stockholders’ equity
+14,462
+15,015
+Total liabilities and stockholders’ equity
+$
+20,825
+$
+20,692
+The accompanying notes are an integral part of the unaudited consolidated financial statements.
+Cognizant Technology Solutions
+4
+June 30, 2026 Form 10-Q
+Table of Contents
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+(in millions, except per share data)
+Three Months Ended
+June 30,
+Six Months Ended
+June 30,
+2026
+2025
+2026
+2025
+Revenues
+$
+5,481
+$
+5,245
+$
+10,894
+$
+10,360
+Operating expenses:
+Cost of revenues (exclusive of depreciation and amortization expense shown separately below)
+3,652
+3,479
+7,290
+6,876
+Selling, general and administrative expenses
+728
+810
+1,519
+1,601
+Restructuring charges
+84
+—
+84
+—
+Depreciation and amortization expense
+143
+139
+284
+275
+(Gain) on sale of property and equipment
+—
+—
+—
+(
+62
+)
+Income from operations
+874
+817
+1,717
+1,670
+Other income (expense), net:
+Interest income
+18
+23
+40
+53
+Interest expense
+(
+13
+)
+(
+9
+)
+(
+20
+)
+(
+21
+)
+Foreign currency exchange gains (losses), net
+7
+7
+25
+9
+Other, net
+(
+11
+)
+4
+(
+20
+)
+3
+Total other income (expense), net
+1
+25
+25
+44
+Income before provision for income taxes
+875
+842
+1,742
+1,714
+Provision for income taxes
+(
+231
+)
+(
+197
+)
+(
+439
+)
+(
+410
+)
+Income (loss) from equity method investments
+(
+8
+)
+—
+(
+5
+)
+4
+Net income
+$
+636
+$
+645
+$
+1,298
+$
+1,308
+Basic earnings per share
+$
+1.36
+$
+1.31
+$
+2.76
+$
+2.65
+Diluted earnings per share
+$
+1.36
+$
+1.31
+$
+2.75
+$
+2.65
+Weighted average number of common shares outstanding - Basic
+466
+492
+471
+493
+Dilutive effect of shares issuable under stock-based compensation plans
+—
+—
+1
+—
+Weighted average number of common shares outstanding - Diluted
+466
+492
+472
+493
+The accompanying notes are an integral part of the unaudited consolidated financial statements.
+Cognizant Technology Solutions
+5
+June 30, 2026 Form 10-Q
+Table of Contents
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Unaudited)
+(in millions)
+Three Months Ended
+June 30,
+Six Months Ended
+June 30,
+2026
+2025
+2026
+2025
+Net income
+$
+636
+$
+645
+$
+1,298
+$
+1,308
+Change in Accumulated other comprehensive income (loss), net of tax:
+Foreign currency translation adjustments
+(
+16
+)
+197
+(
+55
+)
+300
+Unrealized gains and losses on cash flow hedges
+35
+10
+(
+30
+)
+38
+Changes in net defined benefit obligations
+6
+1
+44
+1
+Other comprehensive income (loss)
+25
+208
+(
+41
+)
+339
+Comprehensive income
+$
+661
+$
+853
+$
+1,257
+$
+1,647
+The accompanying notes are an integral part of the unaudited consolidated financial statements.
+Cognizant Technology Solutions
+6
+June 30, 2026 Form 10-Q
+Table of Contents
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(Unaudited)
+(in millions, except per share data)
+Class A Common Stock
+Additional
+Paid-in
+Capital
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total Stockholders' Equity
+Shares
+Amount
+Balance, December 31, 2025
+479
+$
+5
+$
+12
+$
+15,158
+$
+(
+160
+)
+$
+15,015
+Net income
+—
+—
+—
+662
+—
+662
+Other comprehensive income (loss)
+—
+—
+—
+—
+(
+66
+)
+(
+66
+)
+Common stock issued, stock-based compensation plans
+1
+—
+17
+—
+—
+17
+Stock-based compensation expense
+—
+—
+46
+—
+—
+46
+Repurchases of common stock
+(
+6
+)
+—
+(
+58
+)
+(
+390
+)
+—
+(
+448
+)
+Dividends declared, $
+0.33
+per share
+—
+—
+—
+(
+158
+)
+—
+(
+158
+)
+Balance, March 31, 2026
+474
+5
+17
+15,272
+(
+226
+)
+15,068
+Net income
+—
+—
+—
+636
+—
+636
+Other comprehensive income (loss)
+—
+—
+—
+—
+25
+25
+Common stock issued, stock-based compensation plans
+1
+—
+12
+—
+—
+12
+Stock-based compensation expense
+—
+—
+53
+—
+—
+53
+Repurchases of common stock
+(
+23
+)
+—
+(
+71
+)
+(
+1,103
+)
+—
+(
+1,174
+)
+Dividends declared, $
+0.33
+per share
+—
+—
+—
+(
+158
+)
+—
+(
+158
+)
+Balance, June 30, 2026
+452
+$
+5
+$
+11
+$
+14,647
+$
+(
+201
+)
+$
+14,462
+(in millions, except per share data)
+Class A Common Stock
+Additional
+Paid-in
+Capital
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total Stockholders' Equity
+Shares
+Amount
+Balance, December 31, 2024
+495
+$
+5
+$
+13
+$
+14,686
+$
+(
+296
+)
+$
+14,408
+Net income
+—
+—
+—
+663
+—
+663
+Other comprehensive income (loss)
+—
+—
+—
+—
+131
+131
+Common stock issued, stock-based compensation plans
+1
+—
+19
+—
+—
+19
+Stock-based compensation expense
+—
+—
+42
+—
+—
+42
+Repurchases of common stock
+(
+3
+)
+—
+(
+55
+)
+(
+155
+)
+—
+(
+210
+)
+Dividends declared, $
+0.31
+per share
+—
+—
+—
+(
+154
+)
+—
+(
+154
+)
+Balance, March 31, 2025
+493
+5
+19
+15,040
+(
+165
+)
+14,899
+Net income
+—
+—
+—
+645
+—
+645
+Other comprehensive income (loss)
+—
+—
+—
+—
+208
+208
+Common stock issued, stock-based compensation plans
+—
+—
+14
+—
+—
+14
+Stock-based compensation expense
+—
+—
+48
+—
+—
+48
+Repurchases of common stock
+(
+4
+)
+—
+(
+67
+)
+(
+305
+)
+—
+(
+372
+)
+Dividends declared, $
+0.31
+per share
+—
+—
+—
+(
+154
+)
+—
+(
+154
+)
+Balance, June 30, 2025
+489
+$
+5
+$
+14
+$
+15,226
+$
+43
+$
+15,288
+The accompanying notes are an integral part of the unaudited consolidated financial statements.
+Cognizant Technology Solutions
+7
+June 30, 2026 Form 10-Q
+Table of Contents
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+(in millions)
+For the Six Months Ended
+June 30,
+2026
+2025
+Cash flows from operating activities:
+Net income
+$
+1,298
+$
+1,308
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization expense
+284
+275
+Deferred income taxes
+119
+9
+Stock-based compensation expense
+99
+90
+Gain on sale of property and equipment
+—
+(
+62
+)
+Other, net
+14
+(
+15
+)
+Changes in operating assets and liabilities, net of effects of businesses acquired:
+Trade accounts receivable, current
+(
+274
+)
+(
+320
+)
+Other current and noncurrent assets
+(
+219
+)
+(
+60
+)
+Accounts payable
+29
+(
+29
+)
+Deferred revenues, current and noncurrent
+(
+20
+)
+(
+10
+)
+Other current and noncurrent liabilities
+(
+498
+)
+(
+388
+)
+Net cash provided by operating activities
+832
+798
+Cash flows from investing activities:
+Purchases of property and equipment
+(
+175
+)
+(
+144
+)
+Proceeds from sale of property and equipment
+—
+70
+Purchases of other investments
+(
+51
+)
+(
+16
+)
+Proceeds from maturity or sale of other investments
+51
+1
+Payments for business combinations, net of cash acquired
+(
+1,334
+)
+—
+Net cash (used in) investing activities
+(
+1,509
+)
+(
+89
+)
+Cash flows from financing activities:
+Issuance of common stock under stock-based compensation plans
+29
+33
+Repurchases of common stock
+(
+1,607
+)
+(
+577
+)
+Repayment of Term Loan borrowings and finance lease obligations
+(
+23
+)
+(
+21
+)
+Proceeds from borrowings under the revolving credit facility
+1,000
+—
+Repayment of notes outstanding under the revolving credit facility
+—
+(
+300
+)
+Dividends paid
+(
+316
+)
+(
+308
+)
+Net cash (used in) financing activities
+(
+917
+)
+(
+1,173
+)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash
+(
+2
+)
+29
+(Decrease) in cash, cash equivalents and restricted cash
+(
+1,596
+)
+(
+435
+)
+Cash, cash equivalents and restricted cash beginning of year
+2,634
+2,231
+Cash and cash equivalents, end of period
+$
+1,038
+$
+1,796
+The accompanying notes are an integral part of the unaudited consolidated financial statements.
+Cognizant Technology Solutions
+8
+June 30, 2026 Form 10-Q
+Table of Contents
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 1 — Interim Consolidated Financial Statements
+The terms “Cognizant,” “we,” “our,” “us” and “the Company” refer to Cognizant Technology Solutions Corporation and its subsidiaries unless the context indicates otherwise. We have prepared the accompanying unaudited consolidated financial statements included herein in accordance with GAAP and the Exchange Act. The accompanying unaudited consolidated financial statements should be read in conjunction w
+ith our audited consolidated financial statements (and notes thereto) included in our Annual Report on Form 10-K for the year ended December 31, 2025. In our opinion, all adjustments considered necessary for a fair statement of the accompanying unaudited consolidated financial statements have been included and all adjustments are of a normal and recurring nature. Operating results for the interim periods are not necessarily indicative of results that may be expected to occur for the entire year.
+Sale of Property and Equipment
+During the three months ended March 31, 2025, we sold an office complex in India for proceeds of $
+70
+million and recorded a gain on the transaction of $
+62
+million, which was reported in "(Gain) on sale of property and equipment" on our unaudited consolidated statement of operations.
+Accelerated Share Repurchase Agreements
+During the three months ended June 30, 2026, we entered into, and completed, ASR agreements with financial institutions to purchase our Class A common stock (the "May 2026 ASR") for consideration of $
+500
+million. In total,
+9.7
+million shares were repurchased under the May 2026 ASR at an average repurchase price of $
+51.54
+. Shares are returned to the status of authorized and unissued shares in the periods they are delivered to us under an ASR. Upfront payments related to ASRs are accounted for as a reduction to stockholders’ equity in the consolidated statements of financial position in the period the payments are made.
+Goodwill
+The Company evaluates goodwill for impairment annually as of October 31, and more frequently if events or changes in circumstances indicate that it is more likely than not that the fair value of a reporting unit has declined below its carrying amount. The Company's most recent annual impairment test, performed as of October 31, 2025, indicated that the fair value of each of the Company's reporting units exceeded its carrying amount, and that there was no impairment.
+During the quarter ended June 30, 2026, the Company's common share price and market capitalization declined, reaching a recent low, before partially recovering in July 2026. Management performed a qualitative assessment of this decline, together with other relevant events and circumstances, weighed against positive and mitigating factors and the substantial headroom established at the last annual test, and concluded that it was not more likely than not that the fair value of any of our reporting units was less than the carrying value of any of our reporting units as of June 30, 2026.
+The evaluation of whether there were indicators of impairment, and the estimation of a reporting unit's fair value, requires significant management judgment. Although the Company's share price has partially recovered from its recent low, a further decline in the Company's share price and market capitalization, or a deterioration in the operating results, cash flow projections, or other assumptions underlying the fair values of the Company's reporting units before the next annual impairment test on October 31, 2026, could require management to perform an interim quantitative impairment test.
+Cognizant Technology Solutions
+9
+June 30, 2026 Form 10-Q
+Table of Contents
+Recently Adopted Accounting Pronouncements
+Date Issued and Topic
+Date Adopted and Method
+Description
+Impact
+July 2025
+Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets
+Adopted effective January 1, 2026
+Prospective basis
+The standard is intended to simplify the measurement of credit losses for accounts receivable and contract assets by providing a practical expedient that allows an entity to assume that current conditions as of the balance sheet date do not change for the remaining life of the asset.
+Adoption did not have a significant impact on our consolidated financial statements.
+September 2025
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software
+Early adopted effective January 1, 2026
+Prospective basis
+The standard is intended to modernize the internal-use software guidance, making it easier to apply to various software development methods.
+Adoption did not have a significant impact on our consolidated financial statements.
+December 2025
+Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities
+Early adopted effective January 1, 2026
+Prospective basis
+The standard provides authoritative guidance for business entities receiving government grants, establishing rules for their recognition, measurement, presentation, and disclosure.
+Adoption did not have a significant impact on our consolidated financial statements.
+New Accounting Pronouncements
+Date Issued and Topic
+Effective Date
+Description
+Impact
+November 2024
+Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40)
+Annual period starting in 2027 and interim periods starting in 2028
+Prospective basis
+The standard is intended to improve financial reporting by requiring that public business entities disclose additional information about specific expense categories in the notes to financial statements at interim and annual reporting periods.
+We are currently evaluating the impact on our disclosures.
+December 2025
+Interim Reporting (Topic 270): Narrow-Scope Improvements
+Interim reporting periods within annual reporting periods starting in 2028
+Prospective basis
+The standard clarifies the applicability of Topic 270, provides a comprehensive list of interim disclosures, and includes a disclosure principle that requires entities to disclose events since the end of the last annual reporting period that have a material impact on the entity.
+We are currently evaluating the impact on our interim disclosures.
+Cognizant Technology Solutions
+10
+June 30, 2026 Form 10-Q
+Table of Contents
+Note 2 — Revenues and Trade Accounts Receivable
+Disaggregation of Revenues
+The tables below present disaggregated revenues from contracts with clients by client location, service line and contract type for each of our reportable business segments. We believe this disaggregation best depicts how the nature, amount, timing and uncertainty of revenues and cash flows are affected by industry, market and other economic factors. Our consulting and technology services include consulting, application development, systems integration, quality engineering and assurance services as well as software solutions and related services while our outsourcing services include application maintenance, infrastructure and security as well as business process services. Revenues are attributed to geographic regions based upon client location, which is the client's billing address. Substantially all revenues in the North America region relate to clients in the United States.
+Three Months Ended
+June 30, 2026
+Six Months Ended
+June 30, 2026
+(in millions)
+HS
+FS
+P&R
+CMT
+Total
+HS
+FS
+P&R
+CMT
+Total
+Revenues
+Geography:
+North America
+$
+1,307
+$
+1,263
+$
+918
+$
+639
+$
+4,127
+$
+2,618
+$
+2,439
+$
+1,834
+$
+1,288
+$
+8,179
+United Kingdom
+60
+165
+151
+116
+492
+117
+336
+315
+233
+1,001
+Continental Europe
+164
+167
+171
+33
+535
+332
+333
+332
+68
+1,065
+Europe - Total
+224
+332
+322
+149
+1,027
+449
+669
+647
+301
+2,066
+Rest of World
+41
+138
+82
+66
+327
+84
+269
+162
+134
+649
+Total
+$
+1,572
+$
+1,733
+$
+1,322
+$
+854
+$
+5,481
+$
+3,151
+$
+3,377
+$
+2,643
+$
+1,723
+$
+10,894
+Service line:
+Consulting and technology services
+$
+925
+$
+1,255
+$
+900
+$
+438
+$
+3,518
+$
+1,838
+$
+2,440
+$
+1,801
+$
+930
+$
+7,009
+Outsourcing services
+647
+478
+422
+416
+1,963
+1,313
+937
+842
+793
+3,885
+Total
+$
+1,572
+$
+1,733
+$
+1,322
+$
+854
+$
+5,481
+$
+3,151
+$
+3,377
+$
+2,643
+$
+1,723
+$
+10,894
+Type of contract:
+Time and materials
+$
+487
+$
+848
+$
+515
+$
+455
+$
+2,305
+$
+961
+$
+1,628
+$
+1,038
+$
+889
+$
+4,516
+Fixed-price
+803
+825
+718
+344
+2,690
+1,609
+1,633
+1,431
+741
+5,414
+Transaction or volume-based
+282
+60
+89
+55
+486
+581
+116
+174
+93
+964
+Total
+$
+1,572
+$
+1,733
+$
+1,322
+$
+854
+$
+5,481
+$
+3,151
+$
+3,377
+$
+2,643
+$
+1,723
+$
+10,894
+Cognizant Technology Solutions
+11
+June 30, 2026 Form 10-Q
+Table of Contents
+Three Months Ended
+June 30, 2025
+Six Months Ended
+June 30, 2025
+(in millions)
+HS
+FS
+P&R
+CMT
+Total
+HS
+FS
+P&R
+CMT
+Total
+Revenues
+Geography:
+North America
+$
+1,298
+$
+1,096
+$
+918
+$
+600
+$
+3,912
+$
+2,628
+$
+2,139
+$
+1,829
+$
+1,170
+$
+7,766
+United Kingdom
+51
+159
+148
+124
+482
+100
+312
+285
+242
+939
+Continental Europe
+166
+160
+159
+35
+520
+326
+307
+312
+68
+1,013
+Europe - Total
+217
+319
+307
+159
+1,002
+426
+619
+597
+310
+1,952
+Rest of World
+36
+132
+81
+82
+331
+68
+251
+158
+165
+642
+Total
+$
+1,551
+$
+1,547
+$
+1,306
+$
+841
+$
+5,245
+$
+3,122
+$
+3,009
+$
+2,584
+$
+1,645
+$
+10,360
+Service line:
+Consulting and technology services
+$
+908
+$
+1,099
+$
+918
+$
+464
+$
+3,389
+$
+1,778
+$
+2,119
+$
+1,805
+$
+913
+$
+6,615
+Outsourcing services
+643
+448
+388
+377
+1,856
+1,344
+890
+779
+732
+3,745
+Total
+$
+1,551
+$
+1,547
+$
+1,306
+$
+841
+$
+5,245
+$
+3,122
+$
+3,009
+$
+2,584
+$
+1,645
+$
+10,360
+Type of contract:
+Time and materials
+$
+495
+$
+812
+$
+580
+$
+454
+$
+2,341
+$
+976
+$
+1,576
+$
+1,136
+$
+888
+$
+4,576
+Fixed-price
+750
+687
+638
+338
+2,413
+1,541
+1,338
+1,272
+672
+4,823
+Transaction or volume-based
+306
+48
+88
+49
+491
+605
+95
+176
+85
+961
+Total
+$
+1,551
+$
+1,547
+$
+1,306
+$
+841
+$
+5,245
+$
+3,122
+$
+3,009
+$
+2,584
+$
+1,645
+$
+10,360
+Costs to Fulfill
+The following table shows significant movements in the capitalized costs to fulfill for the six months ended June 30:
+(in millions)
+2026
+2025
+Beginning balance
+$
+161
+$
+209
+Costs capitalized
+60
+20
+Amortization expense
+(
+31
+)
+(
+40
+)
+Impairment charges
+—
+(
+7
+)
+Ending balance
+$
+190
+$
+182
+Costs to obtain contracts were immaterial for the periods disclosed.
+Contract Balances
+The table below shows significant movements in contract assets (current and noncurrent) for the six months ended June 30:
+(in millions)
+2026
+2025
+Beginning balance
+$
+466
+$
+386
+Revenues recognized during the period but not billed
+550
+426
+Amounts reclassified to trade accounts receivable
+(
+403
+)
+(
+323
+)
+Amounts acquired in business combinations
+17
+—
+Ending balance
+$
+630
+$
+489
+Cognizant Technology Solutions
+12
+June 30, 2026 Form 10-Q
+Table of Contents
+The table below shows significant movements in the deferred revenue balances (current and noncurrent) for the six months ended June 30:
+(in millions)
+2026
+2025
+Beginning balance
+$
+538
+$
+480
+Amounts billed but not recognized as revenues
+394
+332
+Revenues recognized related to the beginning balance of deferred revenue
+(
+411
+)
+(
+338
+)
+Ending balance
+$
+521
+$
+474
+Revenues recognized during the six months ended June 30, 2026 for performance obligations satisfied or partially satisfied in previous periods were immaterial.
+Remaining Performance Obligations
+As of June 30, 2026, the aggregate amount of transaction price allocated to remaining performance obligations was $
+6,939
+million, of which approximately
+35
+% is expected to be recognized as revenues within
+1
+year, approximately
+55
+% is expected to be recognized as revenues within
+2
+years and approximately
+95
+% is expected to be recognized as revenues within
+5
+years. Disclosure is not required for performance obligations that meet any of the following criteria:
+(1)
+contracts with a duration of one year or less as determined under ASC Topic 606: "Revenue from Contracts with Customers,"
+(2)
+contracts for which we recognize revenues based on the right to invoice for services performed,
+(3)
+variable consideration allocated entirely to a wholly unsatisfied performance obligation or to a wholly unsatisfied promise to transfer a distinct good or service that forms part of a single performance obligation in accordance with ASC 606-10-25-14(b), for which the criteria in ASC 606-10-32-40 have been met, or
+(4)
+variable consideration in the form of a sales-based or usage-based royalty promised in exchange for a license of intellectual property.
+Many of our performance obligations meet one or more of these exemptions and therefore are not included in the remaining performance obligation amount disclosed above.
+Trade Accounts Receivable and Allowance
+for Credit Losses
+The following table presents the activity in the allowance for credit losses for trade accounts receivable for the six months ended June 30:
+(in millions)
+2026
+2025
+Beginning balance
+$
+23
+$
+26
+Credit loss (income) expense
+(1)
+(
+2
+)
+5
+Write-offs charged against the allowance
+—
+(
+5
+)
+Ending balance
+$
+21
+$
+26
+(1)
+Reported in "Selling, general and administrative expenses" in our unaudited consolidated statements of operations.
+Note 3 — Business Combinations
+On January 1, 2026, pursuant to a purchase agreement, we acquired
+100
+% ownership in 3Cloud, one of the largest independent Microsoft Azure services providers and a global leader in Azure-dedicated AI enablement solutions and products. On December 31, 2025, we placed cash consideration of $
+733
+million in escrow, which was deemed to be restricted cash and included in "Other noncurrent assets" in our consolidated statement of financial position.
+Cognizant Technology Solutions
+13
+June 30, 2026 Form 10-Q
+Table of Contents
+On June 22, 2026, pursuant to a purchase agreement, we acquired
+100
+% ownership in Astreya Partners, Inc., a global AI-first IT managed services and solutions provider.
+The allocations of preliminary purchase price to the fair value of the aggregate assets acquired and li
+abilities assumed were as follows:
+(in millions)
+3Cloud
+Astreya
+Total
+Weighted Average Useful Life
+Cash
+$
+3
+$
+31
+$
+34
+Trade accounts receivable
+26
+45
+71
+Other current assets
+2
+24
+26
+Property and equipment and other noncurrent assets
+2
+18
+20
+Operating lease assets
+—
+2
+2
+Non-deductible goodwill
+119
+407
+526
+Tax-deductible goodwill
+477
+—
+477
+Customer relationship assets
+130
+250
+380
+9.2
+years
+Other definite-lived intangible assets
+2
+1
+3
+1.0
+year
+Other current liabilities
+(
+30
+)
+(
+32
+)
+(
+62
+)
+Deferred income tax liabilities, net
+(
+3
+)
+(
+68
+)
+(
+71
+)
+Other noncurrent liabilities
+—
+(
+13
+)
+$
+(
+13
+)
+Purchase price, inclusive of contingent consideration
+1
+$
+728
+$
+665
+$
+1,393
+(1)
+The purchase price for Astreya includes a contingent consideration component with a maximum payout of $
+25
+million, valued at $
+25
+million at the date of acquisition, which is contingent upon achievement of certain business outcomes.
+Goodwill from our acquisition of 3Cloud and Astreya have been allocated across all of our reportable segments. The primary items that generated goodwill are the acquired assembled workforce and synergies between the acquired companies and us, neither of which qualify as identifiable intangible assets. The above allocations are preliminary and will be finalized as soon as practicable within the measurement period, but in no event later than one year following the dates of acquisition.
+Note 4 — Restructuring Charges
+In the second quarter of 2026, we initiated Project Leap, a program designed to accelerate our transformation to the operating model of the future by funding investments in our integrated offerings, AI capabilities and partnerships, reshaping productivity through competitive offerings and upskilling our workforce. In connection with Project Leap, we expect to record total costs of $
+230
+million to $
+320
+million consisting of $
+200
+million to $
+270
+million of employee severance and other personnel related costs and $
+30
+million to $
+50
+million of other charges.
+The costs related to Project Leap are reported in "Restructuring charges" in our unaudited consolidated statements of operations. We do not allocate these charges to individual segments in internal management reports used by the CODM. Accordingly, such expenses are separately disclosed in our segment reporting as “unallocated costs.” See
+Note 12
+.
+Project Leap charges for each of the three and six months ended June 30, 2026 were $
+84
+million and included $
+56
+million of employee separation costs and $
+28
+million of other costs. Other costs included certain facility exit costs and other costs related to Project Leap.
+Changes in our accrued employee separation costs related to Project Leap included in "Accrued expenses and other current liabilities" in our unaudited consolidated statements of financial position are presented in the table below for the six months ended June 30:
+(in millions)
+2026
+Beginning balance
+$
+—
+Employee separation costs accrued
+56
+Payments made
+(
+28
+)
+Ending balance
+$
+28
+There were
+no
+restructuring charges for the three and six months ended June 30, 2025.
+Cognizant Technology Solutions
+14
+June 30, 2026 Form 10-Q
+Table of Contents
+Note 5 — Accrued Expenses and Other Current Liabilities
+Accrued expenses and other current liabilities were as follows:
+(in millions)
+June 30, 2026
+December 31, 2025
+Compensation and benefits
+$
+1,047
+$
+1,490
+Customer volume and other incentives
+298
+317
+Liabilities related to the sale of third-party products
+373
+242
+Professional fees
+206
+193
+Income taxes
+33
+18
+Other
+482
+404
+Total accrued expenses and other current liabilities
+$
+2,439
+$
+2,664
+Note 6 — Debt
+We have a Credit Agreement providing for a $
+650
+million Term Loan and a $
+1,850
+million unsecured revolving credit facility, which are each due to mature in October 2027. During the second quarter of 2026, we borrowed $
+1,000
+million under our revolving credit facility. We are required under the Credit Agreement to make scheduled quarterly principal payments on the Term Loan.
+The Credit Agreement requires interest to be paid, at our option, at either the Term Benchmark, Adjusted Daily Simple RFR or the ABR Rate (each as defined in the Credit Agreement), plus, in each case, an Applicable Margin (as defined in the Credit Agreement). Initially, the Applicable Margin is
+0.875
+% with respect to Term Benchmark loans and RFR loans and
+0.00
+% with respect to ABR loans. Subsequently, the Applicable Margin with respect to Term Benchmark loans and RFR loans will be determined quarterly and may range from
+0.75
+% to
+1.125
+%, depending on our public debt ratings or, if we have not received public debt ratings, from
+0.875
+% to
+1.125
+%, depending on our Leverage Ratio, which is the ratio of indebtedness for borrowed money to Consolidated EBITDA, as defined in the
+Credit Agreement. Since the issuance of the Term Loan, t
+he Term Loan has been a Term Benchmark loan. The Credit Agreement contains customary affirmative and negative covenants as well as a financial covenant. We were in compliance with all debt covenants and representations of the Credit Agreement as of June 30, 2026.
+Short-term Debt
+As of each of June 30, 2026 and December 31, 2025, we had
+$
+33
+million
+of short-term debt related to current maturities of our Term Loan.
+Long-term Debt
+The following table summarizes the long-term debt balances as of:
+(in millions)
+June 30, 2026
+December 31, 2025
+Notes outstanding under revolving credit facility
+$
+1,000
+$
+—
+Term Loan
+561
+577
+Less:
+Current maturities - Term Loan
+(
+33
+)
+(
+33
+)
+Unamortized deferred financing costs
+(
+1
+)
+(
+1
+)
+Long-term debt, net of current maturities
+$
+1,527
+$
+543
+The carrying value of our debt approximated its fair value as of June 30, 2026 and December 31, 2025.
+Cognizant Technology Solutions
+15
+June 30, 2026 Form 10-Q
+Table of Contents
+Note 7 — Income Taxes
+Our effective income tax rates were as follows:
+Three Months Ended
+June 30,
+Six Months Ended
+June 30,
+2026
+2025
+2026
+2025
+Effective income tax rate
+26.4
+%
+23.4
+%
+25.2
+%
+23.9
+%
+The effective income tax rate for the six months ended June 30, 2026 was positively impacted by $
+34
+million of discrete benefits in Q1 2026, driven by the agreed terms of an anticipated conclusion of an advance pricing agreement.
+We are involved in two separate ongoing disputes with the ITD in connection with previously disclosed share repurchase transactions undertaken by CTS India in 2013 and 2016 to repurchase shares from its shareholders (non-Indian Cognizant entities) valued at $
+523
+million and $
+2.8
+billion, respectively.
+The 2016 transaction was undertaken pursuant to a plan approved by the High Court in Chennai, India, and resulted in the payment of $
+135
+million in Indian income taxes - an amount we believe includes all the applicable taxes owed for this transaction under Indian law. In March 2018, the ITD asserted that it is owed an additional
+33
+billion Indian rupees ($
+349
+million at the June 30, 2026 exchange rate) on the 2016 transaction. We deposited
+5
+billion Indian rupees, representing
+15
+% of the disputed tax amount related to the 2016 transaction, with the ITD. Additionally, certain time deposits of CTS India were placed under lien in favor of the ITD, representing the remainder of the disputed tax amount.
+In April 2020, we received a formal assessment from the ITD on the 2016 transaction, which is consistent with the ITD's previous assertions. Our appeal was ruled on unfavorably by the CITA in March 2022 and by the ITAT in September 2023. We filed an appeal against the order of the ITAT with the High Court. On January 8, 2024, the SCI ruled that, in order to proceed with the appeal, we must deposit
+30
+billion Indian rupees, representing the time deposits of CTS India under lien, on the condition that, if CTS India prevails at the High Court, the amount deposited will be returned to CTS India, along with interest accrued, within four weeks of the judgment. We made the required deposit in January 2024 and the case is pending before the High Court.
+As of June 30, 2026 and December 31, 2025, the deposit with the ITD was $
+365
+million and $
+384
+million, respectively,  presented in "Other noncurrent assets."
+The dispute in relation to the 2013 share repurchase transaction is also in litigation. At this time, the ITD has not made specific demands with regards to the 2013 transaction.
+We continue to believe we have paid all applicable taxes owed on both the 2016 and the 2013 transactions and we continue to defend our positions with respect to both matters. Accordingly, we have not recorded any reserves for these matters as of June 30, 2026.
+Note 8 — Derivative Financial Instruments
+In the normal course of business, we use foreign exchange forward contracts to manage foreign currency exchange rate risk. Derivatives may give rise to credit risk from the possible non-performance by counterparties. Credit risk is limited to the fair value of those contracts that are favorable to us.
+We have limited our credit risk by limi
+ting the amount of credit exposure with any one financial institution and conducting ongoing evaluation of the creditworthiness of the financial institutions with which we do business. In addition, all the assets and liabilities related to the foreign exchange derivative contracts set forth in the table below are subject to master netting arrangements, such as the International Swaps and Derivatives Association Master Agreement, with each individual counterparty. These master netting arrangements generally provide for net settlement of all outstanding contracts with the counterparty in the case of an event of default or a termination event. We have presented all the assets and liabilities related to the foreign exchange derivative contracts, as applicable, on a gross basis, with no offsets, in our unaudited consolidated statements of financial position. There is no financial collateral (including cash collateral) posted or received by us related to the foreign exchange derivative contracts.
+Cognizant Technology Solutions
+16
+June 30, 2026 Form 10-Q
+Table of Contents
+The following table provides information on the location and fair values of derivative financial instruments included in our unaudited consolidated statements of financial position as of:
+(in millions)
+June 30, 2026
+December 31, 2025
+Designation of Derivatives
+Location on Statement of
+Financial Position
+Assets
+Liabilities
+Assets
+Liabilities
+Foreign exchange forward contracts – Designated as cash flow hedging instruments
+Other current assets
+$
+5
+$
+—
+$
+1
+$
+—
+Other noncurrent assets
+4
+—
+—
+—
+Accrued expenses and other current liabilities
+—
+88
+—
+63
+Other noncurrent liabilities
+—
+26
+—
+22
+Total
+9
+114
+1
+85
+Foreign exchange forward contracts – Not designated as hedging instruments
+Other current assets
+1
+—
+2
+—
+Accrued expenses and other current liabilities
+—
+2
+—
+1
+Total
+1
+2
+2
+1
+Total
+$
+10
+$
+116
+$
+3
+$
+86
+Cash Flow Hedges
+We have entered and continue to enter into a series of foreign exchange derivative contracts that are designated as cash flow hedges of Indian rupee denominated payments in India. These contracts are intended to partially offset the impact of movement of the Indian rupee against the U.S. dollar on future operating costs and are scheduled to mature each month during the remainder of 2026, 2027 and the first six months of 2028. The changes in fair value of these contracts are initially reported in "Accumulated other comprehensive income (loss)" in our unaudited consolidated statements of financial position and are subsequently reclassified to earnings within "Cost of revenues" and "Selling, general and administrative expenses" in our unaudited consolidated statements of operations in the same period that the forecasted Indian rupee denominated payments are recorded in earnings. As of June 30, 2026, we estimate that $
+76
+million, net of tax, of net losses related to derivatives designated as cash flow hedges reported in "Accumulated other comprehensive income (loss)" in our unaudited consolidated statements of financial position is expected to be reclassified into earnings within the next 12 months.
+The notional value of the outstanding contracts by year of maturity was as follows:
+(in millions)
+June 30, 2026
+December 31, 2025
+2026
+$
+1,200
+$
+2,290
+2027
+1,530
+1,020
+2028
+330
+—
+Total notional value of contracts outstanding
+$
+3,060
+$
+3,310
+The activity related to the change in net unrealized gains and losses on the cash flow hedges included in "Accumulated other comprehensive income (loss)" in our unaudited consolidated statements of stockholders' equity is present
+ed in
+Note 10
+.
+Other Derivatives
+We use foreign exchange forward contracts to provide an economic hedge against balance sheet exposures to certain monetary assets and liabilities denominated in currencies other than the functional currency of our foreign subsidiaries. We entered into foreign exchange forward contracts that are scheduled to mature in the third quarter of 2026. Realized gains or losses and changes in the estimated fair value of these derivative financial instruments are recorded in the caption "Foreign currency exchange gains (losses), net" in our unaudited consolidated statements of operations.
+Cognizant Technology Solutions
+17
+June 30, 2026 Form 10-Q
+Table of Contents
+Additional information related to the outstanding foreign exchange forward contracts not designated as hedging instruments was as follows:
+(in millions)
+June 30, 2026
+December 31, 2025
+Notional
+Fair Value
+Notional
+Fair Value
+Contracts outstanding
+$
+605
+$
+(
+1
+)
+$
+748
+$
+1
+The following table provides information on the location and amounts of realized and unrealized pre-tax gains and losses on the other derivative financial instruments for the three and six months ended June 30:
+Location of Net (Losses) on Derivative Instruments
+Amount of Net (Losses) on Derivative Instruments
+(in millions)
+2026
+2025
+2026
+2025
+Foreign exchange forward contracts – Not designated as hedging instruments
+Foreign currency exchange gains (losses), net
+$
+(
+2
+)
+$
+(
+7
+)
+$
+—
+$
+(
+8
+)
+The related cash flow impacts of all the derivative activities are reflected as cash flows from operating activities.
+Note 9 — Fair Value Measurements
+We measure our cash equivalents, certain investments, contingent consideration liabilities and foreign exchange forward contracts at fair value. Fair value is the exit price, or the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants as of the measurement date. The fair value hierarchy is based on inputs to valuation techniques that are used to measure fair value that are either observable or unobservable. Observable inputs reflect assumptions market participants would use in pricing an asset or liability based on market data obtained from independent sources while unobservable inputs reflect a reporting entity’s pricing based upon their own market assumptions.
+The fair value hierarchy consists of the following three levels:
+•
+Level 1 – Inputs are quoted prices in active markets for identical assets or liabilities.
+•
+Level 2 – Inputs are quoted prices for similar assets or liabilities in an active market, quoted prices for identical or similar assets or liabilities in markets that are not active, inputs other than quoted prices that are observable and market-corroborated inputs which are derived principally from or corroborated by observable market data.
+•
+Level 3 – Inputs are derived from valuation techniques in which one or more significant inputs or value drivers are unobservable.
+The following table summarizes the financial assets and (liabilities) measured at fair value on a recurring basis as of June 30, 2026:
+(in millions)
+Level 1
+Level 2
+Level 3
+Total
+Cash equivalents:
+Money market funds
+$
+46
+$
+—
+$
+—
+$
+46
+Time deposits
+—
+330
+—
+330
+Short-term investments:
+Time deposits
+—
+1
+—
+1
+Equity investment security
+12
+—
+—
+12
+Other current assets:
+Foreign exchange forward contracts
+—
+6
+—
+6
+Other noncurrent assets:
+Foreign exchange forward contracts
+—
+4
+—
+4
+Accrued expenses and other current liabilities:
+Foreign exchange forward contracts
+—
+(
+90
+)
+—
+(
+90
+)
+Contingent consideration liabilities
+—
+—
+(
+25
+)
+(
+25
+)
+Other noncurrent liabilities:
+Foreign exchange forward contracts
+—
+(
+26
+)
+—
+(
+26
+)
+Cognizant Technology Solutions
+18
+June 30, 2026 Form 10-Q
+Table of Contents
+The following table summarizes the financial assets and (liabilities) measured at fair value on a recurring basis as of December 31, 2025:
+(in millions)
+Level 1
+Level 2
+Level 3
+Total
+Cash equivalents:
+Money market funds
+$
+24
+$
+—
+$
+—
+$
+24
+Time deposits
+—
+183
+—
+183
+Short-term investments:
+Time deposits
+—
+1
+—
+1
+Equity investment security
+12
+—
+—
+12
+Other current assets:
+Foreign exchange forward contracts
+—
+3
+—
+3
+Accrued expenses and other current liabilities:
+Foreign exchange forward contracts
+—
+(
+64
+)
+—
+(
+64
+)
+Other noncurrent liabilities:
+Foreign exchange forward contracts
+—
+(
+22
+)
+—
+(
+22
+)
+We measure the fair value of money market funds based on quoted prices in active markets for identical assets and measure the fair value of our equity investment security based on the published daily net asset value at which investors can freely subscribe to or redeem from the fund. The carrying value of the time deposits approximated fair value as of June 30, 2026 and December 31, 2025.
+We estimate the fair value of each foreign exchange forward contract by using a present value of expected cash flows model. This model calculates the difference between the current market forward price and the contracted forward price for each foreign exchange forward contract and applies the difference in the rates to each outstanding contract. The market forward rates include a discount and credit risk factor.
+We estimate the fair value of contingent consideration liabilities associated with acquisitions using a variation of the income approach, which utilizes one or more significant inputs that are unobservable. This approach calculates the fair value of such liabilities based on the probability-weighted expected performance of the acquired entity against the target performance metric, discounted to present value when appropriate.
+During the six months ended June 30, 2026 and the year ended December 31, 2025, there were no transfers among Level 1, Level 2 or Level 3 financial assets and liabilities.
+Cognizant Technology Solutions
+19
+June 30, 2026 Form 10-Q
+Table of Contents
+Note 10 — Accumulated Other Comprehensive Income (Loss)
+Changes in "Accumulated other comprehensive income (loss)" by component were as follows for the three and six months ended June 30, 2026:
+Three Months
+Six Months
+(in millions)
+Before Tax
+Amount
+Tax
+Effect
+Net of Tax
+Amount
+Before Tax
+Amount
+Tax
+Effect
+Net of Tax
+Amount
+Foreign currency translation adjustments:
+Beginning balance
+$
+(
+21
+)
+$
+(
+6
+)
+$
+(
+27
+)
+$
+11
+$
+1
+$
+12
+Change in foreign currency translation adjustments
+(
+17
+)
+1
+(
+16
+)
+(
+49
+)
+(
+6
+)
+(
+55
+)
+Ending balance
+$
+(
+38
+)
+$
+(
+5
+)
+$
+(
+43
+)
+$
+(
+38
+)
+$
+(
+5
+)
+$
+(
+43
+)
+Unrealized gains (losses) on cash flow hedges:
+Beginning balance
+$
+(
+171
+)
+$
+43
+$
+(
+128
+)
+$
+(
+84
+)
+$
+21
+$
+(
+63
+)
+Unrealized gains and (losses) arising during the period
+4
+(
+1
+)
+3
+(
+117
+)
+29
+(
+88
+)
+Reclassifications of net losses to:
+Cost of revenues
+39
+(
+10
+)
+29
+69
+(
+17
+)
+52
+SG&A expenses
+4
+(
+1
+)
+3
+8
+(
+2
+)
+6
+Net change
+47
+(
+12
+)
+35
+(
+40
+)
+10
+(
+30
+)
+Ending balance
+$
+(
+124
+)
+$
+31
+$
+(
+93
+)
+$
+(
+124
+)
+$
+31
+$
+(
+93
+)
+Changes in net defined benefit obligations:
+Beginning balance
+$
+(
+92
+)
+$
+21
+$
+(
+71
+)
+$
+(
+149
+)
+$
+40
+$
+(
+109
+)
+Gains and (losses), net of amortization
+5
+1
+6
+62
+(
+18
+)
+44
+Ending balance
+$
+(
+87
+)
+$
+22
+$
+(
+65
+)
+$
+(
+87
+)
+$
+22
+$
+(
+65
+)
+Accumulated other comprehensive income (loss):
+Beginning balance
+$
+(
+284
+)
+$
+58
+$
+(
+226
+)
+$
+(
+222
+)
+$
+62
+$
+(
+160
+)
+Other comprehensive income (loss)
+35
+(
+10
+)
+25
+(
+27
+)
+(
+14
+)
+(
+41
+)
+Ending balance
+$
+(
+249
+)
+$
+48
+$
+(
+201
+)
+$
+(
+249
+)
+$
+48
+$
+(
+201
+)
+Cognizant Technology Solutions
+20
+June 30, 2026 Form 10-Q
+Table of Contents
+Changes in "Accumulated other comprehensive income (loss)" by component were as follows for the three and six months ended June 30, 2025:
+Three Months
+Six Months
+(in millions)
+Before Tax
+Amount
+Tax
+Effect
+Net of Tax
+Amount
+Before Tax
+Amount
+Tax
+Effect
+Net of Tax
+Amount
+Foreign currency translation adjustments:
+Beginning balance
+$
+(
+164
+)
+$
+13
+$
+(
+151
+)
+$
+(
+261
+)
+$
+7
+$
+(
+254
+)
+Change in foreign currency translation adjustments
+204
+(
+7
+)
+197
+301
+(
+1
+)
+300
+Ending balance
+$
+40
+$
+6
+$
+46
+$
+40
+$
+6
+$
+46
+Unrealized gains (losses) on cash flow hedges:
+Beginning balance
+$
+4
+$
+(
+1
+)
+$
+3
+$
+(
+34
+)
+$
+9
+$
+(
+25
+)
+Unrealized gains arising during the period
+14
+(
+3
+)
+11
+44
+(
+11
+)
+33
+Reclassifications of net (gains) and losses to:
+Cost of revenues
+(
+1
+)
+—
+(
+1
+)
+6
+(
+1
+)
+5
+SG&A expenses
+—
+—
+—
+1
+(
+1
+)
+—
+Net change
+13
+(
+3
+)
+10
+51
+(
+13
+)
+38
+Ending balance
+$
+17
+$
+(
+4
+)
+$
+13
+$
+17
+$
+(
+4
+)
+$
+13
+Changes in net defined benefit obligations:
+Beginning balance
+$
+(
+20
+)
+$
+3
+$
+(
+17
+)
+$
+(
+20
+)
+$
+3
+$
+(
+17
+)
+Gains and (losses), net of amortization
+1
+—
+1
+1
+—
+1
+Ending balance
+$
+(
+19
+)
+$
+3
+$
+(
+16
+)
+$
+(
+19
+)
+$
+3
+$
+(
+16
+)
+Accumulated other comprehensive income (loss):
+Beginning balance
+$
+(
+180
+)
+$
+15
+$
+(
+165
+)
+$
+(
+315
+)
+$
+19
+$
+(
+296
+)
+Other comprehensive income (loss)
+218
+(
+10
+)
+208
+353
+(
+14
+)
+339
+Ending balance
+$
+38
+$
+5
+$
+43
+$
+38
+$
+5
+$
+43
+Note 11— Commitments and Contingencies
+We are involved in various claims and legal proceedings arising in the ordinary course of business. We accrue a liability when a loss is considered probable and the amount can be reasonably estimated. When a material loss contingency is reasonably possible but not probable, we do not record a liability, but instead disclose the nature and the amount of the claim, and an estimate of the loss or range of loss, if such an estimate can be made. Legal fees are expensed as incurred. While we do not expect that the ultimate resolution of any existing claims and proceedings (other than the specific matters described below, if decided adversely), individually or in the aggregate, will have a material adverse effect on our financial position, an unfavorable outcome in some or all of these proceedings could have a material adverse impact on results of operations or cash flows for a particular period. This assessment is based on our current understanding of relevant facts and circumstances. As such, our view of these matters is subject to inherent uncertainties and may change in the future.
+On January 15, 2015, Syntel sued TriZetto and Cognizant in the USDC-SDNY. Syntel’s complaint alleged breach of contract against TriZetto, and tortious interference and misappropriation of trade secrets against Cognizant and TriZetto, stemming from Cognizant’s hiring of certain former Syntel employees. Cognizant and TriZetto countersued on March 23, 2015, for breach of contract, misappropriation of trade secrets and tortious interference, based on Syntel’s misuse of TriZetto confidential information and abandonment of contractual obligations. Cognizant and TriZetto subsequently added federal DTSA
+and copyright infringement claims for Syntel’s misuse of TriZetto’s proprietary technology. The parties’ claims were narrowed by the
+court and the case was tried before a jury, which on October 27, 2020 returned a verdict in favor of Cognizant in the amount of $
+855
+million, including $
+570
+million in punitive damages. On April 20, 2021, the USDC-SDNY issued a post-trial order that, among other things, affirmed the jury’s award of $
+285
+million in actual damages, but reduced the award of punitive damages from $
+570
+million to $
+285
+million, thereby reducing the overall damages award from $
+855
+million to $
+570
+million. The USDC-SDNY subsequently issued a final judgment consistent with the April 20
+th
+order. On May 26, 2021, Syntel filed a notice of appeal to the Second Circuit, and on June 3, 2021 the USDC-SDNY stayed execution of judgment pending appeal. On May 25, 2023, the Second Circuit issued an opinion affirming in part and vacating in part the judgment of the USDC-SDNY and remanding the case for further proceedings consistent with its opinion. The Second Circuit affirmed the judgment in all respects on liability but vacated the $
+570
+million award that had been based on avoided development costs under the DTSA, and it remanded the case to the USDC-SDNY for further evaluation of damages. On June 23, 2023, the
+Cognizant Technology Solutions
+21
+June 30, 2026 Form 10-Q
+Table of Contents
+Second Circuit issued its mandate returning the case to the USDC-SDNY. On March 13, 2024, the USDC-SDNY issued a ruling that vacated the alternate compensatory damages awards that were within the scope of the Second Circuit’s remand and awarded TriZetto and Cognizant approximately $
+15
+million in attorney’s fees. On October 23, 2024, the USDC-SDNY granted TriZetto and Cognizant’s motion for a new trial on the amount of compensatory damages owed to TriZetto and Cognizant. On June 24, 2025, the parties proceeded to trial, and on June 30, 2025, the jury returned a verdict in favor of TriZetto and Cognizant, awarding $
+70
+million in compensatory damages. On March 27, 2026, the USDC-SDNY issued an order on post-trial motions that brought Cognizant’s award up to approximately $
+298
+million, comprising compensatory damages, punitive damages, pre-judgment interest, and attorney’s fees. The USDC-SDNY also awarded post-judgment interest, which will be added to the total award. On April 29, 2026, the USDC-SDNY entered judgment. On May 19, 2026 Syntel filed a notice of appeal. Thus, we will not record any gain in our financial statements until it becomes realizable.
+On February 28, 2019, a ruling of the SCI interpreting the India Defined Contribution Obligation altered historical understandings of the obligation under the Employees’ Provident Fund and Miscellaneous Provision Act, 1952, extending it to cover additional portions of the employee’s income. As a result, the ongoing contributions of our affected employees and the Company were required to be increased. In the first quarter of 2019, we accrued $
+117
+million with respect to prior periods, assuming retroactive application of the SCI’s ruling, in "Selling, general and administrative expenses" in our unaudited consolidated statement of operations. As a result of the depreciation on the Indian rupee against the U.S. dollar and other adjustments, the liability as of March 31, 2026 was $
+101
+million and was presented in "Accrued expenses and other current liabilities" in our unaudited consolidated statement of financial position.
+The Labor Code, which was implemented in November 2025, was designed to repeal and replace the Employees’ Provident Fund and Miscellaneous Provisions Act, 1952, subject to the issuance of applicable rules. The Social Security Rules were published by the government of India in May 2026. Additionally, the government of India notified the Employees Provident Fund Scheme of 2026 in June 2026. As a result of these developments, management concluded that the liability relating to periods where no proceedings had been initiated by the government is no longer required. Thus, in the second quarter of 2026, management recorded a benefit of $
+81
+million in "Selling, general and administrative expenses" in our unaudited consolidated statement of operations. The remaining balance of the liability as of June 30, 2026 was $
+20
+million.
+On October 31, 2016, November 15, 2016 and November 18, 2016, three putative shareholder derivative complaints were filed in New Jersey Superior Court, Bergen County, naming us, all of our then current directors and certain of our current and former officers at that time as defendants. These actions were consolidated in an order dated January 24, 2017. The complaints asserted claims for breach of fiduciary duty, corporate waste, unjust enrichment, abuse of control, mismanagement, and/or insider selling by defendants. On April 26, 2017, the New Jersey Superior Court deferred further proceedings by dismissing the consolidated putative shareholder derivative litigation without prejudice but permitting the parties to file a motion to vacate the dismissal in the future.
+On February 22, 2017, April 7, 2017, May 10, 2017 and March 11, 2019, four additional putative shareholder derivative complaints were filed in the USDC-NJ, naming us and certain of our current and former directors and officers at that time as defendants. These actions were consolidated in an order dated May 14, 2019. On August 3, 2020, lead plaintiffs filed a consolidated amended complaint. The consolidated amended complaint asserted claims similar to those in the previously-filed putative shareholder derivative actions. On February 14, 2022, we and certain of our current and former directors and officers moved to dismiss the consolidated amended complaint. On September 27, 2022, the USDC-NJ granted those motions and dismissed the consolidated amended complaint in its entirety with prejudice. Plaintiffs filed a notice of appeal on October 27, 2022. On May 3, 2024, the Third Circuit affirmed the dismissal of the consolidated amended complaint.
+On June 1, 2021, an eighth putative shareholder derivative complaint was filed in the USDC-NJ, naming us and certain of our current and former directors and officers at that time as defendants. The complaint asserts claims similar to those in the previously-filed putative shareholder derivative actions. On March 31, 2022, we and certain of our current and former directors and officers moved to dismiss the complaint. On November 30, 2022, the USDC-NJ denied without prejudice those motions. The USDC-NJ ordered the parties to conduct limited discovery related to the issue of whether our board of directors wrongfully refused the plaintiff’s earlier litigation demand and, after the conclusion of such limited discovery, to file targeted motions for summary judgment on the issue of wrongful refusal. On July 25, 2025, we reached an agreement in principle to settle this lawsuit, which later was approved by our board of directors and the individual defendants. On November 26, 2025, plaintiff filed an unopposed motion for preliminary approval of the settlement, which contemplates a payment to Cognizant. On June 30, 2026, the court entered an order preliminarily approving the settlement and scheduled a hearing on September 14, 2026 to determine whether to enter an order finally approving the settlement. The amount of the settlement is expected to be immaterial to the Company’s consolidated financial statements.
+See
+Note 7
+for information relating to the ITD Dispute.
+Cognizant Technology Solutions
+22
+June 30, 2026 Form 10-Q
+Table of Contents
+On September 18, 2017, three former employees filed suit against Cognizant in the USDC-CDCA, alleging that they and similarly situated employees suffered disparate treatment on the basis of race in violation of 42 U.S.C. § 1981. Plaintiffs subsequently amended their complaint three times, adding a fourth former employee plaintiff and claims for both disparate treatment and disparate impact on the basis of race and national origin under Title VII
+and disparate treatment and disparate impact on the basis of race and national origin under Title VII. Plaintiffs filed the operative Third Amended Complaint-Corrected on January 19, 2021. Cognizant filed its answer on January 29, 2021.
+On May 13, 2022, plaintiffs filed a motion requesting that the USDC-CDCA certify the case as a class action for two putative classes of plaintiffs consisting of: (1) all individuals who are not of South Asian race or Indian national origin who applied to Cognizant in the U.S. and were not hired since September 2013 (the “hiring class”); and (2) all individuals who are not of South Asian race or Indian national origin who have been terminated in the U.S. since September 2013 (the “terminations class”). Cognizant opposed. On October 27, 2022, the court denied certification for the hiring class and the terminations class. However, the court granted certification for a sub-set of the terminations class limited to approximately 2,300 former employees whose employment had been terminated from the “bench,” a designation for employees who are not allocated to an active project. On November 10, 2022, Cognizant filed a petition with the Ninth Circuit requesting permission to appeal the class certification order as to the bench terminations class. The Ninth Circuit denied the petition on January 26, 2023.
+From June 13, 2023 to June 26, 2023, the USDC-CDCA held a class action jury trial on the first phase of plaintiffs’ Section 1981 claim and Title VII disparate treatment claim. The questions presented were whether Cognizant engaged in a pattern or practice of discrimination against non-South Asian and non-Indian employees with respect to bench terminations, and if so, whether punitive damages are available for class members who prevail on their claims. The jury deadlocked, and the court declared a mistrial.
+The case proceeded to a retrial on September 24, 2024, and on October 4, 2024, the jury returned a verdict in favor of plaintiffs. On December 5, 2025, the USDC-CDCA awarded plaintiffs $16 million in interim attorneys’ fees and costs; and separately found in plaintiffs’ favor on their claim that Cognizant policies had a disparate impact on non-South Asian and non-Indian employees in view of the same evidence presented at the retrial.  In addition to trials on certain non-class claims, the  case will now proceed to the second phase to determine individualized liability and damages, if any, for each class member. As a result of the verdict, each non-South Asian and non-Indian class member who pursues claims in the second phase will be entitled to a rebuttable presumption that all termination decisions were discriminatory and to the possibility of recovering punitive damages if they prevail. We believe that class certification was improper, and that the second phase of the case will confirm that individualized issues should have precluded class certification. Cognizant will continue to vigorously defend itself and pursue all available appellate arguments concerning class certification, the September 24, 2024 trial, and related orders at the appropriate time. Because we cannot predict the number of individual plaintiffs who will proceed to the second phase, or the outcome of those cases, and in view of the appellate arguments regarding class certification, we are unable to reasonably estimate a possible loss or range of loss. We have not recorded any accruals related to the ultimate outcome of this matter.
+Many of our engagements involve projects that are critical to the operations of our clients’ business and provide benefits that are difficult to quantify. Any failure in a client’s systems or our failure to meet our contractual obligations to our clients, including any breach involving a client’s confidential information or sensitive data, or our obligations under applicable laws or regulations could result in a claim for substantial damages against us, regardless of our responsibility for such failure. Although we attempt to contractually limit our liability for damages arising from negligent acts, errors, mistakes, or omissions in rendering our services, there can be no assurance that the limitations of liability set forth in our contracts will be enforceable in all instances or will otherwise protect us from liability for damages. Although we have general liability insurance coverage, including coverage for errors or omiss
+ions, we retain a significant portion of risk through our insurance deductibles and the
+re can be no assurance that such coverage will cover all types of claims, continue to be available on reasonable terms or will be available in sufficient amounts to cover one or more large claims, or that the insurer will not disclaim coverage as to any future claim. The successful assertion of one or more large claims against us that exceed or are not covered by our insurance coverage or changes in our insurance policies, including premium increases or the imposition of large deductible or co-insurance requirements, could have a material adverse effect on our business, results of operations, financial position and cash flows for a particular period.
+In the normal course of business and in conjunction with certain client engagements, we have entered into contractual arrangements through which we may be obligated to indemnify clients or other parties with whom we conduct business with respect to certain matters. These arrangements can include provisions whereby we agree to hold the indemnified party and certain of their affiliated entities harmless with respect to third-party claims related to such matters as our breach of certain representations or covenants, our intellectual property infringement, our gross negligence or willful misconduct or certain other claims made against certain parties. Payments by us under any of these arrangements are generally conditioned on the client making a claim and providing us with full control over the defense and settlement of such claim. It is not possible to determine
+Cognizant Technology Solutions
+23
+June 30, 2026 Form 10-Q
+Table of Contents
+the maximum potential liability under these indemnification agreements due to the unique facts and circumstances involved in each particular agreement. Historically, we have not made material payments under these indemnification agreements and therefore they have not had a material impact on our operating results, financial position, or cash flows. However, if events arise requiring us to make payment for indemnification claims under our indemnification obligations in contracts we have entered, such payments could have a material adverse effect on our business, results of operations, financial position and cash flows for a particular period.
+Note 12 — Segment Information
+Our chief executive officer is our chief operating decision maker. Our CODM regularly reviews the performance of our business by four industry-based operating segments, which are our
+four
+reportable business segments: Health Sciences, Financial Services, Products and Resources, and Communications, Media and Technology.
+We have an industry-led go-to-market strategy, with client partners, account executives and client relationship managers aligned to the specific industries they serve. Our CODM is regularly provided segment revenues and operating profit, including budget‑to‑actual variances in segment revenue, to formulate industry-focused strategic priorities, allocate financial resources, set targets and key performance indicators, and evaluate the results of such strategies.
+In the first quarter of 2026, we made certain changes to the internal measurement of segment operating profit for the purpose of evaluating segment performance and resource allocation. The primary reason for the change was to reflect a more complete cost of delivery. Specifically, segment operating profit now includes the allocation of corporate costs, which were previously included in "unallocated costs", including amortization expense related to acquired intangible assets. Beginning in 2026, segment operating profits have been reported using the new allocation methodology and we have recast the 2025 results to conform to the new methodology.
+Revenue from each client is attributed to the operating segment that is most closely aligned with the client's business we serve. Segment operating profit represents income from operations excluding unusual items, such as Project Leap charges (See
+Note 4
+) and the partial reversal of the 2019 India Defined Contribution Obligation liability in the second quarter of 2026 (See
+Note 11
+), and the gain on sale of property and equipment in the first quarter of 2025 (See
+Note 1
+), which are presented as unallocated benefits/costs. Our CODM is not regularly provided with segment expenses.
+We do not disclose assets by segment as a significant portion of the assets is used interchangeably among the segments and our CODM is not provided such information.
+Information by reportable segment were as follows:
+Three Months Ended June 30, 2026
+Six Months Ended June 30, 2026
+(in millions)
+HS
+FS
+P&R
+CMT
+Total
+HS
+FS
+P&R
+CMT
+Total
+Revenues
+$
+1,572
+$
+1,733
+$
+1,322
+$
+854
+$
+5,481
+$
+3,151
+$
+3,377
+$
+2,643
+$
+1,723
+$
+10,894
+Less: Other segment items
+1,260
+1,456
+1,157
+731
+4,604
+2,524
+2,848
+2,300
+1,502
+9,174
+Segment operating profit
+$
+312
+$
+277
+$
+165
+$
+123
+$
+877
+$
+627
+$
+529
+$
+343
+$
+221
+$
+1,720
+Unallocated benefits/(costs)
+(
+3
+)
+(
+3
+)
+Income from operations
+$
+874
+$
+1,717
+Three Months Ended June 30, 2025
+Six Months Ended June 30, 2025
+(in millions)
+HS
+FS
+P&R
+CMT
+Total
+HS
+FS
+P&R
+CMT
+Total
+Revenues
+$
+1,551
+$
+1,547
+$
+1,306
+$
+841
+$
+5,245
+$
+3,122
+$
+3,009
+$
+2,584
+$
+1,645
+$
+10,360
+Less: Other segment items
+1,259
+1,297
+1,139
+733
+4,428
+2,542
+2,516
+2,238
+1,456
+8,752
+Segment operating profit
+$
+292
+$
+250
+$
+167
+$
+108
+$
+817
+$
+580
+$
+493
+$
+346
+$
+189
+$
+1,608
+Unallocated benefits/(costs)
+—
+62
+Income from operations
+$
+817
+$
+1,670
+Other segment items for each reportable segment primarily include employee compensation and benefits, subcontractor costs, costs of third-party products and services and travel expenses.
+Cognizant Technology Solutions
+24
+June 30, 2026 Form 10-Q
+Table of Contents
+Geographic Area Information
+Long-lived assets by geographic area are as follows:
+As of
+(in millions)
+June 30, 2026
+December 31, 2025
+Long-lived Assets:
+(1)
+North America
+(2)
+$
+331
+$
+300
+Europe
+66
+67
+Rest of World
+(3)
+584
+566
+Total
+$
+981
+$
+933
+(1)
+Long-lived assets include property and equipment, net of accumulated depreciation and amortization.
+(2)
+Substantially all relates to the United States.
+(3)
+Substantially all relates to India.
+Note 13 — Subsequent Events
+Dividend
+On July 27, 2026, the Board of Directors approved the Company's declaration of a $
+0.33
+per share dividend with a record date of August 18, 2026 and a payment date of August 25, 2026.
+Cognizant Technology Solutions
+25
+June 30, 2026 Form 10-Q
+Table of Contents
+Item 2.     Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+Executive Summary
+Cognizant is one of the world’s leading professional services companies, engineering modern businesses and delivering strategic outcomes for our clients. We help clients modernize technology, reimagine processes and transform experiences so they can stay ahead in today's fast-changing world, where AI is reshaping organizations in every field. As an AI builder, we provide deep expertise at the intersection of industry and technology, combining our perspective with extensive knowledge of our clients' organizations to build industry-specific platforms and incorporate context into systems, AI models and custom solutions. We tailor our services and solutions to specific industries with an integrated global delivery model that employs client service and delivery teams based at client locations and dedicated global and regional delivery centers. Our services include consulting, application development, systems integration, quality engineering and assurance, engineering research and development, application maintenance, infrastructure and security as well as business process services and automation.
+In the second quarter of 2026, we
+initiated Pr
+oject Leap, a program designed to accelerate our transformation to the operating model of the future by funding investments in our integrated offerings, AI capabilities and partnerships, reshaping productivity through competitive offerings and upskilling our workforce. By fostering a workforce that is properly sized, AI-enabled and possesses the skills required for success as well as optimizing our technology footprint, we aim to streamline operations and enhance productivity through AI-led efficiencies, creating a more agile and cost-effective operating model.
+In connection with Project Leap, in the second quarter of 2026 we incurred $84 million of employee separation and other costs. See
+Note 4
+to our unaudited consolidated financial statements. We expect to record total costs of
+$230 million to $320 million, with substantially all of the costs expected to be incurred in 2026. Cash payments related to the costs are expected to be made primarily over the same period. This consists of $200 million to $270 million of employee severance and other personnel related costs and $30 million to $50 million of other charges. This program is expected to generate in-year savings of approximately $200 million to $300 million in 2026, which will be used primarily to fund investments as described above. The estimates of the charges and expenditures that we expect to incur in connection with Project Leap, the
+timing thereof, and the savings expected to be generated are subject to a number of assumptions, including local law requirements in various jurisdictions, and actual amounts may differ materially from estimates. In addition, we may incur other charges or cash expenditures not currently contemplated due to unanticipated events that may occur in connection with Project Leap.
+As disclosed in
+Note 1
+1
+to our unaudited consolidated financial statements,
+management concluded that the portion of the India Defined Contribution Obligation liability recorded in 2019 that relates to periods where no proceedings had been initiated by the government is no longer required. Thus, in the second quarter of 2026, we recorded a benefit of $81 million in "Selling, general and administrative expenses" in our unaudited consolidated statement of operations.
+During the second quarter of 2026, we repurchased $1,153 million of our Class
+A common stock under our stock repurchase program: $653 million through open market purchases and $500 million through ASR agreements. Additionally, we completed our acquisition of Astreya for a purchase price of $63
+4 million, including contingent consideration of $25 million,
+net of cash acquired, while borrowing
+$1,000 million under our revolving credit facility. We remain focused on our long-term capital allocation framework, including the flexibility to pursue strategic acquisitions.
+Cognizant Technology Solutions
+26
+June 30, 2026 Form 10-Q
+Table of Contents
+Q2 2026 Financial Results
+1
+Revenue
+Income from Operations
+Operating Margin
+Diluted EPS
+GAAP
+Adjusted
+1
+GAAP
+Adjusted
+1
+GAAP
+Adjusted
+1
+Revenue up $236 million or 4.5% from Q2 2025; an increase of 4.1% in constant currency
+1
+Income from Operations up $57 million or 7.0% from Q2 2025
+Adjusted Income from Operations
+1
+up $60 million or 7.3% from Q2 2025
+Operating margin up 30 bps from Q2 2025
+Adjusted Operating Margin
+1
+up 40 bps from Q2 2025
+Diluted EPS up $0.05 or 3.8% from Q2 2025
+Adjusted Diluted EPS
+1
+up $0.06 or 4.6% from Q2 2025
+During the quarter ended June 30, 2026, revenues increased by $236 million as compared to the quarter ended June 30, 2025, representing growth of 4.5%, or 4.1% on a constant currency
+1
+basis. Revenue growth was positively impacted by the ramp up of several recently won large deals and increasing demand for our intuitive operations and automation services as well as our AI and analytics services. Additionally, revenue growth was positively impacted by the sale of third-party products in connection with our integrated offerings strategy and our recently completed acquisitions. See 'Revenues - Reportable Business Segments and Geographic Markets' within
+Results of Operations
+for further details.
+Our GAAP operating margin increased to 15.9% for the quarter ended June 30, 2026 from 15.6% for the quarter ended June 30, 2025. Our Adjusted Operating Margin
+1
+increased to 16.0% for the quarter ended June 30, 2026 from 15.6% for the quarter ended June 30, 2025. Our operating margins for the quarter ended June 30, 2026, as compared to the quarter ended June 30, 2025, were positively impacted by operational efficiencies and the beneficial impact of foreign currency exchange rate movements, partially offset by increased compensation costs, the dilutive impact of our recently completed acquisitions and the impact of the sale of third-party products in connection with our integrated offerings strategy. In addition, our GAAP operating margin for the quarter ended June 30, 2026 was negatively impacted by $84 million in costs related to Project Leap (see
+Note 4
+) and positively impacted by the $81 million partial reversal of the 2019 India Defined Contribution Obligation liability (see
+Note 1
+1
+), both of which were excluded from our Adjusted Operating Margin.
+As a global professional services company, we compete on the basis of the knowledge, experience, insights, skills and talent of our employees and the value they can provide to our clients. We closely monitor attrition trends focusing on the metric that we believe is most relevant to our business. During the first quarter of 2026, we modified our definition of Voluntary Attrition - Tech Services to exclude certain categories of negotiated separations and have recast prior periods to conform to the new definition. For the trailing twelve months ended June 30, 2026, our Voluntary Attrition - Tech Services was 13.0% as compared to 12.6% for the trailing twelve months ended June 30, 2025. We finished the second quarter of 2026 with approximately 356,700 employees as compared to 343,800 employees at the end of the second quarter of 2025.
+1
+Adjusted Income from Operations, Adjusted Operating Margin, Adjusted Diluted EPS and constant currency revenue growth are not measures of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures, as applicable.
+Cognizant Technology Solutions
+27
+June 30, 2026 Form 10-Q
+Table of Contents
+Business Outlook
+We continue to expect our clients' focus to be on their transformation into AI-ready, technology-driven, data-enabled, customer-centric and differentiated businesses
+.
+To support this transformation and drive greater business resiliency, clients have demanded and may increasingly
+demand services and solutions that deliver productivity and cost savings.
+We believe clients will continue to contend with industry-specific changes driven by evolving digital technologies, uncertainty in the regulatory environment, industry consolidation and convergence as well as international trade policie
+s, including tariffs, and other macroeconomic and geopolitical factors. This includes the uncertainty related to the global economy, which has affected and may continue to affect their demand for our services and discretionary work.
+We increasingly use AI-based technologies, including GenAI, in our client offerings and our own internal operations. AI technologies and services are part of a highly competitive and rapidly evolving market. We plan to continue to make significant investments in our AI capabilities to meet the needs of our clients and harness AI's value in a flexible, secure, scalable and responsible way. As AI-based technologies or other forms of automation evolve, demand for some services that we currently perform for our clients may be reduced, and our ability to obtain favorable pricing or other terms for some of our services may be diminished.
+Potential tax law and other regulatory and administrative changes, including judicial decisions thereon, may impact our future results.
+The government of India implemented labor law reforms effective November 21, 2025, including the Code on Social Security, 2020, and additionally published The Social Security Rules in May 2026 and notified the Employees Provident Fund Scheme of 2026 in June 2026. The government of India continues to issue clarifications on various aspects of the Labor Code, and certain Indian states are yet to notify or operationalize their corresponding rules. The outcome of these clarifications could impact our compensation and benefit expenses in India.
+In addition, in March 2024, India and Mauritius signed a Protocol to amend the India-Mauritius Income Tax Treaty. We continue to evaluate the potential impact of the amendment, which, depending on its final terms when entered into force, could increase our effective income tax rate, as CTS India is a subsidiary of our wholly-owned Mauritius entity. For additional information, see "Part I, Item 1A. Risk Factors" in our Annual Report on Form 10-K for the year ended December 31, 2025.
+Cognizant Technology Solutions
+28
+June 30, 2026 Form 10-Q
+Table of Contents
+Results of Operations
+Three Months Ended June 30, 2026 Compared to Three Months Ended June 30, 2025
+The following table sets forth, for the periods indicated, certain financial data for the three months ended June 30:
+% of
+% of
+Increase / Decrease
+(Dollars in millions, except per share data)
+2026
+Revenues
+2025
+Revenues
+$
+%
+Revenues
+$
+5,481
+100.0
+$
+5,245
+100.0
+$
+236
+4.5
+Operating expenses:
+Cost of revenues
+(a)
+3,652
+66.6
+3,479
+66.3
+173
+5.0
+Selling, general and administrative expenses
+(a)
+728
+13.3
+810
+15.4
+(82)
+(10.1)
+Restructuring charges
+84
+1.5
+—
+—
+84
+N/A
+Depreciation and amortization expense
+143
+2.6
+139
+2.7
+4
+2.9
+Income from operations and operating margin
+874
+15.9
+817
+15.6
+57
+7.0
+Other income (expense), net
+1
+25
+(24)
+(96.0)
+Income before provision for income taxes
+875
+16.0
+842
+16.1
+33
+3.9
+Provision for income taxes
+(231)
+(197)
+(34)
+17.3
+Income (loss) from equity method investments
+(8)
+—
+(8)
+N/A
+Net income
+$
+636
+11.6
+$
+645
+12.3
+$
+(9)
+(1.4)
+Diluted EPS
+$
+1.36
+$
+1.31
+$
+0.05
+3.8
+Other Financial Information
+2
+Adjusted Income from Operations and Adjusted Operating Margin
+$
+877
+16.0
+$
+817
+15.6
+$
+60
+7.3
+Adjusted Diluted EPS
+$
+1.37
+$
+1.31
+$
+0.06
+4.6
+(a)
+Exclusive of depreciation and amortization expense.
+2
+N/A    Not Applicable
+2
+Adjusted Income from Operations, Adjusted Operating Margin and Adjusted Diluted EPS are not measures of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures, as applicable.
+Cognizant Technology Solutions
+29
+June 30, 2026 Form 10-Q
+Table of Contents
+Revenues - Reportable Business Segments and Geographic Markets
+Revenues of $5,481 million across our business segments and geographies were as follows for the three months ended June 30, 2026:
+Q2 2026 as compared to Q2 2025
+Increase
+(Dollars in millions)
+$
+%
+CC %
+3
+Health Sciences
+21
+1.4
+1.0
+Financial Services
+186
+12.0
+11.7
+Products and Resources
+16
+1.2
+0.7
+CMT
+13
+1.5
+1.4
+Total revenues
+$
+236
+4.5
+4.1
+Q2 2026 as compared to Q2 2025
+Increase/(Decrease)
+(Dollars in millions)
+$
+%
+CC %
+3
+North America
+$
+215
+5.5
+5.5
+United Kingdom
+10
+2.1
+1.5
+Continental Europe
+15
+2.9
+0.1
+Europe - Total
+25
+2.5
+0.8
+Rest of World
+(4)
+(1.2)
+(1.5)
+Total revenues
+$
+236
+4.5
+4.1
+Foreign currency exchange movements impacted revenue across segments and geographies, excluding North America, as shown in the tables above. Constant currency revenue growth was driven by the following factors:
+3
+•    Revenue across all geographies, primarily in our Financial Services segment, was positively impacted by the ramp up of several recently won large deals and increasing demand for our intuitive operations and automation services as well as our AI and analytics services;
+•    The sale of third-party products in connection with our integrated offerings strategy contributed 170 basis points to overall revenue growth. These sales contributed 175 basis points of growth to our North America region and 350 basis points of growth to our Continental Europe region. These sales contributed 350 basis points of growth to our Communications Media and Technology segment, 250 basis points of growth to our Financial Services segment and 125 basis points of growth to our Products and Resources segment;
+•    Our recently completed acquisitions contributed approximately 100 basis points to overall revenue growth, across all segments in North America;
+•    Our Products and Resources segment saw softer discretionary spend among retail, consumer goods, travel and hospitality customers, which was partially offset by increased demand in manufacturing, logistics, energy and utilities customers;
+•    Our Communications Media and Technology segment has seen and may continue to see weakness among communications and media customers (in all geographies), partially offset by growth in technology customers (primarily in North America).
+3
+Constant currency revenue growth is not a measure of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures, as applicable.
+Cognizant Technology Solutions
+30
+June 30, 2026 Form 10-Q
+Table of Contents
+Cost of Revenues (Exclusive of Depreciation and Amortization Expense)
+é
+$173M
+é
+0.3% as a % of revenues
+¡
+% of Revenues
+Our cost of revenues consists primarily of salaries, incentive-based compensation, stock-based compensation expense, employee benefits, project-related immigration and travel for technical personnel, subcontracting and costs of third-party products and services relating to revenues. The increase, as a percentage of revenues, was primarily driven by the impact of the sale of third-party products in connection with our integrated offerings strategy and increased compensation costs, partially offset by the beneficial impact of foreign currency exchange rate movements.
+SG&A Expenses (Exclusive of Depreciation and Amortization Expense)
+SG&A expenses consist primarily of salaries, incentive-based compensation, stock-based compensation expense, employee benefits, immigration, travel, marketing, communications, management, finance, administrative and occupancy costs. The decrease, as a percentage of revenues, was primarily driven by the $81 million partial reversal of the 2019 India Defined Contribution Obligation liability and operational efficiencies, partially offset by the dilutive impact of our recently completed acquisitions.
+ê
+82M
+ê
+2.1% as a % of revenues
+¡
+% of Revenues
+Restructuring Charges
+Restructuring charges consist of costs related to Project Leap. Restructuring charges were $84 million, or 1.5% as a percentage of revenue, for the three months ended June 30, 2026. For further detail on our restructuring charges see
+Note 4
+to our unaudited consolidated financial statements.
+Depreciation and Amortization Expense
+Depreciation and amortization expense increased by 2.9% during the second quarter of 2026 as compared to the second quarter of 2025. The increase was driven by amortization expense from intangible assets related to our recently completed acquisitions.
+Operating Margin and Adjusted Operating Margin
+4
+- Overall
+The increase in our GAAP and Adjusted Operating Margins
+4
+for the quarter ended June 30, 2026, as compared to the quarter ended June 30, 2025, was primarily driven by operational efficiencies and the beneficial impact of foreign currency exchange rate movements, partially offset by increased compensation costs, the dilutive impact of our recently completed acquisitions and the impact of the sale of third-party products in connection with our integrated offerings strategy. In addition, our GAAP operating margin for the quarter ended June 30, 2026 was negatively impacted by $84 million in costs related to Project Leap and positively impacted by the $81 million partial reversal of the 2019 India Defined Contribution Obligation liability, both of which were excluded from our Adjusted Operating Margin.
+A predominant portion of our costs in India are denominated in the Indian rupee, representing approximately 22% of our global operating costs during the three months ended June 30, 2026. These costs are subject to foreign currency exchange rate fluctuations, which have an impact on our results of operations. We enter into foreign exchange derivative contracts to hedge certain Indian rupee denominated payments in India. These hedges are intended to mitigate the volatility of the changes in the exchange rate between the U.S. dollar and the Indian rupee. Net of the impact of the hedges, the depreciation of the Indian rupee positively impacted our operating margin for the three months ended June 30, 2026 by approximately 100 basis points as compared to the three months ended June 30, 2025.
+4
+Adjusted Income from Operations and Adjusted Operating Margin are not measures of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures, as applicable.
+Cognizant Technology Solutions
+31
+June 30, 2026 Form 10-Q
+Table of Contents
+Excluding the impact of applicable designated cash flow hedges, the depreciation of the Indian rupee against the U.S. dollar positively impacted our operating margin by approximately 180 basis points during the three months ended June 30, 2026. Each additional 1.0% change in exchange rate between the Indian rupee and the U.S. dollar will have the effect of moving our operating margin by 17 basis points (excluding the impact of the hedges).
+The settlement of our cash flow hedges had a negative impact of approximately 80 basis points on our operating margin during the three months ended June 30, 2026, compared to no impact during the three months ended June 30, 2025.
+Segment Operating Profit
+In the first quarter of 2026, we made certain changes to the internal measurement of segment operating profit for the purpose of evaluating segment performance and resource allocation. The primary reason for the change was to reflect a more complete cost of delivery. Specifically, segment operating profit now includes the allocation of corporate costs, which were previously included in "unallocated costs", including amortization expense related to acquired intangible assets. Beginning in 2026, segment operating profits have been reported using the new allocation methodology and we have recast the 2025 results to conform to the new methodology.
+Segment operating profit and operating margin percentage were as follows:
+Segment operating profit
+%
+Segment operating margin
+In the second quarter of 2026, segment operating margins across all our segments were positively impacted by operational efficiencies and the beneficial impact of foreign currency exchange rate movements, partially offset by increased compensation costs and the dilutive impact of our recently completed acquisitions. On a year-over-year basis, the timing of sales of third-party products negatively impacted Financial Services and Product and Resources. In addition, segment operating margin in Communications, Media and Technology was positively impacted by increased profitability of several large customers.
+Total segment operating profit and operating margin were as follows for the three months ended June 30:
+(Dollars in millions)
+2026
+% of Revenues
+2025
+% of Revenues
+Increase/(Decrease)
+Total segment operating profit
+$
+877
+16.0
+$
+817
+15.6
+$
+60
+Unallocated benefits/(costs)
+(3)
+(0.1)
+—
+—
+(3)
+Income from operations
+$
+874
+15.9
+$
+817
+15.6
+$
+57
+Unallocated costs for the three months ended June 30, 2026 represents Project Leap costs, partially offset by the partial reversal of the 2019 India Defined Contribution Obligation liability. See
+Note 4
+and
+Note 11
+to our unaudited consolidated financial statements for additional information.
+Cognizant Technology Solutions
+32
+June 30, 2026 Form 10-Q
+Table of Contents
+Other Income (Expense), Net
+The following table sets forth total other income (expense), net for the three months ended June 30:
+(in millions)
+2026
+2025
+Increase/
+Decrease
+Foreign currency exchange gains
+$
+9
+$
+14
+$
+(5)
+(Losses) on foreign exchange forward contracts not designated as hedging instruments
+(2)
+(7)
+5
+Foreign currency exchange gains (losses), net
+7
+7
+—
+Interest income
+18
+23
+(5)
+Interest expense
+(13)
+(9)
+(4)
+Other, net
+(11)
+4
+(15)
+Total other income (expense), net
+$
+1
+$
+25
+$
+(24)
+The foreign currency exchange gains were attributed to the remeasurement of net monetary assets and liabilities denominated in currencies other than the functional currencies of our subsidiaries.
+The gains and losses on foreign exchange forward contracts not designated as hedging instruments related to the realized and unrealized gains and losses on contracts entered into to offset our foreign currency exposures. As of June 30, 2026, the notional value of our undesignated hedges was $605 million. Interest income declined for the three months ended June 30, 2026, driven by the combination of lower invested balances and lower yields as compared to the three months ended June 30, 2025. Higher interest expense during the three months ended June 30, 2026 was driven by the outstanding balance under our revolving credit facility during the period. The increase in expenses in Other, net was related to our India defined benefit plans as a result of the enactment of the Labor Code reforms in 2025.
+Provision for Income Taxes
+é
+$34M
+¡
+Effective Income Tax Rate
+é
+3.0%
+The effective income tax rate increase in Q2 2026 was driven by multi-year tax planning strategies.
+Net Income
+The decrease in net income was driven by the factors described above as well as the loss from equity method investments in Q2 2026.
+ê
+$9M
+¡
+ê
+0.7% of Revenue
+s
+Non-GAAP Financial Measures
+Portions of our disclosure include non-GAAP financial measures. These non-GAAP financial measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP financial measures used by other companies. In addition, these non-GAAP financial measures should be read in conjunction with our financial statements prepared in accordance with GAAP. The reconciliations of non-GAAP financial measures to the corresponding GAAP measures set forth below should be carefully evaluated.
+Our non-GAAP financial measures Adjusted Operating Margin and Adjusted Income from Operations exclude unusual items, such as Project Leap charges and the partial reversal of the India Defined Contribution Obligation liability in the second quarter of 2026, and the gain on sale of property and equipment in the first quarter of 2025. Our non-GAAP financial measure Adjusted Diluted EPS excludes unusual items, such as Project Leap charges, the partial reversal of the India Defined Contribution Obligation liability and the gain on sale of property and equipment, and net non-operating foreign currency exchange gains or losses and the tax impact of all the applicable adjustments. The income tax impact of each item excluded from Adjusted Diluted EPS is calculated by applying the statutory rate and local tax regulations in the jurisdiction in which the item was incurred. Constant currency revenue growth is defined as revenues for a given period restated at the comparative period’s foreign currency exchange rates measured against the comparative period's reported revenues.
+Cognizant Technology Solutions
+33
+June 30, 2026 Form 10-Q
+Table of Contents
+We believe providing investors with an operating view consistent with how we manage the Company provides enhanced transparency into our operating results. For internal management reporting and budgeting purposes, we use various GAAP and non-GAAP financial measures for financial and operational decision-making, to evaluate period-to-period comparisons, to determine portions of the compensation for executive officers and for making comparisons of our operating results to those of our competitors. We believe that the presentation of these non-GAAP financial measures, which exclude certain costs, read in conjunction with our reported GAAP results and reconciliations to the most comparable GAAP measure, as applicable, can provide useful supplemental information to our management and investors regarding financial and business trends relating to our financial condition and results of operations.
+A limitation of using non-GAAP financial measures versus financial measures calculated in accordance with GAAP is that non-GAAP financial measures may exclude costs that are recurring such as net non-operating foreign currency exchange gains or losses. In addition, other companies may calculate non-GAAP financial measures differently than us, thereby limiting the usefulness of these non-GAAP financial measures as a comparative tool. We compensate for these limitations by providing specific information regarding the GAAP amounts excluded from non-GAAP financial measures to allow investors to evaluate such non-GAAP financial measures.
+The following table presents a reconciliation of each non-GAAP financial measure to the most comparable GAAP measure for the three months ended June 30:
+2026
+% of
+Revenues
+2025
+% of
+Revenues
+GAAP income from operations and operating margin
+$
+874
+15.9
+$
+817
+15.6
+Project Leap
+(1)
+84
+1.5
+—
+—
+India Defined Contribution Obligation
+(2)
+(81)
+(1.4)
+—
+—
+Adjusted Income from Operations and Adjusted Operating Margin
+$
+877
+16.0
+$
+817
+15.6
+GAAP diluted EPS
+$
+1.36
+$
+1.31
+Effect of above adjustments, pre-tax
+0.01
+—
+Non-operating foreign currency exchange (gains) losses, pre-tax
+(3)
+(0.02)
+(0.01)
+Tax effect of above adjustments
+(4)
+0.02
+0.01
+Adjusted Diluted EPS
+$
+1.37
+$
+1.31
+(1)
+Consists of
+employee separation, facility exit and other costs incurred in connection with Project Leap. See
+Note 4
+to our unaudited consolidated financial statements for additional information.
+(2)
+In the second quarter of 2026, management concluded that the portion of the India Defined Contribution Obligation liability recorded in 2019 that relates to periods where no proceedings had been initiated by the government is no longer required. See
+Note 11
+to our unaudited consolidated financial statements for additional information.
+(3)
+Non-operating foreign currency exchange gains and losses, inclusive of gains and losses on related foreign exchange forward contracts not designated as hedging instrument
+s for accounting purposes, are reported in "Foreign currency exchange gains (losses), net" in our unaudited consolidated statements of operations.
+(4)
+Presented below are the tax impacts of our non-GAAP adjustments to pre-tax income:
+Three Months Ended
+June 30,
+(in millions)
+2026
+2025
+Non-GAAP income tax benefit (expense) related to:
+Project Leap charges
+$
+22
+$
+—
+India Defined Contribution Obligation
+(21)
+—
+Foreign currency exchange gains and losses
+(8)
+(7)
+The effective tax rate related to non-operating foreign currency exchange gains and losses varies depending on the jurisdictions in which such income and expenses are generated and the statutory rates applicable in those jurisdictions. As such, the income tax effect of non-operating foreign currency exchange gains and losses shown in the above table may not appear proportionate to the net pre-tax foreign currency exchange gains and losses reported in our unaudited consolidated statements of operations.
+Cognizant Technology Solutions
+34
+June 30, 2026 Form 10-Q
+Table of Contents
+Six Months Ended June 30, 2026 Compared to Six Months Ended June 30, 2025
+The following table sets forth, for the periods indicated, certain financial data for the six months ended June 30:
+% of
+% of
+Increase / Decrease
+(Dollars in millions, except per share data)
+2026
+Revenues
+2025
+Revenues
+$
+%
+Revenues
+$
+10,894
+100.0
+$
+10,360
+100.0
+$
+534
+5.2
+Cost of revenues
+(a)
+7,290
+66.9
+6,876
+66.4
+414
+6.0
+Selling, general and administrative expenses
+(a)
+1,519
+13.9
+1,601
+15.5
+(82)
+(5.1)
+Restructuring charges
+84
+0.8
+—
+—
+84
+N/A
+Depreciation and amortization expense
+284
+2.6
+275
+2.7
+9
+3.3
+(Gain) on sale of property and equipment
+—
+—
+(62)
+(0.6)
+62
+(100.0)
+Income from operations and operating margin
+1,717
+15.8
+1,670
+16.1
+47
+2.8
+Other income (expense), net
+25
+44
+(19)
+(43.2)
+Income before provision for income taxes
+1,742
+16.0
+1,714
+16.5
+28
+1.6
+Provision for income taxes
+(439)
+(410)
+(29)
+7.1
+Income (loss) from equity method investments
+(5)
+4
+(9)
+(225.0)
+Net income
+$
+1,298
+11.9
+$
+1,308
+12.6
+$
+(10)
+(0.8)
+Diluted EPS
+$
+2.75
+$
+2.65
+$
+0.10
+3.8
+Other Financial Information
+5
+Adjusted Income From Operations and Adjusted Operating Margin
+$
+1,720
+15.8
+$
+1,608
+15.5
+$
+112
+7.0
+Adjusted Diluted EPS
+$
+2.76
+$
+2.55
+$
+0.21
+8.2
+(a)
+Exclusive of depreciation and amortization expense.
+N/A    Not Applicable
+Revenues
+During the six months ended June 30, 2026, revenues increased by $534 million as compared to the six months ended June 30, 2025, representing growth of 5.2%, or 4.0% on a constant currency basis
+5
+.
+5
+Adjusted Income from Operations, Adjusted Operating Margin, Adjusted Diluted EPS and constant currency revenue growth are not measures of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures.
+Cognizant Technology Solutions
+35
+June 30, 2026 Form 10-Q
+Table of Contents
+Revenues - Reportable Business Segments and Geographic Markets
+Revenues of $10,894 million across our business segments and geographies were as follows for the six months ended June 30, 2026:
+YTD 2026 as compared to YTD 2025
+Increase/(Decrease)
+(Dollars in millions)
+$
+%
+CC %
+6
+Health Sciences
+29
+0.9
+—
+Financial Services
+368
+12.2
+11.0
+Products and Resources
+59
+2.3
+0.9
+CMT
+78
+4.7
+3.9
+Total revenues
+$
+534
+5.2
+4.0
+YTD 2026 as compared to YTD 2025
+Increase/(Decrease)
+(Dollars in millions)
+$
+%
+CC %
+6
+North America
+$
+413
+5.3
+5.2
+United Kingdom
+62
+6.6
+3.0
+Continental Europe
+52
+5.1
+(1.5)
+Europe - Total
+114
+5.8
+0.7
+Rest of World
+7
+1.1
+(0.1)
+Total revenues
+$
+534
+5.2
+4.0
+Foreign currency exchange movements impacted revenue across segments and geographies as shown in the tables above. Constant currency revenue growth was driven by the following factors:
+6
+•    Revenue across all geographies, primarily in our Financial Services segment, was positively impacted by the ramp up of several recently won large deals and increasing demand for our intuitive operations and automation services as well as our AI and analytics services;
+•    The sale of third-party products, primarily in North America and Europe, in connection with our integrated offerings strategy, contributed approximately 160 basis points to overall revenue growth. These sales contributed 675 basis points of growth to our Communications Media and Technology segment and 250 basis points growth to our Financial Services segment;
+•    Our recently completed acquisitions contributed approximately 90 basis points to overall revenue growth, across all segments in North America;
+•    Revenue growth in our Health Sciences segment was positively impacted by continued services demand from life sciences customers, partially offset by a negative impact of 125 basis points due to lower sales of third-party products in 2026 as compared to 2025;
+•    Our Products and Resources segment saw softer discretionary spend among retail, consumer goods, travel and hospitality customers, which was partially offset by increased demand in manufacturing, logistics, energy and utilities customers;
+•    Excluding the sale of third-party products in connection with our integrated offerings strategy, our Communications Media and Technology segment has seen and may continue to see weakness among communications and media customers, partially offset by growth in technology customers.
+6
+Constant currency revenue growth is not a measure of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures, as applicable.
+Cognizant Technology Solutions
+36
+June 30, 2026 Form 10-Q
+Table of Contents
+Cost of Revenues (Exclusive of Depreciation and Amortization Expense)
+é
+$414M
+é
+0.5% as a % of revenues
+¡
+% of Revenues
+Our cost of revenues consists primarily of salaries, incentive-based compensation, stock-based compensation expense, employee benefits, project-related immigration and travel for technical personnel, subcontracting and costs of third-party products and services relating to revenues. The increase, as a percentage of revenues, was primarily driven by the impact of the sale of third-party products in connection with our integrated offerings strategy and increased compensation costs, partially offset by the beneficial impact of foreign currency exchange rate movements.
+SG&A Expenses (Exclusive of Depreciation and Amortization Expense)
+SG&A expenses consist primarily of salaries, incentive-based compensation, stock-based compensation expense, employee benefits, immigration, travel, marketing, communications, management, finance, administrative and occupancy costs. The decrease, as a percentage of revenues, was primarily driven by the $81 million partial reversal of the 2019 India Defined Contribution Obligation liability and operational efficiencies, partially offset by the dilutive impact of our recently completed acquisitions.
+ê
+$82M
+ê
+1.6%
+as a % of revenues
+¡
+% of Revenues
+Restructuring Charges
+Restructuring charges consist of costs related to Project Leap. Restructuring charges were $84 million, or 0.8% as a percentage of revenue, for the six months ended June 30, 2026. For further detail on our restructuring charges see
+Note 4
+to our unaudited consolidated financial statements.
+Depreciation and Amortization Expense
+Depreciation and amortization expense increased by 3.3% during the six months ended June 30, 2026 as compared to the 2025 period. The increase was driven by amortization expense from intangible assets related to our recently completed acquisitions.
+Gain on Sale of Property and Equipment
+During the six months ended June 30, 2025, we realized a gain of $62 million on the sale of an office complex in India. For further detail see
+Note 1
+to our unaudited consolidated financial statements.
+Operating Margin and Adjusted Operating Margin
+7
+- Overall
+Our 2026 GAAP and Adjusted Operating Margins
+7
+were positively impacted by operational efficiencies and foreign currency exchange rate movements, partially offset by increased compensation costs, the dilutive impact of our recently completed acquisitions and the impact of the sale of third-party products in connection with our integrated offerings strategy. In addition, our GAAP operating margin for the quarter ended June 30, 2026 was negatively impacted by $84 million, in costs related to Project Leap and positively impacted by the $81 million partial reversal of the 2019 India Defined Contribution Obligation liability, both of which were excluded from our Adjusted Operating Margin. Our GAAP operating margin for 2025 was positively impacted by $62 million from the gain on sale of property and equipment, which was excluded from our Adjusted Operating Margin.
+7
+Adjusted Income from Operations and Adjusted Operating Margin are not measures of financial performance prepared in accordance with GAAP. See “Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measures, as applicable.
+Cognizant Technology Solutions
+37
+June 30, 2026 Form 10-Q
+Table of Contents
+Net of the impact of applicable designated cash flow hedges, the depreciation of the Indian rupee positively impacted our operating margin for the six months ended June 30, 2026 by approximately 80 basis points as compared to the six months ended June 30, 2025. Excluding the impact of such hedges, the depreciation of the Indian rupee against the U.S. dollar positively impacted our operating margin by approximately 140 basis points for the six months ended June 30, 2026. The settlement of our cash flow hedges had a negative impact of approximately 70 basis points on our operating margin during the six months ended June 30, 2026, compared to a negative impact of approximately 10 basis points during the
+2025
+period.
+Segment Operating Profit
+In the first quarter of 2026, we made certain changes to the internal measurement of segment operating profit for the purpose of evaluating segment performance and resource allocation. The primary reason for the change was to reflect a more complete cost of delivery. Specifically, segment operating profit now includes the allocation of corporate costs, which were previously included in "unallocated costs", including amortization expense related to acquired intangible assets. Beginning in 2026, segment operating profits have been reported using the new allocation methodology and we have recast the 2025 results to conform to the new methodology.
+Segment operating profit and operating margin percentage were as follows:
+Segment operating profit
+%
+Segment operating margin
+In 2026, segment operating margins across all our segments were positively impacted by operational efficiencies and the beneficial impact of foreign currency exchange rate movements, partially offset by increased compensation costs, the dilutive impact of our recently completed acquisitions. On a year-over-year basis, the timing of sales of third-party products positively impacted Health Sciences, while it negatively impacted Financial Services, Product and Resources and Communications, Media and Technology. In addition, segment operating margin in Communications, Media and Technology was positively impacted by increased profitability of several large customers.
+Total segment operating profit and margin were as follows for the six months ended June 30:
+(Dollars in millions)
+2026
+% of Revenues
+2025
+% of Revenues
+Increase/(Decrease)
+Total segment operating profit
+$
+1,720
+15.8
+$
+1,608
+15.5
+$
+112
+Unallocated benefits/(costs)
+(3)
+—
+62
+(0.6)
+(65)
+Income from operations
+$
+1,717
+15.8
+$
+1,670
+16.1
+$
+47
+Unallocated costs for 2026 represents Project Leap costs, partially offset by the partial reversal of the 2019 India Defined Contribution Obligation liability. See
+Note 4
+and
+Note 11
+to our unaudited consolidated financial statements for additional information. Unallocated benefits for 2025 represents the 2025 gain on sale of property and equipment. See
+Note 1
+to our unaudited consolidated financial statements for additional information.
+Cognizant Technology Solutions
+38
+June 30, 2026 Form 10-Q
+Table of Contents
+Other Income (Expense), Net
+The following table sets forth total other income (expense), net for the six months ended June 30:
+(in millions)
+2026
+2025
+Increase/
+Decrease
+Foreign currency exchange gains
+$
+25
+$
+17
+$
+8
+(Losses) on foreign exchange forward contracts not designated as hedging instruments
+—
+(8)
+8
+Foreign currency exchange gains (losses), net
+25
+9
+16
+Interest income
+40
+53
+(13)
+Interest expense
+(20)
+(21)
+1
+Other, net
+(20)
+3
+(23)
+Total other income (expense), net
+$
+25
+$
+44
+$
+(19)
+The foreign currency exchange gains were attributed to the remeasurement of net monetary assets and liabilities denominated in currencies other than the functional currencies of our subsidiaries.
+The gains and losses on foreign exchange forward contracts not designated as hedging instruments related to the realized and unrealized gains and losses on cont
+racts entered into to offset our foreign c
+urrency exposures. Interest income declined in 2026 as compared to 2025, driven by the combination of lower invested balances and lower yields. The increase in expenses in Other, net was related to our India defined benefit plans as a result of the enactment of the Labor Code reforms in 2025.
+Provision for Income Taxes
+é
+$29M
+¡
+Effective Income Tax Rate
+é
+1.3%
+The effective income tax rate increase in 2026 was driven by multi-year tax planning strategies.
+Net Income
+The decrease in net income was driven by the factors described above as well as the loss from equity method investments in 2026.
+ê
+$10M
+¡
+ê
+0.7% of Revenues
+Cognizant Technology Solutions
+39
+June 30, 2026 Form 10-Q
+Table of Contents
+Non-GAAP Financial Measures
+See “Three Months Ended June 30, 2026 Compared to Three Months Ended June 30, 2025 – Non-GAAP Financial Measures” above for additional information about our use of non-GAAP financial measures.
+The following table presents a reconciliation of each non-GAAP financial measure to the most comparable GAAP measure for the six months ended June 30:
+(Dollars in millions, except per share amounts)
+2026
+% of
+Revenues
+2025
+% of
+Revenues
+GAAP income from operations and operating margin
+$
+1,717
+15.8
+$
+1,670
+16.1
+Project Leap
+(1)
+84
+0.8
+—
+—
+India Defined Contribution Obligation
+(2)
+(81)
+(0.8)
+—
+—
+(Gain) on sale of property and equipment
+(3)
+—
+—
+(62)
+(0.6)
+Adjusted Income from Operations and Adjusted Operating Margin
+$
+1,720
+15.8
+$
+1,608
+15.5
+GAAP diluted EPS
+$
+2.75
+$
+2.65
+Effect of above adjustments, pre-tax
+0.01
+(0.13)
+Non-operating foreign currency exchange (gains) losses, pre-tax
+(4)
+(0.05)
+(0.02)
+Tax effect of above adjustments
+(5)
+0.05
+0.05
+Adjusted Diluted EPS
+$
+2.76
+$
+2.55
+(1)
+Consists of
+employee separation, facility exit and other costs incurred in connection with Project Leap. S
+ee
+Note 4
+to our unaudited consolidated financial statements for additional information.
+(2)
+In the second quarter of 2026, management concluded that the portion of the India Defined Contribution Obligation liability recorded in 2019 that relates to periods where no proceedings had been initiated by the government is no longer required. See
+Note 11
+to our unaudited consolidated financial statements for additional information.
+(3)
+During the six months ended June 30, 2025, we realized a gain of $62 million on the sale of an office complex in India. S
+ee
+Note 1
+to our unaudited consolidated financial statements for additional information.
+(4)
+Non-operating foreign currency exchange gains and losses, inclusive of gains and losses on related foreign exchange forward contracts not designated as hedging instruments for accounting purposes, are reported in "Foreign currency exchange gains (losses), net" in our unaudited consolidated statements of operations.
+(5)
+Presented below are the tax impacts
+of each of our non-GAAP adjustments to pre-tax income:
+(in millions)
+Six Months Ended
+June 30,
+2026
+2025
+Non-GAAP income tax benefit (expense) related to:
+Gain on sale of property and equipment
+$
+—
+$
+(9)
+Project Leap charges
+22
+—
+India Defined Contribution Obligation
+(21)
+—
+Foreign currency exchange gains and losses
+(30)
+(10)
+The effective tax rate related to non-operating foreign currency exchange gains and losses varies depending on the jurisdictions in which such income and expenses are generated and the statutory rates applicable in those jurisdictions. As such, the income tax effect of non-operating foreign currency exchange gains and losses shown in the above table may not appear proportionate to the net pre-tax foreign currency exchange gains and losses reported in our unaudited consolidated statements of operations.
+Cognizant Technology Solutions
+40
+June 30, 2026 Form 10-Q
+Table of Contents
+Liquidity and Capital Resources
+Cash generated from operations has historically been the primary source of liquidity to fund operations and investments to grow our business. As of June 30, 2026, we had cash, cash equivalents and short-term investments of $1,051 million. During the second quarter of 2026, we borrowed $1,000 million under our revolving credit facility, bringing the available capacity under our credit facility to $850 million.
+The following table provides a summary of cash flows for the six months ended June 30:
+(in millions)
+2026
+2025
+Increase / Decrease
+Net cash provided by (used in):
+Operating activities
+$
+832
+$
+798
+$
+34
+Investing activities
+(1,509)
+(89)
+(1,420)
+Financing activities
+(917)
+(1,173)
+256
+Operating activities
+The increase in cash provided by operating activities for the six months ended June 30, 2026, as compared to the six months ended June 30, 2025, was primarily driven by lower cash tax payments in 2026, partially offset by higher incentive based compensation payments in 2026.
+We monitor turnover, aging and the collection of accounts receivable by client. Our DSO calculation includes receivables, net of allowance for doubtful accounts, and contract assets, reduced by the uncollected portion of deferred revenue. Our DSO was 88 days as of June 30, 2026, an increase of 7 days from 81 days as of December 31, 2025. Our DSO was 83 days as of June 30, 2025, an increase of 5 days from 78 days as of December 31, 2024.
+Investing activities
+The increase in cash used in investing activities for the six months ended June 30, 2026, as compared to the six months ended June 30, 2025, was driven by the payments for our recently completed acquisitions in 2026 and the gain on sale of property and equipment in 2025.
+Financing activities
+The decrease in cash used in financing activities for the six months ended June 30, 2026, as compared to the six months ended June 30, 2025, was primarily driven by the draw down on our revolving credit facility in 2026 and the repayment of the outstanding balance under the revolving credit facility in 2025, partially offset by increased repurchases of common stock during 2026.
+During the second quarter of 2026, we repurchased $1,153 million of our Class
+A common stock under our stock repurchase program: $653 million through open market purchases and $500 million through ASR agreements.
+We have a Credit Agreement providing for a $650 million Term Loan and a $1,850 million unsecured revolving credit facility, which are each due to mature in October 2027. As of June 30, 2026, we had $1,000 million outstanding under the revolving credit facility, consisting of a Term Benchmark loan with a maturity of October 2027 and an Interest Period (as defined in the Credit Agreement) of one month. We are required under the Credit Agreement to make scheduled quarterly principal payments on the Term Loan. We believe that we currently meet all conditions set forth in the Credit Agreement to borrow thereunder, and we are not aware of any conditions that would prevent us from borrowing part or all of the remaining available capacity under the revolving credit facility as of June 30, 2026 and through the date of this filing. See
+Note 6
+to our unaudited consolidated financial statements.
+Cognizant Technology Solutions
+41
+June 30, 2026 Form 10-Q
+Table of Contents
+Capital Allocation
+Acquisitions
+Share repurchases
+Dividend payments
+We review our capital allocation on an ongoing basis, considering our financial performance and liquidity position, investments required to execute our strategic plans and initiatives, acquisition opportunities, the economic outlook, regulatory changes and other relevant factors. As these factors may change over time, the actual amounts expended on stock repurchase activity, dividends, and acquisitions, if any, during any particular period cannot be predicted and may fluctuate from time to time.
+Other Liquidity and Capital Resources Information
+We seek to ensure that our cash is available to us in the locations in which it is needed. As part of our ongoing liquidity assessments, we regularly monitor the mix of our domestic and international cash flows and cash balances. We evaluate on an ongoing basis what portion of the non-U.S. cash, cash equivalents and short-term investments is needed locally to execute our strategic plans and what amount is available for repatriation back to the United States.
+We expect operating cash flows, cash and short-term investment balances, together with the available capacity under our revolving credit facilities, to be sufficient to meet our operating requirements, including purchase commitments, tax payments, payments related to Project Leap and
+servicing our debt for the next twelve months.
+The ability to expand and grow our business in accordance with current plans, make acquisitions, meet long-term capital requirements beyond a twelve-month period and execute our capital return plan will depend on many factors, including the rate, if any, at which cash flow increases, our ability and willingness to pay for acquisitions with capital stock and the availability of public and private debt, including the ability to extend the maturity of or refinance our existing debt, and equity financing. We cannot be certain that additional financing, if required, will be available on terms and conditions acceptable to us, if at all.
+Commitments and Contingencies
+See
+Note 11
+to our unaudited consolidated financial statements.
+Critical Accounting Estimates
+Management’s discussion and analysis of our financial condition and results of operations is based on our unaudited consolidated financial statements that have been prepared in accordance with GAAP. The preparation of these financial statements requires management to make estimates and assumptions that affect the amounts reported for assets and liabilities, including the recoverability of tangible and intangible assets, disclosure of contingent assets and liabilities as of the date of the financial statements, and the reported amounts of revenues and expenses during the reported period. On an ongoing basis, we evaluate our estimates. The most significant estimates relate to the recognition of revenue, including the application of the cost-to-cost method of measuring progress to completion for certain fixed-price contracts, income taxes, business combinations and valuation of goodwill and other long-lived assets. We base our estimates on historical experience, current trends and various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. The actual amounts may differ from the estimates used in the preparation of the accompanying unaudited consolidated financial statements. For a discussion of our critical accounting estimates, see “Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended December 31, 2025. Our significant accounting policies are described in Note 1 to the audited consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2025.
+Recently Adopted and New Accounting Pronouncements
+See
+Note 1
+to our unaudited consolidated financial statements.
+Item 3.     Quantitative and Qualitative Disclosures about Market Risk.
+During the three months ended June 30, 2026, we borrowed $1,000 million under our revolving credit facility. The borrowing did not have a material impact on our exposure to market risk from changes in interest rates. Aside from the borrowing, there have been no material changes in our quantitative and qualitative disclosures about market risk from those
+Cognizant Technology Solutions
+42
+June 30, 2026 Form 10-Q
+Table of Contents
+disclosed in "Part II, Item 7A, Quantitative and Qualitative Disclosures about Market Risk" in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+Item 4.     Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures
+Our management, under the supervision and with the participation of our chief executive officer and our chief financial officer, evaluated the design and operating effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of June 30, 2026. Based on this evaluation, our chief executive officer and our chief financial officer concluded that, as of June 30, 2026, our disclosure controls and procedures were effective.
+Changes in Internal Control over Financial Reporting
+No changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during the fiscal quarter ended June 30, 2026 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Cognizant Technology Solutions
+43
+June 30, 2026 Form 10-Q
+Table of Contents
+PART II. OTHER INFORMATION
+Item 1. Legal Proceedings
+See
+Note 11
+to our unaudited consolidated financial statements.
+Item 1A. Risk Factors
+Except as disclosed in “Part II, Item 1A, Risk Factors” in our Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2026, there have been no material changes in our risk factors from those disclosed in "Part I, Item 1A, Risk Factors" in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+Item 2.     Unregistered Sales of Equity Securities and Use of Proceeds
+(c) Issuer Purchases of Equity Securities
+Our stock repurchase program was initially adopted in 2017 and has been amended from time to time, including most recently in May 2026, to authorize the repurchase of up to $15.5 billion, excluding fees and expenses, of our Class A common stock through open market purchases, including under 10b5-1 Plans, and through ASR agreements entered into with financial institutions, in accordance with applicable federal securities laws. The repurchase program does not have an expiration date and had a remaining balance of $2,338 million as of June 30, 2026. The timing of repurchases and the exact number of shares to be purchased are determined by management, in its discretion, or pursuant to a 10b5-1 Plan, and depend upon market conditions and other factors.
+During the three months ended June 30, 2026, we repurchased $1,153 million of our Class
+A common stock under our stock repurchase program as follows:
+Month
+Total Number
+of Shares
+Purchased
+Average
+Price Paid
+per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Approximate Dollar Value of Shares that May Yet Be Purchased under the Plans or Programs
+(in millions)
+April 1, 2026 - April 30, 2026
+—
+—
+—
+1,491
+May 1, 2026 - May 31, 2026
+May 2026 ASR
+7,798,030
+(a)
+7,798,030
+Open market purchases
+9,856,319
+53.04
+9,856,319
+2,468
+June 1, 2026 - June 30, 2026
+May 2026 ASR
+1,903,112
+(a)
+1,903,112
+Open market purchases
+2,915,315
+44.55
+2,915,315
+2,338
+Total
+22,472,776
+$
+51.29
+22,472,776
+(a) In May 2026, we entered into ASR agreements with financial institutions to purchase $500 million of our Class A common stock (the "May 2026 ASR"). In total, 9.7 million shares were repurchased under the May 2026 ASR at an average repurchase price of $51.54.
+The aggregate purchase price and weighted average price per share do not include the excise tax on net stock repurchases. The excise tax was immaterial for the three months ended June 30, 2026.
+During the three months ended June 30, 2026, we also purchased shares in connection with our stock-based compensation plans, whereby shares of our Class A common stock were tendered by employees for payment of applicable statutory tax withhol
+dings. For the three months ended June 30, 2026, such repurchases totaled
+0.2 million
+shares at an aggregate cost of
+$10 million
+.
+Cognizant Technology Solutions
+44
+June 30, 2026 Form 10-Q
+Table of Contents
+Item 5.     Other Information
+(c) Trading Plans
+No director or Section 16 officer
+adopted
+or
+terminated
+any Rule 10b5-1 trading arrangements or non-Rule 10b5-1 trading arrangements (in each case, as defined in Item 408(a) of Regulation S-K) during the three months ended June 30, 2026, except as follows:
+Name
+Title
+Action
+Date of adoption/termination
+Scheduled expiration date
+1
+Aggregate number of securities to be purchased/sold
+Jatin Dalal
+Chief Financial Officer
+Adoption
+May 1, 2026
+December 31, 2026
+Sale of up to
+12,000
+shares of common stock
+John Kim
+Chief Legal Officer, Chief Administrative Officer and Corporate Secretary
+Adoption
+May 4, 2026
+February 27, 2027
+Sale of up to
+5,000
+shares of common stock
+(1) The trading plan may also expire on such earlier date as all transactions under the trading plan are completed.
+Each of the trading arrangements listed in the above table is intended to satisfy the affirmative defense conditions of Rule 10b5-1.
+Cognizant Technology Solutions
+45
+June 30, 2026 Form 10-Q
+Table of Contents
+Item 6.     Exhibits
+EXHIBIT INDEX
+Incorporated by Reference
+Number
+Exhibit Description
+Form
+File No.
+Exhibit
+Date
+Filed or Furnished  Herewith
+3.1
+Amended and Restated Certificate of Incorporation, dated June 4, 2024
+8-K
+000-24429
+3.1
+6/7/2024
+3.2
+Amended and Restated Bylaws, as adopted on September 14, 2018
+8-K
+000-24429
+3.1
+9/20/2018
+31.1
+Certification of principal executive officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Filed
+31.2
+Certification of principal financial officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Filed
+32.1
+Certification of principal executive officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. 1350
+Furnished
+32.2
+Certification of principal financial officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. 1350
+Furnished
+101.INS
+Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+Filed
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+Filed
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+Filed
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+Filed
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+Filed
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+Filed
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+Filed
+Cognizant Technology Solutions
+46
+June 30, 2026 Form 10-Q
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Cognizant Technology Solutions Corporation
+Date:
+July 29, 2026
+By:
+/s/ R
+AVI
+K
+UMAR
+S
+Ravi Kumar S,
+Chief Executive Officer
+(Principal Executive Officer)
+Date:
+July 29, 2026
+By:
+/s/ J
+ATIN
+D
+ALAL
+Jatin Dalal,
+Chief Financial Officer
+(Principal Financial Officer)
+Cognizant Technology Solutions
+47
+June 30, 2026 Form 10-Q
