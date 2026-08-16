@@ -1,0 +1,690 @@
+
+--- PAGE 1 ---
+ 
+COPYRIGHT © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+1
+Teck Resources Limited TSX:TECK.B
+FQ2 2026 Earnings Call Transcripts
+Thursday, July 23, 2026 3:00 PM GMT
+S&P Global Market Intelligence Estimates
+ -FQ2 2026- -FQ3 2026- -FY 2026- -FY 2027-
+ CONSENSUS ACTUAL SURPRISE CONSENSUS CONSENSUS CONSENSUS
+EPS Normalized 1.41 1.93
+ 36.88 1.15 5.41 NA NA 4.89
+Revenue  (mm) 3398.25 3605.00
+ 6.08 3850.69 14561.51 NA NA 14576.10
+Currency: CAD
+Consensus as of  Jul-23-2026 5:55 PM GMT
+  - EPS NORMALIZED  -  
+ CONSENSUS ACTUAL SURPRISE
+FQ3 2025 0.57 0.76
+ 33.33 %
+FQ4 2025 0.96 1.37
+ 42.71 %
+FQ1 2026 1.12 1.75
+ 56.25 %
+FQ2 2026 1.41 1.93
+ 36.88 %
+--- PAGE 2 ---
+Contents
+COPYRIGHT © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+2
+Table of Contents
+ 
+Call Participants .................................................................................. 3
+Presentation .................................................................................. 4
+Question and Answer .................................................................................. 8
+--- PAGE 3 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 3
+Call Participants
+EXECUTIVES
+Crystal J. Prystai
+Executive VP & CFO
+Dale Webb
+Senior Vice President of Operations -
+Latin America,
+Emma Chapman
+Ian K. Anderson
+Executive VP & Chief Commercial
+Officer
+Jonathan H. Price
+President, CEO & Director
+ANALYSTS
+Adam Smiarowski
+BofA Securities, Research Division
+Anita Soni
+CIBC Capital Markets, Research
+Division
+Brian MacArthur
+Raymond James Ltd., Research
+Division
+Craig Hutchison
+TD Cowen, Research Division
+Dalton Baretto
+Canaccord Genuity Corp., Research
+Division
+Liam Fitzpatrick
+Deutsche Bank AG, Research Division
+Myles Allsop
+UBS Investment Bank, Research
+Division
+Orest Wowkodaw
+Scotiabank Global Banking and
+Markets, Research Division
+--- PAGE 4 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 4
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to Teck's Second Quarter 2026 Earnings Release Conference Call.
+[Operator Instructions] This conference call is being recorded on Thursday, July 23, 2026.
+I would now like to turn the conference over to Emma Chapman, Vice President, Investor Relations. Please go ahead.
+Emma Chapman
+Thank you, operator. Good morning, everyone, and thank you for joining us for Teck's Second Quarter 2026 Conference Call.
+Today's call contains forward-looking statements. Actual results may vary due to various risks and uncertainties. Teck does not
+assume the obligation to update any forward-looking statements. Please refer to Slide 2 for the assumptions underlying our forward-
+looking statements. We will reference non-GAAP measures throughout this presentation. Explanations and reconciliations are in our
+MD&A and the latest press release on our website.
+On today's call, Jonathan Price, our CEO, will provide highlights for the second quarter of 2026. Crystal Prystai, our CFO, will follow
+with further details on our operational performance and financials in the quarter. Jonathan will then wrap up with closing remarks and
+an opportunity for Q&A.
+And with that, over to you, Jonathan.
+Jonathan H. Price
+President, CEO & Director
+Thank you, Emma, and good morning, everyone. We've delivered another quarter of strong operational and financial performance. We
+generated significantly higher earnings and robust cash flow in the second quarter of 2026, supported by favorable commodity prices,
+including another record quarterly average copper price.
+Compared with the same period last year, we generated cash flow from operations of $1.7 billion and tripled adjusted EBITDA to
+$2.2 billion. We also successfully managed our net cash unit costs despite energy cost headwinds, supported by stronger operational
+performance and favorable byproduct pricing. As a result, we increased our net cash position by $756 million during the quarter and
+$1 billion in the first half of the year.
+Alongside this strong financial performance, we continue to make good progress against our near-term priorities to create shareholder
+value. We are advancing our merger of equals with Anglo American, with our focus on securing the remaining regulatory approval.
+Meanwhile, integration planning is intensified to ensure we are ready to close shortly after approval is received.
+Operationally, we continue to build momentum across the business. Copper production increased by 25% compared with the second
+quarter of last year with higher production across all our copper operations, coupled with continued strong sales volumes. We are
+delivering greater operational stability quarter-by-quarter through our continued focus on safe, reliable and consistent performance,
+and there are no changes to our previously disclosed annual guidance. Importantly, this strong performance includes QB, where we
+achieved our third consecutive quarter of stable operations, an important step towards realizing the full value of this world-class asset.
+During the quarter, we also continued to advance our tailings management facility work at QB, including the completion of Rock
+Bench 5. And I'll return later in the presentation to some of the TMF options currently under evaluation with the potential to further
+enhance operational continuity.
+At Highland Valley, we continue to advance the mine life extension project, with detailed engineering now approximately 95%
+complete. Overall, this was another strong quarter that demonstrates disciplined execution across the business, reinforces the quality of
+our portfolio and positions us well as we move towards completing our merger with Anglo American.
+So turning to the merger update on Slide 5. The regulatory approval process in China continues to progress as expected, and we
+remain focused on engagement with the regulator. In parallel, integration planning continues to advance. Our teams are working hard
+to ensure we are fully prepared to close the transaction following receipt of the necessary approvals, while also continuing to develop
+our plans to capture the significant value creation opportunities available through the combination. Consistent with our original
+expectations, we continue to anticipate completing the transaction within 12 to 18 months of the September 2025 announcement.
+--- PAGE 5 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 5
+Turning to our focus on safe and stable operational performance, beginning with safety on Slide 6. During the second quarter, our high
+potential incident frequency rate at Teck-controlled operations remained low at 0.08, broadly in line with our performance last year.
+Any safety incidents are thoroughly investigated, with corrective actions implemented to strengthen critical risk controls and reduce
+the likelihood of recurrence. We're also very pleased that the Highland Valley Copper Mine Life Extension Project has now achieved
+1 million hours worked without a high potential incident or a lost time injury, reflecting the strong safety culture across the project
+team.
+So turning now to our operational performance on Slide 7. Copper production increased by almost 25% in the second quarter
+compared with the same period last year, with higher production across each of our operations, as shown in the chart on the left. This
+higher production, together with favorable commodity and byproduct prices, drove a significant reduction in our net cash unit costs,
+more than offsetting the impact of higher energy prices.
+As a result, our profitability continued to strengthen, with adjusted EBITDA margins reaching a record 61%, up from 36% in the
+second quarter of 2025. These results demonstrate how our continued focus on operational performance is translating into higher
+volumes, lower costs and improved financial returns.
+Turning to QB on Slide 8. As we continue to advance tailings management facility development, we have not experienced any TMF-
+related downtime in the past 3 quarters, supporting improved asset utilization and operational consistency. As a result, QB produced
+55,800 tonnes of copper during the quarter compared with 52,700 tonnes in the same period last year, with stable throughput and
+recoveries and all key operating metrics tracking in line with our full year guidance.
+During the planned maintenance shutdown in May, we completed several initiatives designed to optimize plant performance
+and increase throughput. We began to see the benefits of that work towards the end of the quarter, providing a solid foundation
+for continued operational improvement throughout the remainder of the year. Overall, QB continues to demonstrate improving
+operational consistency, giving us increasing confidence in the long-term performance and value of this world-class asset.
+Now looking at the QB TMF on Slide 9. Progress on the TMF remains an important enabler of predictable operating performance at
+QB, and we made significant progress during the second quarter. As you can see from these photographs, we completed Rock Bench
+5 during the quarter, an important milestone that supports [ freeboard ] management through the remainder of the year. Completion of
+the cyclone station upgrades and increased paddock availability improved our sand deposition rates and supported continued progress
+towards planned TMF performance.
+As mentioned, there was no TMF-related downtime at the concentrator in the past 3 quarters, demonstrating the progress we've
+made in reducing operational constraints. Work has continued to optimize the supporting ancillary infrastructure required to
+accommodate higher sand deposition rates. And construction of the secondary cyclone station should further improve our sand
+deposition performance.
+The latest progress on the QB TMF is reflected in our updated scorecard on Slide 10. As I've already mentioned, we completed Rock
+Bench 5 as planned. Looking ahead, we expect to complete installation of the secondary sand cyclone system by the end of the year,
+further strengthening the robustness of the tailings handling system and increasing its ability to manage variability in plant feed.
+Consistent with our QB action plan, we are progressing our evaluation of the timing and sequencing of the installation of the
+permanent TMF pipeline infrastructure, which will mechanically raise the tailings pipeline, supporting more efficient and optimized
+TMF performance. As part of this assessment, we are evaluating opportunities to accelerate certain TMF activities, including the
+potential advancement of material placement currently planned for 2027 by constructing an additional rock bench this year.
+Proceeding with Rock Bench 6 would allow the permanent pipeline infrastructure to be installed later this year, which is earlier than
+planned. This would provide greater operational flexibility during completion of the sand dam, reducing execution risk and supporting
+continued improvements in operating performance from a stable operating base.
+If we take the decision to proceed, construction of Rock Bench 6 is expected to commence in late August or early September and
+be completed by around year-end, with an estimated capital investment of approximately USD 100 million this year. Overall, we
+continue to make good progress on the TMF and are focused on opportunities to safely accelerate development and further strengthen
+the long-term reliability of QB operations.
+So turning now to the mine life extension at Highland Valley on Slide 11. Construction continues to advance well, with the project
+achieving an important safety milestone of more than 1 million hours worked without any high potential incidents or lost time injuries.
+During the second quarter, we completed installation of the pilings for the mill upgrades and successfully executed the first integrated
+shutdown between the operation and the mine life extension project.
+--- PAGE 6 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 6
+Detailed engineering is now approximately 95% complete. Procurement is nearing completion, and construction activity continues to
+ramp up across the site, including earthworks, pipelines, brownfield works and supporting infrastructure. We invested $254 million of
+project capital during the quarter, and our capital expenditure guidance remains unchanged at $900 million to $1.2 billion for 2026 and
+$2.1 billion to $2.4 billion over the life of the project.
+Capitalized stripping activity is also expected to increase during the second half of the year as we prepare future mining areas. While
+higher diesel prices will have some impact, our guidance for capitalized stripping remains unchanged at $450 million to $550 million
+for the copper business.
+The mine life extension will extend Highland Valley's mine life to 2046, while supporting average annual copper production of
+approximately 132,000 tonnes, reinforcing its position as a cornerstone asset in the copper portfolio. Overall, we're continuing to
+execute well across our portfolio with strong operational performance, supporting disciplined project delivery and positioning the
+business well for the future.
+I'll now hand over to Crystal to take you through the financial results in more detail.
+Crystal J. Prystai
+Executive VP & CFO
+Thanks, Jonathan. Good morning, everyone. Starting with an overview of our strong financial performance in Q2 2026 on Slide 13.
+We delivered significantly stronger financial results in the second quarter, with adjusted EBITDA tripling to $2.2 billion compared
+to the same period last year. This performance was underpinned by strong copper production across all of our operations, including
+a third consecutive quarter of stable production at QB, together with higher commodity prices and increased byproduct revenues. In
+addition, we significantly improved profitability at Trail Operations as we continue to focus on cash generation through value-driven
+optimization of feed sources and production.
+As a result, our adjusted EBITDA margin increased to a record 61%. Our strong earnings in the second quarter translated into robust
+cash generation with $1.7 billion of cash flow from operations, contributing to a $756 million increase in our net cash position over
+the quarter. We also returned $61 million to shareholders through payment of our regular quarterly base dividend.
+Looking now at the key drivers of our higher profitability in Q2 2026 on Slide 14. The increase in adjusted EBITDA was primarily
+driven by significantly higher commodity prices, including favorable pricing adjustments and stronger byproduct pricing. Higher
+copper production and sales volumes and higher volumes of byproducts also made significant contributions. Overall, operating costs
+were lower year-on-year, more than offsetting higher oil prices, while lower smelter processing charges also provided a benefit. These
+positive factors were partially offset by higher royalties and profit sharing as a result of higher profitability at our operations.
+Turning to our copper segment now on Slide 15. Compared with Q2 last year, gross profit before depreciation and amortization
+more than doubled to $1.8 billion, with margins substantially higher at 65% compared to 46% a year ago. This stronger performance
+was driven by record copper prices, together with higher production across all operations. Higher copper production reflects higher
+throughput across our operations as well as higher grades at Highland Valley and Antamina, as expected.
+QB delivered its third consecutive quarter of stable operations, with copper production increasing to 55,800 tonnes from 52,700 tonnes
+in the same period last year. Our copper net cash unit costs improved by 19%, reflecting higher copper production and byproduct
+credits. Looking ahead, guidance for our copper segment remains unchanged, and we continue to expect further growth in copper
+production this year to 455,000 to 530,000 tonnes from 454,000 tonnes last year.
+Looking at our zinc segment on Slide 16. Compared with Q2 last year, gross profit before depreciation and amortization increased
+122% to $353 million, with margins significantly higher at 39% compared with 28% previously. This improvement was primarily
+driven by strong performance at Trail Operations. This reflects materially higher byproduct pricing and the continued execution of our
+value-driven optimization of feed sources and production, including prioritizing processing of residues in the near term. As a result,
+gross profit before depreciation and amortization at Trail increased to $203 million compared with $42 million in the same period last
+year despite the planned shutdown of the lead circuit during the quarter.
+On July 7, we also announced a strategic investment agreement with the Government of Canada to support strategic metals production
+at Trail. The initiative has the potential to expand production of germanium and antimony and add new gallium capacity. It also
+remains subject to certain conditions as well as evaluation under our capital allocation framework.
+--- PAGE 7 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 7
+At Red Dog, zinc production in the second quarter reflected lower grades and recoveries consistent with the mine plan, and zinc sales
+were within our guidance range at 37,000 tonnes. Zinc net cash unit costs improved 29%, benefiting from lower smelter processing
+charges and higher byproduct credits.
+Looking ahead, Red Dog shipping season commenced on July 12. As in previous years, the majority of diesel deliveries are expected
+during the third quarter alongside zinc concentrate sales of 220,000 tonnes to 270,000 tonnes, reflecting the normal seasonal shipping
+pattern. Our guidance for the zinc business remains unchanged. We continue to expect zinc in concentrate production of 410,000
+tonnes to 460,000 tonnes and refined zinc production of 190,000 tonnes to 230,000 tonnes in 2026.
+Turning now to our net cash unit costs on Slide 17. Despite oil price headwinds during the quarter, we reduced net cash unit costs
+across both our copper and zinc businesses, reflecting strong operational performance, cost discipline and favorable byproduct pricing.
+In copper, total cash unit costs declined despite approximately USD 0.07 per pound of energy inflation impact, supported by higher
+production across our operations. Net cash unit costs improved even further from USD 2.02 per pound to USD 1.64 per pound as
+stronger byproduct production and pricing, particularly for molybdenum, silver and zinc, increased byproduct credits. In zinc, total
+cash unit costs were broadly stable as the impact of lower production volumes has been largely offset by lower smelter processing
+charges.
+Red Dog has been largely insulated from higher energy prices year-to-date as diesel for the 2026 shipping season had not yet been
+delivered. Net cash unit costs in zinc also improved significantly from USD 0.49 per pound to USD 0.35 per pound, driven by stronger
+byproduct prices, including silver, lead and germanium. These cost improvements, together with the favorable pricing environment,
+translated into materially stronger margins across both of our business segments.
+Turning now to our margins on Slide 18. We delivered a significant expansion in margins across both of our business segments
+during the second quarter, reflecting the benefit of higher commodity prices, together with continued operational improvements and
+disciplined cost performance. In copper, our adjusted EBITDA margin increased to 70% compared with 45% in the second quarter
+of last year, driven by stronger copper prices, higher production and sales volumes and strong byproduct credits. In zinc, our adjusted
+EBITDA margin increased to 38% from 25% a year ago, reflecting higher zinc prices, stronger byproduct credits and the continued
+optimization of feed sources at Trail Operations.
+Turning now to our balance sheet on Slide 19. As a result of the strong cash generation from our operations, we continue to
+strengthen our balance sheet while funding the Highland Valley mine life extension project. In the second quarter of 2026, we
+generated significant cash flow from operations of $1.7 billion. Net cash increased by $756 million during the quarter to $1.2 billion,
+representing an increase of $1 billion over the first half of this year.
+Our liquidity strengthened further to $10.3 billion as at June 30, including $6.1 billion of cash. We also continue to reduce debt
+through our scheduled semiannual repayments under the QB project finance facility, positioning us with a strong balance sheet as we
+move towards completion of the Anglo-Teck merger.
+I will now pass it back to Jonathan for closing remarks.
+Jonathan H. Price
+President, CEO & Director
+Thanks, Crystal. I'll now wrap up briefly on Slide 21. We're pleased to have delivered another quarter of strong operational and
+financial performance, reflecting the continued progress we are making across the business.
+As we look to the second half of the year, our key near-term priorities remain clear: advancing our merger of equals with Anglo
+American, including securing the remaining regulatory approval and progressing integration planning; continuing to deliver safe,
+stable and reliable operating performance across our business; further strengthening the performance of QB through continued
+operational improvements and progress on the tailings management facility; and advancing the Highland Valley mine life extension
+project. By remaining focused on these priorities, we believe we are well positioned to complete the merger and create a leading
+critical minerals company with the financial strength, operational capability and portfolio quality to deliver long-term value for
+shareholders.
+So with that, over to you, operator, for questions, please.
+--- PAGE 8 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 8
+Question and Answer
+Operator
+[Operator Instructions] The first question comes from Orest Wowkodaw with Scotiabank.
+Orest Wowkodaw
+Scotiabank Global Banking and Markets, Research Division
+It's really great to see the operational turnaround, especially at QB. And before my question, I just wanted to also put out a big thank
+you to Emma for all her help at IR, with the best on her next opportunity.
+What specifically -- I'm just curious if advancing Rock Bench 6 and advancing some of the infrastructure, if that could positively
+impact throughput rates in terms of versus plan for 2027-'28?
+Jonathan H. Price
+President, CEO & Director
+Thanks, Orest, and thank you as well for that comment on Emma. I'll talk a little bit about that later. The short answer to your question
+is no, Orest. We don't expect any impact to throughput rates directly the result of the planned actions that we're taking here. As
+mentioned, we see this as an acceleration and essentially a derisking that allows us to further underwrite that ongoing operational
+continuity that we've worked so hard to achieve over the last 3 quarters.
+Orest Wowkodaw
+Scotiabank Global Banking and Markets, Research Division
+Okay. And second question, just in terms of the regulatory approval, specifically from China, can you give us an update on where
+things are at, whether you think [indiscernible] any requests for potential offtakes or asset sales or anything like that? Or is it just
+really -- I'm curious to what the Chinese may be asking for in terms of the process?
+Jonathan H. Price
+President, CEO & Director
+Yes. Look, I'd say that the process with SAMR, which is the market regulator in China, is unfolding in the normal course. We
+continue to respond to information requests aligned with the typical process here.
+We're moving ahead. We still expect completion to be within the originally announced 12 to 18 months from the date of
+announcement. And beyond that, there's nothing more to say in that we haven't received any request for remedies arising from the
+approval process. So business as usual for the time being.
+Orest Wowkodaw
+Scotiabank Global Banking and Markets, Research Division
+Okay. And just finally, how quickly do you [indiscernible] receive that Chinese approval?
+Jonathan H. Price
+President, CEO & Director
+Sorry, you just cut out a little bit there. How quickly...
+Orest Wowkodaw
+Scotiabank Global Banking and Markets, Research Division
+Sorry, how quickly do you expect the transaction to close, post the Chinese approval?
+Jonathan H. Price
+President, CEO & Director
+Very quickly. We'd be talking a matter of a couple of weeks, no more than that.
+Operator
+--- PAGE 9 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 9
+The next question comes from Dalton Baretto with Canaccord Genuity.
+Dalton Baretto
+Canaccord Genuity Corp., Research Division
+On the assumption that you do get the SAMR approvals in short order and you close fairly quickly, can you give us an update on
+where you're at in terms of the integration planning? What sort of things have been sort of settled on and ready? What are you still
+working on? And any thinking around the pro forma portfolio?
+Jonathan H. Price
+President, CEO & Director
+Yes. Thanks for those questions, Dalton. An enormous amount of work going on, on integration planning between ourselves and
+Anglo American right now. Of course, we have to continue to operate entirely as independent companies until such time as the merger
+closes. We run our own businesses, there's no crossover of decisions in relation to operations or current activities.
+In the meantime, of course, we've got to ensure that we can seamlessly integrate these two new companies to do two things: one, to
+maintain operational continuity and to ensure we can operate efficiently and effectively. On the other hand, of course, we've got a lot
+of value to capture here through the combination of these businesses. So we're planning for both of those things.
+So on the one hand, we have to plan the way forward around business processes and systems, organizational structures. Of course, the
+appointment of leadership and other teams throughout the new organization will be key to standing that new business up. On the other
+hand, we're working hard to build out the synergy capture plans that we have at a much higher level of fidelity to ensure that as soon
+as the merger closes, teams in the new Anglo-Teck organization can get after capturing that value. So an enormous amount of work
+going on, and we'd expect that work to continue with a high level of intensity all the way through to completion of the transaction.
+Dalton Baretto
+Canaccord Genuity Corp., Research Division
+And maybe in parallel as you're working through that, can you comment on where you guys are at either as Teck or potentially with
+Anglo American on the Collahuasi-QB2 tie-up, specifically from an ownership perspective?
+Jonathan H. Price
+President, CEO & Director
+Yes. So we remain super focused on that, of course, given the significant value opportunity that, that presents. As we've said before,
+we continue to believe that it offers the shareholders of both QB and Collahuasi the fastest growth route to copper growth, lowest risk,
+lowest capital intensity and therefore, delivers the highest returns of any opportunity available to either operation and either set of
+shareholders here.
+One of the first steps there, of course, is advancing a formal study to ensure that we validate and underwrite the investment thesis here
+and begin to shape exactly what that project will look like from an execution perspective. We've engaged with shareholders of both
+operations. We've engaged with local governments. And we remain very optimistic that we'll arrive at a mutually beneficial agreement
+here for all parties because there is so much value to be shared.
+I won't comment more on the nature of those commercial interactions at this point because, of course, they remain confidential. But
+we remain very focused, as is Anglo American, on pursuing that synergy capture opportunity.
+Dalton Baretto
+Canaccord Genuity Corp., Research Division
+Great. And just maybe one more thing on that. Is that study being conducted or will be conducted as a collective? Or are the different
+shareholders having different people look at this?
+Jonathan H. Price
+President, CEO & Director
+So ultimately, of course, that's going to have to be a shared piece of work across both sites. But what we have to do is, of course, come
+into those interactions with the specifics here. We're working with Anglo American on developing that. So we have the coverage, of
+course, as we do today across both QB and Collahuasi in that respect. But of course, ultimately, what that looks like is going to be
+something for all shareholders to be part of. But for the time being, that's something we're progressing at pace.
+--- PAGE 10 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 10
+Operator
+The next question comes from Anita Soni with CIBC World Markets.
+Anita Soni
+CIBC Capital Markets, Research Division
+And again, similar to Orest, congratulations, Emma, on your move and best wishes on your next endeavor. And thanks for all your
+help over the last couple of years.
+I just wanted to ask firstly on this Rock Bench 6. What would you need to see to be able to make that go-ahead decision to accelerate
+the Rock Bench 6 construction?
+Jonathan H. Price
+President, CEO & Director
+I think, Anita, as ever, when we make a decision to invest capital, we need to ensure that that's the right thing to do in terms of the
+uplift that it will give to the value of the operation. I think we have a pretty strong conviction view that this is the direction that we
+will go in because of that acceleration and derisking that I mentioned. But we've just got our usual investment committee processes to
+work through here and the technical assessment of Dale and his team. But like I said, I think a high likelihood that that's the direction
+that we'll follow.
+Anita Soni
+CIBC Capital Markets, Research Division
+And the idea is that you now build out the rock bench, that you'd have a wide enough crest to be able to put the infrastructure in
+earlier, and then that would help with the sand deposition and accelerate that?
+Jonathan H. Price
+President, CEO & Director
+Yes, that's exactly right, of course. An additional rock bench here, Rock Bench 6 will significantly widen the crest. That will enable
+the installation of the permanent infrastructure on that crest. And of course, then the efficiency of the deposition of tailings upstream
+and the deposition of sand downstream will be significantly enhanced and more efficient than the practices that we're deploying today.
+Anita Soni
+CIBC Capital Markets, Research Division
+Okay. So would there be any kind of cost savings from that? I mean, just more of the sand deposition is being taken up by just sort of
+automatic deposition rather than physically placing it with trucks. Is there any kind of cost savings that you guys are looking at?
+Jonathan H. Price
+President, CEO & Director
+Yes. I mean, I think that's a fair assumption. I don't think they'll be dramatically material in the context of the overall operation at QB.
+But yes, you're right in that we will gain efficiencies from progressing to this next phase of a steady-state operation.
+Anita Soni
+CIBC Capital Markets, Research Division
+Okay. And I just have one quick question. On the Antamina zinc pipeline, is there any update on where that stands? I read -- it says in
+your release that it was shut down during the quarter. Is there any idea when it would restart?
+Jonathan H. Price
+President, CEO & Director
+Yes. Anita, that's now fixed, and it's back in operation.
+Operator
+The next question comes from Craig Hutchison with TD Cowen. The next question comes from Craig Hutchison with TD Cowen.
+Craig Hutchison
+TD Cowen, Research Division
+--- PAGE 11 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 11
+I just want to ask a follow-up question on the throughput at QB. Just given your guidance range of 115,000 tonnes to 132,000 tonnes,
+is the goal now in the second half of the year to really kind of push the mill up to its design rate? Or are you guys still kind of being
+a bit cautious on that? I guess maybe as a follow-up, like is there anything on the tailings management facility or the mill itself that
+would prevent you guys from operating a design?
+Jonathan H. Price
+President, CEO & Director
+Dale, do you want to provide a bit of color on that, please?
+Dale Webb
+Senior Vice President of Operations - Latin America,
+Sure, thanks for the question. I think really, the focus that we've been doing and recognizing 3 quarters of stable operation is just
+stability. And what that's allowed us to do is you can see sort of achieving that stable metallurgical recovery as well as improve the
+moly plant performance.
+But agree, our focus now is to build upon that stability, start optimizing and improving plant performance, and it is unconstrained
+from the TMF. So really, our focus is to be able to achieve stable operations and be able to drive demonstrated results through that
+improvement over the next few quarters. So that's our focus there.
+Craig Hutchison
+TD Cowen, Research Division
+Okay. And then the improvements in recovery, is part of that just the stability of the operation? Or are you also starting to see
+improvements just in terms of geology, less oxide, less clay-type interferences with the recoveries?
+Dale Webb
+Senior Vice President of Operations - Latin America,
+Yes. As the mine continues to develop, we do expect to see improved recoveries as a result of the ore type. But at the same time, what
+we're doing today is through stable operations, it's far easier to identify those opportunities to make some incremental improvements.
+This is allowing us also to drive more operating discipline to achieve that stability and repeatability of performance. So it's really a
+combination of the two as we keep moving forward.
+Craig Hutchison
+TD Cowen, Research Division
+Okay. Great. And just maybe one last question for me. Just on the Trail deal you guys announced a few weeks back, just -- is the plan
+to double the production of germanium -- is part of that just better recoveries from Red Dog? Or is it more you're going to source
+more ore from other places? And I'm just trying to understand, like how much of an uplift would be for you guys from your existing
+operations versus just more of a tolling type of arrangement?
+Jonathan H. Price
+President, CEO & Director
+Yes. So Craig, that's more about increasing the processing capacity at Trail over time so we can handle more feed. Of course, the
+majority of our feed today comes from Red Dog. And of course, that's been supplemented by certain residues and other sources to
+complement that.
+And we continue to look on a go-forward basis at a wide range of potential sources. And our commercial group, working with our
+corporate development group, has been very active sourcing a wide range of feeds to support that going forward. But fundamentally,
+the additional volume isn't a recovery game. It's actually expanding processing capacity, and that's what the investment would be
+directed towards.
+Operator
+The next question comes from Liam Fitzpatrick with Deutsche Bank.
+Liam Fitzpatrick
+Deutsche Bank AG, Research Division
+--- PAGE 12 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 12
+Two quick ones probably. First one, just on indexation in Canada. Any recent updates that you can share with us on that?
+And then second one on Trail. You did highlight that Q2 would be impacted by maintenance, but profitability has still remained
+very strong compared to history in Q2. So should we expect similar or better profitability in the second half? Or anything else you'd
+highlight on that asset?
+Jonathan H. Price
+President, CEO & Director
+Thank you, Liam. I'll get Crystal to [indiscernible] have to meet certain domicile criteria for Canada. But that's been quite encouraging
+in that it talks about the materiality being an important part of the Canadian investment landscape, but it also doesn't require Canada to
+be the highest level of economic component of a business of an issuer to achieve that.
+So we're quite encouraged by what we've seen overnight. Also, S&P, rather than applying strict criteria are giving themselves some
+flexibility here and some discretion around how these decisions are made, and importantly, when these decisions are made. So the
+consultation process will start shortly. It's open for comment until the 21st of August, and we expect beyond that to learn more.
+So I think the signals there, Liam, are being quite positive here, and we'll continue to watch that carefully. And of course, our
+investors and other members of the investment community continue to advocate strongly for that development. And then Crystal on
+Trail, please.
+Crystal J. Prystai
+Executive VP & CFO
+Liam, I hope you're doing well. Similar to what we said in the first quarter, as we think about Trail, we're very focused on the feed
+optimization, and the profitability as we go forward really depends both on commodity prices as well as that feed profile. We continue
+to focus on maximizing profitability over volumes.
+But there's a couple of things I would note for the second half of the year, first being that we expect the refined zinc production
+to increase in the third quarter as we continue to optimize the feed source, as I mentioned. And that also balances with processing
+residues. And then we do have planned shutdowns for required maintenance in both zinc and lead in the fourth quarter. So I think
+those would be things I would use to moderate your expectations for the second half of the year.
+Operator
+The next question comes from Myles Allsop with UBS.
+Myles Allsop
+UBS Investment Bank, Research Division
+I mean, one thing that surprised me a little bit is that you didn't point to the upper end of guidance. I mean, how -- are you just being
+super prudent given history when thinking about production for this year? Or are there -- is there a kind of realistic scenario where you
+could be at the midpoint of guidance rather than the top end of guidance?
+Jonathan H. Price
+President, CEO & Director
+Yes, Myles, thank you. I mean, we are very focused on this operational consistency and stability throughout the year. That's a primary
+focus for us. I think we've spoken before, particularly at HVC, that, that has been very much an H1-weighted story. In the second half
+at HVC, we're going to have some downtime in the mills for tie-ins to the mine life extension project. And we also expect a reduction
+in grade as well from a feed perspective in the second half of 2026. So we are expecting lower production there. We're also expecting
+lower production at Antamina in the second half of the year.
+So of course, we'll work as hard as we can to generate the best production outcomes possible across all of our sites, but we do
+still think that the guidance ranges that we have here are valid and appropriate and reflect well, the full year outcomes that we're
+anticipating.
+Myles Allsop
+UBS Investment Bank, Research Division
+--- PAGE 13 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 13
+Okay. And going back to QB, the debottlenecking optimization, now that we're getting 3 steady quarters and the tailings has been kind
+of derisked to a large degree, should we be thinking about bringing forward the debottlenecking optimization opportunities, getting
+throughput up that 15%, 20% or so?
+Dale Webb
+Senior Vice President of Operations - Latin America,
+Thanks for the question. I think certainly, the work in achieving that stable operation is certainly highlighting key areas that will allow
+us to, one, optimize and then think about future debottlenecking. So that work is in progress, really building upon that operational
+information that we're gathering to think about what's next and as we progress.
+But certainly, our focus now is to certainly drive that stability and provide that incremental improvement within what we have. And
+that's really highlighting that really, the best cost-effective ways to improve the operation as we go forward.
+Myles Allsop
+UBS Investment Bank, Research Division
+What's the best time frame to start debottlenecking? I mean, could that be sort of over the next 2 years? Or would we still be looking
+further out?
+Dale Webb
+Senior Vice President of Operations - Latin America,
+So I think that's part of the work that we're doing to understand what work we're actually needing to do and then how fast we can do
+that work. Just recognizing all the other work we're doing in terms of the broader picture of what QB will be, what it will look like and
+how we progress. So I think that work is still being defined to what we can do short term, and then what we would take more work in
+a bit longer time.
+Jonathan H. Price
+President, CEO & Director
+Okay. I think, Myles, you can see from our disclosure today around some of the key operating parameters, we still got work to do to
+push those towards design levels. And that provides a higher base and a strong foundation on which to execute those debottlenecking
+projects.
+Operator
+The next question comes from Lawson Winder with Bank of America.
+Adam Smiarowski
+BofA Securities, Research Division
+This is Adam Smiarowski on for Lawson. I just have a follow-up question on the recovery initiative at QB2. Would you be able to
+kind of describe some of the work that's being done there? And what level of copper recovery we should expect for the remainder of
+2026 and into 2027?
+Jonathan H. Price
+President, CEO & Director
+Yes. So look, we're not going to reguide the copper recoveries. We've set out the parameters for this year that we're targeting to
+operate within. But Dale, maybe if you can just give some color on some of the initiatives that we're pursuing to improve recoveries?
+Dale Webb
+Senior Vice President of Operations - Latin America,
+Quite a bit of the work that we've done builds upon the comprehensive operational review that was done last year. One key element
+was certainly accelerated drilling, getting some more information around the ore body to help our operational plans and help develop
+key playbooks for different ore types as we go forward. So that work has been done, and now we're currently optimizing that, and
+that's being fed into our different process control setups to allow us to be more efficient in what we do.
+In addition, we continue to progress installation of additional sensors and controls to allow us to be -- fine-tune the operation and
+really building upon that stable operation and see what we can do to improve that control and just that stable base. We continue to
+--- PAGE 14 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 14
+improve and optimize our reagent addition, building upon that stability that's allowed us to be more effective and efficient in how we
+see things. And this gives us more confidence in the repeatability of our performance and our ability to build upon it as we continue to
+improve our throughput rates.
+Adam Smiarowski
+BofA Securities, Research Division
+Great. And just a question on costs. Q1 and Q2 net cash costs have been well below guidance and byproduct prices are above the sort
+of the guidance that you provided. So my question is, are unit cash costs setting up to beat guidance? And communicate sort of the
+sensitivity of those unit costs to byproduct prices as well as especially for diesel shipments going in, how -- what the sensitivity we
+have to the zinc to diesel prices?
+Jonathan H. Price
+President, CEO & Director
+Crystal?
+Crystal J. Prystai
+Executive VP & CFO
+Sure. Hi, hope you're having a good day. Again, similar to the story on production, I think that's an important component as we think
+about the unit cost in the second half of the year. Obviously, we're very pleased with our cost performance year-to-date. There remains
+a lot of volatility in the byproduct pricing as well as in energy costs. So while we do have a more conservative assumption embedded
+in our guidance because those were established late last year, we remain confident in the ranges. I think if byproduct pricing persists,
+we would expect to be below the midpoint on copper, and then similarly on the zinc side of things.
+From a sensitivity perspective, I think there was a few things you had in there. I believe you said energy and what the sensitivity to
+that was. For every sort of $10 change in -- per barrel of WTI is about $0.01 on our zinc C1 and about $0.03 on copper. I'm not sure if
+I captured everything that you were asking there, but feel free to weigh in if there was more.
+Adam Smiarowski
+BofA Securities, Research Division
+That's helpful on the energy. And just on some of the byproduct assumptions, so I think silver is roughly double what you have in your
+guidance. So just sort of how $10 change in silver, how that's going to affect net costs?
+Crystal J. Prystai
+Executive VP & CFO
+Sorry, just give me one quick second here to find -- I don't have it off the top of my head. Can we circle back with you offline? Sorry,
+I just need to get the team to provide a bit more on that. I can provide it to you in an EBITDA context, but I don't have the C1s off the
+top here.
+Adam Smiarowski
+BofA Securities, Research Division
+That's perfect.
+Crystal J. Prystai
+Executive VP & CFO
+Okay. We'll come back to you offline.
+Operator
+The next question comes from Brian MacArthur with Raymond James.
+Brian MacArthur
+Raymond James Ltd., Research Division
+I just want to follow up on Craig's question about the germanium and I guess, gallium and other stuff that the Canadian government is
+putting money in at Trail. At Red Dog, as it currently sits, it runs out over a number of years. We've got a new area.
+--- PAGE 15 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 15
+I got a couple of questions. Does the new area have the same amount of germanium? Or b, if it doesn't, how do you get your heads
+around the fact that you may be losing one of the major sources for germanium at Trail on a longer-term basis if it's not grading the
+same way? And I realize this is pretty competitive information, so I'll accept whatever you're willing to actually talk about.
+Jonathan H. Price
+President, CEO & Director
+Yes. Thanks for that question, Brian. I'm going to pass you to Ian Anderson, our Chief Commercial Officer. Because in addition
+to Red Dog, which he can comment on, he's also been looking at and working to develop a whole series of other feed sources to
+supplement the feed at Trail. So over to you, Ian.
+Ian K. Anderson
+Executive VP & Chief Commercial Officer
+Thanks for the question, Brian. I would say at the outset that decisions in terms of Red Dog MLE and the advancement of that project
+are independent from what we're doing at Trail, and of course, subject to the normal both capital allocation and portfolio decisions that
+are required of any project.
+But the feed sources from Trail come from a variety of places, including Red Dog. As we're advancing the Red Dog MLE project,
+which, of course, is rich in germanium, we've also entered into a number of recent transactions in order to secure offtake agreements
+with both zinc and germanium miners.
+And I'll give you some examples. So we recently had a transaction to divest the Apex germanium mine to Blue Moon Metals, and
+that secured an offtake agreement for zinc concentrate from Blue Moon and marketing rights for that product produced from Apex.
+We also had a recent investment on an equity basis to rebuild zinc, lead and silver capacity in the Idaho Silver Valley, an area that's
+really growing, and you're seeing more production coming on there through Bunker Hill. And we also engaged in a recent divestment
+of the Smucker project to Valhalla Metals, and that secured priority purchase rights and [ last ], an offer of -- [ last ] on concentrates
+produced from the Sun and Smucker properties.
+So we are also working on a number of others. And of course, based on this announcement, this is an exciting area where there's lots
+of promise. So we intend to continue our strategy of optimizing for value at Trail, and both residues and feed sources are an important
+component of that in order to create optionality.
+Brian MacArthur
+Raymond James Ltd., Research Division
+Great. That's very helpful. Can I just ask one more question? Because when I look at some of the other sources, Kipushi, China, would
+you take that stuff? Or you're trying to get your -- I assume it's all designed to be Western sources.
+Ian K. Anderson
+Executive VP & Chief Commercial Officer
+We've got lots of offers, and we'll be very careful about how we engage with those, but some of them are pretty exciting, as I said,
+both on the residue basis and on the raw feed basis. So more to come on that one.
+Operator
+Thank you. We are out of time for further questions. I will now hand the call back over to Jonathan Price for closing remarks.
+Jonathan H. Price
+President, CEO & Director
+Okay. Thank you, operator. And before we sign off and to some of the kind comments earlier in the call, I did want to note that this is
+Emma Chapman's last quarterly conference call with Teck. Of course, I'd like to thank Emma for her incredible contributions, for the
+incredible relationships that she's built and has maintained throughout both the sell side and the buy side.
+And I know she's worked in very close partnership with many of you. Of course, Emma has been with us through what has been
+an intensely active period of time. And she's done an amazing job on behalf of Teck, and we wish her all the very best in her next
+chapter.
+Edwin Shadeo has stepped in as Acting Vice President, Investor Relations and Treasurer. Many of you will already know Edwin
+from his previous roles with the company since 2005. He's been in Treasury. He's been in Corporate Development and previously in
+--- PAGE 16 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 16
+Investor Relations. So please do reach out to Edwin, and of course, other members of our IR team on anything that you want to follow
+up on.
+So thanks again to all of you for joining us today, and enjoy the rest of your day. Thank you.
+--- PAGE 17 ---
+TECK RESOURCES LIMITED FQ2 2026 EARNINGS CALL - PRELIMINARY COPY  JUL 23, 2026
+Copyright © 2026 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 17
+Copyright © 2026 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.
+These materials have been prepared solely for information purposes based upon information generally available to the public and from sources believed to be reliable.
+No content (including index data, ratings, credit-related analyses and data, research, model, software or other application or output therefrom) or any part thereof
+(Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior
+written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized
+purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of
+the Content. S&P Global Parties are not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the Content. THE
+CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
+BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS,
+SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE
+WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental,
+exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits
+and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages. S&P Global
+Market Intelligence's opinions, quotes and credit-related and other analyses are statements of opinion as of the date they are expressed and not statements of fact or
+recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an index is available through investable
+instruments based on that index. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content
+should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making
+investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. S&P
+Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result,
+certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to
+maintain the confidentiality of certain nonpublic information received in connection with each analytical process.
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves
+the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com (free
+of charge), and www.ratingsdirect.com and www.globalcreditportal.com (subscription), and may be distributed through other means, including via S&P Global
+publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2026 S&P Global Market Intelligence.

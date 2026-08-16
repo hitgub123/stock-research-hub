@@ -1,0 +1,1789 @@
+
+EX-99.2
+3
+rf-2026630xexhibitx992.htm
+EX-99.2
+
+Document
+
+Exhibit 99.2
+
+Regions Financial Corporation and Subsidiaries
+Financial Supplement (unaudited)
+Second Quarter 2026 
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+
+Table of Contents
+ 
+
+ | | | | | | | | | 
+ | | | 
+ |   |    | Page
+ | | 
+ | Financial Highlights |    | 
+1
+ | | 
+ | Selected Ratios and Other Information* |    | 
+2
+ | | 
+ | Consolidated Balance Sheets |    | 
+3
+ | |   
+ | Loans |    | 
+4
+ | | 
+ | Deposits |    | 
+6
+ | | | 
+ | Consolidated Statements of Income |    | 
+8
+ | | | 
+ | Consolidated Average Daily Balances and Yield / Rate Analysis |    | 
+10
+ | | 
+ | Pre-Tax Pre-Provision Income ("PPI")* and Adjusted PPI* |    | 
+13
+ | | 
+ | Non-Interest Income, Service Charges on Deposit Accounts by Segment, Wealth Management Income, Capital Markets Income, and Mortgage Income |    | 
+14
+ | | 
+ | Non-Interest Expense and Salaries and Benefits Expense |    | 
+16
+ | | 
+ | Reconciliation of GAAP Financial Measures to non-GAAP Financial Measures* |    | 
+ | Adjusted Efficiency Ratios, Adjusted Fee Income Ratios, Adjusted Non-Interest Income / Expense, Adjusted Operating Leverage Ratios, Adjusted Total Revenue, Adjusted Net Income Available to Common Shareholders, Adjusted Diluted EPS, Return Ratios, Tangible Common Ratios, and Common Equity Tier 1 (CET1) Ratios | | 
+17
+ | | 
+ | Asset Quality |    | 
+ | Allowance for Credit Losses, Net Charge-Offs and Related Ratios |    | 
+21
+ | Non-Performing Loans (excludes loans held for sale), Early and Late Stage Delinquencies |    | 
+23
+ | | 
+ | Forward-Looking Statements | | 
+24
+
+*Use of non-GAAP financial measures
+Regions believes that the presentation of non-GAAP financial measures provides a meaningful basis for period-to-period comparisons, which management believes will assist investors in assessing the performance of the Company on the same basis as that applied by management. Non-GAAP financial measures have inherent limitations, are not required to be uniformly applied and are not audited. Although non-GAAP financial measures are frequently used by stakeholders in the evaluation of a company, they have limitations as analytical tools, and should not be considered in isolation, or as a substitute for analyses of results as reported under GAAP. In particular, a measure of earnings that excludes certain adjustments does not represent the amount that effectively accrues directly to shareholders. Additionally, our non-GAAP financial measures may not be comparable to similar non-GAAP financial measures used by other companies and there is no certainty that we will not incur expenses in the future that are similar to those excluded in the calculations on non-GAAP financial measures presented herein.
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Financial Highlights 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Quarter Ended
+ | ($ amounts in millions, except per share data) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025
+ | Earnings Summary | | | | | | | | | 
+ | Interest income - taxable equivalent | $ | 1,762  | | | $ | 1,715  | | | $ | 1,781  | | | $ | 1,808  | | | $ | 1,796  | 
+ | Interest expense - taxable equivalent | 471  | | | 454  | | | 487  | | | 539  | | | 525  | 
+ | Net interest income - taxable equivalent | 1,291  | | | 1,261  | | | 1,294  | | | 1,269  | | | 1,271  | 
+ | Less: Taxable-equivalent adjustment | 14  | | | 13  | | | 13  | | | 12  | | | 12  | 
+ | Net interest income | 1,277  | | | 1,248  | | | 1,281  | | | 1,257  | | | 1,259  | 
+ | Provision for credit losses | 68  | | | 91  | | | 115  | | | 105  | | | 126  | 
+ | Net interest income after provision for credit losses | 1,209  | | | 1,157  | | | 1,166  | | | 1,152  | | | 1,133  | 
+ | Non-interest income | 630  | | | 625  | | | 640  | | | 659  | | | 646  | 
+ | Non-interest expense | 1,121  | | | 1,068  | | | 1,098  | | | 1,103  | | | 1,073  | 
+ | Income before income taxes | 718  | | | 714  | | | 708  | | | 708  | | | 706  | 
+ | Income tax expense | 148  | | | 155  | | | 174  | | | 139  | | | 143  | 
+ | Net income | $ | 570  | | | $ | 559  | | | $ | 534  | | | $ | 569  | | | $ | 563  | 
+ | Net income available to common shareholders | $ | 549  | | | $ | 539  | | | $ | 514  | | | $ | 548  | | | $ | 534  | 
+ | 
+Adjusted net income available to common shareholders (non-GAAP) (1) | $ | 583  | | | $ | 539  | | | $ | 504  | | | $ | 561  | | | $ | 538  | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | Weighted-average shares outstanding—during quarter: | | | | | | | | | 
+ | Basic | 854  | | | 863  | | | 875  | | | 890  | | | 898  | 
+ | Diluted | 857  | | | 868  | | | 880  | | | 894  | | | 900  | 
+ | | | | | | | | | | 
+ | Basic earnings per common share | $ | 0.64  | | | $ | 0.63  | | | $ | 0.59  | | | $ | 0.62  | | | $ | 0.59  | 
+ | Diluted earnings per common share | $ | 0.64  | | | $ | 0.62  | | | $ | 0.58  | | | $ | 0.61  | | | $ | 0.59  | 
+ | 
+Adjusted diluted earnings per common share (non-GAAP) (1) | $ | 0.68  | | | $ | 0.62  | | | $ | 0.57  | | | $ | 0.63  | | | $ | 0.60  | 
+ | | | | | | | | | | 
+ | Balance Sheet Summary | | | | | | | | | 
+ | At quarter-end | | | | | | | | | 
+ | Loans, net of unearned income | $ | 99,200  | | | $ | 97,926  | | | $ | 95,637  | | | $ | 96,125  | | | $ | 96,723  | 
+ | Allowance for credit losses | (1,613  | ) | | (1,647  | ) | | (1,686  | ) | | (1,713  | ) | | (1,743  | )
+ | Assets | 161,299  | | | 160,741  | | | 158,814  | | | 159,940  | | | 159,206  | 
+ | Deposits | 130,710  | | | 131,880  | | | 131,128  | | | 130,334  | | | 130,919  | 
+ | Long-term borrowings | 4,628  | | | 3,137  | | | 4,134  | | | 4,785  | | | 5,279  | 
+ | Shareholders' equity | 18,840  | | | 18,779  | | | 19,043  | | | 19,049  | | | 18,666  | 
+ | Average balances | | | | | | | | | 
+ | Loans, net of unearned income | $ | 98,722  | | | $ | 96,423  | | | $ | 95,651  | | | $ | 96,647  | | | $ | 96,077  | 
+ | Assets | 161,237  | | | 159,287  | | | 158,107  | | | 159,089  | | | 157,974  | 
+ | Deposits | 130,691  | | | 130,234  | | | 129,850  | | | 129,575  | | | 129,444  | 
+ | Long-term borrowings | 3,617  | | | 3,750  | | | 4,524  | | | 5,527  | | | 5,660  | 
+ | Shareholders' equity | 18,676  | | | 19,077  | | | 18,986  | | | 18,688  | | | 18,350  | 
+_____
+(1) See reconciliation of these non-GAAP measures to the most directly comparable GAAP measures on page 19.
+
+1
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Selected Ratios and Other Information
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | As of and for Quarter Ended | 
+ |   | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | 
+ | 
+Return on average assets* (1) | 1.42  | % | | 1.42  | % | | 1.34  | % | | 1.42  | % | | 1.43  | % | 
+ | Return on average common shareholders' equity* | 12.73  | % | | 12.35  | % | | 11.58  | % | | 12.56  | % | | 12.72  | % | 
+ | 
+Return on average tangible common shareholders’ equity (non-GAAP)* (2) | 19.01  | % | | 18.26  | % | | 17.17  | % | | 18.81  | % | | 19.34  | % | 
+ | | | | | | | | | | | 
+ | 
+Adjusted return on average tangible common shareholders' equity (non-GAAP) *(2) | 20.18  | % | | 18.26  | % | | 16.84  | % | | 19.24  | % | | 19.48  | % | 
+ | Efficiency ratio | 58.3  | % | | 56.6  | % | | 56.8  | % | | 57.2  | % | | 56.0  | % | 
+ | 
+Adjusted efficiency ratio (non-GAAP) (2) | 56.9  | % | | 56.6  | % | | 57.5  | % | | 56.9  | % | | 56.0  | % | 
+ | 
+Dividend payout ratio (3) | 41.2  | % | | 42.3  | % | | 44.8  | % | | 43.0  | % | | 42.0  | % | 
+ | Common book value per share | $ | 20.48  | | | $ | 20.39  | | | $ | 20.36  | | | $ | 19.98  | | | $ | 19.35  | | 
+ | 
+Tangible common book value per share (non-GAAP) (2) | $ | 13.78  | | | $ | 13.69  | | | $ | 13.75  | | | $ | 13.49  | | | $ | 12.91  | | 
+ | Total shareholders' equity to total assets | 11.68  | % | | 11.68  | % | | 11.99  | % | | 11.91  | % | | 11.72  | % | 
+ | 
+Tangible common shareholders’ equity to tangible assets (non-GAAP) (2) | 7.55  | % | | 7.54  | % | | 7.80  | % | | 7.74  | % | | 7.52  | % | 
+ | 
+Common equity Tier 1 (4) | $ | 13,692 | | $ | 13,419  | | | $ | 13,490  | | | $ | 13,620  | | | $ | 13,533  | | 
+ | 
+Total risk-weighted assets (4) | $ | 127,786 | | $ | 125,682  | | | $ | 123,882  | | | $ | 125,386  | | | $ | 125,755  | | 
+ | 
+Common equity Tier 1 ratio (4) | 10.7  | % | | 10.7  | % | | 10.9  | % | | 10.9  | % | | 10.8  | % | 
+ | 
+Common equity Tier 1 ratio (inclusive of AOCI) (non-GAAP) (2)(4) | 9.5  | % | | 9.4  | % | | 9.7  | % | | 9.6  | % | | 9.3  | % | 
+ | 
+Tier 1 capital ratio (4) | 11.8  | % | | 11.8  | % | | 12.0  | % | | 12.0  | % | | 11.9  | % | 
+ | 
+Total risk-based capital ratio (4) | 13.7  | % | | 13.6  | % | | 13.9  | % | | 13.8  | % | | 13.7  | % | 
+ | 
+Leverage ratio (4) | 9.7  | % | | 9.6  | % | | 9.7  | % | | 9.7  | % | | 9.7  | % | 
+ | Effective tax rate | 20.7  | % | | 21.6  | % | | 24.5  | % | | 19.7  | % | | 20.3  | % | 
+ | Allowance for credit losses as a percentage of loans, net of unearned income | 1.63  | % | | 1.68  | % | | 1.76  | % | | 1.78  | % | | 1.80  | % | 
+ | Allowance for credit losses to non-performing loans, excluding loans held for sale | 241  | % | | 238  | % | | 242  | % | | 226  | % | | 225  | % | 
+ | Net interest margin (FTE)* | 3.66  | % | | 3.67  | % | | 3.70  | % | | 3.59  | % | | 3.65  | % | 
+ | Loans, net of unearned income, to total deposits | 75.9  | % | | 74.3  | % | | 72.9  | % | | 73.8  | % | | 73.9  | % | 
+ | Net charge-offs as a percentage of average loans* | 0.42  | % | | 0.54  | % | | 0.59  | % | | 0.55  | % | | 0.47  | % | 
+ | | | | | | | | | | | 
+ | Business criticized loans to total business loans | 5.01  | % | | 5.15  | % | | 5.31  | % | | 5.81  | % | | 7.22  | % | 
+ | Non-performing loans, excluding loans held for sale, as a percentage of loans | 0.67  | % | | 0.71  | % | | 0.73  | % | | 0.79  | % | | 0.80  | % | 
+ | Non-performing assets (excluding loans 90 days past due) as a percentage of loans, foreclosed properties, and non-performing loans held for sale | 0.69  | % | | 0.73  | % | | 0.75  | % | | 0.82  | % | | 0.84  | % | 
+ | 
+Non-performing assets (including loans 90 days past due) as a percentage of loans, foreclosed properties, and non-performing loans held for sale (5) | 0.85  | % | | 0.90  | % | | 0.94  | % | | 0.98  | % | | 1.01  | % | 
+ | Associate headcount—full-time equivalent | 20,003  | | | 19,910  | | | 19,969  | | | 19,675  | | | 19,642  | | 
+ | ATMs | 1,777  | | | 1,779  | | | 1,786  | | | 1,874  | | | 1,996  | | 
+ | Branch Statistics | | | | | | | | | | 
+ | Full service | 1,221  | | | 1,221  | | | 1,222  | | | 1,223  | | | 1,224  | | 
+ | Drive-through/transaction service only | 25  | | | 25  | | | 25  | | | 25  | | | 26  | | 
+ | Total branch outlets | 1,246  | | | 1,246  | | | 1,247  | | | 1,248  | | | 1,250  | | 
+
+ | | | | | | | | | | | | 
+ | | | | 
+ | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+*Annualized
+(1)Calculated by dividing net income by average assets. 
+(2)See reconciliation of these non-GAAP measures to the most directly comparable GAAP measures on pages 13, 17, 19, and 20. 
+(3)Dividend payout ratio reflects dividends declared within the applicable period. 
+(4)Current quarter Common equity Tier 1, Total risk-weighted assets, Tier 1 capital, Total risk-based capital and Leverage ratios are estimated.
+(5)Excludes guaranteed residential first mortgages that are 90+ days past due and still accruing. Refer to the footnotes on page 23 for amounts related to these loans.
+
+2
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Consolidated Balance Sheets
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | As of | | 
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 
+ | Assets: | | | | | | | | | | | 
+ | Cash and due from banks | $ | 3,177  | | | $ | 3,445  | | | $ | 3,112  | | | $ | 3,073  | | | $ | 3,245  | | | 
+ | Interest-bearing deposits in other banks | 6,749  | | | 7,698  | | | 7,795  | | | 9,026  | | | 7,930  | | | 
+ | Debt securities held to maturity | 5,271  | | | 5,434  | | | 5,606  | | | 5,769  | | | 5,972  | | | 
+ | Debt securities available for sale | 27,388  | | | 27,419  | | | 27,560  | | | 26,886  | | | 26,333  | | | 
+ | Loans held for sale | 591  | | | 464  | | | 511  | | | 573  | | | 594  | | | 
+ | Loans, net of unearned income | 99,200  | | | 97,926  | | | 95,637  | | | 96,125  | | | 96,723  | | | 
+ | 
+Allowance for loan losses | (1,489) | | | (1,527) | | | (1,556) | | | (1,581) | | | (1,612) | | | 
+ | Net loans | 97,711  | | | 96,399  | | | 94,081  | | | 94,544  | | | 95,111  | | | 
+ | Other earning assets | 1,574  | | | 1,635  | | | 1,703  | | | 1,513  | | | 1,682  | | | 
+ | Premises and equipment, net | 1,704  | | | 1,666  | | | 1,659  | | | 1,742  | | | 1,755  | | | 
+ | Interest receivable | 495  | | | 569  | | | 571  | | | 574  | | | 574  | | | 
+ | Goodwill | 5,733  | | | 5,733  | | | 5,733  | | | 5,733  | | | 5,733  | | | 
+ | Residential mortgage servicing rights at fair value (MSRs) | 958  | | | 954  | | | 970  | | | 976  | | | 988  | | | 
+ | Other identifiable intangible assets, net | 126  | | | 133  | | | 140  | | | 146  | | | 153  | | | 
+ | Other assets | 9,822  | | | 9,192  | | | 9,373  | | | 9,385  | | | 9,136  | | | 
+ | Total assets | $ | 161,299  | | | $ | 160,741  | | | $ | 158,814  | | | $ | 159,940  | | | $ | 159,206  | | | 
+ | Liabilities and Equity: | | | | | | | | | | | 
+ | Deposits: | | | | | | | | | | | 
+ | Non-interest-bearing | $ | 40,538  | | | $ | 40,062  | | | $ | 39,530  | | | $ | 39,768  | | | $ | 40,209  | | | 
+ | Interest-bearing | 90,172  | | | 91,818  | | | 91,598  | | | 90,566  | | | 90,710  | | | 
+ | Total deposits | 130,710  | | | 131,880  | | | 131,128  | | | 130,334  | | | 130,919  | | | 
+ | Borrowed funds: | | | | | | | | | | | 
+ | Federal funds purchased and securities sold under agreements to repurchase | 200  | | | 1,200  | | | —  | | | —  | | | —  | | | 
+ | Other short-term borrowings | 2,800  | | | 2,000  | | | 750  | | | 1,300  | | | —  | | | 
+ | Short-term borrowings | 3,000  | | | 3,200  | | | 750  | | | 1,300  | | | —  | | | 
+ | Long-term borrowings | 4,628  | | | 3,137  | | | 4,134  | | | 4,785  | | | 5,279  | | | 
+ | | | | | | | | | | | | 
+ | Other liabilities | 4,050  | | | 3,680  | | | 3,699  | | | 4,426  | | | 4,302  | | | 
+ | Total liabilities | 142,388  | | | 141,897  | | | 139,711  | | | 140,845  | | | 140,500  | | | 
+ | Equity: | | | | | | | | | | | 
+ | Preferred stock, non-cumulative perpetual | 1,369  | | | 1,369  | | | 1,369  | | | 1,369  | | | 1,369  | | | 
+ | | | | | | | | | | | | 
+ | Common stock | 9  | | | 9  | | | 9  | | | 9  | | | 9  | | | 
+ | Additional paid-in capital | 9,915  | | | 9,973  | | | 10,366  | | | 10,780  | | | 11,017  | | | 
+ | Retained earnings | 10,840  | | | 10,517  | | | 10,205  | | | 9,922  | | | 9,609  | | | 
+ | Treasury stock, at cost | (1,371) | | | (1,371) | | | (1,371) | | | (1,371) | | | (1,371) | | | 
+ | Accumulated other comprehensive income (loss), net | (1,922) | | | (1,718) | | | (1,535) | | | (1,660) | | | (1,967) | | | 
+ | Total shareholders’ equity | 18,840  | | | 18,779  | | | 19,043  | | | 19,049  | | | 18,666  | | | 
+ | 
+Noncontrolling interest | 71  | | | 65  | | | 60  | | | 46  | | | 40  | | | 
+ | 
+Total equity | 18,911  | | | 18,844  | | | 19,103  | | | 19,095  | | | 18,706  | | | 
+ | Total liabilities and equity | $ | 161,299  | | | $ | 160,741  | | | $ | 158,814  | | | $ | 159,940  | | | $ | 159,206  | | | 
+
+3
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+End of Period Loans 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | As of
+ | | | |   | |   | |   | |   | | 6/30/2026 | | 6/30/2026
+ | ($ amounts in millions, net of unearned income) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | |  vs. 3/31/2026 | |  vs. 6/30/2025
+ | Commercial and industrial | $ | 51,841  | | | $ | 50,824  | | | $ | 48,790  | | | $ | 49,234  | | | $ | 49,586  | | | $ | 1,017  | | | 2.0  | % | | $ | 2,255  | | | 4.5  | %
+ | Commercial real estate mortgage—owner-occupied | 5,127  | | | 5,004  | | | 4,845  | | | 4,835  | | | 4,890  | | | 123  | | | 2.5  | % | | 237  | | | 4.8  | %
+ | Commercial real estate construction—owner-occupied | 267  | | | 261  | | | 263  | | | 285  | | | 275  | | | 6  | | | 2.3  | % | | (8) | | | (2.9) | %
+ | Total commercial | 57,235  | | | 56,089  | | | 53,898  | | | 54,354  | | | 54,751  | | | 1,146  | | | 2.0  | % | | 2,484  | | | 4.5  | %
+ | Commercial investor real estate mortgage | 7,896  | | | 7,706  | | | 7,172  | | | 7,122  | | | 6,949  | | | 190  | | | 2.5  | % | | 947  | | | 13.6  | %
+ | Commercial investor real estate construction | 2,073  | | | 1,938  | | | 1,934  | | | 1,948  | | | 2,149  | | | 135  | | | 7.0  | % | | (76) | | | (3.5) | %
+ | Total investor real estate | 9,969  | | | 9,644  | | | 9,106  | | | 9,070  | | | 9,098  | | | 325  | | | 3.4  | % | | 871  | | | 9.6  | %
+ | Total business | 67,204  | | | 65,733  | | | 63,004  | | | 63,424  | | | 63,849  | | | 1,471  | | | 2.2  | % | | 3,355  | | | 5.3  | %
+ | Residential first mortgage | 19,498  | | | 19,621  | | | 19,765  | | | 19,881  | | | 20,020  | | | (123) | | | (0.6) | % | | (522) | | | (2.6) | %
+ | 
+Home equity—lines of credit (1) | 3,241  | | | 3,210  | | | 3,232  | | | 3,209  | | | 3,184  | | | 31  | | | 1.0  | % | | 57  | | | 1.8  | %
+ | 
+Home equity—closed-end (2) | 2,263  | | | 2,287  | | | 2,324  | | | 2,340  | | | 2,352  | | | (24) | | | (1.0) | % | | (89) | | | (3.8) | %
+ | Consumer credit card | 1,498  | | | 1,472  | | | 1,519  | | | 1,437  | | | 1,415  | | | 26  | | | 1.8  | % | | 83  | | | 5.9  | %
+ | 
+Other consumer (3) | 5,496  | | | 5,603  | | | 5,793  | | | 5,834  | | | 5,903  | | | (107) | | | (1.9) | % | | (407) | | | (6.9) | %
+ | Total consumer | 31,996  | | | 32,193  | | | 32,633  | | | 32,701  | | | 32,874  | | | (197) | | | (0.6) | % | | (878) | | | (2.7) | %
+ | Total Loans | $ | 99,200  | | | $ | 97,926  | | | $ | 95,637  | | | $ | 96,125  | | | $ | 96,723  | | | $ | 1,274  | | | 1.3  | % | | $ | 2,477  | | | 2.6  | %______
+(1)     The balance of Regions' home equity lines of credit consists of $1,396 million of first lien and $1,845 million of second lien at 6/30/2026.
+(2)    The balance of Regions' closed-end home equity loans consists of $1,670 million of first lien and $593 million of second lien at 6/30/2026. 
+(3)    Other consumer loans also include Regions' Home Improvement Financing portfolio balances of $4.7 billion at 6/30/2026, $4.8 billion at 3/31/2026, $4.9 billion at 12/31/2025, $5.0 billion at 9/30/2025 and $5.0 billion at 6/30/2025. 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | As of
+ | 
+End of Period Loans by Percentage(1) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025
+ | Commercial and industrial | 52.3  | % | | 51.9  | % | | 51.0  | % | | 51.2  | % | | 51.3  | %
+ | Commercial real estate mortgage—owner-occupied | 5.2  | % | | 5.1  | % | | 5.1  | % | | 5.0  | % | | 5.1  | %
+ | Commercial real estate construction—owner-occupied | 0.3  | % | | 0.3  | % | | 0.3  | % | | 0.3  | % | | 0.3  | %
+ | Total commercial | 57.7  | % | | 57.3  | % | | 56.4  | % | | 56.5  | % | | 56.6  | %
+ | Commercial investor real estate mortgage | 8.0  | % | | 7.8  | % | | 7.5  | % | | 7.4  | % | | 7.2  | %
+ | Commercial investor real estate construction | 2.1  | % | | 2.0  | % | | 2.0  | % | | 2.0  | % | | 2.2  | %
+ | Total investor real estate | 10.0  | % | | 9.8  | % | | 9.5  | % | | 9.4  | % | | 9.4  | %
+ | Total business | 67.7  | % | | 67.1  | % | | 65.9  | % | | 66.0  | % | | 66.0  | %
+ | Residential first mortgage | 19.7  | % | | 20.1  | % | | 20.7  | % | | 20.7  | % | | 20.7  | %
+ | Home equity—lines of credit | 3.3  | % | | 3.3  | % | | 3.4  | % | | 3.3  | % | | 3.3  | %
+ | Home equity—closed-end | 2.3  | % | | 2.3  | % | | 2.4  | % | | 2.4  | % | | 2.4  | %
+ | Consumer credit card | 1.5  | % | | 1.5  | % | | 1.6  | % | | 1.5  | % | | 1.5  | %
+ | | | | | | | | | | 
+ | Other consumer | 5.5  | % | | 5.7  | % | | 6.1  | % | | 6.1  | % | | 6.1  | %
+ | Total consumer | 32.3  | % | | 32.9  | % | | 34.1  | % | | 34.0  | % | | 34.0  | %
+ | Total Loans | 100.0  | % | | 100.0  | % | | 100.0  | % | | 100.0  | % | | 100.0  | %
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ 
+(1)Amounts have been calculated using whole dollar values, and therefore such amounts may not add to total amounts. 
+
+4
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Average Balances of Loans 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | Average Balances
+ | ($ amounts in millions, net of unearned income) | 2Q26 | | 1Q26 | | 4Q25 | | 3Q25 | | 2Q25 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25
+ | Commercial and industrial | $ | 51,504  | | | $ | 49,572  | | | $ | 48,769  | | | $ | 49,588  | | | $ | 49,033  | | | $ | 1,932  | | | 3.9  | % | | $ | 2,471  | | | 5.0  | %
+ | Commercial real estate mortgage—owner-occupied | 5,089  | | | 4,887  | | | 4,866  | | | 4,860  | | | 4,900  | | | 202  | | | 4.1  | % | | 189  | | | 3.9  | %
+ | Commercial real estate construction—owner-occupied | 253  | | | 259  | | | 260  | | | 274  | | | 270  | | | (6) | | | (2.3) | % | | (17) | | | (6.3) | %
+ | Total commercial | 56,846  | | | 54,718  | | | 53,895  | | | 54,722  | | | 54,203  | | | 2,128  | | | 3.9  | % | | 2,643  | | | 4.9  | %
+ | Commercial investor real estate mortgage | 7,798  | | | 7,381  | | | 7,210  | | | 7,087  | | | 6,805  | | | 417  | | | 5.6  | % | | 993  | | | 14.6  | %
+ | Commercial investor real estate construction | 1,991  | | | 1,946  | | | 1,906  | | | 2,051  | | | 2,204  | | | 45  | | | 2.3  | % | | (213) | | | (9.7) | %
+ | Total investor real estate | 9,789  | | | 9,327  | | | 9,116  | | | 9,138  | | | 9,009  | | | 462  | | | 5.0  | % | | 780  | | | 8.7  | %
+ | Total business | 66,635  | | | 64,045  | | | 63,011  | | | 63,860  | | | 63,212  | | | 2,590  | | | 4.0  | % | | 3,423  | | | 5.4  | %
+ | Residential first mortgage | 19,551  | | | 19,674  | | | 19,822  | | | 19,944  | | | 19,992  | | | (123) | | | (0.6) | % | | (441) | | | (2.2) | %
+ | Home equity—lines of credit | 3,226  | | | 3,216  | | | 3,219  | | | 3,197  | | | 3,168  | | | 10  | | | 0.3  | % | | 58  | | | 1.8  | %
+ | Home equity—closed-end | 2,270  | | | 2,298  | | | 2,327  | | | 2,341  | | | 2,357  | | | (28) | | | (1.2) | % | | (87) | | | (3.7) | %
+ | Consumer credit card | 1,474  | | | 1,473  | | | 1,458  | | | 1,420  | | | 1,397  | | | 1  | | | 0.1  | % | | 77  | | | 5.5  | %
+ | | | | | | | | | | | | | | | | | | 
+ | 
+Other consumer (1) | 5,566  | | | 5,717  | | | 5,814  | | | 5,885  | | | 5,951  | | | (151) | | | (2.6) | % | | (385) | | | (6.5) | %
+ | Total consumer | 32,087  | | | 32,378  | | | 32,640  | | | 32,787  | | | 32,865  | | | (291) | | | (0.9) | % | | (778) | | | (2.4) | %
+ | Total Loans | $ | 98,722  | | | $ | 96,423  | | | $ | 95,651  | | | $ | 96,647  | | | $ | 96,077  | | | $ | 2,299  | | | 2.4  | % | | $ | 2,645  | | | 2.8  | %
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | 
+ | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | Average Balances
+ | | | Six Months Ended June 30
+ | ($ amounts in millions, net of unearned income) | | 2026 | | 2025 | | 2026 vs. 2025
+ | Commercial and industrial | | $ | 50,544  | | | $ | 49,120  | | | $ | 1,424  | | | 2.9  | %
+ | Commercial real estate mortgage—owner-occupied | | 4,988  | | | 4,882  | | | 106  | | | 2.2  | %
+ | Commercial real estate construction—owner-occupied | | 256  | | | 293  | | | (37) | | | (12.6) | %
+ | Total commercial | | 55,788  | | | 54,295  | | | 1,493  | | | 2.7  | %
+ | Commercial investor real estate mortgage | | 7,590  | | | 6,646  | | | 944  | | | 14.2  | %
+ | Commercial investor real estate construction | | 1,969  | | | 2,235  | | | (266) | | | (11.9) | %
+ | Total investor real estate | | 9,559  | | | 8,881  | | | 678  | | | 7.6  | %
+ | Total business | | 65,347  | | | 63,176  | | | 2,171  | | | 3.4  | %
+ | Residential first mortgage | | 19,613  | | | 20,015  | | | (402) | | | (2.0) | %
+ | Home equity—lines of credit | | 3,221  | | | 3,152  | | | 69  | | | 2.2  | %
+ | Home equity—closed-end | | 2,284  | | | 2,365  | | | (81) | | | (3.4) | %
+ | Consumer credit card | | 1,473  | | | 1,396  | | | 77  | | | 5.5  | %
+ | | | | | | | | | 
+ | 
+Other consumer (1) | | 5,641  | | | 5,995  | | | (354) | | | (5.9) | %
+ | Total consumer | | 32,232  | | | 32,923  | | | (691) | | | (2.1) | %
+ | Total Loans | | $ | 97,579  | | | $ | 96,099  | | | $ | 1,480  | | | 1.5  | %
+_____
+(1)    Other consumer loans also include Regions' Home Improvement Financing portfolio balances of $4.7 billion at 6/30/2026, $4.8 billion at 3/31/2026, $4.9 billion at 12/31/2025, $5.0 billion at 9/30/2025 and $5.1 billion at 6/30/2025 (on a quarter-to-date basis); and balances of $4.8 billion at 6/30/2026 and $5.1 billion at 6/30/2025 (on a year-to-date basis).
+
+ | | | | | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+ | | 
+
+5
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+End of Period Deposits 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | As of
+ |   | | |   | |   | |   | |   | | 6/30/2026 | | 6/30/2026
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | |  vs. 3/31/2026 | |  vs. 6/30/2025
+ | | | | | | | | | | | | | | | | | | 
+ | Non-interest-bearing deposits | $ | 40,538  | | | $ | 40,062  | | | $ | 39,530  | | | $ | 39,768  | | | $ | 40,209  | | | $ | 476 | | 1.2% | | $ | 329 | | 0.8%
+ | Interest-bearing checking | 25,001  | | | 25,017  | | | 25,677  | | | 24,669  | | | 24,704  | | | (16) | | (0.1)% | | 297 | | 1.2%
+ | Savings | 12,277  | | | 12,405  | | | 11,914  | | | 11,944  | | | 12,187  | | | (128) | | (1.0)% | | 90 | | 0.7%
+ | Money market—domestic | 39,974  | | | 41,288  | | | 40,119  | | | 39,051  | | | 38,525  | | | (1,314) | | (3.2)% | | 1,449 | | 3.8%
+ | | | | | | | | | | | | | | | | | | 
+ | Time deposits | 12,920  | | | 13,108  | | | 13,888  | | | 14,902  | | | 15,294  | | | (188) | | (1.4)% | | (2,374) | | (15.5)%
+ | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | 
+ | Total Deposits | $ | 130,710  | | | $ | 131,880  | | | $ | 131,128  | | | $ | 130,334  | | | $ | 130,919  | | | $ | (1,170) | | (0.9)% | | $ | (209) | | (0.2)%
+ | | | | | | | | | | | | | | | | | | 
+ |   | As of
+ |   | | | | | | |   | |   | | 6/30/2026 | | 6/30/2026
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | |  vs. 3/31/2026 | |  vs. 6/30/2025
+ | Consumer Bank Segment | $ | 80,972  | | | $ | 81,271  | | | $ | 80,193  | | | $ | 79,689  | | | $ | 79,953  | | | $ | (299) | | (0.4)% | | $ | 1,019 | | 1.3%
+ | Corporate Bank Segment | 39,952  | | | 40,574  | | | 40,449  | | | 40,415  | | | 40,101  | | | (622) | | (1.5)% | | (149) | | (0.4)%
+ | Wealth Management Segment | 7,466  | | | 7,750  | | | 8,344  | | | 7,654  | | | 7,352  | | | (284) | | (3.7)% | | 114 | | 1.6%
+ | 
+Other (1) | 2,320  | | | 2,285  | | | 2,142  | | | 2,576  | | | 3,513  | | | 35 | | 1.5% | | (1,193) | | (34.0)%
+ | Total Deposits | $ | 130,710  | | | $ | 131,880  | | | $ | 131,128  | | | $ | 130,334  | | | $ | 130,919  | | | $ | (1,170) | | (0.9)% | | $ | (209) | | (0.2)%
+ | | | | | | | | | | | | | | | | | | 
+ |   | As of
+ |   | | | | |   | |   | |   | | 6/30/2026 | | 6/30/2026
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | |  vs. 3/31/2026 | |  vs. 6/30/2025
+ | Wealth Management - Private Wealth | $ | 6,547  | | | $ | 6,741  | | | $ | 7,149  | | | $ | 6,698  | | | $ | 6,433  | | | $ | (194) | | (2.9)% | | $ | 114 | | 1.8%
+ | Wealth Management - Institutional Services | 919  | | | 1,009  | | | 1,195  | | | 956  | | | 919  | | | (90) | | (8.9)% | | — | | —%
+ | Total Wealth Management Segment Deposits | $ | 7,466  | | | $ | 7,750  | | | $ | 8,344  | | | $ | 7,654  | | | $ | 7,352  | | | $ | (284) | | (3.7)% | | $ | 114 | | 1.6%
+ | | | | | | | | | | | | | | | | | | 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | As of
+ | End of Period Deposits by Percentage | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025
+ | Non-interest-bearing deposits | 31.0  | % | | 30.4  | % | | 30.1  | % | | 30.5  | % | | 30.7  | %
+ | Interest-bearing checking | 19.1  | % | | 19.0  | % | | 19.6  | % | | 18.9  | % | | 18.9  | %
+ | Savings | 9.4  | % | | 9.4  | % | | 9.1  | % | | 9.2  | % | | 9.3  | %
+ | Money market—domestic | 30.6  | % | | 31.3  | % | | 30.6  | % | | 30.0  | % | | 29.4  | %
+ | | | | | | | | | | 
+ | Time deposits | 9.9  | % | | 9.9  | % | | 10.6  | % | | 11.4  | % | | 11.7  | %
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | Total Deposits | 100.0  | % | | 100.0  | % | | 100.0  | % | | 100.0  | % | | 100.0  | %
+ 
+(1)Other deposits represent non-customer balances primarily consisting of wholesale funding (for example, selected deposits and brokered time deposits) and additional wholesale funding arrangements. Other deposits includes brokered deposits totaling $1.6 billion at 6/30/2026, $1.5 billion at 3/31/2026, $1.3 billion at 12/31/2025, $1.8 billion at 9/30/2025 and $2.8 billion at 6/30/2025.
+
+ 
+
+6
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Average Balances of Deposits 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Average Balances
+ | ($ amounts in millions) | 2Q26 | | 1Q26 | | 4Q25 | | 3Q25 | | 2Q25 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25
+ | | | | | | | | | | | | | | | | | | 
+ | Non-interest-bearing deposits | $ | 39,738  | | | $ | 39,160  | | | $ | 39,459  | | | $ | 39,538  | | | $ | 39,556  | | | $ | 578  | | | 1.5  | % | | $ | 182  | | | 0.5  | %
+ | Interest-bearing checking | 25,121  | | | 25,245  | | | 24,528  | | | 24,274  | | | 24,865  | | | (124) | | | (0.5) | % | | 256  | | | 1.0  | %
+ | Savings | 12,355  | | | 12,075  | | | 11,876  | | | 12,046  | | | 12,300  | | | 280  | | | 2.3  | % | | 55  | | | 0.4  | %
+ | Money market—domestic | 40,382  | | | 40,366  | | | 39,591  | | | 38,593  | | | 37,389  | | | 16  | | | —  | % | | 2,993  | | | 8.0  | %
+ | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | 
+ | Time deposits | 13,095  | | | 13,388  | | | 14,396  | | | 15,124  | | | 15,334  | | | (293) | | | (2.2) | % | | (2,239) | | | (14.6) | %
+ | Total Deposits | $ | 130,691  | | | $ | 130,234  | | | $ | 129,850  | | | $ | 129,575  | | | $ | 129,444  | | | $ | 457  | | | 0.4  | % | | 1,247  | | | 1.0  | %
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | Average Balances
+ | ($ amounts in millions) | 2Q26 | | 1Q26 | | 4Q25 | | 3Q25 | | 2Q25 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25
+ | Consumer Bank Segment | $ | 80,624  | | | $ | 79,599  | | | $ | 79,437  | | | $ | 79,698  | | | $ | 79,912  | | | $ | 1,025  | | | 1.3  | % | | $ | 712  | | | 0.9  | %
+ | Corporate Bank Segment | 40,106  | | | 40,707  | | | 40,243  | | | 39,733  | | | 39,234  | | | (601) | | | (1.5) | % | | 872  | | | 2.2  | %
+ | Wealth Management Segment | 7,594  | | | 7,777  | | | 7,810  | | | 7,262  | | | 7,324  | | | (183) | | | (2.4) | % | | 270  | | | 3.7  | %
+ | 
+Other (1) | 2,367  | | | 2,151  | | | 2,360  | | | 2,882  | | | 2,974  | | | 216  | | | 10.0  | % | | (607) | | | (20.4) | %
+ | Total Deposits | $ | 130,691  | | | $ | 130,234  | | | $ | 129,850  | | | $ | 129,575  | | | $ | 129,444  | | | $ | 457  | | | 0.4  | % | | $ | 1,247  | | | 1.0  | %
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | Average Balances
+ | ($ amounts in millions) | 2Q26 | | 1Q26 | | 4Q25 | | 3Q25 | | 2Q25 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25
+ | Wealth Management - Private Wealth | $ | 6,672  | | | $ | 6,747  | | | $ | 6,719  | | | $ | 6,604  | | | $ | 6,705  | | | $ | (75) | | | (1.1) | % | | $ | (33) | | | (0.5) | %
+ | Wealth Management - Institutional Services | 922  | | | 1,030  | | | 1,091  | | | 658  | | | 619  | | | (108) | | | (10.5) | % | | 303  | | | 48.9  | %
+ | Total Wealth Management Segment Deposits | $ | 7,594  | | | $ | 7,777  | | | $ | 7,810  | | | $ | 7,262  | | | $ | 7,324  | | | $ | (183) | | | (2.4) | % | | $ | 270  | | | 3.7  | %
+
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | 
+ | | Average Balances
+ | | Six Months Ended June 30
+ | ($ amounts in millions) | 2026 | | 2025 | | 2026 vs. 2025
+ | Interest-free deposits | $ | 39,450  | | | $ | 39,305  | | | $ | 145  | | | 0.4  | %
+ | Interest-bearing checking | 25,183  | | | 24,949  | | | 234  | | | 0.9  | %
+ | Savings | 12,216  | | | 12,239  | | | (23) | | | (0.2) | %
+ | Money market—domestic | 40,374  | | | 36,512  | | | 3,862  | | | 10.6  | %
+ | | | | | | | | 
+ | | | | | | | | 
+ | Time deposits | 13,241  | | | 15,565  | | | (2,324) | | | (14.9) | %
+ | | | | | | | | 
+ | | | | | | | | 
+ | Total Deposits | $ | 130,464  | | | $ | 128,570  | | | $ | 1,894  | | | 1.5  | %
+
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | 
+ | | Average Balances
+ | | Six Months Ended June 30
+ | ($ amounts in millions) | 2026 | | 2025 | | 2026 vs. 2025
+ | Consumer Bank Segment | $ | 80,114  | | | $ | 79,315  | | | $ | 799  | | | 1.0  | %
+ | Corporate Bank Segment | 40,405  | | | 38,776  | | | 1,629  | | | 4.2  | %
+ | Wealth Management Segment | 7,685  | | | 7,461  | | | 224  | | | 3.0  | %
+ | 
+Other (1) | 2,260  | | | 3,018  | | | (758) | | | (25.1) | %
+ | Total Deposits | $ | 130,464  | | | $ | 128,570  | | | $ | 1,894  | | | 1.5  | %
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | 
+ | | Average Balances
+ | | Six Months Ended June 30
+ | ($ amounts in millions) | 2026 | | 2025 | | 2026 vs. 2025
+ | Wealth Management - Private Wealth | $ | 6,709  | | | $ | 6,800  | | | $ | (91) | | | (1.3) | %
+ | Wealth Management - Institutional Services | 976  | | | 661  | | | 315  | | | 47.7  | %
+ | Total Wealth Management Segment Deposits | $ | 7,685  | | | $ | 7,461  | | | $ | 224  | | | 3.0  | %
+ 
+(1)Other deposits represent non-customer balances primarily consisting of wholesale funding (for example, selected deposits and brokered time deposits) and additional wholesale funding arrangements.
+
+7
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Consolidated Statements of Income (unaudited) 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Quarter Ended
+ | ($ amounts in millions, except per share data) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025
+ | Interest income on: | | | | | | | | | 
+ | Loans, including fees | $ | 1,351  | | | $ | 1,313  | | | $ | 1,358  | | | $ | 1,386  | | | $ | 1,377  | 
+ | Debt securities | 305  | | | 298  | | | 300  | | | 293  | | | 286  | 
+ | Loans held for sale | 8  | | | 8  | | | 9  | | | 9  | | | 9  | 
+ | Other earning assets | 84  | | | 83  | | | 101  | | | 108  | | | 112  | 
+ | Total interest income | 1,748  | | | 1,702  | | | 1,768  | | | 1,796  | | | 1,784  | 
+ | Interest expense on: | | | | | | | | | 
+ | Deposits | 385  | | | 385  | | | 421  | | | 456  | | | 447  | 
+ | Short-term borrowings | 34  | | | 17  | | | 4  | | | 8  | | | 1  | 
+ | Long-term borrowings | 52  | | | 52  | | | 62  | | | 75  | | | 77  | 
+ | Total interest expense | 471  | | | 454  | | | 487  | | | 539  | | | 525  | 
+ | Net interest income | 1,277  | | | 1,248  | | | 1,281  | | | 1,257  | | | 1,259  | 
+ | Provision for credit losses | 68  | | | 91  | | | 115  | | | 105  | | | 126  | 
+ | Net interest income after provision for credit losses | 1,209  | | | 1,157  | | | 1,166  | | | 1,152  | | | 1,133  | 
+ | Non-interest income: | | | | | | | | | 
+ | Service charges on deposit accounts | 167  | | | 163  | | | 163  | | | 160  | | | 151  | 
+ | Card and ATM fees | 126  | | | 117  | | | 123  | | | 122  | | | 125  | 
+ | Wealth management income | 150  | | | 141  | | | 143  | | | 139  | | | 133  | 
+ | Capital markets income | 84  | | | 84  | | | 80  | | | 104  | | | 83  | 
+ | Mortgage income | 33  | | | 32  | | | 32  | | | 38  | | | 48  | 
+ | Securities gains (losses), net | (41) | | | (3) | | | —  | | | (27) | | | (1) | 
+ | Other | 111  | | | 91  | | | 99  | | | 123  | | | 107  | 
+ | Total non-interest income | 630  | | | 625  | | | 640  | | | 659  | | | 646  | 
+ | Non-interest expense: | | | | | | | | | 
+ | Salaries and employee benefits | 697  | | | 659  | | | 662  | | | 671  | | | 658  | 
+ | Equipment and software expense | 107  | | | 108  | | | 112  | | | 106  | | | 104  | 
+ | Net occupancy expense | 73  | | | 72  | | | 74  | | | 72  | | | 72  | 
+ | Other | 244  | | | 229  | | | 250  | | | 254  | | | 239  | 
+ | Total non-interest expense | 1,121  | | | 1,068  | | | 1,098  | | | 1,103  | | | 1,073  | 
+ | Income before income taxes | 718  | | | 714  | | | 708  | | | 708  | | | 706  | 
+ | Income tax expense | 148  | | | 155  | | | 174  | | | 139  | | | 143  | 
+ | Net income | $ | 570  | | | $ | 559  | | | $ | 534  | | | $ | 569  | | | $ | 563  | 
+ | Net income available to common shareholders | $ | 549  | | | $ | 539  | | | $ | 514  | | | $ | 548  | | | $ | 534  | 
+ | Weighted-average shares outstanding—during quarter: | | | | | | | | | 
+ | Basic | 854  | | | 863  | | | 875  | | | 890  | | | 898  | 
+ | Diluted | 857  | | | 868  | | | 880  | | | 894  | | | 900  | 
+ | Actual shares outstanding—end of quarter | 853  | | | 854  | | | 868  | | | 885  | | | 894  | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | 
+Earnings per common share: (1) | | | | | | | | | 
+ | Basic | $ | 0.64  | | | $ | 0.63  | | | $ | 0.59  | | | $ | 0.62  | | | $ | 0.59  | 
+ | Diluted | $ | 0.64  | | | $ | 0.62  | | | $ | 0.58  | | | $ | 0.61  | | | $ | 0.59  | 
+ | Taxable-equivalent net interest income | $ | 1,291  | | | $ | 1,261  | | | $ | 1,294  | | | $ | 1,269  | | | $ | 1,271  | 
+________
+(1) Quarterly amounts may not add to year-to-date amounts due to rounding.
+
+8
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Consolidated Statements of Income (continued) (unaudited) 
+
+ | | | | | | | | | | | | 
+ | | Six Months Ended June 30
+ | ($ amounts in millions, except per share data) | 2026 | | 2025
+ | Interest income on: | | | 
+ | Loans, including fees | $ | 2,664  | | | $ | 2,719  | 
+ | Debt securities | 603  | | | 552  | 
+ | Loans held for sale | 16  | | | 17  | 
+ | Other earning assets | 167  | | | 221  | 
+ | | | | 
+ | Total interest income | 3,450  | | | 3,509  | 
+ | Interest expense on: | | | 
+ | Deposits | 770  | | | 889  | 
+ | Short-term borrowings | 51  | | | 5  | 
+ | Long-term borrowings | 104  | | | 162  | 
+ | Total interest expense | 925  | | | 1,056  | 
+ | | | | 
+ | | | | 
+ | Net interest income | 2,525  | | | 2,453  | 
+ | Provision for credit losses | 159  | | | 250  | 
+ | Net interest income after provision for credit losses | 2,366  | | | 2,203  | 
+ | Non-interest income: | | | 
+ | Service charges on deposit accounts | 330  | | | 312  | 
+ | Card and ATM fees | 243  | | | 242  | 
+ | Wealth management income | 291  | | | 262  | 
+ | Capital markets income | 168  | | | 163  | 
+ | Mortgage income | 65  | | | 88  | 
+ | Securities gains (losses), net | (44) | | | (26) | 
+ | Other | 202  | | | 195  | 
+ | Total non-interest income | 1,255  | | | 1,236  | 
+ | Non-interest expense: | | | 
+ | Salaries and employee benefits | 1,356  | | | 1,283  | 
+ | Equipment and software expense | 215  | | | 203  | 
+ | Net occupancy expense | 145  | | | 142  | 
+ | Other | 473  | | | 484  | 
+ | Total non-interest expense | 2,189  | | | 2,112  | 
+ | Income before income taxes | 1,432  | | | 1,327  | 
+ | Income tax expense | 303  | | | 274  | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | Net income | $ | 1,129  | | | $ | 1,053  | 
+ | | | | 
+ | Net income available to common shareholders | $ | 1,088  | | | $ | 999  | 
+ | Weighted-average shares outstanding—during year: | | | 
+ | Basic | 858  | | | 902  | 
+ | Diluted | 862  | | | 905  | 
+ | Actual shares outstanding—end of period | 853  | | | 894  | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | Earnings per common share: | | | 
+ | Basic | $ | 1.27  | | | $ | 1.11  | 
+ | Diluted | $ | 1.26  | | | $ | 1.10  | 
+ | Taxable-equivalent net interest income | $ | 2,552  | | | $ | 2,477  | 
+
+9
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Consolidated Average Daily Balances and Yield/Rate Analysis 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | Quarter Ended
+ |   | 6/30/2026 | | 3/31/2026
+ | ($ amounts in millions; yields on taxable-equivalent basis) | Average Balance | | Income/ Expense | | 
+Yield/ Rate (1) | | Average Balance | | Income/ Expense | | 
+Yield/ Rate (1)
+ | Assets | | | | | | | | | | | 
+ | Earning assets: | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | 
+Debt securities (2)(3) | $ | 33,286  | | | $ | 305  | | | 3.66  | % | | $ | 33,530  | | | $ | 298  | | | 3.56  | %
+ | Loans held for sale | 512  | | | 8  | | | 6.16  | | | 579  | | | 8  | | | 5.48  | 
+ | Loans, net of unearned income: | | | | | | | | | | | 
+ | 
+Commercial and industrial (4) | 51,504  | | | 697  | | | 5.36  | | | 49,572  | | | 665  | | | 5.37  | 
+ | 
+Commercial real estate mortgage—owner-occupied (5) | 5,089  | | | 66  | | | 5.14  | | | 4,887  | | | 63  | | | 5.14  | 
+ | Commercial real estate construction—owner-occupied | 253  | | | 3  | | | 5.73  | | | 259  | | | 4  | | | 5.60  | 
+ | Commercial investor real estate mortgage | 7,798  | | | 111  | | | 5.63  | | | 7,381  | | | 106  | | | 5.72  | 
+ | Commercial investor real estate construction | 1,991  | | | 32  | | | 6.40  | | | 1,946  | | | 32  | | | 6.51  | 
+ | Residential first mortgage | 19,551  | | | 201  | | | 4.11  | | | 19,674  | | | 200  | | | 4.07  | 
+ | Home equity | 5,496  | | | 89  | | | 6.48  | | | 5,514  | | | 89  | | | 6.50  | 
+ | Consumer credit card | 1,474  | | | 50  | | | 13.69  | | | 1,473  | | | 51  | | | 14.00  | 
+ | | | | | | | | | | | | 
+ | Other consumer | 5,566  | | | 116  | | | 8.31  | | | 5,717  | | | 116  | | | 8.26  | 
+ | Total loans, net of unearned income | 98,722  | | | 1,365  | | | 5.50  | | | 96,423  | | | 1,326  | | | 5.51  | 
+ | Interest-bearing deposits in other banks | 7,291  | | | 69  | | | 3.78  | | | 7,415  | | | 69  | | | 3.79  | 
+ | Other earning assets | 1,526  | | | 15  | | | 4.06  | | | 1,481  | | | 14  | | | 3.72  | 
+ | Total earning assets | 141,337  | | | 1,762  | | | 4.96  | | | 139,428  | | | 1,715  | | | 4.93  | 
+ | 
+Unrealized gains/(losses) on debt securities available for sale, net (2) | (769) | | | | | | | (580) | | | | | 
+ | Allowance for loan losses | (1,533) | | | | | | | (1,552) | | | | | 
+ | Cash and due from banks | 3,247  | | | | | | | 3,275  | | | | | 
+ | Other non-earning assets | 18,955  | | | | | | | 18,716  | | | | | 
+ | | $ | 161,237  | | | | | | | $ | 159,287  | | | | | 
+ | Liabilities and Shareholders’ Equity | | | | | | | | | | | 
+ | Interest-bearing liabilities: | | | | | | | | | | | 
+ | Savings | $ | 12,355  | | | 4  | | | 0.12  | | | $ | 12,075  | | | 4  | | | 0.13  | 
+ | Interest-bearing checking | 25,121  | | | 74  | | | 1.17  | | | 25,245  | | | 71  | | | 1.15  | 
+ | Money market | 40,382  | | | 209  | | | 2.07  | | | 40,366  | | | 207  | | | 2.08  | 
+ | Time deposits | 13,095  | | | 98  | | | 3.02  | | | 13,388  | | | 103  | | | 3.12  | 
+ | 
+Total interest-bearing deposits (6) | 90,953  | | | 385  | | | 1.69  | | | 91,074  | | | 385  | | | 1.72  | 
+ | Federal funds purchased and securities sold under agreements to repurchase | 1,096  | | | 9  | | | 3.64  | | | 655  | | | 7  | | | 3.66  | 
+ | Other short-term borrowings | 2,592  | | | 25  | | | 3.81  | | | 1,077  | | | 10  | | | 3.80  | 
+ | Long-term borrowings | 3,617  | | | 52  | | | 5.69  | | | 3,750  | | | 52  | | | 5.56  | 
+ | Total interest-bearing liabilities | 98,258  | | | 471  | | | 1.92  | | | 96,556  | | | 454  | | | 1.91  | 
+ | 
+Non-interest-bearing deposits (6) | 39,738  | | | —  | | | —  | | | 39,160  | | | —  | | | —  | 
+ | Total funding sources | 137,996  | | | 471  | | | 1.37  | | | 135,716  | | | 454  | | | 1.35  | 
+ | 
+Net interest spread (2) | | | | | 3.04  | | | | | | | 3.02  | 
+ | Other liabilities | 4,500  | | | | | | | 4,435  | | | | | 
+ | Shareholders’ equity | 18,676  | | | | | | | 19,077  | | | | | 
+ | Noncontrolling interest | 65  | | | | | | | 59  | | | | | 
+ | | $ | 161,237  | | | | | | | $ | 159,287  | | | | | 
+ | 
+Net interest income/margin FTE basis (2) | | | $ | 1,291  | | | 3.66  | % | | | | $ | 1,261  | | | 3.67  | %
+_______
+(1) Amounts have been calculated using whole dollar values and the prevailing interest accrual methodology.
+(2) Debt securities are included on an amortized cost basis with yield and net interest margin calculated accordingly. 
+(3) Interest income includes hedging income of $1 million and $1 million for the quarter ended June 30, 2026 and March 31, 2026, respectively. 
+(4) Interest income includes hedging expense of $30 million and $32 million for the quarter ended June 30, 2026 and March 31, 2026, respectively.
+(5) Interest income includes hedging expense of $4 million and $4 million for the quarter ended June 30, 2026 and March 31, 2026, respectively.
+(6) Total deposit costs may be calculated by dividing total interest expense on deposits by the sum of interest-bearing deposits and non-interest-bearing deposits. The rates for total deposit costs equal 1.18% and 1.20% for the quarter ended June 30, 2026 and March 31, 2026, respectively.
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+
+10
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Consolidated Average Daily Balances and Yield/Rate Analysis (continued)
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | Quarter Ended
+ |   | 12/31/2025 | | 9/30/2025 | | 6/30/2025
+ | ($ amounts in millions; yields on taxable-equivalent basis) | Average Balance | | Income/ Expense | | 
+Yield/ Rate (1) | | Average Balance | | Income/ Expense | | 
+Yield/ Rate (1) | | Average Balance | | Income/ Expense | | 
+Yield/ Rate (1)
+ | Assets | | | | | | | | | | | | | | | | | 
+ | Earning assets: | | | | | | | | | | | | | | | | | 
+ | Federal funds sold and securities purchased under agreements to resell | $ | —  | | | $ | —  | | | —  | % | | $ | —  | | | $ | —  | | | —  | % | | $ | 1  | | | $ | —  | | | 4.44  | %
+ | 
+Debt securities (2)(3) | 33,464  | | | 300  | | | 3.58  | | | 33,223  | | | 293  | | | 3.53  | | | 32,882  | | | 286  | | | 3.48  | 
+ | Loans held for sale | 642  | | | 9  | | | 5.73  | | | 662  | | | 9  | | | 5.52  | | | 500  | | | 9  | | | 7.14  | 
+ | Loans, net of unearned income: | | | | | | | | | | | | | | | | | 
+ | 
+Commercial and industrial (4) | 48,769  | | | 688  | | | 5.53  | | | 49,588  | | | 714  | | | 5.65  | | | 49,033  | | | 708  | | | 5.72  | 
+ | 
+Commercial real estate mortgage—owner-occupied (5) | 4,866  | | | 65  | | | 5.16  | | | 4,860  | | | 62  | | | 5.04  | | | 4,900  | | | 63  | | | 5.02  | 
+ | Commercial real estate construction—owner-occupied | 260  | | | 3  | | | 5.72  | | | 274  | | | 4  | | | 5.96  | | | 270  | | | 4  | | | 5.75  | 
+ | Commercial investor real estate mortgage | 7,210  | | | 116  | | | 6.29  | | | 7,087  | | | 114  | | | 6.30  | | | 6,805  | | | 113  | | | 6.55  | 
+ | Commercial investor real estate construction | 1,906  | | | 33  | | | 6.85  | | | 2,051  | | | 37  | | | 7.12  | | | 2,204  | | | 40  | | | 7.10  | 
+ | Residential first mortgage | 19,822  | | | 202  | | | 4.07  | | | 19,944  | | | 202  | | | 4.06  | | | 19,992  | | | 200  | | | 3.99  | 
+ | Home equity | 5,546  | | | 91  | | | 6.57  | | | 5,538  | | | 91  | | | 6.54  | | | 5,525  | | | 90  | | | 6.51  | 
+ | | | | | | | | | | | | | | | | | | 
+ | Consumer credit card | 1,458  | | | 51  | | | 14.06  | | | 1,420  | | | 52  | | | 14.46  | | | 1,397  | | | 50  | | | 14.24  | 
+ | | | | | | | | | | | | | | | | | | 
+ | Other consumer | 5,814  | | | 122  | | | 8.26  | | | 5,885  | | | 122  | | | 8.14  | | | 5,951  | | | 121  | | | 8.33  | 
+ | Total loans, net of unearned income | 95,651  | | | 1,371  | | | 5.65  | | | 96,647  | | | 1,398  | | | 5.70  | | | 96,077  | | | 1,389  | | | 5.75  | 
+ | Interest-bearing deposits in other banks | 7,596  | | | 79  | | | 4.07  | | | 8,316  | | | 94  | | | 4.51  | | | 8,737  | | | 97  | | | 4.49  | 
+ | Other earning assets | 1,456  | | | 22  | | | 6.21  | | | 1,519  | | | 14  | | | 3.63  | | | 1,466  | | | 15  | | | 3.96  | 
+ | 
+Total earning assets | 138,809  | | | 1,781  | | | 5.07  | | | 140,367  | | | 1,808  | | | 5.09  | | | 139,663  | | | 1,796  | | | 5.12  | 
+ | 
+Unrealized gains/(losses) on debt securities available for sale, net (2) | (641) | | | | | | | (1,001) | | | | | | | (1,348) | | | | | 
+ | Allowance for loan losses | (1,545) | | | | | | | (1,616) | | | | | | | (1,643) | | | | | 
+ | Cash and due from banks | 3,055  | | | | | | | 2,892  | | | | | | | 2,893  | | | | | 
+ | Other non-earning assets | 18,429  | | | | | | | 18,447  | | | | | | | 18,409  | | | | | 
+ | | $ | 158,107  | | | | | | | $ | 159,089  | | | | | | | $ | 157,974  | | | | | 
+ | Liabilities and Shareholders’ Equity | | | | | | | | | | | | | | | | | 
+ | Interest-bearing liabilities: | | | | | | | | | | | | | | | | | 
+ | Savings | $ | 11,876  | | | 3  | | | 0.10  | | | $ | 12,046  | | | 4  | | | 0.13  | | | $ | 12,300  | | | 4  | | | 0.13  | 
+ | Interest-bearing checking | 24,528  | | | 78  | | | 1.26  | | | 24,274  | | | 86  | | | 1.41  | | | 24,865  | | | 88  | | | 1.41  | 
+ | Money market | 39,591  | | | 220  | | | 2.20  | | | 38,593  | | | 234  | | | 2.40  | | | 37,389  | | | 220  | | | 2.37  | 
+ | Time deposits | 14,396  | | | 120  | | | 3.33  | | | 15,124  | | | 132  | | | 3.45  | | | 15,334  | | | 135  | | | 3.52  | 
+ | 
+Total interest-bearing deposits (6) | 90,391  | | | 421  | | | 1.85  | | | 90,037  | | | 456  | | | 2.01  | | | 89,888  | | | 447  | | | 1.99  | 
+ | Federal funds purchased and securities sold under agreements to repurchase | 52  | | | 2  | | | 3.91  | | | 48  | | | —  | | | 4.36  | | | 80  | | | 1  | | | 4.40  | 
+ | Other short-term borrowings | 211  | | | 2  | | | 4.25  | | | 696  | | | 8  | | | 4.49  | | | —  | | | —  | | | —  | 
+ | Long-term borrowings | 4,524  | | | 62  | | | 5.40  | | | 5,527  | | | 75  | | | 5.39  | | | 5,660  | | | 77  | | | 5.36  | 
+ | Total interest-bearing liabilities  | 95,178  | | | 487  | | | 2.03  | | | 96,308  | | | 539  | | | 2.22  | | | 95,628  | | | 525  | | | 2.20  | 
+ | 
+Non-interest-bearing deposits (6) | 39,459  | | | —  | | | —  | | | 39,538  | | | —  | | | —  | | | 39,556  | | | —  | | | —  | 
+ | Total funding sources | 134,637  | | | 487  | | | 1.43  | | | 135,846  | | | 539  | | | 1.57  | | | 135,184  | | | 525  | | | 1.55  | 
+ | 
+Net interest spread (2) | | | | | 3.04  | | | | | | | 2.87  | | | | | | | 2.92  | 
+ | Other liabilities | 4,438  | | | | | | | 4,515  | | | | | | | 4,403  | | | | | 
+ | Shareholders’ equity | 18,986  | | | | | | | 18,688  | | | | | | | 18,350  | | | | | 
+ | Noncontrolling interest | 46  | | | | | | | 40  | | | | | | | 37  | | | | | 
+ | | $ | 158,107  | | | | | | | $ | 159,089  | | | | | | | $ | 157,974  | | | | | 
+ | 
+Net interest income/margin FTE basis (2) | | | $ | 1,294  | | | 3.70  | % | | | | $ | 1,269  | | | 3.59  | % | | | | $ | 1,271  | | | 3.65  | %_______
+(1) Amounts have been calculated using whole dollar values and the prevailing interest accrual methodology.
+(2) Debt securities are included on an amortized cost basis with yield and net interest margin calculated accordingly. 
+(3)    Interest income includes hedge income of $5 million, $7 million, $6 million and for the quarter ended December 31, 2025, September 30, 2025, and June 30, 2025, respectively.
+(4) Interest income includes hedging expense of $44 million, $58 million, and $53 million for the quarter ended December 31, 2025, September 30, 2025, and June 30, 2025, respectively.
+(5) Interest income includes hedging expense of $6 million, $7 million, and $7 million for the quarter ended December 31, 2025,September 30, 2025, and June 30, 2025, respectively.
+(6) Total deposit costs may be calculated by dividing total interest expense on deposits by the sum of interest-bearing deposits and non-interest-bearing deposits. The rates for total deposit costs equal 1.29%, 1.39%, and 1.39% for the quarter ended December 31, 2025, September 30, 2025, and June 30, 2025, respectively.
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+
+11
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Consolidated Average Daily Balances and Yield/Rate Analysis (continued) 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | Six Months Ended June 30
+ |   | 2026 | | 2025
+ | ($ amounts in millions; yields on taxable-equivalent basis) | Average Balance | | Income/ Expense | | 
+Yield/ Rate (1) | | Average Balance | | Income/ Expense | | 
+Yield/ Rate (1)
+ | Assets | | | | | | | | | | | 
+ | Earning assets: | | | | | | | | | | | 
+ | Federal funds sold and securities purchased under agreements to resell | $ | —  | | | $ | —  | | | —  | % | | $ | 1  | | | $ | —  | | | 4.44  | %
+ | 
+Debt securities (2)(3) | 33,407  | | | 603  | | | 3.61  | | | 32,583  | | | 552  | | | 3.39  | 
+ | Loans held for sale | 546  | | | 16  | | | 5.80  | | | 471  | | | 17  | | | 7.20  | 
+ | Loans, net of unearned income: | | | | | | | | | | | 
+ | 
+Commercial and industrial (4) | 50,544  | | | 1,362  | | | 5.37  | | | 49,120  | | | 1,395  | | | 5.65  | 
+ | 
+Commercial real estate mortgage—owner-occupied (5) | 4,988  | | | 129  | | | 5.14  | | | 4,882  | | | 122  | | | 4.95  | 
+ | Commercial real estate construction—owner-occupied | 256  | | | 7  | | | 5.66  | | | 293  | | | 9  | | | 5.77  | 
+ | Commercial investor real estate mortgage | 7,590  | | | 217  | | | 5.67  | | | 6,646  | | | 213  | | | 6.36  | 
+ | Commercial investor real estate construction | 1,969  | | | 64  | | | 6.45  | | | 2,235  | | | 80  | | | 7.08  | 
+ | Residential first mortgage | 19,613  | | | 401  | | | 4.09  | | | 20,015  | | | 398  | | | 3.97  | 
+ | Home equity | 5,505  | | | 178  | | | 6.49  | | | 5,517  | | | 181  | | | 6.57  | 
+ | Consumer credit card | 1,473  | | | 101  | | | 13.84  | | | 1,396  | | | 100  | | | 14.39  | 
+ | | | | | | | | | | | | 
+ | Other consumer | 5,641  | | | 232  | | | 8.28  | | | 5,995  | | | 245  | | | 8.30  | 
+ | Total loans, net of unearned income | 97,579  | | | 2,691  | | | 5.50  | | | 96,099  | | | 2,743  | | | 5.69  | 
+ | Interest-bearing deposits in other banks | 7,353  | | | 138  | | | 3.79  | | | 8,637  | | | 191  | | | 4.47  | 
+ | Other earning assets | 1,503  | | | 29  | | | 3.89  | | | 1,475  | | | 30  | | | 4.07  | 
+ | Total earning assets | 140,388  | | | 3,477  | | | 4.95  | | | 139,266  | | | 3,533  | | | 5.07  | 
+ | 
+Unrealized gains/(losses) on debt securities available for sale, net (2) | (675) | | | | | | | (1,531) | | | | | 
+ | Allowance for loan losses | (1,542) | | | | | | | (1,634) | | | | | 
+ | Cash and due from banks | 3,261  | | | | | | | 2,925  | | | | | 
+ | Other non-earning assets | 18,836  | | | | | | | 18,402  | | | | | 
+ | | $ | 160,268  | | | | | | | $ | 157,428  | | | | | 
+ | Liabilities and Shareholders’ Equity | | | | | | | | | | | 
+ | Interest-bearing liabilities: | | | | | | | | | | | 
+ | Savings | $ | 12,216  | | | 8  | | | 0.13  | | | $ | 12,239  | | | 8  | | | 0.13  | 
+ | Interest-bearing checking | 25,183  | | | 145  | | | 1.16  | | | 24,949  | | | 177  | | | 1.43  | 
+ | Money market | 40,374  | | | 416  | | | 2.08  | | | 36,512  | | | 424  | | | 2.35  | 
+ | Time deposits | 13,241  | | | 201  | | | 3.07  | | | 15,565  | | | 280  | | | 3.63  | 
+ | | | | | | | | | | | | 
+ | 
+Total interest-bearing deposits (6) | 91,014  | | | 770  | | | 1.70  | | | 89,265  | | | 889  | | | 2.01  | 
+ | Federal funds purchased and securities sold under agreements to repurchase | 877  | | | 16  | | | 3.65  | | | 60  | | | 1  | | | 4.40  | 
+ | Other short-term borrowings | 1,839  | | | 35  | | | 3.81  | | | 168  | | | 4  | | | 4.59  | 
+ | Long-term borrowings | 3,683  | | | 104  | | | 5.62  | | | 5,830  | | | 162  | | | 5.51  | 
+ | Total interest-bearing liabilities | 97,413  | | | 925  | | | 1.91  | | | 95,323  | | | 1,056  | | | 2.23  | 
+ | 
+Non-interest-bearing deposits (6) | 39,450  | | | —  | | | —  | | | 39,305  | | | —  | | | —  | 
+ | Total funding sources | 136,863  | | | 925  | | | 1.36  | | | 134,628  | | | 1,056  | | | 1.58  | 
+ | 
+Net interest spread (2) | | | | | 3.04  | | | | | | | 2.83  | 
+ | Other liabilities | 4,468  | | | | | | | 4,526  | | | | | 
+ | Shareholders’ equity | 18,875  | | | | | | | 18,240  | | | | | 
+ | Noncontrolling interest | 62  | | | | | | | 34  | | | | | 
+ | | $ | 160,268  | | | | | | | $ | 157,428  | | | | | 
+ | 
+Net interest income/margin FTE basis (2) | | | $ | 2,552  | | | 3.67  | % | | | | $ | 2,477  | | | 3.59  | %
+_______
+(1) Amounts have been calculated using whole dollar values and the prevailing interest accrual methodology.
+(2) Debt securities are included on an amortized cost basis with yield and net interest margin calculated accordingly. 
+(3)    Interest income includes hedging income of $2 million and $8 million for the six months ended June 30, 2026 and 2025, respectively.
+(4) Interest income includes hedging expense of $62 million and $113 million for the six months ended June 30, 2026 and 2025, respectively.
+(5) Interest income includes hedging expense of $8 million and $14 million for the six months ended June 30, 2026 and 2025, respectively.
+(6) Total deposit costs may be calculated by dividing total interest expense on deposits by the sum of interest-bearing deposits and non-interest bearing deposits. The rates for total 
+ deposit costs equal 1.19% and 1.39% for the six months ended June 30, 2026 and 2025, respectively.
+
+12
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Pre-Tax Pre-Provision Income ("PPI") (non-GAAP) and Adjusted PPI (non-GAAP)
+The Pre-Tax Pre-Provision Income tables below present computations of pre-tax pre-provision income excluding certain adjustments (non-GAAP). Regions believes that the presentation of PPI and the exclusion of certain items from PPI provides a meaningful basis for period-to-period comparisons, which management believes will assist investors in analyzing the operating results of the Company and predicting future performance. These non-GAAP financial measures are also used by management to assess the performance of Regions’ business. It is possible that the activities related to the adjustments may recur; however, management does not consider the activities related to the adjustments to be indications of ongoing operations. 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | Quarter Ended | 
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25 | 
+ | Net income available to common shareholders (GAAP) | $ | 549  | | | $ | 539  | | | $ | 514  | | | $ | 548  | | | $ | 534  | | | $ | 10  | | | 1.9  | % | | $ | 15  | | | 2.8  | % | 
+ | 
+Preferred dividends and other (GAAP) (1) | 21  | | | 20  | | | 20  | | | 21  | | | 29  | | | 1  | | | 5.0  | % | | (8) | | | (27.6) | % | 
+ | Income tax expense (GAAP) | 148  | | | 155  | | | 174  | | | 139  | | | 143  | | | (7) | | | (4.5) | % | | 5  | | | 3.5  | % | 
+ | Income before income taxes (GAAP) | 718  | | | 714  | | | 708  | | | 708  | | | 706  | | | 4  | | | 0.6  | % | | 12  | | | 1.7  | % | 
+ | Provision for credit losses (GAAP) | 68  | | | 91  | | | 115  | | | 105  | | | 126  | | | (23) | | | (25.3) | % | | (58) | | | (46.0) | % | 
+ | Pre-tax pre-provision income (non-GAAP) | 786  | | | 805  | | | 823  | | | 813  | | | 832  | | | (19) | | | (2.4) | % | | (46) | | | (5.5) | % | 
+ | Other adjustments: | | | | | | | | | | | | | | | | | | 
+ | Securities (gains) losses, net | 40  | | | —  | | | —  | | | 25  | | | —  | | | 40  | | | NM | | 40  | | | NM | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | FDIC insurance special assessment | —  | | | —  | | | (14) | | | (3) | | | (1) | | | —  | | | NM | | 1  | | | 100.0  | % | 
+ | Salaries and employee benefits—severance charges | —  | | | —  | | | —  | | | —  | | | 1  | | | —  | | | NM | | (1) | | | (100.0) | % | 
+ | Branch consolidation, property and equipment charges | 5  | | | —  | | | —  | | | (5) | | | —  | | | 5  | | | NM | | 5  | | | NM | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | Total other adjustments | 45  | | | —  | | | (14) | | | 17  | | | —  | | | 45  | | | NM | | 45  | | | NM | 
+ | Adjusted pre-tax pre-provision income (non-GAAP) | $ | 831  | | | $ | 805  | | | $ | 809  | | | $ | 830  | | | $ | 832  | | | $ | 26  | | | 3.2  | % | | $ | (1) | | | (0.1) | % | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+_____
+NM - Not meaningful
+(1) The second quarter 2025 amount includes $4 million of deferred issuance costs recognized upon the redemption of Series D preferred stock.
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | 
+ | | | 
+ | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+
+13
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Non-Interest Income
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | Quarter Ended | 
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25 | 
+ | Service charges on deposit accounts | $ | 167  | | | $ | 163  | | | $ | 163  | | | $ | 160  | | | $ | 151  | | | $ | 4  | | | 2.5  | % | | $ | 16  | | | 10.6  | % | 
+ | Card and ATM fees | 126  | | | 117  | | | 123  | | | 122  | | | 125  | | | 9  | | | 7.7  | % | | 1  | | | 0.8  | % | 
+ | Wealth management income | 150  | | | 141  | | | 143  | | | 139  | | | 133  | | | 9  | | | 6.4  | % | | 17  | | | 12.8  | % | 
+ | 
+Capital markets income (1) | 84  | | | 84  | | | 80  | | | 104  | | | 83  | | | —  | | | —  | % | | 1  | | | 1.2  | % | 
+ | Mortgage income | 33  | | | 32  | | | 32  | | | 38  | | | 48  | | | 1  | | | 3.1  | % | | (15) | | | (31.3) | % | 
+ | Commercial credit fee income | 28  | | | 30  | | | 30  | | | 28  | | | 29  | | | (2) | | | (6.7) | % | | (1) | | | (3.4) | % | 
+ | BOLI income | 24  | | | 30  | | | 23  | | | 25  | | | 24  | | | (6) | | | (20.0) | % | | —  | | | —  | % | 
+ | 
+Market value adjustments on employee benefit assets (2) | 24  | | | (5) | | | (5) | | | 12  | | | 16  | | | 29  | | | NM | | 8  | | | 50.0  | % | 
+ | | | | | | | | | | | | | | | | | | | 
+ | Securities gains (losses), net | (41) | | | (3) | | | —  | | | (27) | | | (1) | | | (38) | | | NM | | (40) | | | NM | 
+ | | | | | | | | | | | | | | | | | | | 
+ | Other miscellaneous income | 35  | | | 36  | | | 51  | | | 58  | | | 38  | | | (1) | | | (2.8) | % | | (3) | | | (7.9) | % | 
+ | Total non-interest income | $ | 630  | | | $ | 625  | | | $ | 640  | | | $ | 659  | | | $ | 646  | | | $ | 5  | | | 0.8  | % | | $ | (16) | | | (2.5) | % | 
+Service Charges on Deposit Accounts by Segment 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Quarter Ended
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25
+ | 
+Consumer Bank Segment (3) | $ | 100  | | | $ | 96  | | | $ | 101  | | | $ | 99  | | | $ | 90  | | | $ | 4  | | | 4.2  | % | | $ | 10  | | | 11.1  | %
+ | 
+Corporate Bank Segment (4) | 66  | | | 66  | | | 61  | | | 61  | | | 60  | | | —  | | | —  | % | | 6  | | | 10.0  | %
+ | Wealth Management Segment | 1  | | | 1  | | | 1  | | | —  | | | 1  | | | —  | | | —  | % | | —  | | | —  | %
+ | | | | | | | | | | | | | | | | | | 
+ | Total service charges on deposit accounts | $ | 167  | | | $ | 163  | | | $ | 163  | | | $ | 160  | | | $ | 151  | | | $ | 4  | | | 2.5  | % | | $ | 16  | | | 10.6  | %
+Wealth Management Income
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Quarter Ended | | 
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25 | | 
+ | Investment management and trust fee income | $ | 97  | | | $ | 92  | | | $ | 95  | | | $ | 91  | | | $ | 90  | | | $ | 5  | | | 5.4  | % | | $ | 7  | | | 7.8  | % | | 
+ | Investment services fee income | 53  | | | 49  | | | 48  | | | 48  | | | 43  | | | 4  | | | 8.2  | % | | 10  | | | 23.3  | % | | 
+ | 
+Total wealth management income (5) | $ | 150  | | | $ | 141  | | | $ | 143  | | | $ | 139  | | | $ | 133  | | | $ | 9  | | | 6.4  | % | | $ | 17  | | | 12.8  | % | | 
+Capital Markets Income
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Quarter Ended
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25
+ | Capital markets income | $ | 84  | | | $ | 84  | | | $ | 80  | | | $ | 104  | | | $ | 83  | | | $ | —  | | | —  | % | | $ | 1  | | | 1.2  | %
+ | 
+Less: Valuation adjustments on customer derivatives (6) | (2) | | | 1  | | | —  | | | —  | | | (2) | | | (3) | | | (300.0) | % | | —  | | | —  | %
+ | Capital markets income excluding valuation adjustments | $ | 86  | | | $ | 83  | | | $ | 80  | | | $ | 104  | | | $ | 85  | | | $ | 3  | | | 3.6  | % | | $ | 1  | | | 1.2  | %
+Mortgage Income
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Quarter Ended
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25
+ | Production and sales | $ | 17  | | | $ | 18  | | | $ | 17  | | | $ | 17  | | | $ | 17  | | | $ | (1) | | | (5.6) | % | | $ | —  | | | —  | %
+ | Loan servicing | 45  | | | 46  | | | 47  | | | 47  | | | 47  | | | (1) | | | (2.2) | % | | (2) | | | (4.3) | %
+ | MSR and related hedge impact: | | | | | | | | | | | | | | | | | 
+ | MSRs fair value increase (decrease) due to change in valuation inputs or assumptions | 5  | | | 1  | | | 13  | | | 1  | | | 16  | | | 4  | | | 400.0  | % | | (11) | | | (68.8) | %
+ | MSRs hedge gain (loss) | (9) | | | (3) | | | (16) | | | 1  | | | (4) | | | (6) | | | (200.0) | % | | (5) | | | (125.0) | %
+ | MSRs change due to payment decay | (25) | | | (30) | | | (29) | | | (28) | | | (28) | | | 5  | | | 16.7  | % | | 3  | | | 10.7  | %
+ | MSR and related hedge impact | (29) | | | (32) | | | (32) | | | (26) | | | (16) | | | 3  | | | 9.4  | % | | (13) | | | (81.3) | %
+ | Total mortgage income | $ | 33  | | | $ | 32  | | | $ | 32  | | | $ | 38  | | | $ | 48  | | | $ | 1  | | | 3.1  | % | | $ | (15) | | | (31.3) | %
+ | | | | | | | | | | | | | | | | | | 
+ | Mortgage production - portfolio | $ | 586  | | | $ | 451  | | | $ | 463  | | | $ | 465  | | | $ | 602  | | | $ | 135  | | | 29.9  | % | | $ | (16) | | | (2.7) | %
+ | Mortgage production - agency/secondary market | 586  | | | 516  | | | 494  | | | 504  | | | 516  | | | 70  | | | 13.6  | % | | 70  | | | 13.6  | %
+ | Total mortgage production | $ | 1,172  | | | $ | 967  | | | $ | 957  | | | $ | 969  | | | $ | 1,118  | | | $ | 205  | | | 21.2  | % | | $ | 54  | | | 4.8  | %
+ | | | | | | | | | | | | | | | | | | 
+ | Mortgage production - purchased | 72.9  | % | | 61.2  | % | | 71.7  | % | | 81.4  | % | | 82.5  | % | | | | | | | | 
+ | Mortgage production - refinanced | 27.1  | % | | 38.8  | % | | 28.3  | % | | 18.6  | % | | 17.5  | % | | | | | | | | 
+_________
+NM - Not Meaningful
+(1)Capital markets income primarily relates to capital raising activities that includes debt securities underwriting and placement, loan syndication and placement, as well as foreign exchange, derivative and merger and acquisition advisory services. 
+(2)These market value adjustments relate to assets held for employee and director benefits that are offset within salaries and employee benefits expense and other non-interest expense.
+(3)Consumer overdraft fees represent approximately half of these amounts each quarter.
+(4)The majority of these amounts relate to Treasury Management (TM) activities and typically represent approximately two-thirds of total TM revenue each quarter.
+(5)Total wealth management income does not include certain smaller dollar amounts that are attributable to the wealth management segment. 
+(6)For the purposes of determining the fair value of customer derivatives, the Company considers the risk of nonperformance by counterparties, as well as the Company's own risk of nonperformance. The valuation adjustments above are reflective of the values associated with these considerations. 
+
+14
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Non-Interest Income
+
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | ($ amounts in millions) | Six Months Ended | | Year-to-Date Change 6/30/2026 vs. 6/30/2025
+ | | 6/30/2026 | | 6/30/2025 | | Amount | | Percent
+ | Service charges on deposit accounts | $ | 330  | | | $ | 312  | | | $ | 18  | | | 5.8  | %
+ | Card and ATM fees | 243  | | | 242  | | | 1  | | | 0.4  | %
+ | Wealth management income | 291  | | | 262  | | | 29  | | | 11.1  | %
+ | 
+Capital markets income (1) | 168  | | | 163  | | | 5  | | | 3.1  | %
+ | Mortgage income | 65  | | | 88  | | | (23) | | | (26.1) | %
+ | Commercial credit fee income | 58  | | | 56  | | | 2  | | | 3.6  | %
+ | Bank-owned life insurance | 54  | | | 47  | | | 7  | | | 14.9  | %
+ | 
+Market value adjustments on employee benefit assets (2) | 19  | | | 13  | | | 6  | | | 46.2  | %
+ | Securities gains (losses), net | (44) | | | (26) | | | (18) | | | (69.2) | %
+ | Other miscellaneous income | 71  | | | 79  | | | (8) | | | (10.1) | %
+ | Total non-interest income | $ | 1,255  | | | $ | 1,236  | | | $ | 19  | | | 1.5  | %
+Service Charges on Deposit Accounts by Segment 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Six Months Ended | | Year-to-Date Change 6/30/2026 vs. 6/30/2025
+ | ($ amounts in millions) | 6/30/2026 | | 6/30/2025 | | Amount | | Percent
+ | 
+Consumer Bank Segment (3) | $ | 196  | | | $ | 186  | | | $ | 10  | | | 5.4  | %
+ | 
+Corporate Bank Segment (4) | 132  | | | 124  | | | 8  | | | 6.5  | %
+ | Wealth Management Segment | 2  | | | 2  | | | —  | | | —  | %
+ | | | | | | | | 
+ | Total service charges on deposit accounts | $ | 330  | | | $ | 312  | | | $ | 18  | | | 5.8  | %
+Wealth Management Income
+
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Six Months Ended | | Year-to-Date Change 6/30/2026 vs. 6/30/2025
+ | ($ amounts in millions) | 6/30/2026 | | 6/30/2025 | | Amount | | Percent
+ | Investment management and trust fee income | $ | 189  | | | $ | 176  | | | $ | 13  | | | 7.4  | %
+ | Investment services fee income | 102  | | | 86  | | | 16  | | | 18.6  | %
+ | 
+Total wealth management income (5) | $ | 291  | | | $ | 262  | | | $ | 29  | | | 11.1  | %
+Capital Markets Income
+
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Six Months Ended | | Year-to-Date Change 6/30/2026 vs. 6/30/2025
+ | ($ amounts in millions) | 6/30/2026 | | 6/30/2025 | | Amount | | Percent
+ | Capital markets income | $ | 168  | | | $ | 163  | | | $ | 5  | | | 3.1  | %
+ | 
+Less: Valuation adjustments on customer derivatives (6) | (1) | | | (3) | | | 2  | | | 66.7  | %
+ | Capital markets income excluding valuation adjustments | $ | 169  | | | $ | 166  | | | $ | 3  | | | 1.8  | %Mortgage Income 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Six Months Ended | | Year-to-Date Change 6/30/2026 vs. 6/30/2025
+ | ($ amounts in millions) | 6/30/2026 | | 6/30/2025 | | Amount | | Percent
+ | Production and sales | $ | 35  | | | $ | 30  | | | $ | 5  | | | 16.7  | %
+ | Loan servicing | 91  | | | 94  | | | (3) | | | (3.2) | %
+ | MSR and related hedge impact: | | | | | | | 
+ | MSRs fair value increase (decrease) due to change in valuation inputs or assumptions | 6  | | | 6  | | | —  | | | —  | %
+ | MSRs hedge gain | (12) | | | 14  | | | (26) | | | (185.7) | %
+ | MSRs change due to payment decay | (55) | | | (56) | | | 1  | | | 1.8  | %
+ | MSR and related hedge impact | (61) | | | (36) | | | (25) | | | 69.4  | %
+ | Total mortgage income | $ | 65  | | | $ | 88  | | | $ | (23) | | | (26.1) | %
+ | | | | | | | | 
+ | Mortgage production - portfolio | $ | 1,037  | | | $ | 957  | | | $ | 80  | | | 8.4  | %
+ | Mortgage production - agency/secondary market | 1,102  | | | 887  | | | 215  | | | 24.2  | %
+ | Total mortgage production | $ | 2,139  | | | $ | 1,844  | | | $ | 295  | | | 16.0  | %
+ | | | | | | | | 
+ | Mortgage production - purchased | 67.6  | % | | 82.7  | % | | | | 
+ | Mortgage production - refinanced | 32.4  | % | | 17.3  | % | | | | 
+_________
+NM - Not Meaningful
+(1)Capital markets income primarily relates to capital raising activities that includes debt securities underwriting and placement, loan syndication and placement, as well as foreign exchange, derivative and merger and acquisition advisory services. 
+(2)These market value adjustments relate to assets held for employee and director benefits that are offset within salaries and employee benefits expense and other non-interest expense.
+(3)Consumer overdraft fees typically represent approximately half of these amounts each reporting period.
+(4)The majority of these amounts relate to Treasury Management (TM), and typically represent approximately two-thirds of Regions' total TM revenue each reporting period.
+(5)Total wealth management income does not include certain smaller dollar amounts that are attributable to the wealth management segment. 
+(6)For the purposes of determining the fair value of customer derivatives, the Company considers the risk of nonperformance by counterparties, as well as the Company's own risk of nonperformance. The valuation adjustments above are reflective of the values associated with these considerations. 
+
+15
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Non-Interest Expense 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | Quarter Ended | 
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25 | 
+ | Salaries and employee benefits | $ | 697  | | | $ | 659  | | | $ | 662  | | | $ | 671  | | | $ | 658  | | | $ | 38  | | | 5.8  | % | | $ | 39  | | | 5.9  | % | 
+ | Equipment and software expense | 107  | | | 108  | | | 112  | | | 106  | | | 104  | | | (1) | | | (0.9) | % | | 3  | | | 2.9  | % | 
+ | Net occupancy expense | 73  | | | 72  | | | 74  | | | 72  | | | 72  | | | 1  | | | 1.4  | % | | 1  | | | 1.4  | % | 
+ | Outside services | 47  | | | 42  | | | 45  | | | 42  | | | 39  | | | 5  | | | 11.9  | % | | 8  | | | 20.5  | % | 
+ | Marketing | 28  | | | 29  | | | 29  | | | 28  | | | 26  | | | (1) | | | (3.4) | % | | 2  | | | 7.7  | % | 
+ | Professional, legal and regulatory expenses | 28  | | | 28  | | | 30  | | | 30  | | | 28  | | | —  | | | —  | % | | —  | | | —  | % | 
+ | Credit/checkcard expenses | 16  | | | 14  | | | 18  | | | 15  | | | 16  | | | 2  | | | 14.3  | % | | —  | | | —  | % | 
+ | FDIC insurance assessments | 17  | | | 19  | | | 3  | | | 15  | | | 20  | | | (2) | | | (10.5) | % | | (3) | | | (15.0) | % | 
+ | Visa class B shares expense | 2  | | | 1  | | | 8  | | | 8  | | | 4  | | | 1  | | | 100.0  | % | | (2) | | | (50.0) | % | 
+ | | | | | | | | | | | | | | | | | | | 
+ | Operational losses | 8  | | | 10  | | | 9  | | | 18  | | | 13  | | | (2) | | | (20.0) | % | | (5) | | | (38.5) | % | 
+ | Branch consolidation, property and equipment charges | 5  | | | —  | | | —  | | | (5) | | | —  | | | 5  | | | NM | | 5  | | | NM | 
+ | Other miscellaneous expenses | 93  | | | 86  | | | 108  | | | 103  | | | 93  | | | 7  | | | 8.1  | % | | —  | | | —  | % | 
+ | Total non-interest expense | $ | 1,121  | | | $ | 1,068  | | | $ | 1,098  | | | $ | 1,103  | | | $ | 1,073  | | | $ | 53  | | | 5.0  | % | | $ | 48  | | | 4.5  | % | 
+Salaries and Benefits Expense
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | 
+ | | Quarter Ended
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25
+ | Salaries and employee benefits | $ | 697  | | | $ | 659  | | | $ | 662  | | | $ | 671  | | | $ | 658  | | | $ | 38  | | | 5.8  | % | | $ | 39  | | | 5.9  | %
+ | Less: Market value adjustments on supplemental 401(k) liabilities | 24  | | | (4) | | | 6  | | | 13  | | | 16  | | | 28  | | | NM | | 8  | | | 50.0  | %
+ | Salaries and employee benefits less market value adjustments on employee benefits liabilities | $ | 673  | | | $ | 663  | | | $ | 656  | | | $ | 658  | | | $ | 642  | | | $ | 10  | | | 1.5  | % | | $ | 31  | | | 4.8  | %
+
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | 
+ | | Six Months Ended | | Year-to-Date Change 6/30/2026 vs. 6/30/2025
+ | ($ amounts in millions) | 6/30/2026 | | 6/30/2025 | | Amount | | Percent
+ | Salaries and employee benefits | $ | 1,356  | | | $ | 1,283  | | | $ | 73  | | | 5.7  | %
+ | Equipment and software expense | 215  | | | 203  | | | 12  | | | 5.9  | %
+ | Net occupancy expense | 145  | | | 142  | | | 3  | | | 2.1  | %
+ | Outside services | 89  | | | 79  | | | 10  | | | 12.7  | %
+ | Marketing | 57  | | | 56  | | | 1  | | | 1.8  | %
+ | Professional, legal and regulatory expenses | 56  | | | 51  | | | 5  | | | 9.8  | %
+ | Credit/checkcard expenses | 30  | | | 31  | | | (1) | | | (3.2) | %
+ | FDIC insurance assessments | 36  | | | 40  | | | (4) | | | (10.0) | %
+ | Visa class B shares expense | 3  | | | 11  | | | (8) | | | (72.7) | %
+ | | | | | | | | 
+ | Operational losses | 18  | | | 26  | | | (8) | | | (30.8) | %
+ | Branch consolidation, property and equipment charges | 5  | | | —  | | | 5  | | | NM
+ | Other miscellaneous expenses | 179  | | | 190  | | | (11) | | | (5.8) | %
+ | Total non-interest expense | $ | 2,189  | | | $ | 2,112  | | | $ | 77  | | | 3.6  | %
+
+Salaries and Benefits Expense
+
+ | | | | | | | | | | | | | | | | | | | | | | | | 
+ | 
+ | | Six Months Ended | | Year-to-Date Change 6/30/2026 vs. 6/30/2025
+ | ($ amounts in millions) | 6/30/2026 | | 6/30/2025 | | Amount | | Percent
+ | Salaries and employee benefits | $ | 1,356  | | | $ | 1,283  | | | $ | 73  | | | 5.7  | %
+ | 
+Less: Market value adjustments on 401(k) liabilities (1) | 20  | | | 15  | | | 5  | | | 33.3  | %
+ | Salaries and employee benefits less market value adjustments on employee benefits liabilities | $ | 1,336  | | | $ | 1,268  | | | $ | 68  | | | 5.4  | %
+_________
+NM - Not Meaningful
+(1) The Company holds assets in order to offset the market value adjustments on 401(k) liabilities and the market value adjustments on those assets are recorded in non-interest income. 
+
+16
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Reconciliation of GAAP Financial Measures to Non-GAAP Financial Measures 
+Adjusted Efficiency Ratios, Adjusted Fee Income Ratios, Adjusted Non-Interest Income/Expense, Adjusted Operating Leverage Ratios, and Adjusted Total Revenue
+The table below presents computations of the efficiency ratio, which is a measure of productivity, generally calculated as non-interest expense divided by total revenue; and the fee income ratio, generally calculated as non-interest income divided by total revenue. Management uses these ratios to monitor performance and believes these measures provide meaningful information to investors. Non-interest expense (GAAP) is presented excluding certain adjustments to arrive at adjusted non-interest expense (non-GAAP), which is the numerator for the adjusted efficiency ratio. Non-interest income (GAAP) is presented excluding certain adjustments to arrive at adjusted non-interest income (non-GAAP), which is the numerator for the adjusted fee income ratio. Net interest income and non-interest income are added together to arrive at total revenue. Adjustments are made to arrive at adjusted total revenue (non-GAAP). Net interest income on a taxable-equivalent basis and non-interest income are added together to arrive at total revenue on a taxable-equivalent basis (GAAP). Adjustments are made to arrive at adjusted total revenue on a taxable-equivalent basis (non-GAAP), which is the denominator for the adjusted fee income and adjusted efficiency ratios. Also presented is a computation of the adjusted operating leverage ratio (non-GAAP), which is the period-to-period percentage change in adjusted total revenue on a taxable-equivalent basis (non-GAAP) less the percentage change in adjusted non-interest expense (non-GAAP). 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | |   | Quarter Ended | | | 
+ | ($ amounts in millions) |   | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25 | | | 
+ | Non-interest expense (GAAP) | A | $ | 1,121  | | | $ | 1,068  | | | $ | 1,098  | | | $ | 1,103  | | | $ | 1,073  | | | $ | 53  | | | 5.0  | % | | $ | 48  | | | 4.5  | % | | | 
+ | Adjustments: | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | FDIC insurance special assessment | | —  | | | —  | | | 14  | | | 3  | | | 1  | | | —  | | | NM | | (1) | | | (100.0) | % | | | 
+ | Branch consolidation, property and equipment charges | | (5) | | | —  | | | —  | | | 5  | | | —  | | | (5) | | | NM | | (5) | | | NM | | | 
+ | Salaries and employee benefits—severance charges | | —  | | | —  | | | —  | | | —  | | | (1) | | | —  | | | NM | | 1  | | | 100.0  | % | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | Adjusted non-interest expense (non-GAAP) | B | $ | 1,116  | | | $ | 1,068  | | | $ | 1,112  | | | $ | 1,111  | | | $ | 1,073  | | | $ | 48  | | | 4.5  | % | | $ | 43  | | | 4.0  | % | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | Net interest income (GAAP) | C | $ | 1,277  | | | $ | 1,248  | | | $ | 1,281  | | | $ | 1,257  | | | $ | 1,259  | | | $ | 29  | | | 2.3  | % | | $ | 18  | | | 1.4  | % | | | 
+ | Taxable-equivalent adjustment | | 14  | | | 13  | | | 13  | | | 12  | | | 12  | | | 1  | | | 7.7  | % | | 2  | | | 16.7  | % | | | 
+ | Net interest income, taxable-equivalent basis (GAAP) | D | $ | 1,291  | | | $ | 1,261  | | | $ | 1,294  | | | $ | 1,269  | | | $ | 1,271  | | | $ | 30  | | | 2.4  | % | | $ | 20  | | | 1.6  | % | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | Non-interest income (GAAP) | E | $ | 630  | | | $ | 625  | | | $ | 640  | | | $ | 659  | | | $ | 646  | | | $ | 5  | | | 0.8  | % | | $ | (16) | | | (2.5) | % | | | 
+ | Adjustments: | | | | | | | | | | | | | | | | | | | | | 
+ | Securities (gains) losses, net | | 40  | | | —  | | | —  | | | 25  | | | —  | | | 40  | | | NM | | 40  | | | NM | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | Adjusted non-interest income (non-GAAP) | F | $ | 670  | | | $ | 625  | | | $ | 640  | | | $ | 684  | | | $ | 646  | | | $ | 45  | | | 7.2  | % | | $ | 24  | | | 3.7  | % | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | | 
+ | Total revenue (GAAP) | C+E=G | $ | 1,907  | | | $ | 1,873  | | | $ | 1,921  | | | $ | 1,916  | | | $ | 1,905  | | | $ | 34  | | | 1.8  | % | | $ | 2  | | | 0.1  | % | | | 
+ | Adjusted total revenue (non-GAAP) | C+F=H | $ | 1,947  | | | $ | 1,873  | | | $ | 1,921  | | | $ | 1,941  | | | $ | 1,905  | | | $ | 74  | | | 4.0  | % | | $ | 42  | | | 2.2  | % | | | 
+ | Total revenue, taxable-equivalent basis (GAAP) | D+E=I | $ | 1,921  | | | $ | 1,886  | | | $ | 1,934  | | | $ | 1,928  | | | $ | 1,917  | | | $ | 35  | | | 1.9  | % | | $ | 4  | | | 0.2  | % | | | 
+ | Adjusted total revenue, taxable-equivalent basis (non-GAAP) | D+F=J | $ | 1,961  | | | $ | 1,886  | | | $ | 1,934  | | | $ | 1,953  | | | $ | 1,917  | | | $ | 75  | | | 4.0  | % | | $ | 44  | | | 2.3  | % | | | 
+ | 
+Operating leverage ratio (GAAP) (1) | I-A | | | | | | | | | | | | | (3.1) | % | | | | (4.3) | % | | | 
+ | 
+Adjusted operating leverage ratio (non-GAAP) (1) | J-B | | | | | | | | | | | | | (0.5) | % | | | | (1.7) | % | | | 
+ | 
+Efficiency ratio (GAAP) (1) | A/I | 58.3  | % | | 56.6  | % | | 56.8  | % | | 57.2  | % | | 56.0  | % | | | | | | | | | | | 
+ | 
+Adjusted efficiency ratio (non-GAAP) (1) | B/J | 56.9  | % | | 56.6  | % | | 57.5  | % | | 56.9  | % | | 56.0  | % | | | | | | | | | | | 
+ | 
+Fee income ratio (GAAP) (1) | E/I | 32.8  | % | | 33.1  | % | | 33.1  | % | | 34.2  | % | | 33.7  | % | | | | | | | | | | | 
+ | 
+Adjusted fee income ratio (non-GAAP) (1) | F/J | 34.2  | % | | 33.1  | % | | 33.1  | % | | 35.0  | % | | 33.7  | % | | | | | | | | | | | ________
+NM - Not Meaningful 
+(1) Amounts have been calculated using whole dollar values.
+
+ 
+
+17
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+
+Reconciliation of GAAP Financial Measures to non-GAAP Financial Measures 
+Adjusted Efficiency Ratios, Adjusted Fee Income Ratios, Adjusted Non-Interest Income/Expense, Adjusted Operating Leverage Ratios, and Adjusted Total Revenue (continued)
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | Six Months Ended June 30 | 
+ | ($ amounts in millions) | | 2026 | | 2025 | | 2026 vs. 2025 | 
+ | Non-interest expense (GAAP) | A | $ | 2,189  | | | $ | 2,112  | | | $ | 77  | | | 3.6  | % | 
+ | Adjustments: | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | Branch consolidation, property and equipment charges | | (5) | | | —  | | | (5) | | | NM | 
+ | | | | | | | | | | 
+ | Salaries and employee benefits—severance charges | | —  | | | (2) | | | 2  | | | 100.0  | % | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | Professional, legal and regulatory expenses | | —  | | | (2) | | | 2  | | | 100.0  | % | 
+ | | | | | | | | | | 
+ | Adjusted non-interest expense (non-GAAP) | B | $ | 2,184  | | | $ | 2,108  | | | $ | 76  | | | 3.6  | % | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | Net interest income (GAAP) | C | $ | 2,525  | | | $ | 2,453  | | | $ | 72  | | | 2.9  | % | 
+ | Taxable-equivalent adjustment | | 27  | | | 24  | | | 3  | | | 12.5  | % | 
+ | Net interest income, taxable-equivalent basis | D | $ | 2,552  | | | $ | 2,477  | | | $ | 75  | | | 3.0  | % | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | Non-interest income (GAAP) | E | $ | 1,255  | | | $ | 1,236  | | | $ | 19  | | | 1.5  | % | 
+ | Adjustments: | | | | | | | | | 
+ | Securities (gains) losses, net | | 40  | | | 25  | | | 15  | | | 60.0  | % | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | Adjusted non-interest income (non-GAAP) | F | $ | 1,295  | | | $ | 1,261  | | | $ | 34  | | | 2.7  | % | 
+ | | | | | | | | | | 
+ | | | | | | | | | | 
+ | Total revenue (GAAP) | C+E= G | $ | 3,780  | | | $ | 3,689  | | | $ | 91  | | | 2.5  | % | 
+ | Adjusted total revenue (non-GAAP) | C+F=H | $ | 3,820  | | | $ | 3,714  | | | $ | 106  | | | 2.9  | % | 
+ | Total revenue, taxable-equivalent basis (GAAP) | D+E=I | $ | 3,807  | | | $ | 3,713  | | | $ | 94  | | | 2.5  | % | 
+ | Adjusted total revenue, taxable-equivalent basis (non-GAAP) | D+F=J | $ | 3,847  | | | $ | 3,738  | | | $ | 109  | | | 2.9  | % | 
+ | 
+Operating leverage ratio (GAAP) (1) | I-A | | | | | | | (1.1) | % | 
+ | 
+Adjusted operating leverage ratio (non-GAAP) (1) | J-B | | | | | | | (0.7) | % | 
+ | 
+Efficiency ratio (GAAP) (1) | A/I | 57.5  | % | | 56.9  | % | | | | | 
+ | 
+Adjusted efficiency ratio (non-GAAP) (1) | B/J | 56.8  | % | | 56.4  | % | | | | | 
+ | 
+Fee income ratio (GAAP) (1) | E/I | 33.0  | % | | 33.3  | % | | | | | 
+ | 
+Adjusted fee income ratio (non-GAAP) (1) | F/J | 33.7  | % | | 33.7  | % | | | | | ______
+NM - Not Meaningful
+(1)Amounts have been calculated using whole dollar values. 
+
+18
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Reconciliation of GAAP Financial Measures to non-GAAP Financial Measures 
+Adjusted Net Income Available to Common Shareholders, Adjusted Diluted EPS, and Return Ratios
+The table below provides a reconciliation of net income available to common shareholders (GAAP) to adjusted net income available to common shareholders (non-GAAP), a computation of adjusted diluted EPS (non-GAAP), and calculations of “average tangible common shareholders’ equity” (non-GAAP) and related ratios. Net income available to common shareholders (GAAP) is presented excluding certain adjustments, net of tax, to arrive at adjusted net income available to common shareholders (non-GAAP), which is the numerator for adjusted diluted EPS (non-GAAP). Management uses these ratios to monitor performance and believes these measures provide meaningful information to investors. Average tangible common shareholders’ equity ratios have become a focus of some investors and management believes they may assist investors in analyzing the capital position of the Company absent the effects of intangible assets and preferred stock. Analysts and banking regulators have assessed Regions’ capital adequacy using the average tangible common shareholders’ equity measure. Because average tangible common shareholders’ equity is not formally defined by GAAP or prescribed in any amount by federal banking regulations it is currently considered to be a non-GAAP financial measure and other entities may calculate it differently than Regions’ disclosed calculations. In calculating return on average tangible common shareholders' equity ratios, Regions makes adjustments to shareholders' equity including average intangible assets and related deferred taxes, and average preferred stock. Regions also presents an adjusted tangible common shareholder ratio using adjusted net income (non-GAAP) as the numerator. Management uses these metrics to monitor performance and believes these measures provide meaningful information to investors.
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | Quarter Ended
+ | ($ amounts in millions) | | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 2Q26 vs. 1Q26 | | 2Q26 vs. 2Q25
+ | Net income available to common shareholders (GAAP) | A | $ | 549  | | | $ | 539  | | | $ | 514  | | | $ | 548  | | | $ | 534  | | | $ | 10  | | | 1.9  | % | | $ | 15  | | | 2.8  | %
+ | Adjustments: | | | | | | | | | | | | | | | | | | 
+ | Securities (gains) losses, net | | 40  | | | —  | | | —  | | | 25  | | | —  | | | 40  | | | NM | | 40  | | | NM
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | FDIC insurance special assessment | | —  | | | —  | | | (14) | | | (3) | | | (1) | | | —  | | | NM | | 1  | | | 100.0  | %
+ | Salaries and employee benefits—severance charges | | —  | | | —  | | | —  | | | —  | | | 1  | | | —  | | | NM | | (1) | | | (100.0) | %
+ | Branch consolidation, property and equipment charges | | 5  | | | —  | | | —  | | | (5) | | | —  | | | 5  | | | NM | | 5  | | | NM
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | 
+ | 
+Preferred stock redemption expense (1) | | —  | | | —  | | | —  | | | —  | | | 4  | | | —  | | | NM | | (4) | | | (100.0) | %
+ | Total adjustments | | 45  | | | —  | | | (14) | | | 17  | | | 4  | | | $ | 45  | | | NM | | $ | 41  | | | NM
+ | 
+Tax impact of adjusted items (2) | | (11) | | | —  | | | 4  | | | (4) | | | —  | | | (11) | | | NM | | (11) | | | NM
+ | Adjusted net income available to common shareholders (non-GAAP) | B | $ | 583  | | | $ | 539  | | | $ | 504  | | | $ | 561  | | | $ | 538  | | | $ | 44  | | | 8.2  | % | | $ | 45  | | | 8.4  | %
+ | Weighted-average diluted shares | C | 857  | | | 868  | | | 880  | | | 894  | | | 900  | | | | | | | | | 
+ | 
+Diluted EPS (GAAP) (3) | A/C | $ | 0.64  | | | $ | 0.62  | | | $ | 0.58  | | | $ | 0.61  | | | $ | 0.59  | | | $ | 0.02  | | | 3.2  | % | | $ | 0.05  | | | 8.5  | %
+ | 
+Adjusted diluted EPS (non-GAAP) (3) | B/C | $ | 0.68  | | | $ | 0.62  | | | $ | 0.57  | | | $ | 0.63  | | | $ | 0.60  | | | $ | 0.06  | | | 9.7  | % | | $ | 0.08  | | | 13.3  | %
+ | | | | | | | | | | | | | | | | | | | 
+ | Average shareholders' equity (GAAP) | | 18,676  | | | 19,077  | | | 18,986  | | | 18,688  | | | 18,350  | | | (401) | | | (2.1) | % | | 326  | | | 1.8  | %
+ | Less: Average preferred stock (GAAP) | | 1,369  | | | 1,369  | | | 1,369  | | | 1,369  | | | 1,513  | | | —  | | | —  | % | | (144) | | | (9.5) | %
+ | Average common shareholders' equity (GAAP) | D | 17,307  | | | 17,708  | | | 17,617  | | | 17,319  | | | 16,837  | | | (401) | | | (2.3) | % | | 470  | | | 2.8  | %
+ | Less: | | | | | | | | | | | | | | | | | | 
+ |   Average intangible assets (GAAP) | | 5,863  | | | 5,869  | | | 5,876  | | | 5,883  | | | 5,891  | | | (6) | | | (0.1) | % | | (28) | | | (0.5) | %
+ |   Average deferred tax liability related to intangibles (GAAP) | | (141) | | | (138) | | | (135) | | | (131) | | | (127) | | | (3) | | | (2.2) | % | | (14) | | | (11.0) | %
+ | Average tangible common shareholders' equity (non-GAAP) | E | $ | 11,585  | | | $ | 11,977  | | | $ | 11,876  | | | $ | 11,567  | | | $ | 11,073  | | | (392) | | | (3.3) | % | | 512  | | | 4.6  | %
+ | 
+Return on average common shareholders' equity (GAAP) (3)* | A/D | 12.73  | % | | 12.35  | % | | 11.58  | % | | 12.56  | % | | 12.72  | % | | | | | | | | 
+ | 
+Return on average tangible common shareholders' equity (non-GAAP) (3)* | A/E | 19.01  | % | | 18.26  | % | | 17.17  | % | | 18.81  | % | | 19.34  | % | | | | | | | | 
+ | 
+Adjusted return on average tangible common shareholders' equity (non-GAAP) (3)* | B/E | 20.18  | % | | 18.26  | % | | 16.84  | % | | 19.24  | % | | 19.48  | % | | | | | | | | 
+_______
+*Annualized
+NM - Not Meaningful
+(1) In the second quarter of 2025, the Company redeemed its Series D preferred stock. The initial issuance costs reduced net income to common shareholders when the shares were redeemed. This is a non-taxable expense. 
+(2) Unless separately noted, the tax impact for adjustments has been calculated using a nominal tax rate of 25 percent.
+(3) Amounts calculated based upon whole dollar values. 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | 
+ | | | 
+ | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+ | | | | | | | | | 
+
+19
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Reconciliation of GAAP Financial Measures to non-GAAP Financial Measures 
+Tangible Common Ratios 
+The following table provides a reconciliation of shareholders’ equity (GAAP) to tangible common shareholders’ equity (non-GAAP) and the calculations of the end of period “tangible common shareholders’ equity to tangible assets” and "tangible common book value per share" ratios (non-GAAP). Since analysts and banking regulators may assess Regions’ capital adequacy using tangible common shareholders' equity, management believes that it is useful to provide investors the ability to assess Regions’ capital adequacy on this same basis.
+
+ | | | | | | | | | | | | | | | 
+ | | | | | 
+ | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | 
+ | | | | | | | | | | | | | | | 
+ | 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | As of and for Quarter Ended | | 
+ | ($ amounts in millions, except per share data) | | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 
+ | TANGIBLE COMMON RATIOS | | | | | | | | | | | | 
+ | Shareholders’ equity (GAAP) | A | $ | 18,840  | | | $ | 18,779  | | | $ | 19,043  | | | $ | 19,049  | | | $ | 18,666  | | | 
+ | Less: Preferred stock (GAAP) | | 1,369  | | | 1,369  | | | 1,369  | | | 1,369  | | | 1,369  | | | 
+ | Common shareholders' equity (GAAP) | B | 17,471  | | | 17,410  | | | 17,674  | | | 17,680  | | | 17,297  | | | 
+ | Less: | | | | | | | | | | | | 
+ | Intangible assets (GAAP) | | 5,859  | | | 5,866  | | | 5,873  | | | 5,879  | | | 5,886  | | | 
+ | Deferred tax liability related to intangibles (GAAP) | | (143) | | | (141) | | | (138) | | | (133) | | | (130) | | | 
+ | Tangible common shareholders’ equity (non-GAAP) | C | $ | 11,755  | | | $ | 11,685  | | | $ | 11,939  | | | $ | 11,934  | | | $ | 11,541  | | | 
+ | Total assets (GAAP) | D | $ | 161,299  | | | $ | 160,741  | | | $ | 158,814  | | | $ | 159,940  | | | $ | 159,206  | | | 
+ | Less: | | | | | | | | | | | | 
+ | Intangible assets (GAAP) | | 5,859  | | | 5,866  | | | 5,873  | | | 5,879  | | | 5,886  | | | 
+ | Deferred tax liability related to intangibles (GAAP) | | (143) | | | (141) | | | (138) | | | (133) | | | (130) | | | 
+ | Tangible assets (non-GAAP) | E | $ | 155,583  | | | $ | 155,016  | | | $ | 153,079  | | | $ | 154,194  | | | $ | 153,450  | | | 
+ | Shares outstanding—end of quarter | F | 853  | | | 854  | | | 868  | | | 885  | | | 894  | | | 
+ | 
+Total equity to total assets (GAAP) (1) | A/D | 11.68  | % | | 11.68  | % | | 11.99  | % | | 11.91  | % | | 11.72  | % | | 
+ | 
+Tangible common shareholders’ equity to tangible assets (non-GAAP) (1) | C/E | 7.55  | % | | 7.54  | % | | 7.80  | % | | 7.74  | % | | 7.52  | % | | 
+ | 
+Common book value per share (GAAP) (1) | B/F | $ | 20.48  | | | $ | 20.39  | | | $ | 20.36  | | | $ | 19.98  | | | $ | 19.35  | | | 
+ | 
+Tangible common book value per share (non-GAAP) (1) | C/F | $ | 13.78  | | | $ | 13.69  | | | $ | 13.75  | | | $ | 13.49  | | | $ | 12.91  | | | 
+____ 
+(1)Amounts have been calculated using whole dollar values. 
+
+Common equity Tier 1 (CET1) Ratios 
+
+The following table presents CET1 and CET1 adjusted to include certain components of AOCI (non-GAAP). CET1 is a capital adequacy measure established by federal banking regulators under the Basel III framework. Banking institutions that meet requirements under the regulations are required to maintain certain minimum capital requirements, including a minimum CET1 ratio. This measure is utilized by analysts and banking regulators to assess Regions’ capital adequacy. Under the framework, Regions elected to remove certain of the effects of AOCI in the calculation of CET1. Adjustments to the calculation prescribed in federal banking regulations are considered to be non-GAAP financial measures. Adjustments to CET1 include certain portions of AOCI to arrive at CET1 inclusive of AOCI (non-GAAP), which is a potential impact under recent proposed rulemaking standards. Since analysts and banking regulators may assess Regions’ capital adequacy using proposed rulemaking standards, management believes that it is useful to provide investors the ability to assess Regions’ capital adequacy on this same basis.
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | Quarter-Ended
+ | ($ amounts in millions) | | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025
+ | CET1 RATIOS | | | | | | | | | | 
+ | 
+Common equity Tier 1 (1) | A | $ | 13,692 | | $ | 13,419  | | | $ | 13,490  | | | $ | 13,620  | | | $ | 13,533  | 
+ | Adjustments: | | | | | | | | | | 
+ | 
+AOCI loss on securities (2) | | (1,192) | | | (1,172) | | | (1,076) | | | (1,241) | | | (1,485) | 
+ | AOCI loss on defined benefit pension plans and other post employment benefits | | (384) | | | (387) | | | (391) | | | (396) | | | (401) | 
+ | Common equity Tier 1 (inclusive of AOCI) (non-GAAP) | B | $ | 12,116  | | | $ | 11,860  | | | $ | 12,023  | | | $ | 11,983  | | | $ | 11,647  | 
+ | 
+Total risk-weighted assets (1) | C | $ | 127,786 | | $ | 125,682  | | | $ | 123,882  | | | $ | 125,386  | | | $ | 125,755  | 
+ | | | | | | | | | | | 
+ | 
+Common equity Tier 1 ratio (1)(3) | A/C | 10.7  | % | | 10.7  | % | | 10.9  | % | | 10.9  | % | | 10.8  | %
+ | 
+Common equity Tier 1 ratio (inclusive of AOCI) (non-GAAP) (1)(3) | B/C | 9.5  | % | | 9.4  | % | | 9.7  | % | | 9.6  | % | | 9.3  | %
+____ 
+(1)Current quarter Common equity Tier 1 as well as Total risk-weighted assets are estimated.
+(2)Represents AOCI loss on both available for sale and held to maturity securities.
+(3)Amounts have been calculated using whole dollar values.
+
+20
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Asset Quality 
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | As of and for Quarter Ended | | 
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 
+ | Beginning allowance for loan losses (ALL) | $ | 1,527  | | | $ | 1,556  | | | $ | 1,581  | | | $ | 1,612  | | | $ | 1,613  | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | Loans charged-off: | | | | | | | | | | | 
+ | Commercial and industrial | 66  | | | 88  | | | 92  | | | 57  | | | 70  | | | 
+ | Commercial real estate mortgage—owner-occupied | 1  | | | —  | | | 1  | | | 1  | | | —  | | | 
+ | | | | | | | | | | | | 
+ | Total commercial | 67  | | | 88  | | | 93  | | | 58  | | | 70  | | | 
+ | Commercial investor real estate mortgage | —  | | | —  | | | 4  | | | 34  | | | 2  | | | 
+ | | | | | | | | | | | | 
+ | Total investor real estate | —  | | | —  | | | 4  | | | 34  | | | 2  | | | 
+ | Residential first mortgage | 1  | | | —  | | | —  | | | 1  | | | 1  | | | 
+ | Home equity—lines of credit | 1  | | | 1  | | | —  | | | —  | | | 1  | | | 
+ | Home equity—closed-end | —  | | | —  | | | 1  | | | —  | | | —  | | | 
+ | Consumer credit card | 18  | | | 18  | | | 17  | | | 16  | | | 17  | | | 
+ | | | | | | | | | | | | 
+ | Other consumer | 36  | | | 44  | | | 52  | | | 51  | | | 42  | | | 
+ | Total consumer | 56  | | | 63  | | | 70  | | | 68  | | | 61  | | | 
+ | Total | 123  | | | 151  | | | 167  | | | 160  | | | 133  | | | 
+ | | | | | | | | | | | | 
+ | Recoveries of loans previously charged-off: | | | | | | | | | | | 
+ | Commercial and industrial | 8  | | | 9  | | | 11  | | | 10  | | | 10  | | | 
+ | Commercial real estate mortgage—owner-occupied | 1  | | | —  | | | —  | | | 1  | | | —  | | | 
+ | | | | | | | | | | | | 
+ | Total commercial | 9  | | | 9  | | | 11  | | | 11  | | | 10  | | | 
+ | Commercial investor real estate mortgage | —  | | | —  | | | 1  | | | 2  | | | —  | | | 
+ | | | | | | | | | | | | 
+ | Total investor real estate | —  | | | —  | | | 1  | | | 2  | | | —  | | | 
+ | Residential first mortgage | 1  | | | —  | | | 1  | | | —  | | | 1  | | | 
+ | Home equity—lines of credit | 1  | | | 1  | | | 1  | | | 1  | | | 2  | | | 
+ | Home equity—closed-end | —  | | | —  | | | 1  | | | —  | | | —  | | | 
+ | Consumer credit card | 2  | | | 3  | | | 2  | | | 2  | | | 2  | | | 
+ | | | | | | | | | | | | 
+ | Other consumer | 8  | | | 8  | | | 8  | | | 9  | | | 5  | | | 
+ | Total consumer | 12  | | | 12  | | | 13  | | | 12  | | | 10  | | | 
+ | Total | 21  | | | 21  | | | 25  | | | 25  | | | 20  | | | 
+ | | | | | | | | | | | | 
+ | Net charge-offs (recoveries): | | | | | | | | | | | 
+ | Commercial and industrial | 58  | | | 79  | | | 81  | | | 47  | | | 60  | | | 
+ | Commercial real estate mortgage—owner-occupied | —  | | | —  | | | 1  | | | —  | | | —  | | | 
+ | | | | | | | | | | | | 
+ | Total commercial | 58  | | | 79  | | | 82  | | | 47  | | | 60  | | | 
+ | Commercial investor real estate mortgage | —  | | | —  | | | 3  | | | 32  | | | 2  | | | 
+ | | | | | | | | | | | | 
+ | Total investor real estate | —  | | | —  | | | 3  | | | 32  | | | 2  | | | 
+ | Residential first mortgage | —  | | | —  | | | (1) | | | 1  | | | —  | | | 
+ | Home equity—lines of credit | —  | | | —  | | | (1) | | | (1) | | | (1) | | | 
+ | | | | | | | | | | | | 
+ | Consumer credit card | 16  | | | 15  | | | 15  | | | 14  | | | 15  | | | 
+ | | | | | | | | | | | | 
+ | Other consumer | 28  | | | 36  | | | 44  | | | 42  | | | 37  | | | 
+ | Total consumer | 44  | | | 51  | | | 57  | | | 56  | | | 51  | | | 
+ | Total | 102  | | | 130  | | | 142  | | | 135  | | | 113  | | | 
+ | | | | | | | | | | | | 
+ | Provision for loan losses | 64  | | | 101  | | | 117  | | | 104  | | | 112  | | | 
+ | | | | | | | | | | | | 
+ | Ending allowance for loan losses (ALL) | 1,489  | | | 1,527  | | | 1,556  | | | 1,581  | | | 1,612  | | | 
+ | Beginning reserve for unfunded credit commitments | 120  | | | 130  | | | 132  | | | 131  | | | 117  | | | 
+ | Provision for (benefit from) unfunded credit losses | 4  | | | (10) | | | (2) | | | 1  | | | 14  | | | 
+ | Ending reserve for unfunded commitments | 124  | | | 120  | | | 130  | | | 132  | | | 131  | | | 
+ | Allowance for credit losses (ACL) at period end | $ | 1,613  | | | $ | 1,647  | | | $ | 1,686  | | | $ | 1,713  | | | $ | 1,743  | | | 
+ | | | | | | | | | | | | 
+ | 
+ | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+
+21
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | Asset Quality (continued) | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | | As of and for Quarter Ended | | 
+ | ($ amounts in millions) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | | 
+ | 
+Net loan charge-offs as a % of average loans, annualized (1): | | | | | | | | | | | 
+ | Commercial and industrial | 0.45  | % | | 0.65  | % | | 0.66  | % | | 0.37  | % | | 0.49  | % | | 
+ | Commercial real estate mortgage—owner-occupied | 0.01  | % | | (0.03) | % | | 0.02  | % | | 0.04  | % | | —  | % | | 
+ | Commercial real estate construction—owner-occupied | 0.22  | % | | (0.05) | % | | (0.07) | % | | (0.01) | % | | (0.01) | % | | 
+ | Total commercial | 0.41  | % | | 0.58  | % | | 0.60  | % | | 0.34  | % | | 0.45  | % | | 
+ | Commercial investor real estate mortgage | —  | % | | 0.02  | % | | 0.15  | % | | 1.82  | % | | 0.10  | % | | 
+ | | | | | | | | | | | | 
+ | Total investor real estate | —  | % | | 0.02  | % | | 0.12  | % | | 1.41  | % | | 0.07  | % | | 
+ | Residential first mortgage | —  | % | | —  | % | | —  | % | | 0.01  | % | | —  | % | | 
+ | Home equity—lines of credit | (0.04) | % | | (0.01) | % | | (0.10) | % | | (0.12) | % | | (0.05) | % | | 
+ | Home equity—closed-end | (0.03) | % | | (0.02) | % | | —  | % | | (0.01) | % | | (0.01) | % | | 
+ | Consumer credit card | 4.28  | % | | 4.17  | % | | 4.08  | % | | 3.94  | % | | 4.24  | % | | 
+ | Other consumer | 2.09  | % | | 2.51  | % | | 2.97  | % | | 2.83  | % | | 2.50  | % | | 
+ | Total consumer | 0.56  | % | | 0.63  | % | | 0.70  | % | | 0.67  | % | | 0.63  | % | | 
+ | Total | 0.42  | % | | 0.54  | % | | 0.59  | % | | 0.55  | % | | 0.47  | % | | 
+ | Non-performing loans, excluding loans held for sale | $ | 668  | | | $ | 692  | | | $ | 698  | | | $ | 758  | | | $ | 776  | | | 
+ | Non-performing loans held for sale | 1  | | | 1  | | | —  | | | 12  | | | 16  | | | 
+ | Non-performing loans, including loans held for sale | 669  | | | 693  | | | 698  | | | 770  | | | 792  | | | 
+ | Foreclosed properties | 19  | | | 20  | | | 17  | | | 18  | | | 16  | | | 
+ | | | | | | | | | | | | 
+ | Non-performing assets (NPAs) | $ | 688  | | | $ | 713  | | | $ | 715  | | | $ | 788  | | | $ | 808  | | | 
+ | 
+Loans past due > 90 days (2) | $ | 158  | | | $ | 170  | | | $ | 180  | | | $ | 154  | | | $ | 171  | | | 
+ | | | | | | | | | | | | 
+ | | | | | | | | | | | | 
+ | 
+Criticized loans—business (3) | $ | 3,370  | | | $ | 3,384  | | | $ | 3,342  | | | $ | 3,682  | | | $ | 4,608  | | | 
+ | 
+Credit Ratios (1): | | | | | | | | | | | 
+ | ACL/Loans, net | 1.63  | % | | 1.68  | % | | 1.76  | % | | 1.78  | % | | 1.80  | % | | 
+ | ALL/Loans, net | 1.50  | % | | 1.56  | % | | 1.63  | % | | 1.64  | % | | 1.67  | % | | 
+ | Business criticized loans to total business loans | 5.01  | % | | 5.15  | % | | 5.31  | % | | 5.81  | % | | 7.22  | % | | 
+ | Allowance for credit losses to non-performing loans, excluding loans held for sale | 241  | % | | 238  | % | | 242  | % | | 226  | % | | 225  | % | | 
+ | Allowance for loan losses to non-performing loans, excluding loans held for sale | 223  | % | | 221  | % | | 223  | % | | 208  | % | | 208  | % | | 
+ | Non-performing loans, excluding loans held for sale/Loans, net | 0.67  | % | | 0.71  | % | | 0.73  | % | | 0.79  | % | | 0.80  | % | | 
+ | NPAs (ex. 90+ past due)/Loans, foreclosed properties, and non-performing loans held for sale | 0.69  | % | | 0.73  | % | | 0.75  | % | | 0.82  | % | | 0.84  | % | | 
+ | 
+NPAs (inc. 90+ past due)/Loans, foreclosed properties, and non-performing loans held for sale (2) | 0.85  | % | | 0.90  | % | | 0.94  | % | | 0.98  | % | | 1.01  | % | | 
+ 
+(1)Amounts have been calculated using whole dollar values.
+(2)Excludes guaranteed residential first mortgages that are 90+ days past due and still accruing. Refer to the footnotes on page 23 for amounts related to these loans.
+(3)Business represents the combined total of commercial and investor real estate loans. 
+
+ | | | | | | | | | | | | | 
+ | | | | | 
+ | Allowance for Credit Losses | | | | 
+ | | | Six Months Ended June 30
+ | ($ amounts in millions) | | 2026 | | 2025
+ | Balance at January 1 | | $ | 1,686  | | | $ | 1,729  | 
+ | Net charge-offs | | 232  | | | 236  | 
+ | Provision for loan losses | | 165  | | | 235  | 
+ | Provision for unfunded credit losses | | (6) | | | 15  | 
+ | 
+Balance at June 30 | | $ | 1,613  | | | $ | 1,743  | 
+ | 
+Net loan charge-offs as a % of average loans, annualized (GAAP) (1) | | 0.48  | % | | 0.50  | %
+ 
+(1)Amounts have been calculated using whole dollar values.
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | 
+
+22
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Non-Performing Loans (excludes loans held for sale)
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ |   | As of | 
+ | ($ amounts in millions, %'s calculated using whole dollar values) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | 
+ | Commercial and industrial | $ | 412  | | | 0.79  | % | | $ | 471  | | | 0.93  | % | | $ | 474  | | | 0.97  | % | | $ | 524  | | | 1.06  | % | | $ | 391  | | | 0.79  | % | 
+ | Commercial real estate mortgage—owner-occupied | 61  | | | 1.19  | % | | 53  | | | 1.06  | % | | 45  | | | 0.92  | % | | 41  | | | 0.85  | % | | 45  | | | 0.92  | % | 
+ | Commercial real estate construction—owner-occupied | 2  | | | 0.64  | % | | 2  | | | 0.85  | % | | 2  | | | 0.85  | % | | 1  | | | 0.43  | % | | 1  | | | 0.46  | % | 
+ | Total commercial | 475  | | | 0.83  | % | | 526  | | | 0.94  | % | | 521  | | | 0.97  | % | | 566  | | | 1.04  | % | | 437  | | | 0.80  | % | 
+ | Commercial investor real estate mortgage | 127  | | | 1.60  | % | | 103  | | | 1.33  | % | | 121  | | | 1.69  | % | | 137  | | | 1.92  | % | | 283  | | | 4.08  | % | 
+ | Total investor real estate | 127  | | | 1.27  | % | | 103  | | | 1.06  | % | | 121  | | | 1.33  | % | | 137  | | | 1.51  | % | | 283  | | | 3.12  | % | 
+ | Residential first mortgage | 33  | | | 0.17  | % | | 30  | | | 0.16  | % | | 25  | | | 0.12  | % | | 24  | | | 0.12  | % | | 24  | | | 0.12  | % | 
+ | Home equity—lines of credit | 25  | | | 0.76  | % | | 25  | | | 0.77  | % | | 24  | | | 0.74  | % | | 24  | | | 0.73  | % | | 26  | | | 0.79  | % | 
+ | Home equity—closed-end | 8  | | | 0.36  | % | | 8  | | | 0.34  | % | | 7  | | | 0.32  | % | | 7  | | | 0.31  | % | | 6  | | | 0.26  | % | 
+ | Total consumer | 66  | | | 0.21  | % | | 63  | | | 0.20  | % | | 56  | | | 0.17  | % | | 55  | | | 0.17  | % | | 56  | | | 0.17  | % | 
+ | Total non-performing loans | $ | 668  | | | 0.67  | % | | $ | 692  | | | 0.71  | % | | $ | 698  | | | 0.73  | % | | $ | 758  | | | 0.79  | % | | $ | 776  | | | 0.80  | % | 
+
+Early and Late Stage Delinquencies 
+
+ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+ | 
+Accruing 30-89 Days Past Due Loans | As of | 
+ | ($ amounts in millions, %'s calculated using whole dollar values) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | 
+ | Commercial and industrial | $ | 61  | | | 0.12  | % | | $ | 50  | | | 0.10  | % | | $ | 55  | | | 0.11  | % | | $ | 63  | | | 0.13  | % | | $ | 67  | | | 0.14  | % | 
+ | Commercial real estate mortgage—owner-occupied | 15  | | | 0.28  | % | | 4  | | | 0.08  | % | | 6  | | | 0.11  | % | | 10  | | | 0.21  | % | | 8  | | | 0.17  | % | 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | Total commercial | 76  | | | 0.13  | % | | 54  | | | 0.10  | % | | 61  | | | 0.11  | % | | 73  | | | 0.13  | % | | 75  | | | 0.14  | % | 
+ | Commercial investor real estate mortgage | 38  | | | 0.49  | % | | 1  | | | 0.01  | % | | —  | | | —  | % | | 28  | | | 0.40  | % | | —  | | | —  | % | 
+ | Commercial investor real estate construction | —  | | | —  | % | | —  | | | —  | % | | —  | | | —  | % | | —  | | | —  | % | | 1  | | | 0.05  | % | 
+ | Total investor real estate | 38  | | | 0.39  | % | | 1  | | | 0.01  | % | | —  | | | —  | % | | 28  | | | 0.31  | % | | 1  | | | 0.01  | % | 
+ | 
+Residential first mortgage—non-guaranteed (1) | 123  | | | 0.65  | % | | 127  | | | 0.66  | % | | 144  | | | 0.74  | % | | 132  | | | 0.68  | % | | 114  | | | 0.58  | % | 
+ | Home equity—lines of credit | 22  | | | 0.67  | % | | 22  | | | 0.69  | % | | 25  | | | 0.79  | % | | 28  | | | 0.89  | % | | 25  | | | 0.77  | % | 
+ | Home equity—closed-end | 14  | | | 0.63  | % | | 13  | | | 0.57  | % | | 15  | | | 0.62  | % | | 14  | | | 0.57  | % | | 11  | | | 0.48  | % | 
+ | Consumer credit card | 20  | | | 1.32  | % | | 21  | | | 1.39  | % | | 22  | | | 1.48  | % | | 20  | | | 1.40  | % | | 20  | | | 1.46  | % | 
+ | Other consumer | 64  | | | 1.17  | % | | 66  | | | 1.19  | % | | 75  | | | 1.31  | % | | 68  | | | 1.18  | % | | 66  | | | 1.11  | % | 
+ | 
+Total consumer (1) | 243  | | | 0.77  | % | | 249  | | | 0.79  | % | | 281  | | | 0.88  | % | | 262  | | | 0.81  | % | | 236  | | | 0.73  | % | 
+ | 
+Total accruing 30-89 days past due loans (1) | $ | 357  | | | 0.36  | % | | $ | 304  | | | 0.31  | % | | $ | 342  | | | 0.36  | % | | $ | 363  | | | 0.38  | % | | $ | 312  | | | 0.32  | % | 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | Accruing 90+ Days Past Due Loans | As of | 
+ | ($ amounts in millions, %'s calculated using whole dollar values) | 6/30/2026 | | 3/31/2026 | | 12/31/2025 | | 9/30/2025 | | 6/30/2025 | 
+ | Commercial and industrial | $ | 4  | | | 0.01  | % | | $ | 5  | | | 0.01  | % | | $ | 6  | | | 0.01  | % | | $ | 4  | | | 0.01  | % | | $ | 19  | | | 0.04  | % | 
+ | Commercial real estate mortgage—owner-occupied | 1  | | | 0.03  | % | | 1  | | | 0.01  | % | | —  | | | 0.01  | % | | 2  | | | 0.05  | % | | 1  | | | 0.02  | % | 
+ | Total commercial | 5  | | | 0.01  | % | | 6  | | | 0.01  | % | | 6  | | | 0.01  | % | | 6  | | | 0.01  | % | | 20  | | | 0.04  | % | 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | 
+Residential first mortgage—non-guaranteed (2) | 91  | | | 0.48  | % | | 100  | | | 0.52  | % | | 105  | | | 0.55  | % | | 84  | | | 0.43  | % | | 89  | | | 0.46  | % | 
+ | Home equity—lines of credit | 13  | | | 0.40  | % | | 14  | | | 0.42  | % | | 15  | | | 0.45  | % | | 14  | | | 0.43  | % | | 12  | | | 0.38  | % | 
+ | Home equity—closed-end | 8  | | | 0.36  | % | | 8  | | | 0.35  | % | | 8  | | | 0.37  | % | | 7  | | | 0.30  | % | | 7  | | | 0.30  | % | 
+ | Consumer credit card | 21  | | | 1.39  | % | | 22  | | | 1.52  | % | | 22  | | | 1.41  | % | | 20  | | | 1.42  | % | | 20  | | | 1.39  | % | 
+ | Other consumer | 20  | | | 0.35  | % | | 20  | | | 0.35  | % | | 24  | | | 0.40  | % | | 23  | | | 0.39  | % | | 23  | | | 0.39  | % | 
+ | 
+Total consumer (2) | 153  | | | 0.48  | % | | 164  | | | 0.52  | % | | 174  | | | 0.54  | % | | 148  | | | 0.46  | % | | 151  | | | 0.47  | % | 
+ | 
+Total accruing 90+ days past due loans (2) | $ | 158  | | | 0.16  | % | | $ | 170  | | | 0.17  | % | | $ | 180  | | | 0.19  | % | | $ | 154  | | | 0.16  | % | | $ | 171  | | | 0.18  | % | 
+ | | | | | | | | | | | | | | | | | | | | | 
+ | 
+Total delinquencies (1) (2) | $ | 515  | | | 0.52  | % | | $ | 474  | | | 0.49  | % | | $ | 522  | | | 0.55  | % | | $ | 517  | | | 0.54  | % | | $ | 483  | | | 0.50  | % | 
+ 
+(1)Excludes loans that are 100% guaranteed by FHA and guaranteed loans sold to Ginnie Mae where Regions has the right but not the obligation to repurchase; however, includes Ginnie Mae repurchased loans with partial guarantees. Total 30-89 days past due guaranteed loans excluded were $58 million at 6/30/2026, $62 million at 3/31/2026, $66 million at 12/31/2025, $62 million at 9/30/2025, and $57 million at 6/30/2025.
+(2)Excludes loans that are 100% guaranteed by FHA and all guaranteed loans sold to Ginnie Mae where Regions has the right but not the obligation to repurchase; however, includes Ginnie Mae repurchased loans with partial guarantees. Total 90 days or more past due guaranteed loans excluded were $100 million at 6/30/2026, $94 million at 3/31/2026, $79 million at 12/31/2025, $48 million at 9/30/2025, and $44 million at 6/30/2025.
+
+23
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+Forward-Looking Statements
+This supplement, the related earnings release, and the accompanying earnings call may include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. In addition, the company, through its senior management, may from time to time make forward-looking public statements concerning the matters described herein. The words “future,” “anticipates,” “assumes,” “intends,” “plans,” “seeks,” “believes,” “predicts,” “potential,” “objectives,” “estimates,” “expects,” “targets,” “projects,” “outlook,” “forecast,” “would,” “will,” “may,” “might,” “could,” “should,” “can,” and similar terms, expressions, and graphics often signify forward-looking statements. Forward-looking statements are subject to the risk that the actual effects may differ, possibly materially, from what is reflected in those forward-looking statements due to factors and future developments that are uncertain, unpredictable and in many cases beyond our control. Forward-looking statements are not based on historical information, but rather are related to future operations, strategies, financial results or other developments. Forward-looking statements are based on management’s current expectations as well as certain assumptions and estimates made by, and information available to, management at the time the statements are made. Those statements are based on general assumptions and are subject to various risks, and because they also relate to the future, they are likewise subject to inherent uncertainties and other factors that may cause actual results to differ materially from the views, beliefs and projections expressed in such statements. Therefore, we caution you against relying on any of these forward-looking statements. These risks, uncertainties and other factors include, but are not limited to, those described below: 
+
+•Our businesses have been, and may continue to be, adversely affected by conditions in the financial markets and economic conditions generally.
+•Fluctuations in market interest rates, including the level and shape of the yield curve, may adversely affect our performance.
+•If we experience greater credit losses in our loan portfolios than anticipated, our earnings may be materially adversely affected.
+•Any future reductions in our credit ratings may increase our funding costs and place limitations on business activities. 
+•Changes in the soundness of other financial institutions could adversely affect us.
+•We may suffer losses if the value of collateral declines in stressed market conditions.
+•Ineffective liquidity management could adversely affect our financial results and condition. 
+•Loss of deposits or a change in deposit mix could increase our funding costs.
+•We rely on the mortgage secondary market to manage various risks.
+•We are at risk of a variety of systems failures or errors and cyber-attacks or other similar incidents that could adversely affect customer experience and our business and financial performance. 
+•We are subject to complex and evolving laws, regulations, rules, standards and contractual obligations regarding privacy and cybersecurity, which could increase the cost of doing business, compliance risks and potential liability.
+•We will continually encounter technological change and must effectively anticipate, develop and implement new technology.
+•The development and use of AI presents risks and challenges that may adversely impact our business. 
+•Industry competition, including competition from decentralized finance platforms, cryptocurrencies and blockchain technologies could disrupt our business model and adversely affect our revenues, market share or liquidity.
+•Our operations are concentrated primarily in the South, Midwest and Texas, and adverse changes in the economic conditions in this region can adversely affect our financial results and condition.
+•Weakness in the residential real estate markets could adversely affect our performance.
+•Weakness in the commercial real estate markets could adversely affect our performance.
+•Risks associated with home equity products where we are in a second lien position could adversely affect our performance.
+•Weakness in commodity businesses could adversely affect our performance.
+•An outbreak or escalation of hostilities between countries or within a country or region could have a material adverse effect on the U.S. economy and on our businesses.
+•We are subject to a variety of operational risks, including the risk of fraud or theft by internal or external parties, which may adversely affect our business and results of operations.
+•We rely on other companies to provide key components of our business infrastructure.
+•We depend on the accuracy and completeness of information about clients and counterparties.
+•We are exposed to risk of environmental liability when we take title to property. 
+•We can be negatively affected if we fail to identify and address operational risks associated with the introduction of or changes to products, services and delivery platforms.
+•Enhanced regulatory and other standards for the oversight of vendors and other service providers can result in higher costs and other potential exposures. 
+•We are, and may in the future be, subject to claims and litigation calling into question our right to use the intellectual property underlying certain technology in our business.
+•Weather-related events, pandemics and other natural or man-made disasters could cause a disruption in our operations or lead to other consequences that could adversely impact our financial results and condition. These impacts could be intensified by climate change. Heightening focus on climate change may also carry transition risks that could negatively impact our results of operations and financial condition.
+•We are subject to sociopolitical risks that could adversely affect our business, reputation and the trading price of our common stock. 
+•Damage to our reputation could significantly harm our businesses. 
+•We are, and may in the future be, subject to litigation, investigations and governmental proceedings that may result in liabilities adversely affecting our financial condition, business or results of operations or in reputational harm. 
+•We are subject to extensive governmental regulation, which could have an adverse impact on our operations and our business model. 
+•We are subject to a variety of risks in connection with any sale of loans we may conduct.
+•We may be subject to more stringent capital and liquidity requirements.
+•Rulemaking changes and regulatory initiatives implemented by the CFPB may result in higher regulatory and compliance costs that may adversely affect our results of operations. 
+•We are subject to numerous laws designed to protect consumers, including the CRA and fair lending laws, and a failure to comply with these laws could lead to a wide variety of penalties and other sanctions. 
+•We may not be able to complete future acquisitions, may not be successful in realizing the benefits of any future acquisitions that are completed or may choose not to pursue acquisition opportunities we might find beneficial. 
+•Increases in FDIC insurance assessments may adversely affect our earnings. 
+•Unfavorable results from ongoing stress analyses may adversely affect our ability to retain customers or compete for new business opportunities. 
+•We are a holding company and depend on our subsidiaries for dividends, distributions and other payments.
+•We may not pay dividends on shares of our capital stock.
+•Anti-takeover and banking laws and certain agreements and charter provisions may adversely affect share value.
+•Our amended and restated by-laws designate (i) the Court of Chancery of the State of Delaware as the sole and exclusive forum for certain types of actions and proceedings that may be initiated by our shareholders and (ii) the federal district courts of the United States as the sole and exclusive forum for any action asserting a cause of action arising under the Securities Act, which could limit our shareholders’ ability to obtain a favorable judicial forum for disputes with our company or our company’s directors, officers or other employees.
+•We face substantial legal and operational risks in our safeguarding and other processing of personal information. 
+•Differences in regulation can affect our ability to compete effectively.
+•Our businesses may be adversely affected if we are unable to hire and retain qualified employees. 
+
+24
+
+Regions Financial Corporation and Subsidiaries                                
+Financial Supplement (unaudited) to Second Quarter 2026 Earnings Release
+•Our operations rely on our ability, and the ability of key external parties, to maintain appropriately staffed workforces, and on the competence, trustworthiness, health and safety of employees.
+•Our reported financial results depend on management’s selection of accounting methods and certain assumptions and estimates. 
+•If the models that we use in our business perform poorly or provide inadequate information, our business or results of operations may be adversely affected. 
+•Changes in our accounting policies or in accounting standards could materially affect how we report our financial results and condition. 
+The foregoing list of factors is not exhaustive. For discussion of these and other factors that may cause actual results to differ from expectations, look under the captions “Cautionary Note Regarding Forward-Looking Statements and Risk Factor Summary” and “Risk Factors” in Regions’ Annual Report on Form 10-K for the year ended December 31, 2025 and in Regions’ subsequent filings with the SEC. 
+You should not place undue reliance on any forward-looking statements, which speak only as of the date made. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible to predict all of them. We assume no obligation and do not intend to update or revise any forward-looking statements that are made from time to time, either as a result of future developments, new information or otherwise, except as may be required by law. 
+Regions’ Investor Relations contact is Tom Speir at (205) 264-7040; Regions’ Media contact is Jeremy King at (205) 264-4551. 
+
+25
+

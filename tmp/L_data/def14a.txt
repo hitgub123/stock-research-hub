@@ -1,0 +1,1511 @@
+
+0000060086DEF 14AFALSEiso4217:USD00000600862025-01-012025-12-3100000600862024-01-012024-12-3100000600862023-01-012023-12-3100000600862022-01-012022-12-3100000600862021-01-012021-12-310000060086ecd:AggtChngPnsnValInSummryCompstnTblForAplblYrMemberecd:PeoMember2025-01-012025-12-310000060086ecd:AggtChngPnsnValInSummryCompstnTblForAplblYrMemberecd:NonPeoNeoMember2025-01-012025-12-310000060086ecd:AggtChngPnsnValInSummryCompstnTblForAplblYrMemberecd:PeoMember2024-01-012024-12-310000060086ecd:AggtChngPnsnValInSummryCompstnTblForAplblYrMemberecd:NonPeoNeoMember2024-01-012024-12-310000060086ecd:AggtChngPnsnValInSummryCompstnTblForAplblYrMemberecd:PeoMember2023-01-012023-12-310000060086ecd:AggtChngPnsnValInSummryCompstnTblForAplblYrMemberecd:NonPeoNeoMember2023-01-012023-12-310000060086ecd:AggtChngPnsnValInSummryCompstnTblForAplblYrMemberecd:PeoMember2022-01-012022-12-310000060086ecd:AggtChngPnsnValInSummryCompstnTblForAplblYrMemberecd:NonPeoNeoMember2022-01-012022-12-310000060086ecd:AggtChngPnsnValInSummryCompstnTblForAplblYrMemberecd:PeoMember2021-01-012021-12-310000060086ecd:AggtChngPnsnValInSummryCompstnTblForAplblYrMemberecd:NonPeoNeoMember2021-01-012021-12-310000060086ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMemberecd:PeoMember2025-01-012025-12-310000060086ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMemberecd:NonPeoNeoMember2025-01-012025-12-310000060086ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMemberecd:PeoMember2024-01-012024-12-310000060086ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMemberecd:NonPeoNeoMember2024-01-012024-12-310000060086ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMemberecd:PeoMember2023-01-012023-12-310000060086ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMemberecd:NonPeoNeoMember2023-01-012023-12-310000060086ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMemberecd:PeoMember2022-01-012022-12-310000060086ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMemberecd:NonPeoNeoMember2022-01-012022-12-310000060086ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMemberecd:PeoMember2021-01-012021-12-310000060086ecd:EqtyAwrdsInSummryCompstnTblForAplblYrMemberecd:NonPeoNeoMember2021-01-012021-12-310000060086ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:PeoMember2025-01-012025-12-310000060086ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:NonPeoNeoMember2025-01-012025-12-310000060086ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:PeoMember2024-01-012024-12-310000060086ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:NonPeoNeoMember2024-01-012024-12-310000060086ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:PeoMember2023-01-012023-12-310000060086ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:NonPeoNeoMember2023-01-012023-12-310000060086ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:PeoMember2022-01-012022-12-310000060086ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:NonPeoNeoMember2022-01-012022-12-310000060086ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:PeoMember2021-01-012021-12-310000060086ecd:YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMemberecd:NonPeoNeoMember2021-01-012021-12-310000060086ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:PeoMember2025-01-012025-12-310000060086ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:NonPeoNeoMember2025-01-012025-12-310000060086ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:PeoMember2024-01-012024-12-310000060086ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:NonPeoNeoMember2024-01-012024-12-310000060086ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:PeoMember2023-01-012023-12-310000060086ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:NonPeoNeoMember2023-01-012023-12-310000060086ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:PeoMember2022-01-012022-12-310000060086ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:NonPeoNeoMember2022-01-012022-12-310000060086ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:PeoMember2021-01-012021-12-310000060086ecd:ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMemberecd:NonPeoNeoMember2021-01-012021-12-310000060086ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:PeoMember2025-01-012025-12-310000060086ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:NonPeoNeoMember2025-01-012025-12-310000060086ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:PeoMember2024-01-012024-12-310000060086ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:NonPeoNeoMember2024-01-012024-12-310000060086ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:PeoMember2023-01-012023-12-310000060086ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:NonPeoNeoMember2023-01-012023-12-310000060086ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:PeoMember2022-01-012022-12-310000060086ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:NonPeoNeoMember2022-01-012022-12-310000060086ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:PeoMember2021-01-012021-12-310000060086ecd:ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMemberecd:NonPeoNeoMember2021-01-012021-12-31000006008612025-01-012025-12-31000006008622025-01-012025-12-31
+________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the 
+Securities Exchange Act of 1934 (Amendment No.        )
+Filed by the Registrant ☒
+Filed by a Party other than the Registrant ☐
+Check the appropriate box:
+☐ Preliminary Proxy Statement
+☐ Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+☒ Definitive Proxy Statement
+☐ Definitive Additional Materials
+☐ Soliciting Material under §240.14a-12
+LOEWS CORPORATION
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+☒ No fee required.
+☐ Fee paid previously with preliminary materials.
+☐ Fee computed on table below per Exchange Act Rules 14a-6(i)(l) and 0-11.
+________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________
+9 West 57th Street
+New York, NY 10019-2714
+Notice of 
+2026 
+Annual Meeting of Shareholders
+AGENDA:
+DATE:
+Tuesday, May 12, 2026
+TIME:
+11:00 a.m. New York City Time
+PLACE:
+Loews Regency New York Hotel
+540 Park Avenue,
+New York, New York 10065
+RECORD DATE:
+March 17, 2026
+1To elect the ten directors named in this proxy statement;
+2To approve, on an advisory basis, the company’s executive compensation;
+3
+To ratify the appointment of our independent auditors for 2026; and
+4To transact such other business as may properly come before the meeting or any adjournment or postponement thereof.
+Shareholders of record at the close of business on March 17, 2026 are entitled to notice of and to vote at the meeting and any adjournment or postponement.
+YOUR VOTE IS IMPORTANT. PLEASE VOTE AS PROMPTLY AS POSSIBLE BY USING THE INTERNET OR TELEPHONE, OR IF YOU RECEIVED A PAPER COPY OF THE PROXY MATERIALS, BY SIGNING, DATING AND RETURNING THE ACCOMPANYING PROXY CARD. 
+By order of the Board of Directors, 
+Marc A. Alpert
+Senior Vice President, General Counsel and Secretary
+April 1, 2026 
+Contents
+Proxy Statement Summary
+1
+Proposal No. 1: Election of Directors
+3
+Director Nominating Process
+3
+Director Independence
+4
+Director Nominees
+5
+Board Governance Information
+9
+Corporate Governance
+9
+Board Leadership Structure
+9
+Board Committees
+10
+Board Evaluation Process
+11
+Executive Sessions of Non-Management Directors
+12
+Director Attendance at Meetings
+12
+Board Oversight of Risk Management
+13
+Share Ownership Guidelines for Directors
+14
+Director Compensation
+14
+Transactions with Related Persons
+15
+Stock Ownership
+16
+Principal Shareholders
+16
+Director and Officer Holdings
+17
+Proposal No. 2: Advisory Resolution to Approve Executive Compensation
+19
+Executive Compensation
+20
+Compensation Discussion and Analysis
+20
+Executive Summary
+20
+Compensation Governance
+23
+Compensation Program Structure and Process
+24
+2025 Compensation to Our Named Executive Officers
+30
+Other Considerations
+34
+Compensation Committee Report on Executive Compensation
+35
+Compensation Committee Interlocks and Insider Participation
+35
+2025 Executive Compensation Tables
+36
+2025 Summary Compensation Table
+36
+2025 Grants of Plan-Based Awards
+38
+2025 Outstanding Equity Awards at Fiscal Year-End
+39
+2025 Option Exercises and Stock Vested
+40
+Pension Plans
+40
+Nonqualified Deferred Compensation
+41
+Potential Payments Upon Termination
+42
+Pay Versus Performance
+43
+CEO Pay Ratio
+46
+Proposal No. 3: Ratification of the Appointment of Our Independent Auditors
+47
+Audit Fees and Services
+47
+Auditor Engagement Pre-Approval Policy
+48
+Audit Committee Report
+49
+Additional Information
+50
+Voting
+50
+Other Matters
+51
+Submissions of Nominations or Other Proposals for Our 2027 Annual Meeting
+52
+Communicating with Our Board
+52
+We are providing this Proxy Statement in connection with the solicitation by our Board of Directors (our “Board”) of proxies to be voted at our 2026 Annual Meeting of Shareholders (our “Annual Meeting”), which will be held at the Loews Regency New York Hotel, 540 Park Avenue, New York, New York 10065, on Tuesday, May 12, 2026, at 11:00 a.m. New York City Time.
+Our mailing address is 9 West 57th Street, New York, New York 10019. Please note that throughout this Proxy Statement we refer to Loews Corporation as “we,” “us,” “our,” “Loews” or the “company.”
+Information and reports on websites that we refer to in this Proxy Statement will not be deemed a part of, or otherwise incorporated by reference in, this Proxy Statement. 
+Table of Contents
+Proxy Statement Summary
+Proxy Statement Summary
+Important Notice Regarding the Availability of Proxy Materials for our Annual Meeting. 
+This Proxy Statement, our 2025 Annual Report, including our Annual Report on Form 10-K filed with the Securities and Exchange Commission on February 10, 2026, and the proxy card are available at www.loews.com/reports. 
+AGENDA AND VOTING MATTERS
+ProposalBoard
+RecommendationPage
+Reference
+Proposal 1: Elect the ten directors listed below
+FOR
+3
+Proposal 2: Approve, on an advisory basis, the company’s executive compensation
+FOR
+19
+Proposal 3: Ratify the appointment of the company’s independent auditors for 2026
+FOR
+47
+Transact such other business as may properly come before the meeting or any adjournment or postponement thereof
+DIRECTOR NOMINEES
+Board Committee Membership
+Name & TitleAgeDirector
+SinceAuditCompensationNominating &
+GovernanceExecutive
+Charles D. Davidson
+Partner, Quantum Capital Group
+762015
+■
+Paul J. Fribourg
+Executive Chairman, Continental Grain Company
+Lead Independent Director
+721997
+■
+■
+■
+CHAIR
+Walter L. Harris
+Former President and CEO, FOJP Service Corp. and Hospital Insurance Co.
+742004
+■
+CHAIR
+■
+Jonathan C. Locker
+President, Tiger Management
+492023
+■
+■
+Susan P. Peters
+Retired CHRO, General Electric Company
+722018
+■
+CHAIR
+■
+Dino E. Robusto
+Retired Chairman and CEO, CNA Financial Corporation
+672026
+Alexander H. Tisch
+Vice President, Loews Corporation, 
+President and CEO, Loews Hotels & Co
+472025
+■
+Benjamin J. Tisch
+President and CEO, Loews Corporation
+432025
+■
+James S. Tisch
+Chairman, Retired President and CEO, Loews Corporation
+731986
+■
+Jennifer VanBelle
+Former SVP, Treasurer, GE Capital CEO and GE Separation Leader, General Electric Company
+582025
+■
+Further information regarding our director nominees is included under the heading “Director Nominees” beginning on page 5. 
+Loews Corporation 2026 Proxy Statement
+1
+Proxy Statement Summary
+Table of Contents
+CORPORATE GOVERNANCE HIGHLIGHTS
+Our corporate governance framework reinforces our goal of building long-term value for shareholders. 
+Board Independence
+▪The Board has determined that a majority of our directors and nominees are independent under our independence standards and the New York Stock Exchange listing standards. 
+▪Our non-management directors regularly hold executive sessions at Board meetings, which are chaired by our lead director.
+Accountability to Shareholders
+▪All of our directors are elected annually.
+▪Our directors are elected by a majority voting standard in uncontested elections.
+▪Shareholders are invited to submit questions to our Chief Executive Officer and Chief Financial Officer in connection with our quarterly earnings releases.
+Board
+Composition
+and Evaluation
+▪Our Board consists of directors with a diverse mix of skills, experience and backgrounds. 
+▪Our Board and Board committees undertake robust annual self-evaluations.
+Board
+Committees
+▪We have four Board committees — Audit, Compensation, Nominating and Governance, and Executive.
+▪Each of our Audit, Compensation and Nominating and Governance Committees is composed entirely of independent directors.
+Leadership Structure
+▪We have a separate Chief Executive Officer and Chairman of the Board. 
+▪Our lead director is fully independent and empowered with broadly defined authorities and responsibilities. Our lead director is also Chairman of our Nominating and Governance Committee, which is responsible for developing our corporate governance principles.
+Risk Oversight
+▪Our Board is responsible for risk oversight. It regularly evaluates enterprise risk management and related policies and practices, and oversees management in its assessment and mitigation of risk.
+Director and Officer Stock Ownership
+▪Our non-employee directors are required to own shares of our stock having a value of at least three times the value of their annual equity awards. 
+▪Our executive officers and directors as a group, and members of their families, own a substantial percentage of our outstanding common stock. 
+▪We only have a single class of common stock, which directly aligns the interests of our executive officers and directors with those of our other shareholders. 
+▪We have anti-hedging and pledging policies for directors and executive officers.
+Compensation Governance
+▪Our fully independent Compensation Committee oversees all aspects of our executive compensation program. 
+▪We have an annual shareholder advisory vote to approve named executive officer compensation. 
+▪We have a clawback policy that allows for the recoupment of incentive compensation. 
+▪We do not maintain employment agreements or agreements to pay severance upon a change in control with any of our executive officers. 
+▪We structure a large majority of our executive officers’ compensation to be performance based.
+Ethics and Corporate Responsibilities
+▪Our Code of Business Conduct and Ethics is disclosed on our website.
+▪We have an active and robust ethics and compliance program, which includes regular employee training.
+2
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Proposal No. 1: Election of Directors
+Proposal No. 1: 
+Election of Directors 
+Ann Berman and Charles Diker have informed us that they will retire from the Board as of our 2026 Annual Meeting. The Board would like to thank them for their years of distinguished service to Loews and the Board. The Board has determined to fix the number of directors constituting the full Board at ten, as of the 2026 Annual Meeting. Accordingly, at the Annual Meeting, shareholders will vote to elect a Board of ten directors to serve until the next annual meeting of shareholders and until their respective successors are duly elected and qualified. It is the intention of the persons named in the accompanying form of proxy, unless you specify otherwise, to vote for the election of the nominees named below, each of whom is a current director. Our Board has no reason to believe that any of the persons named will be unable or unwilling to serve as a director and each has agreed to be nominated in this Proxy Statement.
+If any nominee is unable or unwilling to serve, we anticipate that either: 
+▪proxies will be voted for the election of a substitute nominee or nominees recommended by our Nominating and Governance Committee and approved by our Board; or
+▪our Board will adopt a resolution reducing the number of directors constituting our full Board.
+Director Nominating Process
+In evaluating potential director nominees for recommendation to our Board, our Nominating and Governance Committee seeks individuals with exceptional talent and ability and experience from a wide variety of backgrounds to provide a diverse spectrum of experience and expertise relevant to a diversified business enterprise such as ours. 
+In identifying, evaluating and nominating individuals to serve as directors, our Board and its Nominating and Governance Committee do not rely on any preconceived diversity guidelines or rules. Rather, our Board and its Nominating and Governance Committee believe that Loews is best served by directors with a wide range of perspectives, professional experiences, skills and other individual qualities and attributes. 
+Although we have no minimum qualifications, a candidate should represent the interests of all shareholders, and not those of a special interest group, have a reputation for integrity and be willing to make a significant commitment to fulfilling the duties of a director.
+Our Nominating and Governance Committee will screen and evaluate all recommended director nominees (including those validly proposed by shareholders) based on these criteria, as well as other relevant considerations. 
+Further information regarding the process for a shareholder to recommend a director nominee can be found below under “Submissions of Nominations or Other Proposals for Our 2027 Annual Meeting” on page 52. Our Nominating and Governance Committee will retain full discretion in considering its nomination recommendations to our Board.   
+Loews Corporation 2026 Proxy Statement
+3
+Proposal No. 1: Election of DirectorsTable of Contents
+Director Independence
+Our Board has determined that the following directors, constituting a majority of our directors, are independent under our independence standards and the listing standards of the New York Stock Exchange: Ann E. Berman, Charles D. Davidson, Charles M. Diker, Paul J. Fribourg, Walter L. Harris, Jonathan C. Locker, Susan P. Peters and Jennifer VanBelle. We refer to these directors in this Proxy Statement as our “independent directors.” Our Board considered all relevant facts and circumstances and applied the independence standards described below, which are consistent with New York Stock Exchange listing standards, in determining that none of our independent directors has any material relationship with us or our subsidiaries.
+Our Board has established the following standards to determine director independence.
+A director would not be considered independent if any of the following relationships exists:
+▪during the past three years the director has been an employee, or an immediate family member has been an executive officer, of Loews; 
+▪the director or an immediate family member received, during any twelve-month period within the past three years, more than $120,000 in direct compensation from Loews, excluding director and committee fees, pension payments and certain forms of deferred compensation;
+▪the director is a current partner or employee or an immediate family member is a current partner of a firm that is Loews’s internal or external auditor, an immediate family member is a current employee of such a firm and personally works on the company’s audit or, within the last three years, the director or an immediate family member was a partner or employee of such a firm and personally worked on Loews’s audit within that time; 
+▪the director or an immediate family member has at any time during the past three years been employed as an executive officer of another company where any of Loews’s present executive officers at the same time serves or served on that company’s compensation committee; or 
+▪the director is a current employee, or an immediate family member is a current executive officer, of a company that has made payments to, or received payments from, Loews for property or services in an amount which, in any of the last three years, exceeded the greater of $1 million or 2% of the other company’s consolidated gross revenues.
+Based on the foregoing, Dino E. Robusto and Alexander H., Benjamin J. and James S. Tisch are currently ineligible to be considered independent directors. Mr. Robusto is expected to be eligible to be considered independent beginning in January 2029, which is more than three years after his retirement on December 31, 2025 from our insurance subsidiary, CNA Financial Corporation (“CNA”).
+In considering Mr. Davidson’s independence, the Board noted that a subsidiary of CNA has invested in private investment funds managed by Quantum Capital Group (“Quantum”), where Mr. Davidson is a partner. The CNA subsidiary pays certain fees to Quantum in respect of the investments, including management and performance fees. Mr. Davidson is not allocated any portion of the management fees, but is expected to be allocated a portion of any future performance fees. No performance fees have been paid as of the date of this Proxy Statement. Based on the projected returns from the investments and Mr. Davidson’s nominal expected allocated percentage of any performance fees, the Board determined that this was not a material relationship.
+4
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Proposal No. 1: Election of Directors
+Director Nominees
+Information about each nominee for director and the nominee’s age, principal occupation during the past five years and individual qualifications and attributes are set forth below. Unless otherwise noted in this Proxy Statement, no entity related to a nominee is affiliated with Loews.
+Charles D. Davidson
+AGE:
+76
+DIRECTOR SINCE:
+2015
+Partner at Quantum Capital Group, a private equity fund specializing in investments in energy businesses. Mr. Davidson served as Chief Executive Officer of Noble Energy Inc., an independent producer of oil and natural gas, from 2000 through 2014, and was Chairman of the Board of Noble until his retirement in 2015.
+EXPERIENCE: Mr. Davidson’s extensive experience with oil and gas operations, as well as his management of a large, complex, multinational organization, give him knowledge and insights that are valuable to our Board, particularly in overseeing the business of our energy industry subsidiary, Boardwalk Pipelines Partners, LP (“Boardwalk Pipelines”).
+Paul J. Fribourg
+AGE:
+72
+DIRECTOR SINCE:
+1997
+Lead Director
+Executive Chairman of the Board of Continental Grain Company, an international agribusiness and investment company, since April 2026. From 1997 until March 2026, Mr. Fribourg was Chairman of the Board and Chief Executive Officer of Continental Grain. Mr. Fribourg is also a director of Estee Lauder Companies, Inc. and International Flavors & Fragrances Inc. Mr. Fribourg was a director of Restaurant Brands International, Inc. from 2014 to 2023 and of Bunge Limited from 2018 until 2022.
+EXPERIENCE: Mr. Fribourg has had extensive and practical hands-on experience as the Chief Executive Officer of Continental Grain Company, a major industrial company with broad international operations. This background gives Mr. Fribourg particular insight into many of the business decisions that come before our Board.
+Walter L. Harris
+AGE:
+74
+DIRECTOR SINCE:
+2004
+From 2014 until 2019, President and Chief Executive Officer of FOJP Service Corporation, a provider of risk management services to hospitals, long-term care facilities and social service agencies in New York City, and Hospitals Insurance Company, a provider of insurance coverages and services to hospitals, long-term care facilities, physicians and healthcare professionals in New York State. Mr. Harris was Chairman of the Board of Directors of Watford Holdings Ltd. from 2014 until 2021.
+EXPERIENCE: Mr. Harris has extensive experience in and knowledge regarding the commercial insurance industry, which is particularly valuable to our Board in light of Loews’s significant interest in the insurance industry as represented by one of our principal subsidiaries, CNA. In addition, his long tenure as Chairman of our Audit Committee qualifies him as an audit committee financial expert.
+Loews Corporation 2026 Proxy Statement
+5
+Proposal No. 1: Election of DirectorsTable of Contents
+Jonathan C. Locker
+AGE:
+49
+DIRECTOR SINCE:
+2023
+President, Tiger Management, an investment firm founded by Julian H. Robertson. Previously, he served as a Partner at Tiger Global Management, an investment firm focused on public and private equity investments. In addition, since 2014 he has run a personal family office with investments across a wide range of asset classes, including public securities, private equity, real estate and venture capital.
+EXPERIENCE: Mr. Locker’s experience as an investment professional managing large and diverse investment portfolios is a valuable attribute for our Board, particularly in light of the investment portfolios managed by the Company and its subsidiaries. His knowledge and experience also qualifies him as an audit committee financial expert.
+Susan P. Peters
+AGE:
+72
+DIRECTOR SINCE:
+2018
+Retired Senior Vice President of Human Resources of General Electric Company, a high-tech industrial company. Ms. Peters was also a director of Hydrofarm Holdings Group, Inc. from 2020 until 2025.
+EXPERIENCE: Ms. Peters’ experience during her 38-year career at General Electric, in which she held positions of increasing responsibility and which culminated in her serving as the chief human resources officer and a member of the senior leadership team, has provided her with deep domain expertise in talent management, operational optimization, executive compensation and leadership development at the highest level that serve our Board extremely well.
+Dino E. Robusto
+AGE:
+67
+DIRECTOR SINCE:
+2026
+Retired Chairman and Chief Executive Officer, CNA Financial Corporation. Mr. Robusto served as Chairman and Chief Executive Officer of CNA from 2016 through 2024, and as Executive Chairman of CNA during 2025.
+EXPERIENCE: Mr. Robusto’s extensive experience in and knowledge regarding the commercial insurance industry in general, and CNA in particular, is valuable to our Board in light of Loews’s significant interest in the insurance industry as represented by one of our principal subsidiaries, CNA.
+6
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Proposal No. 1: Election of Directors
+Alexander H. Tisch
+AGE:
+47
+DIRECTOR SINCE:
+2025
+Vice President, Loews, and President and Chief Executive Officer of our subsidiary, Loews Hotels & Co (“Loews Hotels”). Mr. Tisch has served as a Vice President of Loews since 2014, and as an officer of Loews Hotels since 2017. Prior to becoming Chief Executive Officer of Loews Hotels in January 2023, he served as President of Loews Hotels from September 2020 until December 2022.
+EXPERIENCE: Mr. Tisch’s experience as a member of the Loews and Loews Hotels leadership teams has provided him with broad knowledge of and insight into Loews, its operations and the businesses in which it is engaged, and has enabled him to be instrumental in providing our company with strategic direction. His direct experience in managing the Loews Hotels business, as well as his institutional knowledge, is of critical importance to our Board in fulfilling its responsibilities.
+Benjamin J. Tisch
+AGE:
+43
+DIRECTOR SINCE:
+2025
+President and Chief Executive Officer of Loews. Mr. Tisch is also a director of CNA. Prior to becoming President and Chief Executive Officer of Loews in January 2025, Mr. Tisch served as Senior Vice President, Corporate Development and Strategy from May 2022 until December 2024 and as Vice President from 2014 until May 2022. 
+EXPERIENCE: Mr. Tisch’s experience as a member of the Loews leadership team has given him extensive knowledge of Loews, its operations and the businesses in which it is engaged, and has enabled him to be instrumental in providing our company with both strategic direction and day-to-day operational oversight. His direct experience in managing Loews’s business, as well as his institutional knowledge, is of critical importance to our Board in fulfilling its responsibilities.
+James S. Tisch
+AGE:
+73
+DIRECTOR SINCE:
+1986
+Chairman of the Board and retired President and Chief Executive Officer of Loews. Mr. Tisch is also a director of CNA. Mr. Tisch served as Loews’s President and Chief Executive Officer from 1999 until his retirement in December 2024. He was a director of General Electric Company from 2010 until 2022 and Diamond Offshore from 1989 until 2021. 
+EXPERIENCE: Mr. Tisch’s long experience as Loews’s President and Chief Executive Officer has given him extensive knowledge of Loews, its operations and the businesses in which it is engaged. His direct experience in managing Loews’s business, as well as his institutional knowledge, is of critical importance to our Board in fulfilling its responsibilities.
+Loews Corporation 2026 Proxy Statement
+7
+Proposal No. 1: Election of DirectorsTable of Contents
+Jennifer VanBelle
+AGE:
+58
+DIRECTOR SINCE:
+2025
+Until 2024, Ms. VanBelle spent more than 25 years at General Electric Company in positions of increasing responsibility, which culminated in her holding three roles simultaneously: Senior Vice President, Treasurer (2018 to 2024); GE Capital Chief Executive Officer (2020 to 2024) and GE Separation Leader (2021 to 2024). Before joining GE in 1998, she worked for several international investment banks in New York and London. Ms. VanBelle is also a director of AerCap Holdings N.V.
+EXPERIENCE: Ms. VanBelle’s more than 25-year career at General Electric has provided her with extensive and practical experience in the management of a complex, multi-industry organization that serves our Board extremely well. Her knowledge and experience also qualifies her as an audit committee financial expert.
+BOARD COMPOSITION.
+Of our six independent director nominees, two are female. 
+FAMILY RELATIONSHIPS.
+Benjamin J. Tisch is the son of James S. Tisch and the cousin of Alexander H. Tisch. Alexander H. Tisch is the nephew of James S. Tisch. None of our other executive officers or directors are related to any other. However, Andrew H. Tisch, a director emeritus of the company, is the father of Alexander H. Tisch and the brother of James S. Tisch, and Jonathan M. Tisch, a director emeritus of the company, is the cousin of Andrew H. Tisch and James S. Tisch. 
+é
+Our Board recommends a vote FOR each of the nominees listed above to be elected as a director of our Company.
+8
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Board Governance Information
+Board Governance Information 
+Corporate Governance
+Effective corporate governance reinforces our goal of building long-term value for shareholders. Our governance principles are detailed in our Corporate Governance Guidelines, which are reviewed annually and updated as needed. We also have a Code of Business Conduct and Ethics which applies to all of our directors, officers and employees, including our principal executive officer, principal financial officer and principal accounting officer. 
+For more information on our governance practices and policies, please see “Corporate Governance Highlights” on page 2 in the Proxy Statement Summary section. 
+GOVERNANCE DOCUMENTS
+The following governance documents are available on our website in the “Investors” section under “Governance” at www.loews.com and are available in print to any shareholder who requests a copy by writing to our Corporate Secretary:
+▪Corporate Governance Guidelines
+▪Code of Business Conduct and Ethics
+▪Audit Committee Charter
+Compensation Committee Charter
+Nominating and Governance Committee Charter
+Board Leadership Structure
+Our Board’s current leadership structure consists of a Chairman of the Board, James S. Tisch, and a lead director, Paul J. Fribourg, who is also Chairman of our Board’s Nominating and Governance Committee. Loews’s Chief Executive Officer, Benjamin J. Tisch, does not currently serve in a formal leadership capacity on our Board.
+Our Board believes that this structure provides input, guidance and leadership for the Board from both senior management and non-management directors, which assists the Board in effectively fulfilling its oversight role. Our Board also believes that the current exclusion of Loews’s Chief Executive Officer from its leadership structure helps to achieve an appropriate balance between the differing perspectives of management and non-management directors during the course of its proceedings.
+The lead director plays an important role in our Board’s leadership structure. Non-management directors, other than James S. Tisch, our former Chief Executive Officer, meet in executive session after each regular quarterly meeting of our Board. The lead director chairs these executive sessions. Our lead director also currently serves as Chairman of the Nominating and Governance Committee, the principal Board committee charged with responsibility for the Board’s leadership structure. In this dual role, the lead director facilitates the ability of non-management directors to fulfill their responsibilities and provides a structure for communicating any concerns they may have directly to Loews’s senior management. 
+Loews Corporation 2026 Proxy Statement
+9
+Board Governance Information
+Table of Contents
+Board Committees
+Our Board has standing Audit, Compensation, Nominating and Governance and Executive Committees.
+The following table shows the current members and chairs of each of our Audit, Compensation and Nominating and Governance Committees and their primary responsibilities. 
+AUDIT 
+CHAIR: Walter L. Harris
+OTHER MEMBERS:
+Ann E. Berman    Charles M. Diker 
+Paul J. Fribourg   Jonathan C. Locker
+Jennifer VanBelle
+2025 MEETINGS HELD: 7
+Each of the members is an independent director and satisfies the additional independence and other requirements for Audit Committee members provided for in the listing standards of the New York Stock Exchange and the rules of the Securities and Exchange Commission
+Additionally, Msses. Berman and VanBelle and Messrs. Harris and Locker have been designated as “audit committee financial experts” under the rules of the Securities and Exchange Commission.
+PRIMARY ROLE 
+The Audit Committee assists our Board in fulfilling its responsibility to oversee:
+▪the integrity of our financial statements;
+▪our compliance with legal and regulatory requirements;
+▪the qualifications and independence of our independent auditors;
+▪the performance of our internal audit function and independent auditors;
+▪our systems of disclosure controls and procedures and internal controls over financial reporting;
+▪cybersecurity risk management; and
+▪compliance with ethical standards adopted by Loews.
+▪Our Audit Committee has sole authority to appoint, retain, compensate, evaluate and terminate our independent auditors and to approve all engagement fees and terms for our independent auditors.
+COMPENSATION
+CHAIR: Susan P. Peters
+OTHER MEMBERS:
+Charles M. Diker   Paul J. Fribourg
+Walter L. Harris
+2025 MEETINGS HELD: 3 
+Each of the members is an independent director and satisfies the additional independence requirements for Compensation Committee members provided for in the listing standards of the New York Stock Exchange and the rules of the Securities and Exchange Commission
+PRIMARY ROLE 
+The Compensation Committee assists our Board in discharging its responsibilities relating to compensation and succession planning for our executive officers. These responsibilities include:
+▪reviewing our general compensation philosophy for executive officers;
+▪overseeing the development and implementation of executive compensation programs; and
+▪reviewing compensation levels, including incentive and equity-based compensation, for executive officers, directors and Board committee members.
+▪Our Compensation Committee determines and approves compensation for our executive officers and administers our incentive and equity-based compensation plans.
+10
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Board Governance Information
+NOMINATING AND GOVERNANCE COMMITTEE
+CHAIR: Paul J. Fribourg
+OTHER MEMBERS:
+Charles D. Davidson Jonathan C. Locker Susan P. Peters
+2025 MEETINGS HELD: 3
+Each of the members is an independent director.
+PRIMARY ROLE
+The Nominating and Governance Committee identifies individuals qualified to become members of our Board and recommends to our Board a slate of director nominees for election at our annual meetings of shareholders. It also recommends directors for membership on our Board committees and determinations regarding director independence.
+The Nominating and Governance Committee also develops and recommends to our Board a set of corporate governance principles, which are detailed in our Corporate Governance Guidelines.
+Board Evaluation Process
+Our Board undertakes an annual self-evaluation process to determine whether the Board and its Committees are functioning effectively and what, if any, action could improve Board and Committee performance.
+Among other things, the Board’s annual self-evaluation includes consideration of: 
+▪the Board’s structure and process, including the Board’s size and meeting schedule, whether Board deliberations are open and constructive, whether adequate time is scheduled for executive sessions, the adequacy of notice and supporting materials for meetings, the process for selecting new director candidates and the knowledge and experience of directors; 
+▪the Board’s Committee structure, including the current Committee structure—consisting of Executive, Audit, Compensation and Nominating and Governance Committees, the adequacy of Committee charters and the scope of Committee activities, the Committee chairs and members and Committee communications to the full Board;
+▪the Board’s access to parent company and subsidiary management; and
+▪strategic goals, including the Board’s opportunity to evaluate and review with management corporate strategy and goals and the adequacy of information to understand the strategic and other risks facing the company.
+To facilitate individual director evaluations, each director is encouraged to provide feedback to the lead independent director, the Chair of the Board, the Chief Executive Officer or the Corporate Secretary regarding other directors, including with respect to their experience, tenure and qualifications, commitment to the Board and its Committees, level of preparation for and participation in meetings, independence, industry and business knowledge and other relevant topics.
+Each of the Audit, Compensation and Nominating and Governance Committees also perform a self-evaluation on an annual basis. The Committee self-evaluations include consideration of similar topics as the full Board’s self-evaluation.
+In addition to these formal self-evaluations, our non-management directors, other than James S. Tisch, our former Chief Executive Officer, regularly meet in executive sessions chaired by our lead director, which facilitates the ability of non-management directors to fulfill their responsibilities and provides a structure for communicating any concerns that they may have. 
+Loews Corporation 2026 Proxy Statement
+11
+Board Governance Information
+Table of Contents
+Executive Sessions of Non-Management Directors
+Our non-management directors, other than James S. Tisch, our former Chief Executive Officer, meet in regular executive sessions without management participation. Paul J. Fribourg, who serves as our lead director, presides at these meetings. 
+Director Attendance at Meetings
+During 2025, there were eight meetings of our Board, seven meetings of our Audit Committee, three meetings of our Compensation Committee and three meetings of our Nominating and Governance Committee. During 2025, each of our incumbent directors attended at least 75% of the total number of meetings of our Board and committees of our Board on which that director served. Our Board encourages all directors to attend our annual meetings of shareholders. All of our directors attended our 2025 annual meeting of shareholders.   
+12
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Board Governance Information
+Board Oversight of Risk Management
+Our Board recognizes the importance of understanding, evaluating and managing enterprise risk to the financial health of Loews and its business enterprises. 
+BOARD
+Our Board is responsible for overseeing management in its efforts to systematically identify, assess and manage the principal risks facing us and our subsidiaries, and to implement policies and practices that promote a culture that actively balances risk and reward. Our Board exercises this responsibility, and evaluates our risk management practices, through its Board and Committee meetings, during which it hears reports on, and actively discusses, a variety of risk management matters. In addition, our Board regularly formally reviews our enterprise risk management framework.
+éê
+MANAGEMENT
+Our management team is responsible for identifying, assessing and managing our various exposures to risk on a day-to-day basis, including the creation of appropriate risk management policies and practices to help determine how best to identify, manage and mitigate risks. Management is supported in these efforts by the groups described below. Management regularly reports to our Board and its Committees on a variety of risk management matters.
+Risk Council 
+Chair: Chief Financial Officer
+Other Members: Representatives of Various Functional Areas
+The Risk Council assists Loews’s management in developing and implementing our enterprise risk management framework, including reviewing the strategies, policies and practices established by our and our subsidiaries’ management teams to identify, assess and manage the material risks facing us and our subsidiaries.
+Sustainability Working Group 
+Chair: Chief Financial Officer
+Other Members: Representatives of Various Functional Areas
+The Sustainability Working Group helps Loews’s management develop risk management and external reporting strategies with respect to sustainability matters.
+Cyber Risk Committee 
+Chair: IT Leadership
+Other Members: Representatives of Various Functional Areas
+The Cyber Risk Committee helps Loews’s management evaluate and manage cybersecurity related risks across the Loews enterprise.
+Business Continuity Working Group
+Co-Chairs: IT and Legal Leadership
+Other Members: Representatives of Various Functional Areas
+The Business Continuity Working Group helps Loews’s management plan and prepare to be able to operate our critical business functions during emergency events.
+Loews Corporation 2026 Proxy Statement
+13
+Board Governance Information
+Table of Contents
+Share Ownership Guidelines for Directors
+Our Board has adopted minimum share ownership guidelines for directors who are not employees or officers of Loews. Under these guidelines, each non-management director is required to own shares having a value (determined as of the time the shares are acquired) of at least three times the value of the annual equity awards granted to directors (which is currently $100,000 per year). Newly elected directors have until the date of the third annual meeting after they were first elected to accumulate the requisite shares. Shares owned by immediate family members or in certain trusts and shares underlying deferred equity awards are counted toward satisfying the requirement. Our Nominating and Governance Committee, or the committee chair acting by delegated authority, has the authority to grant exceptions to the guidelines for hardship reasons. All non-employee directors were in compliance with these guidelines as of the date of this proxy statement. 
+Director Compensation
+During 2025, our non-management directors received a quarterly cash retainer of $31,250 and, effective May 13, 2025 (the date of our 2025 Annual Meeting of Shareholders), a quarterly award of common stock with a value of $25,000 under the Loews Corporation 2025 Incentive Compensation Plan (the “2025 Plan”), which plan replaced our 2016 Incentive Compensation Plan (the “2016 Plan”) upon its approval by shareholders at the 2025 Annual Meeting. References in this Proxy Statement to our “Incentive Compensation Plan” refer to the 2016 Plan for awards granted prior to, and to the 2025 Plan for awards granted on or after, May 13, 2025. 
+Members of our Audit Committee received a cash retainer of $6,250 per quarter, and the committee chair received an additional $10,000 per quarter. Members of our Compensation Committee and Nominating and Governance Committee received a cash retainer of $2,500 per quarter, and the committee chairs received an additional $5,000 per quarter. Our lead director received an additional quarterly retainer of $5,000. Our non-management Chairman of the Board received an additional quarterly retainer of $25,000. 
+Cash retainers and common stock awards are prorated for any partially completed quarters of service, and the common stock award for the second quarter of 2025 was prorated from the date of our 2025 Annual Meeting. 
+Our directors are reimbursed for reasonable expenses incurred in connection with attending board and committee meetings. Our non-management directors may elect to defer some or all of their cash and equity compensation. 
+The following table shows information regarding the compensation of our non-management directors during the year ended December 31, 2025.  
+NameFees Earned or
+Paid in CashStock
+Awards
+(1)
+All Other
+CompensationTotal
+Ann E. Berman$150,000$63,462$0$213,462
+Charles D. Davidson135,00063,4620198,462
+Charles M. Diker160,00063,4620223,462
+Paul J. Fribourg210,00063,4620273,462
+Walter L. Harris200,00063,4620263,462
+Jonathan C. Locker160,00063,4620223,462
+Susan P. Peters161,34663,4620224,808
+James S. Tisch225,00063,462133,000
+(2)
+421,462
+Jennifer VanBelle (joined Board August 5, 2025)60,73440,4890101,223
+Anthony Welters (left Board May 1, 2025)49,2940049,294
+(1)Represents the aggregate grant date fair value, calculated in accordance with the Financial Accounting Standards Board’s Accounting Standards Codification (“ FASB ASC Topic 718”), of quarterly common stock awards. 
+(2)Represents director fees earned for service on CNA’s Board of Directors.
+14
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Board Governance Information
+Transactions with Related Persons
+Our Audit Committee Charter requires our Audit Committee to review and approve all related party transactions required to be disclosed under Securities and Exchange Commission rules. It has been our Audit Committee’s practice, however, to review and approve or ratify any transaction, regardless of the size or amount, involving us or any of our subsidiaries in which any of our directors, director nominees, executive officers, principal shareholders or any of their immediate family members has had or will have a direct or indirect material interest, without the participation of any member who may be involved in the transaction. All such related party transactions are submitted to our General Counsel for review and reported to our Audit Committee for its consideration. In each case, the Audit Committee considers, in light of all of the facts and circumstances it deems relevant, whether the transaction is fair and reasonable to us.
+Our Audit Committee reviewed and approved or ratified the following related party transactions that have occurred or been proposed since January 1, 2025:
+Jonathan M. Tisch, director emeritus and cousin of James S. Tisch, was employed as Executive Chairman of Loews Hotels during 2025, for which he earned cash compensation (including cash incentive compensation) of $3,396,154 in 2025 and participated in benefit programs available to salaried employees generally. In February 2025, he was granted 11,878 Restricted Stock Units (“RSUs”) under our Incentive Compensation Plan. He retired from his position as Executive Chairman of Loews Hotels on December 31, 2025. Following his retirement, he is available to provide consulting services to Loews Hotels for up to 200 hours per year at a rate of $1,000 per hour.
+Beginning in February 2026, a member of the Tisch family began leasing an apartment at the Loews Regency New York Hotel on a month-to-month basis at an initial rate of $65,000 per month (subject to renegotiation if the term is extended beyond January 31, 2027).
+Loews Corporation 2026 Proxy Statement
+15
+Stock Ownership
+Table of Contents
+Stock Ownership 
+Principal Shareholders
+The following table shows certain information about all persons who, to our knowledge, were the beneficial owners of 5% or more of our common stock as of March 17, 2026 (unless otherwise indicated). All shares reported were owned beneficially by the persons indicated unless otherwise indicated below.
+Name and AddressAmount Beneficially OwnedPercent of Class
+The Vanguard Group
+100 Vanguard Blvd. 
+Malvern, PA 19355
+19,426,064
+(1)
+9.4%
+James S. Tisch 
+c/o Barry L. Bloom 
+712 Fifth Avenue, 12th Floor
+New York, NY 10019
+16,075,050
+(2)
+7.8%
+BlackRock, Inc. 
+50 Hudson Yards 
+New York, NY 10001
+14,282,793
+(3)
+6.9%
+Andrew H. Tisch 
+c/o Barry L. Bloom 
+712 Fifth Avenue, 12th Floor 
+New York, NY 10019
+14,100,959
+(4)
+6.9%
+(1)This information is based solely on a Form 13F report filed on January 29, 2026 by The Vanguard Group (Vanguard) with respect to holdings as of December 31, 2025. Based on a Schedule 13G report filed by Vanguard on February 13, 2024, as of December 31, 2023, Vanguard beneficially owned 20,649,420 shares, including 237,728 shares over which it had shared voting power, 19,869,555 shares over which it had sole dispositive power and 779,865 shares over which it had shared dispositive power. Vanguard provides investment management services through mutual funds to our Employee Savings Plan and our non-qualified deferred compensation plans. Fees for these services are incorporated into the fund NAV and fully disclosed as a fund expense included in the fund’s expense ratio. As a result, these fees are paid by participants and not by us. Fees fluctuate based on participants’ allocation decisions. Fees paid to Vanguard for these investment management services are reviewed by the benefits committee administering our retirement plans.    
+(2)The amount beneficially owned includes 9,816,950 shares held by trusts of which he is trustee, 3,005,037 shares held by his wife or trusts of which his wife is trustee and 380,000 shares held by a charitable foundation of which he is a director. He has sole voting and investment power with respect to 12,690,013 shares and shared voting and investment power with respect to 3,385,037 shares.    
+(3)This information is based solely on a Form 13F report filed on February 12, 2026 by BlackRock, Inc. (BlackRock) with respect to holdings as of December 31, 2025. Based on a Schedule 13G report filed on January 26, 2024, as of December 31, 2023, BlackRock beneficially owned 15,364,269 shares, including 13,919,212 shares over which it had sole voting power and 15,364,269 shares over which it had sole dispositive power. BlackRock provides investment management services through mutual funds to our Employee Savings Plan and our non-qualified deferred compensation plans. Fees for these services are incorporated into the fund NAV and fully disclosed as a fund expense included in the fund’s expense ratio. As a result, these fees are paid by participants and not by us. Fees fluctuate based on participants’ allocation decisions. Fees paid to BlackRock for these investment management services are reviewed by the benefits committee administering our retirement plans.
+(4)The amount beneficially owned includes 12,036,901 shares held by trusts of which he is trustee and 840,000 shares held by a charitable foundation of which he is a director. He has sole voting and investment power with respect to 13,260,959 shares and shared voting and investment power with respect to 840,000 shares.
+16
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Stock Ownership
+Director and Officer Holdings
+The following table shows certain information, as of March 17, 2026, regarding the shares of our common stock beneficially owned by each director and nominee, each director emeritus, each executive officer named in the Summary Compensation Table and all of our executive officers, directors and directors emeriti as a group, based on data furnished by them. 
+NameAmount Beneficially Owned
+(1)
+Percent of Class
+Ann E. Berman16,935 
+(2)
+*
+Charles D. Davidson28,827 
+*
+Charles M. Diker21,828 
+*
+Paul J. Fribourg18,857 
+(3)
+*
+Walter L. Harris24,828 
+(4)
+*
+Jonathan C. Locker24,990 
+(5)
+*
+Susan P. Peters14,150 
+(6)
+*
+Dino E. Robusto— 
+(7)
+*
+Richard W. Scott59,073 
+(8)
+*
+Kenneth I. Siegel14,321 
+*
+Alexander H. Tisch66,318 
+(9)
+*
+Andrew H. Tisch14,100,959 
+(10)
+6.9%
+Benjamin J. Tisch726,382 
+(11)
+*
+James S. Tisch16,075,050 
+(12)
+7.8%
+Jonathan M. Tisch7,812,797 
+(13)
+3.8%
+Jennifer VanBelle390 
+*
+Jane J. Wang19,042 
+*
+All executive officers, directors and directors emeriti as a group (17 persons including those listed above)39,041,072 
+(14)
+19.0%
+*Represents less than 1% of the outstanding shares.
+(1)Except as otherwise indicated, the persons listed as beneficial owners of the shares have sole voting and investment power with respect to those shares.
+(2)Includes 11,937 shares underlying vested RSUs of which the director deferred receipt that could be delivered to the director within 60 days of March 17, 2026 if the director’s service as a director terminated during that time.   
+(3)Includes 18,223 shares underlying vested RSUs, and 634 shares of common stock, of which the director deferred receipt that could be delivered to the director within 60 days of March 17, 2026 if the director’s service as a director terminated during that time. 
+(4)Mr. Harris also owns beneficially 1,830 shares of CNA. 
+(5)Includes 634 shares of common stock of which the director deferred receipt that could be delivered to the director within 60 days of March 17, 2026 if the director’s service as a director terminated during that time. 
+(6)Includes 11,557 shares underlying vested RSUs, and 634 shares of common stock, of which the director deferred receipt that could be delivered to the director within 60 days of March 17, 2026 if the director’s service as a director terminated during that time.
+(7)Mr. Robusto owns beneficially 570,751 shares of CNA.
+(8)Includes 26,173 shares underlying vested RSUs of which Mr. Scott deferred receipt that could be delivered to him within 60 days of March 17, 2026 in connection with his retirement on December 31, 2025 (subject to the six-month delay required by Section 409A).
+(9)Includes 17,036 shares underlying vested RSUs of which Mr. Alexander H. Tisch deferred receipt that could be delivered to him within 60 days of March 17, 2026 if his employment was terminated during that time. 
+(10)Includes: (i) 12,036,901 shares held by trusts of which Mr. Andrew H. Tisch is trustee; and (ii) 840,000 shares held by a charitable foundation as to which Mr. Andrew H. Tisch has shared voting and investment power. In addition, Mr. Andrew H. Tisch is the managing trustee and beneficiary of a trust that owns beneficially 106,100 shares of CNA. 
+Loews Corporation 2026 Proxy Statement
+17
+Stock Ownership
+Table of Contents
+(11)Includes: (i) 17,036 shares underlying vested RSUs of which Mr. Benjamin J. Tisch deferred receipt that could be delivered to him within 60 days of March 17, 2026 if his employment was terminated during that time; and (ii) 709,346 shares held by trusts of which Mr. Benjamin J. Tisch is trustee.
+(12)Includes: (i) 9,816,950 shares held by trusts of which Mr. James S. Tisch is trustee; (ii) 380,000 shares held by a charitable foundation as to which Mr. James S. Tisch has shared voting and investment power; and (iii) 3,005,037 shares held by his wife or trusts of which his wife is trustee as to which Mr. James S. Tisch has shared voting and investment power. In addition, Mr. James S. Tisch is also the managing trustee and beneficiary of a trust that owns beneficially 106,100 shares of CNA. 
+(13)Includes: (i) 33,825 shares underlying vested RSUs of which Mr. Jonathan M. Tisch deferred receipt that could be delivered to him within 60 days of March 17, 2026 in connection with his retirement on December 31, 2025 (subject to the six-month delay required by Section 409A); (ii) 6,708,932 shares held by trusts of which Mr. Jonathan M. Tisch is the trustee; (iii) 920,040 shares held by a charitable foundation as to which Mr. Jonathan M. Tisch is the sole trustee; and (iv) 150,000 shares held by a charitable foundation as to which Mr. Jonathan M. Tisch has shared voting and investment power. 
+(14)Includes: (i) 75,789 shares underlying vested RSUs, and 1,902 shares of common stock, of which the directors and executives deferred receipt that could be delivered to them within 60 days of March 17, 2026 if their service as directors or executives terminated during that time; and (ii) 59,998 shares underlying vested RSUs of which Mr. Jonathan M. Tisch and Mr. Richard W. Scott deferred receipt that could be delivered to them within 60 days of March 17, 2026 in connection with their retirements on December 31, 2025 (subject to the six-month delay required by Section 409A).
+18
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Proposal No. 2: Advisory Resolution to Approve Executive Compensation
+Proposal No. 2: 
+Advisory Resolution to Approve Executive Compensation 
+As required by Section 14A of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the “Dodd-Frank Act”), we provide our shareholders with an annual advisory vote to approve named executive officer compensation. This advisory vote, commonly known as a “say-on-pay” vote, is a non-binding vote on the compensation paid to our named executive officers as disclosed under the heading “Executive Compensation” beginning on page 20 of this Proxy Statement.
+Our executive compensation program is designed to attract, motivate and retain highly qualified executives who are able to help achieve the company’s objectives and create shareholder value over the long term. Our executive compensation programs and objectives are described in detail under the heading “Compensation Discussion and Analysis” and the level of compensation paid to our named executive officers is set out in the Summary Compensation Table and related information. Our Compensation Committee believes that our executive compensation program is effective in achieving our objectives.
+This advisory vote to approve named executive officer compensation is not binding on our Board. However, the Board values our shareholders’ input and will take into account the result of the vote when determining future executive compensation arrangements. 
+é
+Accordingly, our Board recommends a vote FOR the following resolution:
+“RESOLVED, that the shareholders approve, on an advisory basis, the compensation paid to the company’s named executive officers as disclosed under the heading “Executive Compensation” in the Proxy Statement for the 2026 Annual Meeting of Shareholders.” 
+Loews Corporation 2026 Proxy Statement
+19
+Executive Compensation
+Table of Contents
+Executive Compensation
+Compensation Discussion 
+and Analysis
+Executive Summary
+This Compensation Discussion and Analysis contains information about the compensation we pay to our executive officers whose compensation is required to be disclosed in the Executive Compensation tables that follow under Securities and Exchange Commission rules (“named executive officers”).
+OUR NAMED EXECUTIVE OFFICERS FOR 2025 WERE:
+ Benjamin J. TischJane J. WangKenneth I. SiegelRichard W. Scott*Alexander H. Tisch 
+President and Chief Executive OfficerSenior Vice President and Chief Financial OfficerSenior Vice PresidentSenior Vice President and Chief Investment OfficerVice President, Loews Corporation; President and Chief Executive Officer, Loews Hotels
+*    Richard W. Scott retired on December 31, 2025.
+WHO WE ARE 
+Loews Corporation is a holding company. We own significant interests in a diverse portfolio of businesses, including: 
+CNA Financial Corporation is a property and casualty insurer (approximately 92% ownership interest)  Boardwalk Pipelines is a provider of transportation and storage services for natural gas and natural gas liquids, olefins and other hydrocarbons (100% ownership interest)Loews Hotels is an owner, operator and manager of hotels (100% ownership interest)  Altium Packaging is a manufacturer of rigid plastic packaging (approximately 53% unconsolidated ownership interest) 
+In addition, we had approximately $3.9 billion of cash and investments at the holding company level as of December 31, 2025. 
+Our primary function is to allocate our capital in ways that drive long-term value creation and returns for our shareholders. To do this we make decisions related to investments in our subsidiaries, repurchases of our shares, acquisitions and dispositions of subsidiaries and prudent investment of our cash and investment assets. 
+20
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation
+In light of our business model, our most critical asset is our people — our human capital — including our senior leadership team that drives our capital allocation decisions. All of our executive officers and other employees are located in our headquarters office in New York City. We not only compete for leadership talent with our and our subsidiaries’ peer companies, but also with New York City-based financial services firms, including investment and commercial banks, private equity funds, hedge funds, insurance and reinsurance companies and other sophisticated financial firms. Our compensation policies and practices are driven by our need to attract and retain highly qualified, financially sophisticated executive officers in this competitive marketplace and motivate them to provide a high level of performance for our shareholders. 
+OUR COMPENSATION PHILOSOPHY
+We have maintained a consistent compensation philosophy for many years, which takes into account that the quality of our leadership has a direct impact on our performance. Our compensation philosophy is based on the following objectives: 
+▪Motivating superior long-term financial performance and the creation of shareholder value over the long term; 
+▪Discouraging unreasonable risk taking; 
+▪Aligning compensation with our long-term strategy and focus and the interests of our shareholders; 
+▪Providing market-competitive compensation; 
+▪Avoiding excessive compensation; and 
+▪Attracting and retaining high-caliber executive talent. 
+We believe in recognizing the performance of our executive officers primarily through a combination of cash compensation, made up of a fixed base salary and incentive compensation, and stock-based compensation. Cash incentive compensation and stock-based compensation awards, which constitute a large majority of the compensation paid to our executive officers, are tied to performance and, other than their fixed base salaries, no compensation is guaranteed to any executive officer. 
+We structure our executive compensation to avoid the possibility of excessive compensation in any given year, including through: 
+▪the Compensation Committee’s broad ability to exercise negative discretion in determining cash incentive compensation; 
+▪setting what we believe to be reasonable, but achievable, performance targets for both cash incentive compensation and stock-based awards; and 
+▪establishing maximum award levels for cash incentive compensation that may not be exceeded and generally not paying cash incentive compensation in excess of pre-established target levels set by the Compensation Committee. 
+We believe this structure provides ample motivation for our executive officers to maximize their performance and focus on the long-term success of the company, while deterring unreasonable risk taking with an eye toward short-term results.
+In selecting and allocating the elements of our executive compensation program, we have considered, among other things, our historical compensation policies as they have evolved over the years and have used information regarding executive compensation paid by comparably sized companies engaged in businesses similar to ours and our principal subsidiaries as well as others with which we compete for talent in the New York City marketplace to obtain a general understanding of compensation practices. To assist in gathering this information, our human resources group engaged the compensation consultant, Semler Brossy.
+Loews Corporation 2026 Proxy Statement
+21
+Executive Compensation
+Table of Contents
+OUR GOAL IS TO INCREASE SHAREHOLDER VALUE OVER THE LONG TERM
+Our compensation program is intended to align the interests of our senior executives with those of our shareholders. Our goal is to increase shareholder value over the long term and to reasonably reward superior performance that supports that goal. In establishing the aggregate amount of targeted compensation for each named executive officer, we do not rely on formula-driven plans, which could result in unreasonably high compensation levels and encourage excessive risk taking. Instead, aggregate target compensation is based on an evaluation of the individual’s performance, skills, leadership and expected future contributions in the context of our financial performance and seeks to achieve the objectives of our compensation philosophy set forth above. Based on these considerations, we determine an overall level of target cash compensation, a portion of which is to be paid as base salary and the balance of which is structured to be performance-based cash compensation, and a level of stock-based awards. We consider the aggregate compensation (earned or potentially available) to each named executive officer in establishing each element of compensation.
+2025 TOTAL CASH AND STOCK-BASED COMPENSATION
+These charts show each of the three principal elements of our regular annual compensation program (base salary, cash incentive compensation and performance-based restricted stock units (“PRSUs”)) as a percentage of total regular annual compensation for our Chief Executive Officer and other named executive officers in 2025.
+CEO 
+Base Salary
+22.0%
+Cash Incentive Compensation
+58.0%
+Stock-Based Awards
+20.0%
+Incentive Compensation: 78.0%
+OTHER NAMED EXECUTIVE OFFICERS 
+Base Salary
+15.6% – 23.3%
+Cash Incentive Compensation
+57.9% – 71.9%
+Stock-Based Awards
+12.5% – 20.1%
+Incentive Compensation: 76.7% – 84.4%
+In addition to these principal elements of our regular annual compensation that we have historically awarded our named executive officers, in February 2025, in connection with our recent executive leadership transition, the Compensation Committee approved special grants of stock appreciation rights (“SARs”) to certain of our named executive officers, which awards are described below under the heading “2025 Compensation to Our Named Executive Officers — Special 2025 Stock Appreciation Right Awards,” on page 33. The SAR awards are not part of the executives’ regular annual compensation, will not be awarded on a regularly recurring basis and are not included in in the charts above.
+22
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation
+SAY ON PAY VOTE
+At our 2025 annual meeting of shareholders, 94% of the shares voted approved, on an advisory basis, our executive compensation program. We believe this result represents a strong endorsement of our executive compensation philosophy and practices. 
+SAY ON PAY VOTE APPROVAL 
+In the last five years, we received an average approval of approximately 95% of shares voted in our annual advisory vote of shareholders on our executive compensation program.
+Average vote
+FOR 95%
+Compensation Governance
+We are committed to good compensation governance and design and administer our executive compensation program to be consistent with our business goals and in the best interests of our shareholders. In that regard, we: 
+▪maintain a fully independent Compensation Committee, which oversees all aspects of our executive compensation and monitors, reviews and approves all executive compensation decisions; 
+▪structure our cash incentive compensation awards to executive officers so that the Compensation Committee may exercise negative discretion over these awards; 
+▪structure our executive officers’ stock-based compensation to be tied to performance; 
+▪have a clawback policy that allows for the recoupment of incentive compensation; 
+▪do not have employment agreements with, or guarantee compensation to, any of our executive officers; 
+▪do not have agreements with any of our executive officers to pay severance upon a change in control; and 
+▪conduct an annual shareholder advisory vote on our executive compensation practices. We have received a large majority vote in favor of our executive pay program every year since implementing this vote. 
+Loews Corporation 2026 Proxy Statement
+23
+Executive Compensation
+Table of Contents
+Compensation Program Structure and Process
+The principal components of our regular annual compensation for our named executive officers are: 
+▪base salary; 
+▪performance-based cash incentive compensation awards; 
+▪PRSU awards; and 
+▪retirement, medical and related benefits. 
+Each year, our Chief Executive Officer, after consulting with our Vice President, Human Resources, reviews with the Compensation Committee the performance of each other executive officer and makes a recommendation to the Compensation Committee with respect to their annual compensation, including the setting of parameters for cash incentive compensation awards and PRSU awards. The Compensation Committee then meets in executive session without the Chief Executive Officer present and makes the final determination regarding the compensation for our Chief Executive Officer and each of our other executive officers. The other executive officers do not play any role in their own compensation determination other than discussing their performance with the Chief Executive Officer, and neither our Chief Executive Officer nor any other executive officer participates in the Compensation Committee’s final deliberations on compensation matters.
+BASE SALARY
+The Compensation Committee has capped the base salary for our named executive officers at $1 million per year for many years. Historically, this reflected the impact of provisions of the Internal Revenue Code of 1986, as amended (the “Internal Revenue Code”) that limited the amount of non-performance-based compensation we were able to deduct for federal income tax purposes to $1 million for certain of the named executive officers. While these provisions are no longer applicable, the base salary for our named executive officers in 2025 remained capped at $1 million as the relative lower weight of base salary to performance-based compensation is consistent with the Committee’s belief that performance-based compensation should be the substantially greater part of the compensation of each of our named executive officers. 
+CASH INCENTIVE COMPENSATION AWARDS
+The largest portion of the regular annual compensation earned by our named executive officers in 2025 came from cash awards under our Incentive Compensation Plan. This element of our compensation program ensures that a significant portion of each executive’s annual compensation is dependent on Loews’s annual achievement of a metric that we call “performance-based income.” 
+Defining Performance-Based Income
+Performance-based income is defined in our Incentive Compensation Plan as our consolidated net income as adjusted by the Compensation Committee under the terms of our Incentive Compensation Plan to account for specific factors that may impact our business, but which the Compensation Committee deems reasonable and appropriate to exclude or include in determining performance for incentive compensation purposes.
+24
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation
+PROCESS OF ESTABLISHING ANNUAL INCENTIVE COMPENSATION AWARDS 
+STEP 1
+Establish annual performance bonus poolFirst quarter of each year
+First, the Compensation Committee establishes an annual performance bonus pool expressed as a percentage of our performance-based income for that year.
+The performance bonus pool is not an expectation of the bonus amounts that will, in fact, be paid; rather, it sets the outer limit of compensation that can be paid to all executive officers in our incentive compensation program for the year. 
+The Committee allocates a portion of the performance bonus pool to each of the named executive officers and other executive officers who participate in the incentive compensation program.
+STEP 2
+Establish Target AwardFirst quarter of each year
+Then, the Compensation Committee establishes a target award (expressed as a dollar amount) for each participant, based on, among other things, an assessment of the individual’s expected performance.
+The intention is that the incentive compensation award actually paid generally will not exceed the target award (even if the portion of the performance bonus pool allocated to a participant is in excess of the established target), except based on the Compensation Committee’s discretion.
+STEP 3
+Establish Maximum Award
+First quarter of each year
+Next, the Compensation Committee establishes a maximum award (expressed as a dollar amount) for
+each participant, to cap the amount in excess of the target that the Committee may in its discretion award any participant.
+A participant’s award cannot exceed the portion of the performance bonus pool allocated to the participant, and also cannot exceed the maximum award amount established by the Committee. In addition, the Compensation Committee retains negative discretion in the payment of awards, which allows the Committee to reduce or eliminate any award at its discretion. It has generally been the practice of the Committee to exercise such discretion, so that cash incentive compensation generally is not paid in excess of the pre-established target levels.
+STEP 4
+Define Performance-based Income
+First quarter of each year
+The Compensation Committee determines what adjustments should be made to our consolidated net income for the year to account for factors that it believes would not be appropriate to include when determining performance for incentive compensation purposes.
+However, by reserving the ability to exercise negative discretion to reduce an award otherwise earned, the Committee retains the ability to take into account these excluded items and other factors it deems relevant.
+Loews Corporation 2026 Proxy Statement
+25
+Executive Compensation
+Table of Contents
+STEP 5
+Calculate Performance-based Income and Conduct Participant Performance Assessment
+First quarter of following year
+After the fiscal year ends, the amount of performance-based income earned for the year is determined.
+Once this has been determined, the Compensation Committee reviews and re-assesses each participant’s performance in the context of our financial performance and seeking to achieve the goals of our compensation philosophy.
+Based upon this review and re-assessment, the Committee awards incentive compensation out of each executive’s pre-allocated percentage of the performance bonus pool. 
+The Committee, in its discretion, determines whether to award incentive compensation that meets or exceeds the target award (up to the maximum award established for that individual) or that is lower than the target award. Historically, the Committee generally has exercised its negative discretion to limit awards paid to the pre-established target amounts.
+How We Determined the Performance Bonus Pool for 2025 Incentive Compensation 
+For 2025, the Compensation Committee established at the beginning of 2025 a performance bonus pool of 4.5% of performance-based income, which was consistent with the pool established for 2024 and which the Committee determined was an appropriate level to recognize the performance of plan participants, which include our named executive officers and other executive officers.
+As has historically been the case, there was no expectation that the entire performance bonus pool would, in fact, be awarded and paid out, as the Committee’s practice has been to exercise its discretion to pay bonuses amounting to only a fraction of the performance bonus pool. The potential for excessive compensation was further limited by the establishment at the beginning of 2025 of target levels and absolute maximum amounts for each named executive officer and each other executive officer participating in our incentive compensation program.
+In establishing the performance bonus pool and target and maximum awards for each named executive officer, the Compensation Committee took into account: 
+▪our compensation philosophy and objectives, which aim to reasonably reward superior performance while eschewing formula-driven criteria, which have the potential of providing unreasonably high compensation levels; 
+▪the individual’s duties, past and expected performance of those duties, experience and tenure and compensation history; and 
+▪our goals of increasing shareholder value over the long term. 
+Negative discretion
+An integral part of the implementation of the cash incentive compensation program by the Compensation Committee is the ability to use negative discretion for the award to each executive officer, allowing the Committee to reduce or eliminate any award notwithstanding the level of performance-based income. This gives the Committee the flexibility to appropriately evaluate the performance of each executive officer considering not only the level of performance-based income, but also Loews’s consolidated net income and the individual’s performance.
+For each named executive officer, other than the Chief Executive Officer, the Compensation Committee also took into account the recommendations of the Chief Executive Officer. The Committee relied on these qualitative factors, together with its discretion to reduce award payouts as well as to pay awards up to the maximum amount, and determined not to establish other specific, quantitative criteria or performance measures. 
+26
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation
+2025 NAMED EXECUTIVE OFFICER TARGET AND MAXIMUM AWARDS AND BONUS POOL ALLOCATION 
+The 2025 target and maximum awards and the share of the performance bonus pool allocated to each named executive officer were established in the first quarter of 2025 as follows: 
+NameShare of 4.5%
+Bonus Pool AllocatedTarget AwardMaximum Award
+Benjamin J. Tisch14.7%$2,600,000$3,500,000
+Jane J. Wang13.92,450,0003,250,000
+Kenneth I. Siegel26.14,600,0005,250,000
+Richard W. Scott17.33,050,0003,750,000
+Alexander H. Tisch14.72,600,0003,500,000
+The Committee did not make any changes to the 2025 executive compensation program or metrics after they were established in the first quarter of 2025. 
+2025 ADJUSTMENTS TO CONSOLIDATED NET INCOME AND RATIONALE
+The Compensation Committee determined in the first quarter of 2025 that net income should be adjusted to determine performance-based income for 2025 as set forth below. However, by reserving the ability to exercise negative discretion to reduce an award otherwise earned, the Committee retained the ability to take into account these excluded items (including, for example, impairments) and other factors it deems relevant when ultimately approving awards. 
+Adjustment identified in first quarter 2025
+ Rationale for exclusion
+The effect of accounting changes
+This item was excluded because:
+▪by its nature it is not a cash item;
+▪it is not within the control of the company or any named executive officer; and
+▪it has the possibility of increasing or decreasing net income in ways that may not be predictable when performance-based income is established.
+Net losses attributed to the impairment of goodwill, long-lived assets and/or equity method investments, and any net income or loss related to accounting for any benefit plan curtailments or settlements
+These items were excluded because:
+▪they are not cash items;
+▪under generally accepted accounting principles, goodwill, long-lived assets and equity method investments are accounted for using an impairment-based model under which the carrying value is subject to reduction, resulting in charges to income, based on a decline in fair value, but the carrying value cannot be increased in subsequent periods if fair values rise; and
+▪doing so encourages management to approach decisions related to these items objectively and impartially.
+Any net income or loss relating to net reserve strengthening and/or adverse dividend or premium development for accident years prior to the 20 most recent years, and/or any favorable or unfavorable income statement impact of applying retroactive reinsurance accounting in connection with any and all CNA loss portfolio transfers
+From time to time, CNA enters into loss portfolio transfer transactions. For instance, in 2010, CNA completed a retroactive reinsurance transaction under which it ceded substantially all of its legacy asbestos and environmental pollution liabilities to a reinsurer, subject to an aggregate limit of $4 billion. Additionally, in 2021, CNA ceded certain legacy excess workers’ compensation liabilities to a reinsurer. The Compensation Committee determined that any income statement impact of applying retroactive reinsurance accounting relating to loss portfolio transfer transactions should not be considered when measuring current performance. Moreover, the Compensation Committee determined that any net income or loss relating to net reserve strengthening or adverse dividend or premium development for accident years prior to the 20 most recent years should not be considered when measuring current performance.
+Loews Corporation 2026 Proxy Statement
+27
+Executive Compensation
+Table of Contents
+Any net income or loss relating to (x) a remeasurement gain or loss for CNA’s long term care liabilities; (y) net reserve strengthening related to CNA’s benefit settlement option liabilities or (z) a disposition (or proposed disposition), a loss portfolio transfer or other transaction that is intended to fix or limit CNA’s exposure to its run-off Life & Group business
+CNA’s individual and group long-term care businesses are in run-off and its payout annuity business was in run-off prior to its disposition in 2014. The Compensation Committee determined that any income statement impact from a remeasurement gain or loss for CNA’s long term care liabilities, net reserve strengthening for CNA’s benefit settlement option liabilities or a transaction that is intended to fix or limit CNA’s exposure to its run-off Life & Group business should not be taken into account when measuring current performance.
+Investment gains and losses
+The Compensation Committee decided to exclude investment gains and losses because the decision to realize a gain or a loss can be a discretionary decision. Accordingly, any implication that an individual could be wrongly motivated in taking or failing to take a gain or loss in an effort to impact consolidated net income would be removed.
+Catastrophe losses of CNA in excess of, but not less than, CNA’s budgeted amount
+The Compensation Committee excluded this item because the level of catastrophes that impact a property and casualty insurer is, of course, unpredictable and, accordingly, not an appropriate way to measure performance. On the other hand, performance-based income should not be increased just because of a low level of catastrophes in any year. The Compensation Committee determined that the amount for catastrophe losses budgeted at the beginning of the year — which at times has been higher or lower than the actual level of catastrophe losses — is preferable for measuring performance.
+Any net income or loss relating to the defense or disposition, by judgment or settlement, of litigation that is not related to the operations of the company’s continuing consolidated subsidiaries, including, for example, litigation related to the Corporation’s and/or its subsidiaries’ mergers, acquisitions and dispositions activities
+The company’s ownership interests in its subsidiaries change from time to time and the company and its current and former subsidiaries are from time to time parties to litigation. For instance, the company and certain of its Boardwalk Pipelines-related subsidiaries are defendants in litigation relating to the company’s 2018 acquisition of the Boardwalk Pipelines limited partnership units not already owned by the company’s affiliates. The Compensation Committee determined that any net income or loss relating to the defense or disposition of litigation such as this matter should not be considered when measuring current performance.
+Any net income or loss attributable to changes in deferred income tax assets and liabilities resulting from a change in income tax rates in 2025
+Several of Loews’s subsidiaries, by the nature of their business, recognize significant deferred income tax assets and liabilities, which have accumulated over many years. A change in the income tax rate could have a significant impact on these deferred tax items and on Loews’s net income since the impact in the year of this change would involve the entire historical balance of deferred tax assets or liabilities. The Compensation Committee determined to exclude this item since any change in income tax rates is, of course, unpredictable and not within the company’s control, and the resulting impact on net income and loss would not be a suitable indication of current performance.
+Any gain or loss on disposal of discontinued operations (but not income from operations of the discontinued operations)
+The Compensation Committee determined to exclude both gains and losses from the disposal of discontinued operations in the belief that the results from a disposition, whether positive or negative, relate to the generally multi-year holding period of the asset disposed of, even though fully recognized in the year of disposal. Therefore, any such gains or losses could distort net income in the year of disposition.
+For 2025, performance-based income ultimately amounted to $1,873 million compared to consolidated net income of $1,667 million.
+28
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation
+PERFORMANCE-BASED RESTRICTED STOCK UNIT AWARDS
+The third principal element of our regular annual compensation program for named executive officers and other executive officers is PRSUs.
+The PRSUs, similar to the time-vesting RSUs granted in 2025 to our non-executive officers and certain other managerial and professional employees (“non-executive RSUs”), will vest in two equal tranches (subject to earlier vesting in the case of death, disability, termination without cause and certain retirements, as further discussed below under “Potential Payments Upon Termination” on page 42 below): 
+▪50% on the second anniversary of the grant date; and 
+▪50% on the third anniversary of the grant date. 
+In addition, for dividends, the PRSUs (along with non-executive RSUs) are credited cash (accruing interest each year at the one-year Treasury rate applicable in January of the year the dividend is paid) in respect of dividends paid, with such cash to be delivered to the executives only if and when the underlying PRSUs have been actually earned and vested.
+However, unlike non-executive RSUs, in addition to being subject to the same time-vesting terms as non-executive RSUs, PRSUs granted to our executive officers are also subject to performance-vesting terms.
+The performance-vesting terms made PRSUs dependent on the company achieving a pre-established level of performance-based income per share for 2025. The terms of the PRSUs awarded in the first quarter of 2025 provided that they would be earned by our executive officer recipients as follows (subject to the time-vesting provisions of the PRSUs): 
+PERFORMANCE-BASED INCOME PER SHARE:
+At or Above Target100% of PRSUs earned
+At 50% to 100% of TargetPro rata portion of PRSUs earned
+Below 50% of TargetNo PRSUs earned
+In connection with the grant of PRSUs to our executive officers in the first quarter of 2025, the Compensation Committee established the performance-based income per share target for PRSUs at $4.55 per share. The Committee did not make any changes to the 2025 executive compensation program or metrics after they were established in the first quarter of 2025, including to this per share target amount.
+The ultimate value of PRSU awards under our Incentive Compensation Plan is directly correlated to our performance as measured by the price of our common stock over the long term. The value of these awards increases or decreases directly with changes in the price of our common stock. In addition, unlike base salary and cash incentive compensation awards, which are earned and paid based on the annual performance of the individual and the company, PRSUs awarded in 2025 vest over a period of three years. As a result, these awards encourage executives to continue their employment with Loews. These elements further serve to align the executives’ interests with those of our shareholders.
+The Compensation Committee makes annual grants of equity awards and takes other compensation actions in the first quarter of each year in connection with its annual management performance evaluation. Annual equity grants for executive officers occur on the same date as our annual equity grants for our other officers and employees, which typically occurs in February. Loews does not grant equity awards in anticipation of the release of material non-public information or time the release of this information based on equity award grant dates. We also at times grant equity awards in connection with new hires or promotions during the year, and in connection with our recent executive leadership transition, we granted SARs to each of Benjamin Tisch, Alexander Tisch and Jane Wang, as described below under the heading “2025 Compensation to Our Named Executive Officers — Special 2025 Stock Appreciation Right Awards.” These grants are approved by the Committee (or, in the case of grants to those who are not subject to Section 16 of the Exchange Act, by our Chief Executive Officer, as delegated by the Committee) and are also not granted (and in 2025 were not granted) in anticipation of the release of material non-public information. 
+Loews Corporation 2026 Proxy Statement
+29
+Executive Compensation
+Table of Contents
+EMPLOYEE BENEFITS
+Our named executive officers also participate in benefit programs available to salaried employees generally, including retirement and medical programs. For 2025, these retirement programs included our Employee Savings Plan under Section 401(k) of the Internal Revenue Code and our Deferred Investment Plan. In addition, named executive officers continue to receive interest credits on accrued balances under our legacy Benefit Equalization Plan. Additional information regarding our retirement programs is available under “Pension Plans” on page 40 and “Nonqualified Deferred Compensation” on page 41. 
+2025 Compensation to Our Named Executive Officers 
+BASE SALARY
+Consistent with our objective of emphasizing performance-based compensation, the base salary for each of our named executive officers during 2025 was $1 million, which represented modest increases from $950,000 and $975,000 in the prior year for our longer-tenured named executive officers, Richard Scott and Kenneth Siegel, respectively, and increases of approximately 11% from $900,000 in the prior year for our lesser-tenured named executive officers, Benjamin Tisch, Jane Wang and Alexander Tisch, in accordance with a multiyear strategy to increase their compensation as a result of their increasing responsibilities in connection with our recent executive leadership transition. 
+CASH INCENTIVE COMPENSATION AWARDS 
+For 2025, the Compensation Committee made cash incentive compensation awards to our Chief Executive Officer and each of our other named executive officers, which were paid in the first quarter of 2026. In determining the amounts earned by these executives, the Committee acted consistently within the parameters of the grants that were established in the first quarter of 2025, including the size of the performance bonus pool for the year. However, the Committee also exercised its business judgment, using essentially a qualitative, rather than formula-driven, approach based on the Committee’s overall judgment of the individual’s performance in the context of our financial performance and seeking to achieve the objectives of our compensation philosophy. The Committee did not make any changes to the 2025 executive compensation program or metrics after they were established in the first quarter of 2025.
+In addition to the specific factors discussed below, the Compensation Committee considered:
+▪its compensation philosophy in favor of competitive pay levels and against excessive or unreasonable compensation levels; 
+▪its multiyear strategy to increase the compensation of our lesser-tenured named executive officers in connection with our recent executive leadership transition;
+▪an emphasis on long-term, superior performance by the individual; 
+▪its evaluation of the performance of each named executive officer based on direct observation, since each named executive officer regularly reports to the Board on the operations of the company and its subsidiaries; and 
+▪for each named executive officer other than the Chief Executive Officer, executive sessions with the Chief Executive Officer in which each named executive officer’s performance is reviewed and evaluated. 
+These factors were not weighted and there is no formula for how these factors were applied in determining cash incentive compensation awards. 
+30
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation
+Chief Executive Officer
+To establish target and maximum incentive compensation award amounts for 2025 for our Chief Executive Officer, Benjamin J. Tisch, the Compensation Committee considered, among other things, Mr. Tisch’s performance in recent years during which he was a senior executive of the company prior to his promotion to Chief Executive Officer, the overall performance of the company and its principal subsidiaries, its compensation philosophy against excessive or unreasonable compensation levels, its emphasis on long-term, superior performance by the individual and the level of inflation. Based on these considerations, at the beginning of 2025, the Compensation Committee established target and maximum cash incentive compensation award amounts of $2.6 million and $3.5 million, respectively, for Mr. Tisch. The Committee also retained negative discretion to reduce any award to what it determines is a reasonable level under the circumstances. 
+To determine the amount of cash incentive compensation actually to be paid to Mr. Tisch, the Compensation Committee evaluated his and the company’s performance in 2025 and during recent years, considering the overall state of the markets in which Loews and its subsidiaries operate and the financial markets generally. This is consistent with the Committee’s philosophy of evaluating performance over the longer term to encourage and reward long-term value creation and to discourage unreasonable risk-taking.
+The Compensation Committee noted the following accomplishments under Mr. Tisch’s leadership: 
+▪Mr. Tisch’s ability to demonstrate strong leadership and maintain stability at Loews and our subsidiaries through our recent executive leadership transition, and to prudently allocate the company’s capital to take advantage of market opportunities and protect against known risks;
+▪the leadership teams at Loews’s principal operating subsidiaries remained focused and motivated to drive the most value from their respective companies, helped in part by the leadership of the company’s Chief Executive Officer and our other named executive officers;
+▪Loews repurchased approximately 8.9 million shares, or 4.2%, of its common stock in 2025 and has repurchased approximately 64.4 million shares, or 23.9%, of its common stock from 2021 through the end of 2025, while consistently maintaining a very strong liquidity position; and
+▪the company’s book value per share (excluding accumulated other comprehensive income) increased approximately 49.4% during the past five years.
+As a result of these efforts, the underlying businesses of Loews’s subsidiaries have remained strong. For example:
+▪CNA achieved strong P&C underwriting profitability and net income growth while actively managing the risk in its long-term care business and maintaining an extremely strong capital position; 
+▪Boardwalk Pipelines continued to increase its operating results, grew its backlog by 37.9%, or $5.4 billion, to $19.6 billion as of December 31, 2025 and reached final investment decision on a number of strategically important growth projects; and 
+▪Loews Hotels’ performance continued to exceed pre-pandemic levels, and it continued to execute on its long-term growth strategy, opening three new hotel properties at Universal Orlando. 
+Incentive Compensation Determination: The Compensation Committee determined in the first quarter of 2026, for the reasons detailed above, that Mr. Tisch earned his target incentive compensation award for 2025. This award is approximately 21.0% of the amount allocated to him from the performance bonus pool based on the level of performance-based income for the year. 
+Loews Corporation 2026 Proxy Statement
+31
+Executive Compensation
+Table of Contents
+Other Named Executive Officers 
+Similar to our Chief Executive Officer, each of our other named executive officers was granted a cash incentive compensation award in the first quarter of 2025 that was paid in the first quarter of 2026. 
+Our longer-tenured other named executive officers, Richard Scott and Kenneth Siegel, received modest increases from 2024 in target (and, in the case of Richard Scott, maximum) award levels, while our lesser-tenured other named executive officers, Alexander Tisch and Jane Wang, received slightly larger increases in target and maximum award levels in accordance with a multiyear strategy to increase their compensation as a result of their increasing responsibilities in connection with our recent executive leadership transition. Kenneth Siegel’s maximum award level in 2025 was unchanged from 2024.
+In making its determination regarding the amount of these awards earned by these executives, the Committee considered many of the same factors described above that it considered for our Chief Executive Officer. Based on its evaluation of each executive’s performance, including the input and recommendation of the Chief Executive Officer, the Committee, in the first quarter of 2026, awarded each of these other named executive officers incentive compensation equal to their target amount for 2025.
+Incentive Compensation Determination: These incentive compensation awards amounted to approximately 21.0% of the total amount available in the performance bonus pool for the other named executive officers and are consistent with the Committee’s philosophy in favor of rewarding long-term superior performance, but against excessive or unreasonable compensation.
+PERFORMANCE-BASED RESTRICTED STOCK UNIT AWARDS
+In making its determinations regarding the award of PRSUs in 2025 to our named executive officers, the Compensation Committee considered the same factors described above on page 24 under “Cash Incentive Compensation Awards” as well as the level of PRSU awards previously awarded to these individuals. These factors are not weighted and there is no formula for how these factors were applied in determining the number of PRSUs granted. 
+PRSU Determination: Based on all factors reviewed, in the first quarter of 2025, the Committee awarded 10,690 PRSUs, representing a grant date fair value of $900,000, to each of Benjamin and Alexander Tisch, and 9,502 PRSUs, representing a grant date fair value of $800,000, to each of Richard Scott, Kenneth Siegel and Jane Wang. For 2025, performance-based income amounted to $8.96 per share, resulting in 100% of these PRSUs being earned by each of our named executive officers in the first quarter of 2026; however, these PRSUs still remain subject to their time-vesting provisions, with 50% of these PRSUs vesting in 2027 and 50% vesting in 2028.
+32
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation
+SPECIAL 2025 STOCK APPRECIATION RIGHT AWARDS
+In connection with our recent executive leadership transition, in February 2025 the Compensation Committee approved special grants of SARs to each of Benjamin Tisch, Alexander Tisch and Jane Wang. The SAR awards are not part of the executives’ regular annual compensation and will not be awarded on a regularly recurring basis. 
+In granting the awards, the Compensation Committee considered that the awards would provide significant incentives to create shareholder value and help further motivate and retain the executives. Semler Brossy, compensation consultant, provided guidance regarding the compensation of our executive officers in connection with our recent executive leadership transition, including with respect to the special SAR awards.
+The following table sets forth the number of SARs awarded to each executive at the applicable exercise prices:
+Exercise Price
+Name$100/share$150/share$200/share
+Benjamin J. Tisch
+100,000 SARs
+150,000 SARs
+200,000 SARs
+Jane J. Wang
+75,000 SARs
+112,500 SARs
+150,000 SARs
+Alexander H. Tisch
+100,000 SARs
+150,000 SARs
+200,000 SARs
+The closing price for our common stock on February 14, 2025, the trading day prior to the grant date for the SAR awards, was $83.01.
+The SARs have a 10-year term and become exercisable seven years after the grant date.
+For the SARs to provide value, the price of our common stock must exceed the applicable exercise prices, and the executives must remain employed by Loews (except in the case of death, disability, a termination by the company without cause or a termination by the executive for good reason, in which cases the SARs will expire on the earlier of two or three years following the termination (depending on the type of termination) and the expiration of the 10-year term, as further discussed below under “Potential Payments Upon Termination” on page 42 below).
+The grant date fair value of the SAR awards were $4,093,500 for each of Messrs. Benjamin and Alexander Tisch and $3,070,125 for Ms. Wang.
+The SARs and any stock delivered or cash paid upon the exercise of the SARs will be subject to clawback pursuant to the our clawback policy (as described below under “Other Considerations — Clawback Policy”) or as required by applicable law.
+Loews Corporation 2026 Proxy Statement
+33
+Executive Compensation
+Table of Contents
+Other Considerations
+Compensation Program as it Relates to Risk. Management and the Compensation Committee regularly review our compensation policies and practices to ensure they do not encourage excessive risk taking. Based on this review, we do not believe that our compensation program encourages excessive risk taking, due to, among many considerations, the following plan design elements: 
+▪Our program appropriately balances the three primary components of our executives’ regular annual compensation: base salary, cash incentive compensation and PRSU awards. 
+▪The Compensation Committee establishes reasonable, but achievable, performance targets for cash incentive compensation and PRSUs in order to motivate our executives to create value for our shareholders over the long term while exercising prudent risk management. 
+▪Awards of cash incentive compensation and PRSUs are capped, and the Compensation Committee has the authority to exercise negative discretion with respect to payouts of cash incentive compensation, limiting excessive rewards for short-term results. 
+▪Our executive officers and directors as a group, and members of their families, own a substantial percentage of our common stock, which strongly aligns their interests with those of our other shareholders and encourages a long-term focus. 
+▪Our clawback policy, described below, requires the recoupment of incentive compensation received by our executive officers if we are required to restate our financial results, which mitigates risk. 
+Clawback Policy. We have adopted a policy that requires the recoupment of incentive compensation (cash and equity-based) received by our executive officers if we are required to restate our financial statements due to material noncompliance with the federal securities laws, including any required restatement to correct an error in previously issued financial statements that is material to the previously issued financial statements, or that would result in a material misstatement if the error were corrected in the current period or left uncorrected in the current period. In such case, the incentive compensation received by our executive officers during the three completed fiscal years prior to the date we determine we are required to prepare the restatement will be subject to recoupment to the extent the amounts received were greater than the amounts that would have been received if they had been calculated on the basis of the restated financial results.
+Insider Trading, Anti-Hedging and Anti-Pledging Policies. Our Code of Business Conduct and Ethics contains insider trading policies and procedures governing the purchase, sale and/or other disposition of securities by directors, officers and employees, and by the company itself, that are reasonably designed to promote compliance with insider trading laws, rules and regulations.
+Additionally, we have adopted a policy that prohibits directors and executive officers from entering into hedging transactions in our common stock. For purposes of this policy, a hedging transaction is the entry into, or purchase or sale of, any financial instrument (including prepaid variable forward contracts, equity swaps and collars), or the entry into of any other transaction, in each case for the express purpose of offsetting a potential decline in the market value of our common stock. For the avoidance of doubt, financial instruments and transactions subject to this policy do not include transactions in securities (or derivative instruments relating thereto) of any open-end mutual fund, unit investment trust or exchange-traded fund, or of any company that is not affiliated with us.
+In addition, directors and executive officers are prohibited from pledging our common stock, options relating to our common stock or any other security linked to our common stock as collateral for a loan unless the director or executive officer has the ability to repay the loan without liquidating the pledged stock and the loan is fully recourse to the director or executive officer. 
+Employment Agreements. We have no employment or other agreements relating to severance or payment upon a change of control with any of our named executive officers or other executive officers.
+Share Ownership by Executive Officers and Directors. As disclosed above under “Director and Officer Holdings” on page 17, our executive officers and directors as a group, and members of their families, own a substantial percentage of our common stock, which strongly aligns their interests with those of our other shareholders. 
+34
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Compensation Committee Report on Executive Compensation
+Compensation Committee Report on Executive Compensation 
+In fulfilling its responsibilities, the Compensation Committee has reviewed and discussed the Compensation Discussion and Analysis with Loews’s management. Based on this review and discussion, the Compensation Committee recommended to the Board that the Compensation Discussion and Analysis be included in this Proxy Statement.
+By the Compensation Committee:
+Susan P. Peters, Chair
+Charles M. Diker
+Paul J. Fribourg
+Walter L. Harris 
+Compensation Committee Interlocks and Insider Participation
+None of the members of our Compensation Committee has ever been an officer or employee of Loews, or is a participant in a transaction disclosed, or required to be disclosed, under the heading “Transactions with Related Persons,” on page 15. None of our executive officers serves as a member of the compensation committee or board of directors of any entity that has an executive officer serving on our Compensation Committee or as a director of Loews. 
+Loews Corporation 2026 Proxy Statement
+35
+Executive Compensation Tables
+Table of Contents
+2025 Executive Compensation Tables 
+2025 Summary Compensation Table
+The following table shows information for the years indicated regarding the compensation of our named executive officers for services in all capacities to us and our subsidiaries. 
+YearSalary Stock
+Awards
+(1)
+Option/SAR Awards
+(1)
+Non-Equity
+Incentive Plan
+Compensation
+(2)
+Change in
+Pension Value and
+Nonqualified Deferred
+Compensation Earnings
+(3)
+All Other
+Compensation
+(4)
+Total
+Benjamin J. Tisch
+President and Chief Executive Officer
+2025$984,615 $900,000 $4,093,500$2,600,000 $2,819 $172,231$8,753,165
+Jane J. Wang
+Senior Vice President and Chief Financial Officer
+2025984,615 800,000 3,070,1252,450,000 9,579 172,2317,486,550
+2024900,000 800,000 02,050,000 0 147,365 3,897,365
+2023784,616 800,000 01,650,000 101,157 128,731 3,464,504
+Kenneth I. Siegel
+Senior Vice President
+2025996,154 800,000 04,600,000 123,366 290,3086,809,828
+2024975,000 800,000 04,400,000 121,845 274,000 6,570,845
+2023975,000 800,000 04,100,000 102,964 270,750 6,248,714
+Richard W. Scott
+Senior Vice President and Chief Investment Officer
+2025992,308 800,000 03,050,000 99,316 218,0495,159,673
+2024950,000 800,000 02,870,000 98,090 200,250 4,918,340
+2023950,000 800,000 02,650,000 83,199 188,500 4,671,699
+Alexander H. Tisch
+Vice President, Loews Corporation; President and Chief Executive Officer, Loews Hotels
+2025984,615 900,000 4,093,5002,600,000 8,034 184,7318,770,880
+(1)These amounts represent the grant date fair value of PRSU and special 2025 SAR awards, as applicable, computed in accordance with FASB ASC Topic 718. Amounts for 2025 were calculated using the assumptions described in Note 15 of the Notes to Consolidated Financial Statements included under Item 8 in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025. 
+(2)These amounts represent cash incentive compensation awards for the years indicated, which were paid to the named executive officers in February of the following years. 
+(3)These amounts represent the actuarial increase, if any, in the present value of retirement benefits of each named executive officer under our retirement plans as of December 31, 2025, 2024 and 2023 over the value of those benefits as of December 31, 2024, 2023 and 2022, respectively, all as determined using the same interest rate and other assumptions as those used in our financial statements in those respective years. The changes from year to year primarily represent changes in actuarial pension assumptions. For an estimate of the pension benefits accrued for and which may become payable to the named executive officers and the assumptions used in calculating those amounts, please see the 2025 Pension Benefits table on page 40 of this Proxy Statement. 
+36
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation Tables
+(4)The following table sets forth the amounts included in All Other Compensation for 2025.
+NameDeferred Investment Plan Contributions
+(a)
+Employee Savings Plan Contributions
+(b)
+Flexible Benefits Plan
+(c)
+Other
+Benjamin J. Tisch$134,231$35,000$3,000$0
+Jane J. Wang134,23135,0003,0000
+Kenneth I. Siegel252,30835,0003,0000
+Richard W. Scott177,15435,0003,0002,895
+(d)
+Alexander H. Tisch167,73114,0003,0000
+(a)    Represents our contributions under our Deferred Investment Plan.
+(b)    Represents our contributions under our Employee Savings Plan.
+(c)    Represents additional cash compensation paid or applied to the cost of benefit choices under our flexible benefits plan, which may include premiums for medical, dental, vision, life and disability insurance policies.
+(d)    Represents gross up for the taxes on the cost of a retirement gift.
+NARRATIVE DISCUSSION OF SUMMARY COMPENSATION TABLE
+For more information about the components of compensation reported in the Summary Compensation Table or any of the tables in “Compensation Plans” starting on page 39, including performance-based conditions and vesting schedule, please read the “Compensation Discussion and Analysis” beginning on page 20. 
+Loews Corporation 2026 Proxy Statement
+37
+Executive Compensation Tables
+Table of Contents
+2025 Grants of Plan-Based Awards
+The following table shows information regarding awards granted to our named executive officers under our Incentive Compensation Plan during 2025.
+Grant Date
+Estimated Future Payouts Under
+Non-Equity Incentive Plan Awards (1)
+Estimated Future Payouts Under
+Equity Incentive Plan Awards (2)
+All Other Option/SAR Awards; Number of Securities Underlying Options/SARs (3)
+Exercise or Base Price of Option/SAR Awards (3)
+Closing
+Market Price on Date of
+Grant
+Grant Date
+Fair Value of
+Stock and
+Options
+Awards (4)
+TargetMaximumThresholdTargetMaximum
+Benjamin J. Tisch
+2/9/2025$2,600,000$3,500,000
+2/17/20255,345 10,690 10,690 $83.01$900,000
+2/17/2025100,000$10083.012,094,000
+2/17/2025150,00015083.011,291,500
+2/17/2025200,00020083.01708,000
+Jane J. Wang
+2/9/20252,450,0003,250,000
+2/17/20254,751 9,502 9,502 83.01800,000
+2/17/202575,00010083.011,570,500
+2/17/2025112,50015083.01968,625
+2/17/2025150,00020083.01531,000
+Kenneth I. Siegel
+2/9/20254,600,0005,250,000
+2/17/20254,751 9,502 9,502 83.01800,000
+Richard W. Scott
+2/9/20253,050,0003,750,000
+2/17/20254,751 9,502 9,502 83.01800,000
+Alexander H. Tisch
+2/9/20252,600,0003,500,000
+2/17/20255,345 10,690 10,690 83.01900,000
+2/17/2025100,00010083.012,094,000
+2/17/2025150,00015083.011,291,500
+2/17/2025200,00020083.01708,000
+(1)The actual amounts earned are included in the 2025 Summary Compensation Table. Cash awards are not subject to thresholds. For more information, see “Cash Incentive Compensation Awards” on pages 24 and 30.
+(2)These amounts represent threshold, target and maximum awards of PRSUs. For more information, see “Performance-Based Restricted Stock Unit Awards” on pages 29 and 32.
+(3)These amounts represent grants of special 2025 SAR awards. For the SARs to provide value, the price of our common stock must appreciate from its trading price at grant to the applicable exercise prices. For more information, see “Special 2025 Stock Appreciation Right Awards” on page 33.
+(4)These amounts represent the grant date fair value of the applicable awards computed in accordance with FASB ASC Topic 718, which amounts are included in the 2025 Summary Compensation Table.
+38
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation Tables
+2025 Outstanding Equity Awards at Fiscal Year-End
+The following table shows information regarding equity awards granted to our named executive officers under our Incentive Compensation Plan that were outstanding as of December 31, 2025. 
+Option/SAR Awards (1)
+Stock Awards (2)
+Number of
+Securities
+Underlying
+Unexercised
+Options/SARs
+Exercisable
+Number of
+Securities
+Underlying
+Unexercised
+Options/SARs
+Unexercisable
+Options/SAR
+Exercise Price
+Options/SAR
+Expiration Date
+Number of
+Shares or Units
+of Stock that
+Have Not
+Vested
+Market Value of
+Shares or Units
+of Stock that
+Have Not
+Vested
+Equity Incentive
+Plan Awards:
+Number of
+Unearned Shares,
+Units or
+Other Rights
+That Have Not
+Vested
+Equity Incentive
+Plan Awards:
+Market or
+Payout Value of
+Unearned Shares,
+Units or
+Other Rights
+That Have Not
+Vested
+Benjamin J. Tisch
+0100,000 $100 2/17/2035
+0150,000 1502/17/2035
+0200,000 2002/17/2035
+ 16,732 $1,762,04710,690 $1,125,764
+Jane J. Wang
+075,000 1002/17/2035
+0112,500 1502/17/2035
+0150,000 2002/17/2035
+ 17,558 1,849,0339,502 1,000,656
+Kenneth I. Siegel
+ 17,558 1,849,0339,502 1,000,656
+Richard W. Scott
+ 17,558 1,849,0339,502 1,000,656
+Alexander H. Tisch
+0100,000 1002/17/2035
+0150,000 1502/17/2035
+0200,000 2002/17/2035
+16,732 1,762,04710,690 1,125,764
+(1)The SARs become exercisable on February 17, 2032. For more information, see “Special 2025 Stock Appreciation Right Awards” on page 33.
+(2)PRSU awards vest 50% on the second anniversary and 50% on the third anniversary of their grant date. PRSUs that were no longer subject to a performance condition as of December 31, 2025 are reported in the first two columns under Stock Awards, and PRSUs that were subject to a performance condition as of December 31, 2025 are reported in the last two columns under Stock Awards. For more information, see “Performance-Based Restricted Stock Unit Awards” on pages 29 and 32.
+Loews Corporation 2026 Proxy Statement
+39
+Executive Compensation Tables
+Table of Contents
+2025 Option Exercises and Stock Vested 
+The following table shows information regarding the vesting of PRSUs under our Incentive Compensation Plan for our named executive officers during 2025. No options or SARs were exercised by our named executive officers during 2025.
+Stock/PRSU Awards
+NameNumber of Shares
+Acquired on VestingValue Realized
+on Vesting
+Benjamin J. Tisch9,481
+(1)
+$819,982
+(1)
+Jane J. Wang10,718926,928
+Kenneth I. Siegel13,1851,141,089
+Richard W. Scott40,245
+(2)
+3,990,777
+(2)
+Alexander H. Tisch9,481
+(1)
+819,982
+(1)
+(1)Each Benjamin J. Tisch and Alexander H. Tisch deferred receipt of 5,780 PRSU awards that vested in 2025. Their deferral elections provided that, to the extent such awards vest, receipt of the shares of common stock underlying those PRSUs would occur upon the earlier of: (i) a date selected by them; (ii) their separation from service; and (iii) a change in control. 
+(2)Richard W. Scott retired on December 31, 2025. Amounts reported include PRSU awards that vested in connection with his retirement.
+Pension Plans
+Prior to 2020, we provided a funded, tax qualified, non-contributory retirement plan for certain employees, including our named executive officers (our “Qualified Retirement Plan”). Benefits under tax qualified plans are subject to limitations under the Internal Revenue Code. Accordingly, we also provided an unfunded, nonqualified, non-contributory retirement plan (our “Benefit Equalization Plan”) which provided for benefits that otherwise were not available due to these limitations. Effective December 31, 2019, these plans were frozen, and participants no longer accrued benefits, other than interest credits on accrued balances at a rate determined annually for all participants. Effective December 31, 2022, the Qualified Retirement Plan was terminated. During 2023, our named executive officers received lump-sum distributions of the entire balance of their accumulated benefit under the Qualified Retirement Plan. The Benefit Equalization Plan was not impacted by the termination of the Qualified Retirement Plan, and participants’ accounts continue to receive interest credits on their accrued balances.
+The following table shows information for 2025 regarding benefits accrued for and paid to each of our named executive officers under our Benefit Equalization Plan.
+2025 PENSION BENEFITS 
+NameNumber of Years
+Credited ServicePresent Value of
+Accumulated Benefit
+(1)
+Payments During
+Last Fiscal Year
+Benjamin J. Tisch8$74,161$0
+Jane J. Wang13247,6370
+Kenneth I. Siegel102,952,8730
+Richard W. Scott102,377,2000
+Alexander H. Tisch12198,5860
+(1)Present Value of Accumulated Benefit is as of December 31, 2025. Assumes: (a) benefit commencement at (i) a normal retirement age of 65 for Benjamin J. Tisch, Jane J. Wang and Alexander H. Tisch and (ii) current age for Richard W. Scott and Kenneth I. Siegel; (b) a discount rate of 5.30%; and (c) interest credits for 2025 and future years of 4.09%. Other interest rate and mortality rate assumptions used are consistent with those used in our financial statements. 
+40
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation Tables
+Nonqualified Deferred Compensation 
+Employees whose cash compensation (base salary and bonus) exceeds the annual IRS compensation limit for 401(k) plans ($350,000 in 2025) are eligible to defer up to 75% of their base salary and 100% of their bonus on a tax-deferred basis under our Deferred Investment Plan. By annual election, a participant chooses the amount to be deferred, the duration of the deferral and whether to receive distributions of deferred amounts in a single payment or in equal annual installments over a period of up to 15 years. In addition, we make annual contributions to the accounts of eligible employees equal to 5% of the participant’s annual cash compensation that exceeds the annual IRS compensation limit for 401(k) plans. Account balances may be allocated by participants among a number of investment funds available under the plan. 
+The Deferred Investment Plan is a nonqualified, unfunded plan under the Internal Revenue Code and the Employee Retirement Income Security Act of 1974; however, we have established a “rabbi” trust to provide a source of funds (subject to the claims of our creditors), which is administered by an independent financial institution as trustee. 
+In addition to deferrals of cash compensation, employees who receive RSU awards are eligible to defer receipt of up to 100% of the stock underlying such awards, to the extent earned and vested, until the earlier of: (i) a date selected by the employee; (ii) the employee’s separation from service; and (iii) a change in control. 
+The following tables show information for 2025 regarding nonqualified deferred compensation for our named executive officers.
+2025 DEFERRED CASH COMPENSATION 
+NameExecutive
+Contributions in
+Last Fiscal YearCompany
+Contributions in
+Last Fiscal Year
+(1)
+Aggregate
+Earnings in
+Last Fiscal Year
+(2)
+Aggregate
+Withdrawals/
+Distributions
+(3)
+Aggregate
+Balance at Last
+Fiscal Year-End
+(4)
+Benjamin J. Tisch$0$134,231$74,600$3,154$516,438
+Jane J. Wang0134,23161,4813,154462,817
+Kenneth I. Siegel0252,308138,3135,9291,308,895
+Richard W. Scott0177,1541,640,9764,12717,284,047
+Alexander H. Tisch0167,73198,5973,942681,889
+(1)Company Contributions in Last Fiscal Year are reported as compensation in the 2025 Summary Compensation Table. 
+(2)Pursuant to applicable SEC rules, Aggregate Earnings in Last Fiscal Year are not reported as compensation in the 2025 Summary Compensation Table as they were not accrued at an above-market interest rate. 
+(3)Represents deductions taken from Company Contributions in Last Fiscal Year to satisfy employment tax withholding obligations. 
+(4)The following amounts included in Aggregate Balance at Last Fiscal Year End were reported as compensation in Summary Compensation Tables for prior years: (i) $0 for Benjamin J. Tisch; (ii) $254,608 for Jane J. Wang; (iii) $1,107,875 for Kenneth I. Siegel; (iv) $8,087,290 for Richard W. Scott; and (v) $0 for Alexander H. Tisch. Company Contributions in Last Fiscal Year are not reflected in the Aggregate Balance at Last Fiscal Year-End because they were not credited to participants’ accounts until early 2026. 
+2025 DEFERRED EQUITY COMPENSATION 
+NameExecutive
+Contributions in
+Last Fiscal Year
+(1)
+Company
+Contributions in
+Last Fiscal YearAggregate
+Earnings in
+Last Fiscal Year
+(2)
+Aggregate 
+Withdrawals/
+DistributionsAggregate
+Balance at Last
+Fiscal Year-End
+(3)
+Benjamin J. Tisch$501,720$0$111,565$0$613,285
+Alexander H. Tisch501,7200111,5650613,285
+(1)Represents the value of RSU awards (including accumulated dividends and interest on such dividends) that vested during 2025 for which receipt of the stock underlying such awards was deferred. These amounts are not reported as compensation in the 2025 Summary Compensation Table as they relate to prior year RSU awards. 
+(2)Represents stock price appreciation and dividends (and interest on such dividends) on previously vested deferred RSUs. These amounts are not reported as compensation in the 2025 Summary Compensation Table as they were not accrued at an above-market interest rate. 
+(3)Amounts included in Aggregate Balance at Last Fiscal Year-End were not reported as compensation in Summary Compensation Tables for prior years as the individuals were not named executive officers prior to 2025. 
+Loews Corporation 2026 Proxy Statement
+41
+Executive Compensation Tables
+Table of Contents
+Potential Payments Upon Termination
+The PRSUs awarded to our named executive officers provide that unvested awards are forfeited upon termination of employment, except in the case of death, disability, termination without cause and certain retirements, in which case such awards would be subject to accelerated vesting. The following table sets forth the value of PRSUs (based on the closing price of our common stock on the last trading day of 2025 and assuming that any applicable performance goals had been achieved at target) that would be subject to accelerated vesting and delivered to the named executive officers if such a termination had occurred on December 31, 2025. 
+NameDeath/Disability
+Termination without Cause
+Retirement
+Benjamin J. Tisch$2,887,811$1,846,506$0
+Jane J. Wang2,849,6891,885,1540
+Kenneth I. Siegel2,849,6891,885,1542,849,689
+Richard W. Scott(1)
+N/AN/A2,849,689
+Alexander H. Tisch2,887,8111,846,5060
+(1)Richard W. Scott retired on December 31, 2025.
+The special 2025 SARs awarded to certain of our named executive officers in connection with our recent leadership transition also are forfeited upon termination of employment, except in the case of death, disability or a termination without cause or for good reason. However, unlike the PRSUs, the SARs do not provide for accelerated vesting. The only benefit provided for the SARs in the case of these terminations is that the executive would have until the earlier of (x) the expiration of the 10-year term of the SARs and (y) three years (in the case of death or disability) or two years (in the case of a termination without cause or for good reason) following termination to exercise the SARs (provided that the SARs are exercisable during such period).
+42
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation Tables
+Pay Versus Performance
+The following table shows information for the years indicated regarding the compensation of our named executive officers and certain metrics related to our performance. 
+Year(1)
+Summary
+Compensation
+Table Total
+for PEO
+Compensation
+Actually Paid
+to PEO (2)
+Average
+Summary
+Compensation
+Table Total for
+non-PEO Named
+Executive
+Officers
+Average
+Compensation
+Actually Paid to
+non-PEO Named
+Executive
+Officers (2)
+Value of Initial Fixed $100
+Investment Based On:
+Net Income
+(millions)
+Performance-
+Based Income
+(millions) (5)
+Total
+Shareholder
+Return (3)
+Peer Group
+Total
+Shareholder
+Return (4)
+2025$8,753,165$11,974,575 $7,056,733$8,738,008 $277.70 $287.03 $1,667$1,873
+20247,069,6577,651,106 5,008,5465,433,725 209.17 255.91 1,4141,865
+20236,918,3377,276,014 4,804,7325,086,696 162.96 165.68 1,4341,601
+20226,439,1836,487,578 4,516,1604,506,675 130.73 156.52 8221,159
+20216,119,5236,727,729 5,413,0035,925,474 128.89 127.73 1,5621,211
+(1)Reported compensation amounts are based on the principal executive officer (“PEO”) and non-PEO name executive officers (“non-PEO NEOs”) for each year as set forth in the following table.
+YearPEONon-PEO NEOs
+2025Benjamin J. TischJane J. Wang, Kenneth I. Siegel, Richard W. Scott and Alexander H. Tisch
+2024James S. TischJane J. Wang, Jonathan M. Tisch, Kenneth I. Siegel and Richard W. Scott
+2023James S. TischJane J. Wang, Jonathan M. Tisch, Kenneth I. Siegel and Richard W. Scott
+2022James S. TischDavid B. Edelson, Jane J. Wang, Jonathan M. Tisch, Kenneth I. Siegel and Richard W. Scott
+2021James S. TischDavid B. Edelson, Andrew H. Tisch, Jonathan M. Tisch and Kenneth I. Siegel
+(2)“Compensation actually paid” is the total Summary Compensation Table compensation, adjusted in accordance with applicable SEC rules as set forth in the following table. The amounts set forth for the non-PEO NEOs are averages of the adjustments. 
+Adjustment PEONon-PEO NEOs
+Deduction of the aggregate change in the actuarial present value of the named executive officer’s accumulated benefit under all defined benefit and actuarial pension plans reported in the Summary Compensation Table
+2025$(2,819)2025$(60,074)
+202402024(54,984)
+2023(153,220)2023(116,857)
+202202022(46,198)
+202102021(31,535)
+Deduction of the amounts reported in the Summary Compensation Table in respect of all stock and option/SAR awards
+2025(4,993,500)2025(2,615,906)
+2024(1,000,000)2024(850,000)
+2023(1,000,000)2023(850,000)
+2022(1,000,000)2022(700,000)
+2021(900,000)2021(805,000)
+Addition of the fair value as of the end of the year of all stock and option/SAR awards granted during the year that were outstanding and unvested as of the end of the year
+20257,852,76420253,974,995
+20241,159,3222024985,411
+20231,149,3492023976,957
+2022959,3532022671,518
+20211,108,0682021991,104
+Addition of the change as of the end of the year (from the end of the prior year) in fair value (whether positive or negative) of stock and option/SAR awards granted in any prior year that were outstanding and unvested as of the end of the year
+2025345,0132025357,788
+2024373,5742024308,225
+2023293,1992023222,123
+202215,77020229,181
+2021335,8392021216,430
+Loews Corporation 2026 Proxy Statement
+43
+Executive Compensation Tables
+Table of Contents
+Adjustment PEONon-PEO NEOs
+Addition of the change as of the vesting date (from the end of the prior year) in fair value (whether positive or negative) of any stock and option/SAR awards granted in any prior year for which all applicable vesting conditions were satisfied as of the end of or during the year
+202519,952202524,472
+202448,553202436,527
+202368,349202349,741
+202273,272202256,014
+202164,2992021141,472
+(3)Total shareholder return (“TSR”) is calculated in accordance with applicable SEC rules. For calculation purposes, the measurement period is the period from the market close on the last trading day before 2021 through and including the end of 2025. 
+(4)This column represents the weighted peer group TSR, weighted according to the respective companies’ stock market capitalization at the beginning of each period for which a return is indicated. For all years presented in the table, the peer group consists of the following companies: Berry Global, Inc. (included through April 30, 2025 when it was acquired by Amcor plc), Chubb Limited, Diamond Rock Hospitality Company, Enbridge Inc., Energy Transfer LP, Kinder Morgan, Inc., Ryman Hospitality Properties, Inc., Silgan Holdings Inc., Sunstone Hotel Investors, Inc., The Hartford Financial Services Group, Inc., The Travelers Companies, Inc., W.R. Berkley Corporation and Xenia Hotels & Resorts, Inc. 
+(5)Performance-based income is defined in our Incentive Compensation Plan as our consolidated net income as adjusted by the Compensation Committee under the terms of our Incentive Compensation Plan. More information about performance-based income, including a description of the adjustments to net income made by the Compensation Committee to determine performance-based income, is provided under “Compensation Program Structure and Process” beginning on page 23. 
+DISCUSSION OF PAY VERSUS PERFORMANCE TABLE 
+The following graphs show the relationships between compensation actually paid to the PEO and the average compensation actually paid to the non-PEO NEOs and certain performance metrics during the years covered by the Pay Versus Performance Table. 
+44
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Executive Compensation Tables
+The following table shows the financial performance measures we use to link compensation actually paid to our named executive officers to our performance.
+Financial Performance Measures
+Performance-Based Income
+Performance-Based Income per Share
+Loews Corporation 2026 Proxy Statement
+45
+Executive Compensation Tables
+Table of Contents
+CEO Pay Ratio 
+Under SEC rules established pursuant to the Dodd-Frank Act, we are required to disclose the ratio of pay of our Chief Executive Officer to that of our median employee, as defined under those rules, excluding our Chief Executive Officer. 
+In order to estimate this ratio, we first determined our employee population using a determination date of December 31, 2025. A new determination date was used this year as it had been three years since the determination date of December 31, 2022 used in the prior year. Under SEC rules, our employee population as of the determination date included approximately 13,440 employees from Loews Corporation and our consolidated subsidiaries — CNA, Boardwalk Pipelines and Loews Hotels. We identified the median employee from this population using a compensation measure that incorporated base salary, overtime and any bonuses paid for 2025. For employees hired during 2025, their compensation was annualized to reflect a full year of wages. International employees’ pay was converted to US dollar equivalents using the average of the exchange rates from January 1, 2025 and December 31, 2025. 
+For 2025, the annual total compensation of our Chief Executive Officer, which is equal to the total compensation amount reflected in the Summary Compensation Table above, and the median employee is $8,753,165 and $93,719, respectively. This results in a CEO pay ratio of approximately 93:1. Given the numerous different methodologies, assumptions, adjustments and estimates that companies may apply as permitted under SEC rules, this information may not be an appropriate basis for comparison between different companies. 
+46
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Proposal No. 3: Ratification of the Appointment of Our Independent Auditors
+Proposal No. 3: 
+Ratification of the Appointment of Our Independent Auditors 
+Our Audit Committee is directly responsible for the appointment, compensation and oversight of the independent external audit firm retained to audit our financial statements and the audit fee negotiations associated with their retention. Our Audit Committee has selected Deloitte & Touche LLP to serve as our independent auditors for 2026. The Audit Committee regularly evaluates the performance of our independent auditors to determine if it is engaging a firm it believes is well positioned to serve the company and its shareholders. The Audit Committee also periodically considers whether, in order to assure continuing auditor independence, Loews should rotate its independent external audit firm. In conjunction with the mandated rotation of the independent auditors’ lead engagement partner, the Audit Committee and its Chairman participate in the selection of each new lead engagement partner. The Audit Committee and the Board believe that the continued retention of Deloitte & Touche LLP to serve as Loews’s independent external auditor is in the best interests of Loews and its shareholders.
+Although it is not required to do so, our Board wishes to submit the selection of Deloitte & Touche LLP for ratification, on an advisory basis, by our shareholders at the Annual Meeting. Even if this selection is ratified by our shareholders at the Annual Meeting, our Audit Committee may at its discretion change the appointment at any time during the year if it determines that such a change would be in the best interests of us and our shareholders. If our shareholders do not ratify the selection of Deloitte & Touche LLP, our Audit Committee will reconsider its selection. Representatives of Deloitte & Touche LLP are expected to be at the Annual Meeting to answer appropriate questions and, if they choose to do so, to make a statement. 
+Audit Fees and Services
+The following table shows fees billed by Deloitte & Touche LLP and its affiliates for professional services rendered to us and our subsidiaries in 2025 and 2024, by category, as described in the notes to the table. 
+(in thousands)20252024
+Audit Fees (1)
+$17,859$17,788
+Audit Related Fees (2)
+354570
+Tax Fees (3)
+434
+All Other Fees (4)
+2323
+Total$18,240$18,415
+(1)Includes the aggregate fees and expenses for the audit of our and our consolidated subsidiaries’ annual financial statements and internal control over financial reporting, statutory filings and the reviews of our and their quarterly financial statements.
+(2)Includes the aggregate fees and expenses for services that were reasonably related to the performance of the audit or reviews of our and our consolidated subsidiaries’ financial statements and not included under “Audit Fees” above, including, principally, audits of employee benefit plans, internal control reviews and due diligence. 
+(3)Includes the aggregate fees and expenses for tax compliance and tax planning services. 
+(4)Includes the aggregate fees and expenses for products and services, other than those services described above. 
+Loews Corporation 2026 Proxy Statement
+47
+Proposal No. 3: Ratification of the Appointment of Our Independent Auditors
+Table of Contents
+Auditor Engagement Pre-Approval Policy
+To assure the continued independence of our independent auditors, currently Deloitte & Touche LLP, our Audit Committee has adopted a policy requiring pre-approval of all audit and non-audit services performed by our independent auditors. Under this policy, our Audit Committee annually pre-approves certain specified recurring services which may be provided by Deloitte & Touche LLP, subject to maximum dollar limitations.
+All other engagements for services to be performed by Deloitte & Touche LLP must be specifically pre-approved by our Audit Committee, or the Chairman of our Audit Committee to the extent the Audit Committee has delegated pre-approval authority to the Chairman. Our Audit Committee, or the Chairman of our Audit Committee pursuant to such delegated authority, pre-approves all engagements by us and our consolidated subsidiaries, other than CNA and its subsidiaries, for services of Deloitte & Touche LLP, including all terms and fees. Our Audit Committee has concluded that all these engagements have been compatible with the continued independence of Deloitte & Touche LLP in serving as our independent auditors.
+Engagements of Deloitte & Touche LLP by CNA and its subsidiaries are reviewed and approved by the independent audit committee of CNA under pre-approval policies adopted by that committee. 
+é
+Our Board recommends a vote FOR Proposal No. 3.
+48
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Audit Committee Report
+Audit Committee Report 
+The primary role of the Board’s Audit Committee is to oversee our financial reporting process and manage our relationship with our independent auditors. For more information about the Audit Committee’s responsibilities please see “Board Committees” on page 10. In fulfilling its responsibilities, the Audit Committee has reviewed, and discussed with Loews’s management and independent auditors, the company’s audited financial statements for the year ended December 31, 2025. The Audit Committee has also discussed with our independent auditors the matters required to be discussed by Auditing Standard No. 1301, “Communications with Audit Committees,” as adopted and as amended by the Public Company Accounting Oversight Board (“PCAOB”).
+In addition, the Audit Committee has discussed with the independent auditors their independence in relation to Loews and its management, including the matters in the written disclosures provided to the Audit Committee as required by applicable requirements of the PCAOB regarding the independent accountants’ communications with the Audit Committee concerning independence. We have determined that the provision of non-audit services provided by the auditors is compatible with maintaining the auditors’ independence. For more information about services provided by our independent auditors, please read “Audit Fees and Services,” in Proposal No. 3 on page 47.
+The members of the Audit Committee rely without independent verification on the information provided to them by management and the independent auditors and on management’s representation that the company’s financial statements have been prepared with integrity and objectivity. They do not provide any expert or special assurance as to Loews’s financial statements or any professional certification as to the independent auditors’ work. Accordingly, the Audit Committee’s oversight does not provide an independent basis to determine that management has applied appropriate accounting and financial reporting principles or internal controls and procedures, that the audit of the company’s financial statements has been carried out in accordance with generally accepted auditing standards, that Loews’s financial statements are presented in accordance with generally accepted accounting principles, or that the company’s auditors are in fact “independent.”
+Based upon the reviews and discussions referred to above, the Audit Committee recommended to the Board that the audited financial statements be included in our Annual Report on Form 10-K for the year ended December 31, 2025, which has been filed with the Securities and Exchange Commission. 
+By the Audit Committee: 
+Walter L. Harris, Chairman
+Ann E. Berman 
+Charles M. Diker
+Paul J. Fribourg
+Jonathan C. Locker
+Jennifer VanBelle
+Loews Corporation 2026 Proxy Statement
+49
+Additional Information
+Table of Contents
+Additional Information 
+Voting
+As of March 17, 2026, the record date for determination of shareholders entitled to notice of and to vote at the Annual Meeting, there were 205,767,698 shares of our common stock outstanding. Each outstanding share of our common stock is entitled to one vote on all matters that may come before the Annual Meeting. All proxies properly voted in accordance with the instructions below prior to the Annual Meeting and not revoked will be voted at the Annual Meeting. You may revoke your proxy at any time before it is exercised by giving notice in writing to our Corporate Secretary, by granting a proxy bearing a later date or by voting in person at the Annual Meeting.
+Internet Availability of Proxy Materials. Under Securities and Exchange Commission rules, we have elected to make our proxy materials available to our shareholders over the Internet, rather than mailing paper copies of those materials to each shareholder. We expect to begin mailing an Important Notice Regarding the Availability of Proxy Materials (a “Notice”) on or about April 1, 2026. The Notice contains instructions describing how to access our proxy materials and vote shares by the Internet or by telephone. If you receive a Notice only and would like to receive a printed copy of the proxy materials, please follow the instructions printed on the Notice to request that a printed copy be mailed to you.
+Voting by Proxy. Whether or not you plan to attend the Annual Meeting, we urge you to vote and submit your proxy in advance of the meeting by one of the methods below. Please have your proxy card, voting instruction form or Notice in hand when voting. 
+▪Internet: go to www.proxyvote.com
+▪Telephone: call 1-800-690-6903
+▪Mail: if you received a paper copy of the proxy materials by mail, you can vote by signing, dating and mailing the proxy card in the enclosed self-addressed envelope
+Voting in Person. All shareholders may vote in person at the Annual Meeting. You also may be represented by another person at the Annual Meeting by executing a proper proxy designating that person. If your shares are held in street name, you must obtain a valid legal proxy, executed in your favor, from your broker or other holder of record to be able to vote at the Annual Meeting. 
+Admittance to the Annual Meeting. The Annual Meeting is open to holders of our common stock. To attend the meeting, you will need to register upon arrival. We may check for your name on our shareholders’ list and ask you to produce a valid photo ID. If your shares are held in street name, you should bring your most recent brokerage account statement or other evidence of your share ownership. If we cannot verify that you own our common stock, it is possible that you will not be admitted to the meeting. 
+Quorum. A quorum will be present at the Annual Meeting if holders of a majority of the issued and outstanding shares of our common stock on the record date are represented at the Annual Meeting in person or by proxy. If a quorum is not present at the Annual Meeting, we expect to postpone or adjourn the Annual Meeting to solicit additional proxies. Abstentions and broker non-votes (as defined below) will be counted as shares present and entitled to vote for the purpose of determining whether a quorum is present. 
+50
+Loews Corporation 2026 Proxy Statement
+Table of Contents
+Additional Information
+Broker Non-votes. Shares with respect to which a broker indicates that it does not have authority to vote on a matter will be considered “broker non-votes.” Broker non-votes occur on a matter when a bank, broker or other nominee is not permitted by applicable regulatory requirements to vote on that matter without instruction from the owner of the shares and no instruction is given. Absent instructions from you, your broker may vote your shares on the ratification of the appointment of our independent auditors (Proposal No. 3), but may not vote your shares on any of the other proposals (Proposals No. 1 and 2).
+Vote Standard for Election of Directors. In an uncontested election, such as the election to be held at our Annual Meeting (Proposal No. 1), a nominee for director will be elected to the Board by a majority of the votes cast with respect to the nominee. You may vote for any one or more nominees, against any one or more nominees or abstain from voting with respect to any one or more nominees. Shares that are voted to abstain with respect to any one or more nominees and broker non-votes will not be counted as votes cast and, therefore, will have no effect on the outcome of the voting for directors. If an incumbent nominee does not receive a majority of the votes cast in an uncontested election, our by-laws require that director to tender his or her resignation and the Nominating and Governance Committee, or such other committee designated by the Board, to consider whether to accept or reject that resignation. The Board will act on the committee’s recommendation and publicly disclose its decision.
+Vote Standard for the Adoption of Other Proposals. A majority of the votes cast is required to approve each of the other proposals (Proposals No. 2 and 3) to be voted on at the Annual Meeting. For each such proposal, you may vote for, against or abstain. Shares that are voted to abstain with respect to any one or more of these matters and broker non-votes, to the extent there are any for such proposals, will not be counted as votes cast and, therefore, will have no effect on the outcome of the voting for these proposals.
+Confidentiality. We follow a policy of confidentiality regarding the voting of shares. Under this policy, all proxies, ballots and voting tabulations that identify how an individual shareholder has voted at the Annual Meeting will be kept confidential from us, except where disclosure is required by applicable law, a shareholder expressly requests disclosure, or in the case of a contested proxy solicitation. Proxy tabulators and inspectors of election will be employees of Broadridge Financial Solutions, Inc. or another third party and not our employees.
+Other Matters 
+We know of no other matters to be brought before the Annual Meeting. If other matters should properly come before the meeting, proxies will be voted on these matters in accordance with the best judgment of the persons appointed as proxies.  
+Cost of Proxy Solicitation. We will bear all costs in connection with the solicitation of proxies for the Annual Meeting. We intend to request brokerage houses, custodians, nominees and others who hold our common stock in their names to solicit proxies from the persons who beneficially own the stock, and we will reimburse these brokerage houses, custodians, nominees and others for their out-of-pocket expenses in connection therewith. We have engaged Innisfree M&A Incorporated to solicit proxies for us, at an anticipated cost of approximately $17,500. In addition to the use of the mail, solicitation may be made by Innisfree or our employees by telephone, over the Internet, by e-mail or by other electronic transmission.  
+Householding. To reduce the expenses of delivering duplicate proxy materials, we may take advantage of the Securities and Exchange Commission’s “householding” rules that permit us to deliver only one set of proxy materials to shareholders who share an address, unless otherwise requested. If you share an address with another shareholder and have received only one set of proxy materials, you may request a separate copy of these materials at no cost to you by contacting us at Loews Corporation, Attn: Corporate Secretary, 9 West 57th Street, New York, New York 10019 or at (212) 521-2000. For future annual meetings, you may request separate voting materials, or request that we send only one set of proxy materials to you if you are receiving multiple copies, by calling or writing to us at the phone number and address given above.
+Loews Corporation 2026 Proxy Statement
+51
+Additional Information
+Table of Contents
+Submissions of Nominations or Other Proposals for Our 2027 Annual Meeting
+If you wish to propose an individual to be considered by our Nominating and Governance Committee for possible recommendation to our Board as a nominee for election as a director, you should do so by writing to our Corporate Secretary. Your recommendation should include the candidate’s name, a brief biographical description, a statement of the candidate’s qualifications, a description of any relationship between the candidate and the recommending shareholder or Loews and the candidate’s signed consent to serve as a director, if elected. Our Nominating and Governance Committee requests that any recommendations for director nominees for our 2027 annual meeting of shareholders be received no later than October 1, 2026.
+If you wish to nominate an individual for election as a director at our 2027 annual meeting of shareholders, you must provide us written notice of your intention to do so addressed to our Corporate Secretary. Your notice must provide certain information, representations and agreements, including the candidate’s signed consent to serve as a director, if elected, as set forth in our by-laws. We must receive your notice, together with the required information, no earlier than January 12, and no later than February 11, 2027. In addition, to comply with the universal proxy rules, dissident shareholders must also provide notice that sets forth the information required by Rule 14a-19(b) under the Exchange Act (including a statement that such shareholder intends to solicit the holders of shares representing at least 67% of the voting power of the Company’s shares of common stock entitled to vote on the election of directors in support of director nominees other than the Company’s nominees) no earlier than January 12, and no later than February 11, 2027.
+If you wish to submit any other proposal for our 2027 annual meeting of shareholders, you must also provide us written notice of your intention to do so addressed to our Corporate Secretary. For proposals that you would like to be included in our proxy materials under Rule 14a-8 under the Exchange Act, your proposal must be received by us not later than December 2, 2026 and otherwise comply with the rules and procedures set forth in Rule 14a-8. For other proposals that would not be included in our proxy materials, we must receive your proposal no earlier than January 12, and no later than February 11, 2027 and your proposal must be accompanied by certain information, representations and agreements as set forth in our by-laws. 
+Communicating with Our Board
+If you or any other interested party wishes to communicate directly with our lead director, other directors or our Board as a whole, you or the other interested party may do so by writing to our Corporate Secretary. Communications will be delivered to the director or directors to whom they are addressed unless the Corporate Secretary determines that a communication is a business solicitation or advertisement, requests general information about us or is otherwise inappropriate.
+You should address all communications directed to our Corporate Secretary regarding the matters discussed in this Proxy Statement to Loews Corporation, 9 West 57th Street, New York, New York, 10019, Attention: Marc A. Alpert, Corporate Secretary. 
+By order of the Board of Directors, 
+Marc A. Alpert
+Senior Vice President, General Counsel and Secretary
+Dated: April 1, 2026
+52
+Loews Corporation 2026 Proxy Statement

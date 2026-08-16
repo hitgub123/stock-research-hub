@@ -1,0 +1,76 @@
+mas-20260729
+0000062996
+false
+0000062996
+2026-07-29
+2026-07-29
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC  20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+Date of report (Date of earliest event reported):
+July 29, 2026
+Masco Corporation
+(Exact name of Registrant as Specified in Charter)
+Delaware
+1-5794
+38-1794485
+(State or Other Jurisdiction of
+Incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+17450 College Parkway,
+Livonia,
+Michigan
+48152
+(Address of Principal Executive Offices)
+(Zip Code)
+(
+313
+)
+274-7400
+(Registrant’s telephone number, including area code)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common Stock, $1.00 par value
+MAS
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2).
+☐
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 2.02.  Results of Operations and Financial Condition.
+Attached and incorporated herein by reference as Exhibit 99 is a copy of the press release dated July 29, 2026 reporting Masco Corporation’s financial results for the second quarter 2026 and certain other information and supplemental information prepared for use in connection with the financial results for the second quarter 2026. On July 29, 2026, Masco Corporation will hold an investor conference call and webcast to discuss financial results for the second quarter 2026.
+This information, including Exhibit 99 attached hereto, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liabilities of that section.
+Item 9.01.  Financial Statements and Exhibits.
+(d) Exhibits.
+99
+Press Release of Masco Corporation dated July 29, 2026 reporting Masco Corporation’s financial results for the second quarter 2026 and certain other information and supplemental information prepared for use in connection with the financial results for the second quarter 2026.
+104  Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+MASCO CORPORATION
+By:
+/s/ Richard J. Westenberg
+Name:
+Richard J. Westenberg
+Title:
+Vice President, Chief Financial Officer and Treasurer
+July 29, 2026
+2

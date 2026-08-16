@@ -1,0 +1,2997 @@
+mas-20260630
+0000062996
+12/31
+2026
+Q2
+false
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+iso4217:GBP
+0000062996
+2026-01-01
+2026-06-30
+0000062996
+2026-06-30
+0000062996
+2025-12-31
+0000062996
+2026-04-01
+2026-06-30
+0000062996
+2025-04-01
+2025-06-30
+0000062996
+2025-01-01
+2025-06-30
+0000062996
+2024-12-31
+0000062996
+2025-06-30
+0000062996
+2025-03-31
+0000062996
+us-gaap:CommonStockMember
+2024-12-31
+0000062996
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0000062996
+us-gaap:RetainedEarningsMember
+2024-12-31
+0000062996
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0000062996
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0000062996
+2025-01-01
+2025-03-31
+0000062996
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0000062996
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0000062996
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0000062996
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0000062996
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0000062996
+us-gaap:CommonStockMember
+2025-03-31
+0000062996
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0000062996
+us-gaap:RetainedEarningsMember
+2025-03-31
+0000062996
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0000062996
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0000062996
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:NoncontrollingInterestMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:CommonStockMember
+2025-06-30
+0000062996
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0000062996
+us-gaap:RetainedEarningsMember
+2025-06-30
+0000062996
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0000062996
+us-gaap:NoncontrollingInterestMember
+2025-06-30
+0000062996
+2026-03-31
+0000062996
+us-gaap:CommonStockMember
+2025-12-31
+0000062996
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0000062996
+us-gaap:RetainedEarningsMember
+2025-12-31
+0000062996
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-31
+0000062996
+us-gaap:NoncontrollingInterestMember
+2025-12-31
+0000062996
+2026-01-01
+2026-03-31
+0000062996
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0000062996
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-01-01
+2026-03-31
+0000062996
+us-gaap:NoncontrollingInterestMember
+2026-01-01
+2026-03-31
+0000062996
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0000062996
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0000062996
+us-gaap:CommonStockMember
+2026-03-31
+0000062996
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0000062996
+us-gaap:RetainedEarningsMember
+2026-03-31
+0000062996
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-31
+0000062996
+us-gaap:NoncontrollingInterestMember
+2026-03-31
+0000062996
+us-gaap:RetainedEarningsMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:NoncontrollingInterestMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:CommonStockMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:AdditionalPaidInCapitalMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:CommonStockMember
+2026-06-30
+0000062996
+us-gaap:AdditionalPaidInCapitalMember
+2026-06-30
+0000062996
+us-gaap:RetainedEarningsMember
+2026-06-30
+0000062996
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-06-30
+0000062996
+us-gaap:NoncontrollingInterestMember
+2026-06-30
+0000062996
+srt:NorthAmericaMember
+mas:PlumbingProductsMember
+2026-04-01
+2026-06-30
+0000062996
+srt:NorthAmericaMember
+mas:DecorativeArchitecturalProductsMember
+2026-04-01
+2026-06-30
+0000062996
+srt:NorthAmericaMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:NonUsMember
+mas:PlumbingProductsMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:NonUsMember
+mas:DecorativeArchitecturalProductsMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:NonUsMember
+2026-04-01
+2026-06-30
+0000062996
+mas:PlumbingProductsMember
+2026-04-01
+2026-06-30
+0000062996
+mas:DecorativeArchitecturalProductsMember
+2026-04-01
+2026-06-30
+0000062996
+srt:NorthAmericaMember
+mas:PlumbingProductsMember
+2026-01-01
+2026-06-30
+0000062996
+srt:NorthAmericaMember
+mas:DecorativeArchitecturalProductsMember
+2026-01-01
+2026-06-30
+0000062996
+srt:NorthAmericaMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:NonUsMember
+mas:PlumbingProductsMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:NonUsMember
+mas:DecorativeArchitecturalProductsMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:NonUsMember
+2026-01-01
+2026-06-30
+0000062996
+mas:PlumbingProductsMember
+2026-01-01
+2026-06-30
+0000062996
+mas:DecorativeArchitecturalProductsMember
+2026-01-01
+2026-06-30
+0000062996
+srt:NorthAmericaMember
+mas:PlumbingProductsMember
+2025-04-01
+2025-06-30
+0000062996
+srt:NorthAmericaMember
+mas:DecorativeArchitecturalProductsMember
+2025-04-01
+2025-06-30
+0000062996
+srt:NorthAmericaMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:NonUsMember
+mas:PlumbingProductsMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:NonUsMember
+mas:DecorativeArchitecturalProductsMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:NonUsMember
+2025-04-01
+2025-06-30
+0000062996
+mas:PlumbingProductsMember
+2025-04-01
+2025-06-30
+0000062996
+mas:DecorativeArchitecturalProductsMember
+2025-04-01
+2025-06-30
+0000062996
+srt:NorthAmericaMember
+mas:PlumbingProductsMember
+2025-01-01
+2025-06-30
+0000062996
+srt:NorthAmericaMember
+mas:DecorativeArchitecturalProductsMember
+2025-01-01
+2025-06-30
+0000062996
+srt:NorthAmericaMember
+2025-01-01
+2025-06-30
+0000062996
+us-gaap:NonUsMember
+mas:PlumbingProductsMember
+2025-01-01
+2025-06-30
+0000062996
+us-gaap:NonUsMember
+mas:DecorativeArchitecturalProductsMember
+2025-01-01
+2025-06-30
+0000062996
+us-gaap:NonUsMember
+2025-01-01
+2025-06-30
+0000062996
+mas:PlumbingProductsMember
+2025-01-01
+2025-06-30
+0000062996
+mas:DecorativeArchitecturalProductsMember
+2025-01-01
+2025-06-30
+0000062996
+2025-01-01
+2025-12-31
+0000062996
+mas:PlumbingProductsMember
+2026-06-30
+0000062996
+mas:DecorativeArchitecturalProductsMember
+2026-06-30
+0000062996
+mas:PlumbingProductsMember
+2025-12-31
+0000062996
+mas:DecorativeArchitecturalProductsMember
+2025-12-31
+0000062996
+us-gaap:LineOfCreditMember
+mas:A2026CreditAgreementMember
+us-gaap:RevolvingCreditFacilityMember
+2026-03-20
+0000062996
+us-gaap:LineOfCreditMember
+mas:A2026CreditAgreementMember
+us-gaap:RevolvingCreditFacilityMember
+2026-03-20
+2026-03-20
+0000062996
+us-gaap:RevolvingCreditFacilityMember
+mas:A2026CreditAgreementMember
+2026-03-20
+0000062996
+mas:SwingLineLoansMember
+mas:A2026CreditAgreementMember
+2026-03-20
+0000062996
+us-gaap:LetterOfCreditMember
+mas:A2026CreditAgreementMember
+2026-03-20
+0000062996
+us-gaap:LetterOfCreditMember
+mas:A2026CreditAgreementMember
+2026-06-30
+0000062996
+mas:A2026CreditAgreementMember
+2026-03-20
+2026-03-20
+0000062996
+mas:A2026CreditAgreementMember
+2026-06-30
+0000062996
+mas:UnsecuredTermLoanMember
+2026-04-21
+2026-04-21
+0000062996
+mas:UnsecuredTermLoanMember
+2026-04-21
+0000062996
+mas:UnsecuredTermLoanMember
+2026-06-30
+0000062996
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2026-06-30
+0000062996
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2026-06-30
+0000062996
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-12-31
+0000062996
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-12-31
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:PlumbingProductsMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:DecorativeArchitecturalProductsMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+mas:PlumbingProductsMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+mas:DecorativeArchitecturalProductsMember
+2026-04-01
+2026-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+mas:PlumbingProductsMember
+2026-04-01
+2026-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+mas:DecorativeArchitecturalProductsMember
+2026-04-01
+2026-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:MaterialReconcilingItemsMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:PlumbingProductsMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:DecorativeArchitecturalProductsMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+mas:PlumbingProductsMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+mas:DecorativeArchitecturalProductsMember
+2026-01-01
+2026-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+mas:PlumbingProductsMember
+2026-01-01
+2026-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+mas:DecorativeArchitecturalProductsMember
+2026-01-01
+2026-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:MaterialReconcilingItemsMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:PlumbingProductsMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:DecorativeArchitecturalProductsMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+mas:PlumbingProductsMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+mas:DecorativeArchitecturalProductsMember
+2025-04-01
+2025-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+mas:PlumbingProductsMember
+2025-04-01
+2025-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+mas:DecorativeArchitecturalProductsMember
+2025-04-01
+2025-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:MaterialReconcilingItemsMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:PlumbingProductsMember
+2025-01-01
+2025-06-30
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:DecorativeArchitecturalProductsMember
+2025-01-01
+2025-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+mas:PlumbingProductsMember
+2025-01-01
+2025-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+mas:DecorativeArchitecturalProductsMember
+2025-01-01
+2025-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+mas:PlumbingProductsMember
+2025-01-01
+2025-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+mas:DecorativeArchitecturalProductsMember
+2025-01-01
+2025-06-30
+0000062996
+mas:CorporateAndReconcilingItemsMember
+2025-01-01
+2025-06-30
+0000062996
+us-gaap:MaterialReconcilingItemsMember
+2025-01-01
+2025-06-30
+0000062996
+mas:IEEPATariffRefundMember
+2026-04-01
+2026-06-30
+0000062996
+mas:IEEPATariffRefundMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-06-30
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:PlumbingProductsMember
+2026-06-30
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:PlumbingProductsMember
+2025-12-31
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:DecorativeArchitecturalProductsMember
+2026-06-30
+0000062996
+us-gaap:OperatingSegmentsMember
+mas:DecorativeArchitecturalProductsMember
+2025-12-31
+0000062996
+us-gaap:CorporateNonSegmentMember
+2026-06-30
+0000062996
+us-gaap:CorporateNonSegmentMember
+2025-12-31
+0000062996
+us-gaap:EmployeeStockOptionMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:EmployeeStockOptionMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:EmployeeStockOptionMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:EmployeeStockOptionMember
+2025-01-01
+2025-06-30
+0000062996
+us-gaap:RestrictedStockUnitsRSUMember
+2026-04-01
+2026-06-30
+0000062996
+us-gaap:RestrictedStockUnitsRSUMember
+2025-04-01
+2025-06-30
+0000062996
+us-gaap:RestrictedStockUnitsRSUMember
+2026-01-01
+2026-06-30
+0000062996
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-06-30
+0000062996
+mas:PerformanceRestrictedStockUnitsMember
+2026-04-01
+2026-06-30
+0000062996
+mas:PerformanceRestrictedStockUnitsMember
+2025-04-01
+2025-06-30
+0000062996
+mas:PerformanceRestrictedStockUnitsMember
+2026-01-01
+2026-06-30
+0000062996
+mas:PerformanceRestrictedStockUnitsMember
+2025-01-01
+2025-06-30
+0000062996
+2026-02-10
+0000062996
+2026-05-31
+0000062996
+us-gaap:SubsequentEventMember
+2026-07-27
+2026-07-27
+0000062996
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+us-gaap:SubsequentEventMember
+mas:BristanGroupMember
+2026-07-28
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+June 30, 2026
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ___________ to ___________
+Commission file number:
+1-5794
+Masco Corporation
+(Exact name of Registrant as Specified in its Charter)
+Delaware
+38-1794485
+(State or Other Jurisdiction of
+Incorporation or Organization)
+(I.R.S. Employer Identification No.)
+17450 College Parkway,
+Livonia,
+Michigan
+48152
+(Address of Principal Executive Offices)
+(Zip Code)
+(
+313
+)
+274-7400
+(Registrant's telephone number, including area code)
+Securities Registered Pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of Each Exchange
+On Which Registered
+Common Stock, $1.00 par value
+MAS
+New York Stock Exchange
+Indicate by check mark whether the Registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+þ
+No
+o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+þ
+No
+o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☑
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+☐
+No
+þ
+Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date.
+Class
+Shares Outstanding at June 30, 2026
+Common stock, par value $1.00 per share
+197,187,430
+MASCO CORPORATION
+INDEX
+Page
+PART I. FINANCIAL INFORMATION
+Item 1.
+Financial Statements (Unaudited):
+1
+Condensed Consolidated Balance Sheets as of
+J
+une
+3
+0
+, 2026 and December 31, 2025
+1
+Condensed Consolidated Statements of Operations for the Three
+and Six
+Months Ended
+June
+3
+0
+, 2026 and 2025
+2
+Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three
+and Six
+Months Ended
+June
+3
+0
+, 2026 and 2025
+3
+Condensed Consolidated Statements of Cash Flows for the
+Six
+Months Ended
+June
+3
+0
+, 2026 and 2025
+4
+Condensed Consolidated Statements of Shareholders' Equity for the Three
+and Six
+Months Ended
+June
+3
+0
+, 2026 and 2025
+5
+Notes to Condensed Consolidated Financial Statements
+7
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+16
+Item 4.
+Controls and Procedures
+24
+PART II. OTHER INFORMATION
+25
+Item 1.
+Legal Proceedings
+25
+Item 1A.
+Risk Factors
+25
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+25
+Item 5.
+Other Information
+25
+Item 6.
+Exhibits
+26
+Signature
+27
+MASCO CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+June 30, 2026 and December 31, 2025
+(In Millions, Except Share Data)
+June 30, 2026
+December 31, 2025
+ASSETS
+Current assets:
+Cash and cash investments
+$
+548
+$
+647
+Receivables
+1,342
+1,028
+Inventories
+1,060
+1,046
+Prepaid expenses and other
+119
+119
+Total current assets
+3,069
+2,840
+Property and equipment, net
+1,191
+1,195
+Goodwill
+618
+623
+Other intangible assets, net
+194
+205
+Operating lease right-of-use assets
+253
+233
+Other assets
+77
+105
+Total assets
+$
+5,401
+$
+5,201
+LIABILITIES
+Current liabilities:
+Accounts payable
+$
+890
+$
+810
+Notes payable
+2
+2
+Accrued liabilities
+754
+761
+Total current liabilities
+1,646
+1,573
+Long-term debt
+3,245
+2,945
+Noncurrent operating lease liabilities
+246
+221
+Other liabilities
+383
+387
+Total liabilities
+$
+5,519
+$
+5,125
+Commitments and contingencies (Note J)
+EQUITY
+Masco Corporation's shareholders' equity:
+Common shares, par value $
+1
+per share
+Authorized shares:
+1,400,000,000
+;
+Issued and outstanding: 2026 –
+197,200,000
+; 2025 –
+204,300,000
+197
+204
+Preferred shares authorized:
+1,000,000
+;
+Issued and outstanding: 2026 and 2025 –
+None
+—
+—
+Paid-in capital
+6
+—
+Retained deficit
+(
+849
+)
+(
+688
+)
+Accumulated other comprehensive income
+280
+298
+Total Masco Corporation's shareholders' deficit
+(
+365
+)
+(
+185
+)
+Noncontrolling interest
+247
+261
+Total equity
+(
+118
+)
+76
+Total liabilities and equity
+$
+5,401
+$
+5,201
+See notes to condensed consolidated financial statements.
+Amounts may not add due to rounding.
+1
+MASCO CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+For the Three and Six Months Ended June 30, 2026 and 2025
+(In Millions, Except Per Common Share Data)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Net sales
+$
+1,992
+$
+2,051
+$
+3,910
+$
+3,852
+Cost of sales
+1,124
+1,278
+2,356
+2,435
+Gross profit
+868
+772
+1,553
+1,416
+Selling, general and administrative expenses
+397
+361
+766
+719
+Operating profit
+470
+412
+787
+698
+Other income (expense), net:
+Interest expense
+(
+28
+)
+(
+26
+)
+(
+54
+)
+(
+52
+)
+Other, net
+(
+2
+)
+(
+7
+)
+(
+2
+)
+(
+14
+)
+(
+30
+)
+(
+33
+)
+(
+55
+)
+(
+66
+)
+Income before income taxes
+440
+378
+731
+632
+Income tax expense
+107
+95
+170
+150
+Net income
+333
+283
+561
+482
+Less: Net income attributable to noncontrolling interest
+15
+13
+30
+25
+Net income attributable to Masco Corporation
+$
+318
+$
+270
+$
+531
+$
+456
+Income per common share attributable to Masco Corporation:
+Basic:
+Net income
+$
+1.60
+$
+1.29
+$
+2.64
+$
+2.16
+Diluted:
+Net income
+$
+1.60
+$
+1.28
+$
+2.64
+$
+2.15
+See notes to condensed consolidated financial statements.
+Amounts may not add due to rounding.
+2
+MASCO CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) (Unaudited)
+For the Three and Six Months Ended June 30, 2026 and 2025
+(In Millions)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Net income
+$
+333
+$
+283
+$
+561
+$
+482
+Less: Net income attributable to noncontrolling interest
+15
+13
+30
+25
+Net income attributable to Masco Corporation
+$
+318
+$
+270
+$
+531
+$
+456
+Other comprehensive income (loss), net of tax
+Currency translation adjustment
+$
+1
+$
+77
+$
+(
+26
+)
+$
+112
+Pension and other post-retirement benefits
+—
+—
+1
+1
+Other comprehensive income (loss), net of tax
+1
+77
+(
+26
+)
+112
+Less: Other comprehensive (loss) income attributable to noncontrolling interest
+(
+1
+)
+16
+(
+8
+)
+25
+Other comprehensive income (loss) attributable to Masco Corporation
+$
+3
+$
+61
+$
+(
+18
+)
+$
+88
+Total comprehensive income
+$
+335
+$
+360
+$
+536
+$
+594
+Less: Total comprehensive income attributable to noncontrolling interest
+14
+29
+22
+50
+Total comprehensive income attributable to Masco Corporation
+$
+321
+$
+332
+$
+513
+$
+544
+See notes to condensed consolidated financial statements.
+Amounts may not add due to rounding.
+3
+MASCO CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+For the Six Months Ended June 30, 2026 and 2025
+(In Millions)
+Six Months Ended June 30,
+2026
+2025
+CASH FLOWS FROM (FOR) OPERATING ACTIVITIES:
+Cash provided by operations
+$
+705
+$
+606
+Increase in receivables
+(
+327
+)
+(
+271
+)
+Increase in inventories
+(
+22
+)
+(
+133
+)
+Increase (decrease) in accounts payable and accrued liabilities, net
+61
+(
+55
+)
+Net cash from operating activities
+417
+148
+CASH FLOWS FROM (FOR) FINANCING ACTIVITIES:
+Purchase of common stock
+(
+592
+)
+(
+231
+)
+Excise tax paid on the purchase of common stock
+(
+5
+)
+(
+6
+)
+Cash dividends paid
+(
+129
+)
+(
+132
+)
+Dividends paid to noncontrolling interest
+(
+13
+)
+(
+15
+)
+Proceeds from revolving credit borrowings, net
+—
+46
+Proceeds from term loan
+300
+—
+Proceeds from the exercise of stock options
+23
+2
+Employee withholding taxes paid on stock-based compensation
+(
+14
+)
+(
+8
+)
+Payment of debt
+(
+1
+)
+(
+1
+)
+Debt financing costs
+(
+3
+)
+—
+Net cash for financing activities
+(
+433
+)
+(
+344
+)
+CASH FLOWS FROM (FOR) INVESTING ACTIVITIES:
+Capital expenditures
+(
+77
+)
+(
+68
+)
+Other, net
+(
+1
+)
+(
+1
+)
+Net cash for investing activities
+(
+78
+)
+(
+70
+)
+Effect of exchange rate changes on cash and cash investments
+(
+6
+)
+22
+CASH AND CASH INVESTMENTS:
+Decrease for the period
+(
+100
+)
+(
+243
+)
+At January 1
+647
+634
+At June 30
+$
+548
+$
+390
+See notes to condensed consolidated financial statements.
+Amounts may not add due to rounding.
+4
+MASCO CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY (Unaudited)
+For the Three and Six Months Ended June 30, 2026 and 2025
+(In Millions, Except Per Common Share Data)
+Total
+Common Shares
+($
+1
+par value)
+Paid-In Capital
+Retained (Deficit) Earnings
+Accumulated Other Comprehensive Income
+Noncontrolling Interest
+Balance, January 1, 2025
+$
+(
+53
+)
+$
+212
+$
+—
+$
+(
+693
+)
+$
+201
+$
+227
+Total comprehensive income
+234
+—
+—
+186
+27
+21
+Shares issued
+2
+—
+1
+—
+—
+—
+Shares retired:
+Repurchased
+(
+131
+)
+(
+2
+)
+(
+18
+)
+(
+111
+)
+—
+—
+Surrendered (non-cash)
+(
+8
+)
+—
+—
+(
+8
+)
+—
+—
+Cash dividends declared
+(
+66
+)
+—
+—
+(
+66
+)
+—
+—
+Stock-based compensation
+17
+—
+17
+—
+—
+—
+Balance, March 31, 2025
+$
+(
+6
+)
+$
+211
+$
+—
+$
+(
+693
+)
+$
+228
+$
+248
+Total comprehensive income
+360
+—
+—
+270
+61
+29
+Shares retired:
+Repurchased
+(
+102
+)
+(
+2
+)
+(
+5
+)
+(
+95
+)
+—
+—
+Cash dividends declared
+(
+65
+)
+—
+—
+(
+65
+)
+—
+—
+Dividends declared to noncontrolling interest
+(
+42
+)
+—
+—
+—
+—
+(
+42
+)
+Stock-based compensation
+5
+—
+5
+—
+—
+—
+Balance, June 30, 2025
+$
+150
+$
+209
+$
+—
+$
+(
+583
+)
+$
+289
+$
+234
+5
+MASCO CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY (Unaudited) (Concluded)
+For the Three and Six Months Ended June 30, 2026 and 2025
+(In Millions, Except Per Common Share Data)
+Total
+Common Shares
+($
+1
+par value)
+Paid-In Capital
+Retained (Deficit) Earnings
+Accumulated Other Comprehensive Income (Loss)
+Noncontrolling Interest
+Balance, January 1, 2026
+$
+76
+$
+204
+$
+—
+$
+(
+688
+)
+$
+298
+$
+261
+Total comprehensive income (loss)
+201
+—
+—
+213
+(
+21
+)
+8
+Shares issued
+15
+1
+14
+—
+—
+—
+Shares retired:
+Repurchased
+(
+203
+)
+(
+3
+)
+(
+28
+)
+(
+173
+)
+—
+—
+Surrendered (non-cash)
+(
+10
+)
+—
+—
+(
+10
+)
+—
+—
+Cash dividends declared
+(
+65
+)
+—
+—
+(
+65
+)
+—
+—
+Stock-based compensation
+13
+—
+13
+—
+—
+—
+Balance, March 31, 2026
+$
+27
+$
+202
+$
+—
+$
+(
+722
+)
+$
+278
+$
+269
+Total comprehensive income
+335
+—
+—
+318
+3
+14
+Shares issued
+8
+—
+7
+—
+—
+—
+Shares retired:
+Repurchased
+(
+393
+)
+(
+5
+)
+(
+7
+)
+(
+382
+)
+—
+—
+Cash dividends declared
+(
+63
+)
+—
+—
+(
+63
+)
+—
+—
+Dividends declared to noncontrolling interest
+(
+37
+)
+—
+—
+—
+—
+(
+37
+)
+Stock-based compensation
+6
+—
+6
+—
+—
+—
+Balance, June 30, 2026
+$
+(
+118
+)
+$
+197
+$
+6
+$
+(
+849
+)
+$
+280
+$
+247
+See notes to condensed consolidated financial statements.
+Amounts may not add due to rounding.
+6
+MASCO CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)
+A. ACCOUNTING POLICIES
+In our opinion, the accompanying unaudited condensed consolidated financial statements contain all adjustments, of a normal recurring nature, necessary to fairly state our financial position at June 30, 2026, our results of operations and comprehensive income (loss) for the three and six months ended June 30, 2026 and 2025, cash flows for the six months ended June 30, 2026 and 2025 and changes in shareholders' equity for the three and six months ended June 30, 2026 and 2025. The condensed consolidated balance sheet at December 31, 2025 was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States of America. Within the financial statements and tables presented, certain columns and rows may not add due to the use of rounded numbers for disclosure purposes.
+In the first quarter of 2026, the U.S. Supreme Court ruled that tariffs imposed under the International Emergency Economic Powers Act (“IEEPA”) were unlawful. Subsequently, the U.S. Court of International Trade ordered U.S. Customs and Border Protection to refund IEEPA tariffs previously collected. During the second quarter of 2026, we began receiving refunds related to IEEPA tariffs. Additionally, as of June 30, 2026, we have recognized a receivable for tariff refunds not yet paid that are considered to be probable of collection and reasonably estimable.
+In the first quarter of 2026, we began the implementation of an internal reorganization to further streamline our business and optimize operations resulting in the integration of our Liberty Hardware (“Liberty”) business, a distributor of cabinet and other hardware and shower doors, into our Delta Faucet business. Prior to this reorganization Liberty had historically been included in our Decorative Architectural Products segment. As a result of the integration, all segment information herein, including comparable prior periods, include Liberty in our Plumbing Products segment rather than our Decorative Architectural Products segment.
+Recently Adopted Accounting Pronouncements.
+In July 2025, the Financial Accounting Standards Board ("FASB") issued ASU 2025-05, "Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets," which provides a practical expedient that allows entities to assume the current conditions as of the balance sheet date do not change for the remaining life of the asset when estimating expected credit losses for current accounts receivable and current contract assets. We adopted this standard on a prospective basis for interim and annual periods beginning January 1, 2026. The adoption of this guidance did not have a material impact on our financial position and results of operations.
+Recently Issued Accounting Pronouncements
+.    In December 2025, the FASB issued ASU 2025-10, "Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities," which establishes guidance on the recognition, measurement, and presentation of government grants received by business entities. ASU 2025-10 is effective on a modified prospective, modified retrospective, or retrospective basis for interim and annual reporting periods beginning January 1, 2029. Early adoption is permitted. We are currently reviewing the provisions of this standard and the impact, if any, the adoption of this guidance will have on our financial position and results of operations.
+In September 2025, the FASB issued ASU 2025-06, "Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software," which requires that an entity capitalize internal-use software development costs once management has authorized and committed to funding the software project and it is probable that the project will be completed and the software will be used to perform the function intended. ASU 2025-06 is effective on a prospective, modified transition, or retrospective basis for interim and annual reporting periods beginning January 1, 2028. Early adoption is permitted. We are currently reviewing the provisions of this standard and the impact, if any, the adoption of this guidance will have on our financial position and results of operations.
+In November 2024, the FASB issued ASU 2024-03, "Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses," which requires additional disclosure of the nature of expenses included in the income statement. ASU 2024-03 is effective on a prospective or retrospective basis for annual periods beginning January 1, 2027, and interim periods within those annual periods beginning January 1, 2028. Early adoption is permitted. The adoption of this guidance will modify our disclosures, but will not have an impact on our financial position and results of operations.
+7
+MASCO CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) (Continued)
+B. REVENUE
+Our revenues are derived from sales to customers in the following geographic areas: North America and International, which are particularly in Europe. Net sales from these geographic areas, by segment, were as follows, in millions:
+Three Months Ended June 30, 2026
+Plumbing Products
+Decorative Architectural Products
+Total
+Primary geographic areas:
+North America
+$
+898
+$
+655
+$
+1,554
+International
+438
+—
+438
+Total
+$
+1,337
+$
+655
+$
+1,992
+Six Months Ended June 30, 2026
+Plumbing Products
+Decorative Architectural Products
+Total
+Primary geographic areas:
+North America
+$
+1,837
+$
+1,209
+$
+3,047
+International
+863
+—
+863
+Total
+$
+2,700
+$
+1,209
+$
+3,910
+Three Months Ended June 30, 2025
+Plumbing Products
+Decorative Architectural Products
+Total
+Primary geographic areas:
+North America
+$
+959
+$
+679
+$
+1,638
+International
+413
+—
+413
+Total
+$
+1,372
+$
+679
+$
+2,051
+Six Months Ended June 30, 2025
+Plumbing Products
+Decorative Architectural Products
+Total
+Primary geographic areas:
+North America
+$
+1,815
+$
+1,234
+$
+3,049
+International
+802
+—
+802
+Total
+$
+2,618
+$
+1,234
+$
+3,852
+Our contract liability balance was $
+15
+million and $
+57
+million at June 30, 2026 and December 31, 2025, respectively.
+8
+MASCO CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) (Continued)
+B. REVENUE (Concluded)
+Changes in the allowance for credit losses deducted from accounts receivable were as follows, in millions:
+Six Months Ended June 30, 2026
+Twelve Months Ended December 31, 2025
+Balance at January 1
+$
+12
+$
+10
+Provision for expected credit losses during the period
+2
+5
+Write-offs charged against the allowance
+(
+1
+)
+(
+7
+)
+Recoveries of amounts previously written off
+—
+4
+Balance at end of period
+$
+13
+$
+12
+C. INVENTORIES
+The components of inventory were as follows, in millions:
+At June 30, 2026
+At December 31, 2025
+Finished goods
+$
+626
+$
+620
+Raw materials
+324
+322
+Work in process
+110
+104
+Total
+$
+1,060
+$
+1,046
+D. GOODWILL AND OTHER INTANGIBLE ASSETS
+Goodwill at June 30, 2026, by segment, was as follows, in millions:
+Gross Goodwill At June 30, 2026
+Accumulated Impairment Losses
+Net Goodwill At June 30, 2026
+Plumbing Products
+$
+771
+$
+(
+376
+)
+$
+394
+Decorative Architectural Products
+223
+—
+223
+Total
+$
+994
+$
+(
+376
+)
+$
+618
+The changes in the carrying amount of goodwill for the six months ended June 30, 2026, by segment, were as follows, in millions:
+Gross Goodwill At December 31, 2025
+Accumulated Impairment Losses
+Net Goodwill At December 31, 2025
+Foreign Currency Translation
+Net Goodwill At June 30, 2026
+Plumbing Products
+$
+776
+$
+(
+376
+)
+$
+400
+$
+(
+5
+)
+$
+394
+Decorative Architectural Products
+223
+—
+223
+—
+223
+Total
+$
+999
+$
+(
+376
+)
+$
+623
+$
+(
+5
+)
+$
+618
+The carrying value of our other indefinite-lived intangible assets was $
+76
+million and $
+77
+million at June 30, 2026 and December 31, 2025, respectively, and principally included registered trademarks. The carrying value of our definite-lived intangible assets was $
+118
+million (net of accumulated amortization of $
+96
+million) at June 30, 2026 and $
+128
+million (net of accumulated amortization of $
+92
+million) at December 31, 2025, and principally included customer relationships.
+9
+MASCO CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) (Continued)
+E. SUPPLIER FINANCE PROGRAM
+We facilitate a voluntary supply chain finance program (the "program") to provide certain of our suppliers with the opportunity to sell receivables due from us to participating financial institutions at the sole discretion of both the suppliers and the financial institutions. The amounts confirmed as valid under the program were $
+39
+million and $
+26
+million at June 30, 2026 and December 31, 2025, respectively. Of the amounts confirmed as valid under the program, the amounts owed to participating financial institutions were $
+19
+million and $
+17
+million at June 30, 2026 and December 31, 2025, respectively.
+F. DEBT
+On March 20, 2026, we entered into a revolving credit agreement (the “2026 Credit Agreement”) with an aggregate commitment of $
+1.0
+billion and a maturity date of March 20, 2031. At our request (which may not be exercised more than two times), the maturity may be extended for an additional
+one-year
+period, in each case subject to customary terms and conditions, including the consent of lenders holding at least a majority of the commitments and outstanding credit exposure under the 2026 Credit Agreement at the time. In addition, we may, at our option, request an increase in the aggregate commitment under the 2026 Credit Agreement of up to $
+500
+million, subject to customary terms and conditions. Upon entry into the 2026 Credit Agreement, our credit agreement dated April 26, 2022, with an aggregate commitment of $
+1.0
+billion, was terminated.
+The 2026 Credit Agreement provides for an unsecured revolving credit facility available to us and one of our foreign subsidiaries in U.S. dollars, European euros, British pounds sterling, Canadian dollars and certain other currencies for revolving credit loans, swingline loans and letters of credit. Borrowings under the revolving credit loans denominated in any agreed upon currency other than U.S. dollars are limited to the equivalent of $
+500
+million. We can also borrow swingline loans up to $
+120
+million and obtain letters of credit of up to $
+25
+million. Outstanding letters of credit under the 2026 Credit Agreement reduce our borrowing capacity and we had
+no
+outstanding letters of credit under the 2026 Credit Agreement at June 30, 2026.
+Revolving credit loans denominated in U.S. dollars bear interest under the 2026 Credit Agreement, at our option, at a rate per annum equal to (A) a U.S. dollar base rate or (B) the adjusted term SOFR rate, in each case, plus an applicable margin based upon our then-applicable corporate credit ratings. Foreign currency revolving credit loans bear interest at a rate per annum equal to the applicable floating reference rate for loans denominated in the relevant foreign currency plus an applicable margin based upon our then-applicable corporate credit ratings. The various benchmarks are subject to applicable floors.
+The 2026 Credit Agreement contains financial covenants requiring us to maintain (A) a net leverage ratio, as adjusted for certain items, not exceeding
+4.0
+to 1.0, and (B) an interest coverage ratio, as adjusted for certain items, not less than
+2.5
+to 1.0.
+In order for us to borrow under the 2026 Credit Agreement, there must not be any default in our covenants in the 2026 Credit Agreement (i.e., in addition to the two financial covenants described above, principally limitations on subsidiary debt, negative pledge restrictions, and requirements relating to legal compliance, maintenance of our properties and insurance) and our representations and warranties in the 2026 Credit Agreement must be true in all material respects on the date of borrowing (i.e., principally no material adverse change or litigation likely to result in a material adverse change, since December 31, 2025, no material ERISA or environmental non-compliance, and no material tax deficiency). We were in compliance with all covenants and
+no
+borrowings were outstanding at June 30, 2026.
+On April 21, 2026, we entered into a
+two year
+, up to $
+500
+million senior unsecured delayed draw term loan due April 21, 2028 with a syndicate of lenders. The senior unsecured delayed draw term loan and commitments thereunder are subject to prepayment at our option and the loans will bear interest, at our option, at a rate per annum equal to (A) a U.S. dollar base rate, (B) the adjusted term SOFR rate, or (C) the adjusted daily simple SOFR rate, in each case, plus an applicable margin based upon our then-applicable corporate credit ratings. The various benchmarks are subject to applicable floors. The covenants are substantially the same as those in the 2026 Credit Agreement. We were in compliance with all covenants and $
+300
+million was borrowed and outstanding at a weighted average interest rate of
+4.499
+% at June 30, 2026.
+10
+MASCO CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) (Continued)
+F. DEBT (Concluded)
+Fair Value of Debt.
+The fair value of our short-term and long-term fixed-rate debt instruments is based principally upon modeled market prices for the same or similar issues, which are Level 1 inputs. The term loan has an interest rate that resets monthly and the fair value of this instrument approximates the carrying value at June 30, 2026. The aggregate estimated market value of our short-term and long-term debt at June 30, 2026 was approximately $
+3.0
+billion, compared with the aggregate carrying value of $
+3.3
+billion. The aggregate estimated market value of our short-term and long-term debt at December 31, 2025 was approximately $
+2.7
+billion, compared with the aggregate carrying value of $
+3.0
+billion.
+G. SEGMENT INFORMATION
+Our
+reportable segments
+are as follows:
+Plumbing Products –
+principally includes faucets, plumbing system components and valves, showerheads and handheld showers, bath hardware and accessories, bathing units, tubs and shower bases, enclosures and doors, shower drains, steam shower systems, water filtration systems, sinks, kitchen accessories, cabinet and other hardware, spas, exercise pools, aquatic fitness systems, and saunas.
+Decorative Architectural Products –
+principally includes paints and other coating products, paint applications and accessories.
+Information by segment was as follows, in millions:
+Three Months Ended June 30, 2026
+Plumbing Products
+Decorative Architectural Products
+Total
+Net sales
+(A)
+$
+1,337
+$
+655
+$
+1,992
+Operating expenses
+(B)
+971
+503
+Corporate expenses
+(C)
+13
+6
+Segment operating profit
+$
+352
+$
+147
+$
+499
+General corporate expense, net
+(C)
+(
+29
+)
+Operating profit
+(D)
+470
+Other income (expense), net
+(
+30
+)
+Income before income taxes
+$
+440
+Six Months Ended June 30, 2026
+Plumbing Products
+Decorative Architectural Products
+Total
+Net sales
+(A)
+$
+2,700
+$
+1,209
+$
+3,910
+Operating expenses
+(B)
+2,078
+946
+Corporate expenses
+(C)
+26
+12
+Segment operating profit
+$
+595
+$
+251
+$
+847
+General corporate expense, net
+(C)
+(
+60
+)
+Operating profit
+(D)
+787
+Other income (expense), net
+(
+55
+)
+Income before income taxes
+$
+731
+11
+MASCO CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) (Continued)
+G. SEGMENT INFORMATION (Continued)
+Three Months Ended June 30, 2025
+Plumbing Products
+Decorative Architectural Products
+Total
+Net sales
+(A)
+$
+1,372
+$
+679
+$
+2,051
+Operating expenses
+(B)
+1,079
+527
+Corporate expenses
+(C)
+8
+5
+Segment operating profit
+$
+285
+$
+147
+$
+432
+General corporate expense, net
+(C)
+(
+20
+)
+Operating profit
+412
+Other income (expense), net
+(
+33
+)
+Income before income taxes
+$
+378
+Six Months Ended June 30, 2025
+Plumbing Products
+Decorative Architectural Products
+Total
+Net sales
+(A)
+$
+2,618
+$
+1,234
+$
+3,852
+Operating expenses
+(B)
+2,089
+988
+Corporate expenses
+(C)
+19
+11
+Segment operating profit
+$
+509
+$
+236
+$
+745
+General corporate expense, net
+(C)
+(
+47
+)
+Operating profit
+698
+Other income (expense), net
+(
+66
+)
+Income before income taxes
+$
+632
+(A)
+Intra-company sales between segments were not material and have been excluded from net sales.
+(B)
+Operating expenses included cost of sales and selling, general and administrative expenses.
+(C)
+Corporate expenses included specific corporate overhead allocated to each segment. General corporate expense, net included those expenses not specifically attributable to our segments.
+(D)
+Operating profit included the net tariff benefit from IEEPA tariff refunds of approximately $
+95
+million for the three and six months ended June 30, 2026, principally in the Plumbing Products segment.
+Property Additions
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Plumbing Products
+$
+36
+$
+27
+$
+60
+$
+55
+Decorative Architectural Products
+6
+8
+16
+13
+Corporate
+1
+1
+2
+1
+Total
+$
+43
+$
+36
+$
+77
+$
+68
+12
+MASCO CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) (Continued)
+G. SEGMENT INFORMATION (Concluded)
+Depreciation and Amortization
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Plumbing Products
+$
+30
+$
+27
+$
+59
+$
+54
+Decorative Architectural Products
+7
+7
+14
+13
+Corporate
+1
+2
+2
+4
+Total
+$
+38
+$
+36
+$
+75
+$
+71
+Assets
+At June 30, 2026
+At December 31, 2025
+Plumbing Products
+$
+3,625
+$
+3,489
+Decorative Architectural Products
+1,440
+1,248
+Corporate
+337
+463
+Total
+$
+5,401
+$
+5,201
+H. INCOME TAXES
+Our effective tax rate was
+24.3
+percent and
+25.1
+percent for the three months ended June 30, 2026 and 2025, respectively, and was
+23.3
+percent and
+23.7
+percent for the six months ended June 30, 2026 and 2025, respectively.
+I. INCOME PER COMMON SHARE
+Reconciliations of the numerators and denominators used in the computations of basic and diluted income per common share were as follows, in millions:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Numerator (basic and diluted):
+Net income
+$
+318
+$
+270
+$
+531
+$
+456
+Less: Allocation to participating securities
+1
+—
+—
+—
+Net income attributable to common shareholders
+$
+317
+$
+270
+$
+531
+$
+456
+Denominator:
+Basic common shares (based upon weighted average)
+199
+210
+201
+211
+Add: Dilutive effect of stock options and other stock-based incentives
+—
+—
+—
+—
+Diluted common shares
+199
+211
+201
+212
+For the three and six months ended June 30, 2026, we allocated dividends and undistributed earnings to the forward contract associated with the accelerated share repurchase transaction, which is considered a participating security, using the two-class method. For the three and six months ended June 30, 2025, basic and diluted income per common share were calculated using the treasury stock method.
+13
+MASCO CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) (Continued)
+I. INCOME PER COMMON SHARE (Concluded)
+The following stock options, restricted stock units and performance restricted stock units were excluded from the computation of weighted-average diluted common shares outstanding due to their anti-dilutive effect, in thousands:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Number of stock options
+510
+403
+476
+355
+Number of restricted stock units
+187
+295
+232
+120
+Number of performance restricted stock units
+41
+47
+41
+47
+Effective February 10, 2026, our Board of Directors authorized the repurchase, for retirement, of up to $
+2.0
+billion of shares of our common stock, exclusive of excise tax, in open-market transactions or otherwise, replacing the previous Board of Directors authorization established in 2022. In May 2026, we entered into an accelerated share repurchase transaction whereby we agreed to repurchase a total of $
+300
+million of our common stock with an initial delivery of approximately
+3.3
+million shares. This transaction was completed on July 27, 2026, at which time we received, at no additional cost, approximately
+0.8
+million additional shares of our common stock based on the volume weighted average stock price of our common stock over the term of the transaction, less a discount. In total, excluding the incremental shares we received in July 2026 from the accelerated share repurchase transaction, we repurchased and retired approximately
+7.8
+million shares of our common stock in the six months ended June 30, 2026, for approximately $
+596
+million, inclusive of excise tax of $
+5
+million. This included
+0.4
+million shares to offset the dilutive impact of restricted stock units granted in the six months ended June 30, 2026. At June 30, 2026, we had approximately $
+1.5
+billion remaining under the 2026 authorization.
+We have declared and paid cash dividends per common share of $
+0.32
+and $
+0.64
+for the three and six months ended June 30, 2026, respectively, and $
+0.31
+and $
+0.62
+for the three and six months ended June 30, 2025, respectively.
+J. OTHER COMMITMENTS AND CONTINGENCIES
+Litigation.
+We are involved in claims and litigation, including class actions, mass torts and regulatory proceedings, which arise in the ordinary course of our business. The types of matters may include, among others: advertising, competition, contract, data privacy, employment, environmental, insurance coverage, intellectual property, personal injury, product compliance, product liability, securities and warranty. We are also subject to product safety regulations, product recalls and direct claims for product liabilities. We believe the likelihood that the outcome of these claims, litigation and product safety matters would have a material adverse effect on us is remote. However, there is no assurance that we will prevail in these matters, and we could, in the future, incur judgments or penalties, enter into settlements of claims or revise our expectations regarding the outcome of these matters, which could materially impact our results of operations.
+Warranty.
+Changes in our warranty liability were as follows, in millions:
+Six Months Ended June 30, 2026
+Twelve Months Ended December 31, 2025
+Balance at January 1
+$
+88
+$
+81
+Accruals for warranties issued during the period
+18
+35
+Accruals related to pre-existing warranties
+6
+11
+Settlements made (in cash or kind) during the period
+(
+18
+)
+(
+41
+)
+Other, net (including currency translation)
+(
+1
+)
+2
+Balance at end of period
+$
+94
+$
+88
+14
+MASCO CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) (Concluded)
+K. SUBSEQUENT EVENT
+On July 28, 2026, we completed the divestiture of our Bristan Group business, a United Kingdom-based provider of bathroom, kitchen, and shower faucets, shower enclosures, and other products for a purchase price of £
+49
+million ($
+65
+million), net of cash disposed, subject to customary closing adjustments, and up to an additional £
+6
+million ($
+8
+million) if certain performance measures are achieved by year ended December 31, 2026. The sale of Bristan Group did not represent a strategic shift that will have a major effect on our operations and financial results and, therefore, will not be presented as discontinued operations. Prior to the divestiture, the results of the business were included in our Plumbing Products segment.
+15
+MASCO CORPORATION
+Item 2.
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Overview
+Due to a dynamic geopolitical and macroeconomic environment, we are experiencing, and may continue to experience, lower market demand for our products. We have been experiencing, and may continue to experience, elevated commodity and other input costs, as well as employee-related cost inflation. Additionally, we have been experiencing, and may continue to experience, elevated costs, principally in our Plumbing Products segment, due to tariffs, particularly those related to China. We seek to mitigate the impact of elevated tariffs and other costs over time with pricing, cost savings initiatives, sourcing changes, and other activities. Consumer demand for our products, however, could further diminish if consumer confidence erodes and the price of our products and other consumer goods increases.
+In the first quarter of 2026, the U.S. Supreme Court ruled that tariffs imposed under the International Emergency Economic Powers Act (“IEEPA”) were unlawful. Subsequently, the U.S. Court of International Trade ordered U.S. Customs and Border Protection to refund IEEPA tariffs previously collected. During the second quarter of 2026, we began receiving refunds related to IEEPA tariffs. Additionally, as of June 30, 2026, we have recognized a receivable for tariff refunds not yet paid that are considered to be probable of collection and reasonably estimable.
+We plan to deliver above-market top- and bottom-line growth through a consumer driven strategy leveraging our industry-leading brands, expanded commercial capabilities, and enhanced operational excellence.  We remain confident in the fundamentals of our business and long-term strategy. We believe that our strong financial position and cash flow generation, together with our investments in our industry-leading branded building products, our continued focus on innovation and customer service and disciplined capital allocation, will allow us to drive long-term growth and create value for our shareholders.
+From time to time, we take actions to drive efficiency in our business through the strategic rationalization of our businesses, including business consolidations, plant closures, headcount reductions and other cost savings initiatives. In the fourth quarter of 2025, we began implementing various restructuring actions to further streamline our business, reduce headcount, and optimize operations. In connection with these actions, we incurred approximately $12 million and $20 million in charges in the three and six months ended June 30, 2026, respectively, and we expect to incur approximately $50 million in charges during the full year of 2026. Additionally, in the first quarter of 2026, we began the implementation of an internal reorganization resulting in the integration of our Liberty Hardware (“Liberty”) business, a distributor of cabinet and other hardware and shower doors, into our Delta Faucet business. As a result of the integration, all segment information herein, including comparable prior periods, include Liberty in our Plumbing Products segment rather than our Decorative Architectural Products segment.
+SECOND QUARTER 2026 AND THE FIRST SIX MONTHS 2026 VERSUS
+SECOND QUARTER 2025 AND THE FIRST SIX MONTHS 2025
+Consolidated Results of Operations
+We report our financial results in accordance with accounting principles generally accepted in the United States of America ("GAAP"). However, we believe that certain non-GAAP financial measures used in managing the business may provide users of this financial information with additional meaningful comparisons between current results and results in prior periods. These non-GAAP financial measures should be considered in addition to, and not as an alternative for or superior to, the comparable GAAP measure, and may not be comparable to similarly titled measures reported by other companies. Within the tables presented, certain columns and rows may not add due to the use of rounded numbers for disclosure purposes.
+The following discussion of consolidated results of operations refers to the three and six months ended June 30, 2026 compared to the same periods of 2025.
+16
+NET SALES
+Below is a summary of our net sales, in millions, for the three and six months ended June 30, 2026 and 2025:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+Change
+2026
+2025
+Change
+Net sales, as reported
+$
+1,992
+$
+2,051
+(3)
+%
+$
+3,910
+$
+3,852
+2
+%
+Currency translation
+(10)
+—
+(52)
+—
+Net sales, excluding the effect of currency translation
+$
+1,982
+$
+2,051
+(3)
+%
+$
+3,858
+$
+3,852
+—
+%
+Our net sales for the three months ended June 30, 2026, were $1,992 million, which decreased three percent compared to the three months ended June 30, 2025. Excluding the effect of currency translation, net sales decreased three percent, primarily due to lower North America sales volume, which decreased sales by five percent, partially offset by higher net selling prices across the entire company, which increased sales by one percent, and higher International sales volume, which increased sales by one percent.
+Our net sales for the six months ended June 30, 2026, were $3,910 million, which increased two percent compared to the six months ended June 30, 2025. Excluding the effect of currency translation, net sales were consistent with the comparative prior period, primarily due to higher net selling prices across the entire company, which increased sales by three percent, offset by lower North America sales volume, which decreased sales by three percent.
+RESULTS OF OPERATIONS
+Below is a summary of our results of operations for the three and six months ended June 30, 2026 and 2025:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+Favorable / (Unfavorable)
+2026
+2025
+Favorable / (Unfavorable)
+Net sales
+$
+1,992
+$
+2,051
+(3)
+%
+$
+3,910
+$
+3,852
+2
+%
+Cost of sales
+(1,124)
+(1,278)
+12
+%
+(2,356)
+(2,435)
+3
+%
+Gross profit
+$
+868
+$
+772
+12
+%
+$
+1,553
+$
+1,416
+10
+%
+Gross margin
+43.6
+%
+37.6
+%
+600 bps
+39.7
+%
+36.8
+%
+290 bps
+Selling, general and administrative expenses
+$
+(397)
+$
+(361)
+(10)
+%
+$
+(766)
+$
+(719)
+(7)
+%
+Selling, general and administrative expenses as a percent of net sales
+(19.9)
+%
+(17.6)
+%
+(230) bps
+(19.6)
+%
+(18.7)
+%
+(90) bps
+Operating profit
+$
+470
+$
+412
+14
+%
+$
+787
+$
+698
+13
+%
+Operating profit margin
+23.6
+%
+20.1
+%
+350 bps
+20.1
+%
+18.1
+%
+200 bps
+17
+Three Months Ended June 30, 2026
+Our gross profit for the three months ended June 30, 2026, was $868 million, an increase of 12 percent, and was positively impacted by lower tariff costs (inclusive of IEEPA tariff refunds), cost savings initiatives, and three percent due to higher net selling prices, partially offset by five percent due to lower sales volume, as well as higher commodity costs, an increase in other expenses, and unfavorable sales mix.
+Our selling, general and administrative expenses for the three months ended June 30, 2026, were $397 million, an increase of 10 percent, and were negatively impacted by six percent due to increased employee-related costs and one percent due to increased legal and professional fees, as well as an increase in other expenses.
+Our operating profit for the three months ended June 30, 2026, was $470 million, an increase of 14 percent, and was positively impacted by increased gross profit, partially offset by higher selling, general and administrative expenses. These results were inclusive of the net tariff benefit from IEEPA tariff refunds of approximately $95 million for the three months ended June 30, 2026, principally within the Plumbing Products segment.
+Six Months Ended June 30, 2026
+Our gross profit for the six months ended June 30, 2026, was $1,553 million, an increase of 10 percent, and was positively impacted by eight percent due to higher net selling prices, as well as lower tariff costs (inclusive of IEEPA tariff refunds) and cost savings initiatives, partially offset by three percent due to lower sales volume, as well as higher commodity costs, an increase in other expenses, and unfavorable sales mix.
+Our selling, general and administrative expenses for the six months ended June 30, 2026, were $766 million, an increase of seven percent, and were negatively impacted by two percent due to increased employee-related costs, two percent due to unfavorable foreign currency translation, one percent due to increased legal and professional fees, as well as an increase in other expenses.
+Our operating profit for the six months ended June 30, 2026, was $787 million, an increase of 13 percent, and was positively impacted by increased gross profit, partially offset by higher selling, general and administrative expenses. These results were inclusive of the net tariff benefit from IEEPA tariff refunds of approximately $95 million for the six months ended June 30, 2026, principally within the Plumbing Products segment.
+OTHER INCOME (EXPENSE), NET
+Below is a summary of our other income (expense), net, in millions, for the three and six months ended June 30, 2026 and 2025:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+Favorable / (Unfavorable)
+2026
+2025
+Favorable / (Unfavorable)
+Interest expense
+$
+(28)
+$
+(26)
+(8)
+%
+$
+(54)
+$
+(52)
+(4)
+%
+Other, net
+(2)
+(7)
+71
+%
+(2)
+(14)
+86
+%
+Other income (expense), net
+$
+(30)
+$
+(33)
+9
+%
+$
+(55)
+$
+(66)
+17
+%
+18
+INCOME TAXES
+Below is a summary of our income tax expense, in millions, and our effective tax rate for the three and six months ended June 30, 2026 and 2025:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+Favorable / (Unfavorable)
+2026
+2025
+Favorable / (Unfavorable)
+Income tax expense
+$
+(107)
+$
+(95)
+(13)%
+$
+(170)
+$
+(150)
+(13)%
+Effective tax rate
+(24.3)
+%
+(25.1)
+%
+80 bps
+(23.3)
+%
+(23.7)
+%
+40 bps
+NET INCOME AND INCOME PER COMMON SHARE - ATTRIBUTABLE TO MASCO CORPORATION
+Below is a summary of our net income, in millions, and diluted income per common share for the three and six months ended June 30, 2026 and 2025:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+Favorable / (Unfavorable)
+2026
+2025
+Favorable / (Unfavorable)
+Net income
+$
+318
+$
+270
+18
+%
+$
+531
+$
+456
+16
+%
+Diluted income per common share
+$
+1.60
+$
+1.28
+25
+%
+$
+2.64
+$
+2.15
+23
+%
+Business Segment Results
+The following tables set forth our net sales and operating profit information by business segment, dollars in millions.
+Three Months Ended June 30,
+Percent Change
+Six Months Ended June 30,
+Percent Change
+2026
+2025
+2026 vs. 2025
+2026
+2025
+2026 vs. 2025
+Net Sales:
+Plumbing Products
+$
+1,337
+$
+1,372
+(3)
+%
+$
+2,700
+$
+2,618
+3
+%
+Decorative Architectural Products
+655
+679
+(4)
+%
+1,209
+1,234
+(2)
+%
+Total
+$
+1,992
+$
+2,051
+(3)
+%
+$
+3,910
+$
+3,852
+2
+%
+Three Months Ended June 30,
+Percent Change
+Six Months Ended June 30,
+Percent Change
+2026
+2025
+2026 vs. 2025
+2026
+2025
+2026 vs. 2025
+Operating Profit:
+Plumbing Products
+$
+352
+$
+285
+24
+%
+$
+595
+$
+509
+17
+%
+Decorative Architectural Products
+147
+147
+—
+%
+251
+236
+6
+%
+Total
+$
+499
+$
+432
+16
+%
+$
+847
+$
+745
+14
+%
+General corporate expense, net
+(29)
+(20)
+45
+%
+(60)
+(47)
+28
+%
+Total operating profit
+$
+470
+$
+412
+14
+%
+$
+787
+$
+698
+13
+%
+19
+The following discussion of business segment results refers to the three and six months ended June 30, 2026, compared to the same periods of 2025. Changes in operating profit in the following business segment results discussion exclude general corporate expense, net.
+BUSINESS SEGMENT RESULTS DISCUSSION
+Plumbing Products
+Sales
+Net sales in the Plumbing Products segment decreased three percent for the three months ended June 30, 2026, and net sales increased three percent for the six months ended June 30, 2026. In local currencies (including sales in currencies outside their respective functional currencies), net sales decreased three percent for the three months ended June 30, 2026, and increased one percent for the six months ended June 30, 2026. For the three months ended June 30, 2026, net sales decreased four percent due to lower North America sales volume, partially offset by one percent due to higher International sales volume and slightly higher net selling prices. For the six months ended June 30, 2026, net sales increased three percent due to higher net selling prices, partially offset by two percent due to lower North America sales volume.
+Operating Results
+Operating profit in the Plumbing Products segment for the three and six months ended June 30, 2026, was positively impacted by lower tariff costs (inclusive of IEEPA tariff refunds), cost savings initiatives, and higher net selling prices, partially offset by lower sales volume, higher commodity costs, unfavorable sales mix, increased employee-related costs, and an increase in other expenses.
+Decorative Architectural Products
+Sales
+Net sales in the Decorative Architectural Products segment decreased four percent and two percent for the three and six months ended June 30, 2026, respectively, primarily due to lower sales volume, partially offset by higher net selling prices.
+Operating Results
+Operating profit in the Decorative Architectural Products segment for the three and six months ended June 30, 2026, was positively impacted by higher net selling prices and cost savings initiatives, offset by lower sales volume and higher commodity costs.
+Liquidity and Capital Resources
+Overview of Capital Structure
+We had cash and cash investments of approximately $548 million and $647 million at June 30, 2026 and December 31, 2025, respectively. Our cash and cash investments consist of overnight interest bearing money market demand accounts and money market mutual funds containing government securities and treasury obligations. While we attempt to diversify these investments in a prudent manner to minimize risk, it is possible that future changes in the financial markets could affect the security or availability of these investments. Of the cash and cash investments we held at June 30, 2026 and December 31, 2025, $316 million and $306 million, respectively, was held in our foreign subsidiaries. If these funds were needed for our operations in the U.S., their repatriation into the U.S. would not result in significant additional U.S. income tax or foreign withholding tax, as we have recorded such taxes on substantially all undistributed foreign earnings, except for those that are legally restricted.
+20
+We believe that our present cash balance and cash flows from operations, and borrowing availability under our revolving credit agreement, are sufficient to fund our near-term working capital and other investment needs. We believe that our longer-term working capital and other general corporate requirements will be satisfied through cash flows from operations and, to the extent necessary, from bank borrowings and future financial market activities. However, due to the changing market conditions and its impact on our customers and suppliers, we are unable to fully estimate the extent of the impact that the changing market conditions may have on our future financial condition.
+Credit Agreement
+On March 20, 2026, we entered into a revolving credit agreement (the “2026 Credit Agreement”) with an aggregate commitment of $1.0 billion and a maturity date of March 20, 2031. At our request (which may not be exercised more than two times), the maturity may be extended for an additional one-year period, in each case subject to customary terms and conditions, including the consent of lenders holding at least a majority of the commitments and outstanding credit exposure under the 2026 Credit Agreement at the time. Upon entry into the 2026 Credit Agreement, our credit agreement dated April 26, 2022, with an aggregate commitment of $1.0 billion, was terminated.
+Under the 2026 Credit Agreement, we may, at our option, request an increase in the aggregate commitment under the 2026 Credit Agreement of up to $500 million, subject to customary terms and conditions. See Note F to the condensed consolidated financial statements for additional information.
+The 2026 Credit Agreement contains financial covenants requiring us to maintain (A) a net leverage ratio, as adjusted for certain items, not exceeding 4.0 to 1.0, and (B) an interest coverage ratio, as adjusted for certain items, not less than 2.5 to 1.0. We were in compliance with all covenants and no borrowings were outstanding at June 30, 2026.
+Term Loan
+On April 21, 2026, we entered into a two year, up to $500 million senior unsecured delayed draw term loan due April 21, 2028 with a syndicate of lenders. The senior unsecured delayed draw term loan and commitments thereunder are subject to prepayment at our option and the loans will bear interest, at our option, at a rate per annum equal to (A) a U.S. dollar base rate, (B) the adjusted term SOFR rate, or (C) the adjusted daily simple SOFR rate, in each case, plus an applicable margin based upon our then-applicable corporate credit ratings. The various benchmarks are subject to applicable floors. The covenants are substantially the same as those in the 2026 Credit Agreement. We were in compliance with all covenants and $300 million was borrowed and outstanding at a weighted average interest rate of 4.499% at June 30, 2026. The borrowed funds were utilized to repurchase shares of our common stock.
+Other Liquidity and Capital Resource Activities
+As part of our ongoing efforts to improve our cash flow and related liquidity, we work with suppliers to optimize our terms and conditions, including extending payment terms. We also facilitate a voluntary supply chain finance program (the "program") to provide certain of our suppliers with the opportunity to sell receivables due from us to participating financial institutions at the sole discretion of both the suppliers and the financial institutions. The amounts confirmed as valid under the program and included in accounts payable were $39 million and $26 million at June 30, 2026 and December 31, 2025, respectively. Of the amounts confirmed as valid under the program, the amounts owed to participating financial institutions were $19 million and $17 million at June 30, 2026 and December 31, 2025, respectively. All payments made under the program are recorded as a decrease in accounts payable and accrued liabilities, net, in our condensed consolidated statements of cash flows. A downgrade in our credit rating or changes in the financial markets could limit the financial institutions’ willingness to commit funds to, and participate in, the program. We do not believe such risk would have a material impact on our working capital or cash flows, as substantially all of our payments are made outside of the program.
+21
+Share Repurchases
+Effective February 10, 2026, our Board of Directors authorized the repurchase, for retirement, of up to $2.0 billion of shares of our common stock, exclusive of excise tax, in open-market transactions or otherwise, replacing the previous Board of Directors authorization established in 2022. In May 2026, we entered into an accelerated share repurchase transaction whereby we agreed to repurchase a total of $300 million of our common stock with an initial delivery of approximately 3.3 million shares. This transaction was completed on July 27, 2026, at which time we received, at no additional cost, approximately 0.8 million additional shares of our common stock based on the volume weighted average stock price of our common stock over the term of the transaction, less a discount. In total, excluding the incremental shares we received in July 2026 from the accelerated share repurchase transaction, we repurchased and retired approximately 7.8 million shares of our common stock in the six months ended June 30, 2026 for approximately $596 million, inclusive of excise tax of $5 million. This included 0.4 million shares to offset the dilutive impact of restricted stock units granted in the six months ended June 30, 2026. At June 30, 2026, we had approximately $1.5 billion remaining under the 2026 authorization. Consistent with our long-term capital allocation strategy, outside of any potential acquisitions, we currently anticipate using approximately $1.0 billion of cash, including funds available under the term loan, for share repurchases in 2026.
+Cash Flows
+For the six months ended June 30, 2026, net cash provided by operations was $417 million, primarily driven by operating profit, inclusive of the net tariff benefit from IEEPA tariff refunds, partially offset by changes in working capital.
+For the six months ended June 30, 2026, net cash used for financing activities was $433 million, primarily due to $592 million for the repurchase and retirement of our common stock and $129 million for the payment of cash dividends, partially offset by $300 million of proceeds from the term loan.
+For the six months ended June 30, 2026, net cash used for investing activities was $78 million, primarily driven by $77 million of capital expenditures.
+22
+Cautionary Statement Concerning Forward-Looking Statements
+This Report contains statements that reflect our views about our future performance and constitute "forward-looking statements" under the Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by words such as "outlook," "believe," "anticipate," "appear," "may," "will," "should," "intend," "plan," "estimate," "expect," "assume," "seek," "forecast," and similar references to future periods. Our views about future performance involve risks and uncertainties that are difficult to predict and, accordingly, our actual results may differ materially from the results discussed in our forward-looking statements. We caution you against relying on any of these forward-looking statements.
+Our future performance may be affected by the levels of residential repair and remodel activity, and to a lesser extent, new home construction, our ability to maintain our strong brands, to develop innovative products and respond to changing consumer purchasing practices and preferences, our ability to maintain our public image and reputation, our ability to maintain our competitive position in our industries, our reliance on key customers, the cost and availability of materials, our dependence on suppliers and service providers, extreme weather events and changes in climate, risks associated with our international operations and global strategies, the impact on demand, pricing and product costs resulting from tariffs, our ability to achieve the anticipated benefits of our strategic initiatives, our ability to successfully execute our acquisition strategy and integrate businesses that we have acquired and may in the future acquire, our ability to attract, develop and retain a talented workforce, risks associated with cybersecurity vulnerabilities, threats and attacks and risks associated with our reliance on information systems and technology.
+These and other factors are discussed in detail in Item 1A. "Risk Factors" in our most recent Annual Report on Form 10-K, as well as in other filings we make with the Securities and Exchange Commission. Any forward-looking statement made by us speaks only as of the date on which it was made. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible for us to predict all of them. Unless required by law, we undertake no obligation to update publicly any forward-looking statements as a result of new information, future events or otherwise.
+23
+MASCO CORPORATION
+Item 4.
+CONTROLS AND PROCEDURES
+a.
+Evaluation of Disclosure Controls and Procedures.
+The Company's Principal Executive Officer and Principal Financial Officer have concluded, based on an evaluation of the Company's disclosure controls and procedures (as defined in the Securities Exchange Act of 1934 Rules 13a-15(e) or 15d-15(e)) as required by paragraph (b) of Exchange Act Rules 13a-15 or 15d-15 that, as of June 30, 2026, the Company's disclosure controls and procedures were effective.
+b.    Changes in Internal Control over Financial Reporting.
+In connection with the evaluation of the Company's internal control over financial reporting that occurred during the quarter ended June 30, 2026, which is required under the Securities Exchange Act of 1934 by paragraph (d) of Exchange Rules 13a-15 or 15d-15 (as defined in paragraph (f) of Rule 13a-15), management determined that there was no change that materially affected or is reasonably likely to materially affect internal control over financial reporting.
+24
+MASCO CORPORATION
+PART II.  OTHER INFORMATION
+Item 1
+.
+Legal Proceedings
+Information regarding legal proceedings involving us is set forth in Note J to our condensed consolidated financial statements included in Part I, Item 1 of this Report and is incorporated herein by reference.
+Item 1A
+.
+Risk Factors
+There have been no material changes to the risk factors of the Company set forth in Item 1A, “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2025.
+Item 2
+.
+Unregistered Sales of Equity Securities and Use of Proceeds
+The following table provides information regarding the repurchase of our common stock for the three months ended June 30, 2026 under the 2026 share repurchase authorization:
+Period
+Total Number Of Shares Purchased
+Average Price Paid Per Common Share
+Total Number Of Shares Purchased As Part Of Publicly Announced Plans or Programs
+Maximum Value Of Shares That May Yet Be Purchased Under The Plans Or Programs
+4/1/26 - 4/30/26
+1,113,062
+$
+62.90
+1,113,062
+$
+1,790,968,944
+5/1/26 - 5/31/26
+Open market purchases
+282,359
+$
+70.84
+282,359
+$
+1,770,966,258
+Accelerated share repurchases
+(A)
+3,335,649
+(A)
+3,335,649
+$
+1,470,816,258
+6/1/26 - 6/30/26
+—
+$
+—
+—
+$
+1,470,816,258
+Total for the quarter
+4,731,070
+4,731,070
+$
+1,470,816,258
+(A)
+In May 2026, we entered into an accelerated share repurchase transaction whereby we agreed to repurchase a total of $300 million of our common stock with an initial delivery of approximately 3.3 million shares. This transaction was completed on July 27, 2026, at which time we received, at no additional cost, approximately 0.8 million additional shares of our common stock based on the volume weighted average stock price of our common stock over the term of the transaction, less a discount.
+Item 5
+.
+Other Information
+Rule 10b5-1 and Non-Rule 10b5-1 Trading Arrangements
+During the three months ended June 30, 2026, none of our officers or directors
+adopted
+or
+terminated
+any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement.
+25
+MASCO CORPORATION
+PART II.  OTHER INFORMATION, Continued
+Item 6.
+Exhibits
+10
+Severance and Release Agreement dated April 16, 2026 between Masco Corporation and Jai Shah.
+31.a
+Certification by Chief Executive Officer required by Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934.
+31.b
+Certification by Chief Financial Officer required by Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934.
+32
+Certifications required by Rule 13a-14(b) or Rule 15d-14(b) of the Securities Exchange Act of 1934 and Section 1350 of Chapter 63 of Title 18 of the United States Code.
+101
+The following financial information from Masco Corporation's Quarterly Report on Form 10-Q for the quarter ended June 30, 2026, formatted in Inline XBRL: (i) the Condensed Consolidated Balance Sheets, (ii) the Condensed Consolidated Statements of Operations, (iii) the Condensed Consolidated Statements of Comprehensive Income (Loss), (iv) the Condensed Consolidated Statements of Cash Flows, (v) the Condensed Consolidated Statements of Shareholders' Equity, and (vi) Notes to Condensed Consolidated Financial Statements.
+104
+Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101).
+26
+MASCO CORPORATION
+PART II.  OTHER INFORMATION, Concluded
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized.
+MASCO CORPORATION
+By:
+/s/ Richard J. Westenberg
+Richard J. Westenberg
+Vice President, Chief Financial Officer and Treasurer
+July 29, 2026
+27
