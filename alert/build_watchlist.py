@@ -24,9 +24,9 @@ def parse_buy_zone(buy):
         return None, "empty"
     if re.search(r"[A-Za-z一-鿿%]", s):
         return None, "signal"
-    if "$" in s[1:]:
+    if "$" in s[1:] and not s.startswith("$"):
         return None, "malformed"
-    nums = [float(x) for x in re.findall(r"[\d.]+", s)]
+    nums = [float(x) for x in re.findall(r"[\d.]+", s.replace(",", ""))]
     if not nums:
         return None, "no_number"
     if nums[0] > 1000 and (len(nums) == 1 or nums[1] < 100):
