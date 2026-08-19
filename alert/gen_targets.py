@@ -1,6 +1,7 @@
 # gen_targets.py — 每周六: 重算 source=script 的目标价 → Firestore
 # 与 monitor 解耦: monitor 只读 Firestore, 不知道目标价怎么算的。公式改动只改这里。
 import datetime
+import json
 
 from firestore_store import StockStore
 
@@ -57,3 +58,12 @@ def gen_targets(store, fetch=fetch_series):
         except Exception:
             failed.append(ticker)
     return {"updated": updated, "failed": failed}
+
+
+def gen_targets_http(request, store=None):
+    """Cloud Functions 周六任务入口: 重算 source=script 目标价并写入 Firestore"""
+    if store is None:
+        store = StockStore()
+    stat = gen_targets(store)
+    print(f"gen_targets {stat}", flush=True)
+    return json.dumps(stat), 200

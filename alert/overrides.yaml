@@ -1,0 +1,12 @@
+# overrides.yaml — 用户手动覆盖目标价与歧义确认 (最高优先级)
+# 格式:
+# TICKER: 数值 (简写)
+# 或:
+# TICKER:
+#   target: 数值 (或 null)
+#   source: manual (或 none/skill)
+
+# 示例 / 歧义修正项预留:
+# CMCSA: 40.0
+# INTU: 320.0
+# SSB: 100.0

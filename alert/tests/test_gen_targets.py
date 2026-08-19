@@ -1,19 +1,23 @@
-from gen_targets import compute_target, gen_targets
+from gen_targets import compute_target, gen_targets, gen_targets_http
 from firestore_store import StockStore
+import json
 
 
 def test_compute_min_of_formula():
     # 共识×0.75=150, 200MA=180, 50MA×0.95=171 → min=150
     assert compute_target(200, 200, 180, 180) == 150.0
 
+
 def test_compute_missing_components():
     assert compute_target(100, None, 90, None) == 90 * 0.95      # 只有 50MA
     assert compute_target(100, 120, None, None) == 90.0          # 只有共识
     assert compute_target(100, None, None, None) is None         # 全缺
 
+
 def test_compute_consensus_floor():
     # 共识×0.75 是硬地板, 即使均线更高也取它
     assert compute_target(100, 100, 200, 300) == 75.0
+
 
 def test_gen_targets_updates_only_script():
     class FakeClient:
@@ -47,3 +51,16 @@ def test_gen_targets_updates_only_script():
     assert store.col.docs["TME"]["target"] == 7.0      # skill 来源未动
     assert "last_price" in store.col.docs["AAPL"]      # 更新了现价
     assert "updated_at" in store.col.docs["AAPL"]
+
+
+def test_gen_targets_http():
+    class FakeClient:
+        def __init__(self): self._col = FakeCol()
+        def collection(self, n): return self._col
+    class FakeCol:
+        def stream(self): return []
+    store = StockStore(client=FakeClient())
+    res_body, status_code = gen_targets_http(None, store=store)
+    assert status_code == 200
+    data = json.loads(res_body)
+    assert "updated" in data and "failed" in data

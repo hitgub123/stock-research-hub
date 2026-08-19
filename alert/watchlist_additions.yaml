@@ -1,0 +1,50 @@
+# 用户额外关注的股票清单 (未包含在 184 家或 >100B 中的标的)
+# 默认 source: script 由 gen_targets.py 自动计算目标价，亦可直接写数值指定目标价
+LDOS:
+  target: null
+  source: script
+ZETA:
+  target: null
+  source: script
+RXRX:
+  target: null
+  source: script
+UPST:
+  target: null
+  source: script
+CLNE:
+  target: null
+  source: script
+BBAI:
+  target: null
+  source: script
+EU:
+  target: null
+  source: script
+BWXT:
+  target: null
+  source: script
+NOK:
+  target: null
+  source: script
+CEG:
+  target: null
+  source: script
+ALB:
+  target: null
+  source: script
+PATH:
+  target: null
+  source: script
+CRWV:
+  target: null
+  source: script
+HOOD:
+  target: null
+  source: script
+PYPL:
+  target: null
+  source: script
+COIN:
+  target: null
+  source: script

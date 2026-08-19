@@ -1,10 +1,10 @@
-# build_watchlist.py — 初始化/加股时: 解析 184 CSV + >100B + additions → Firestore
+# build_watchlist.py — 初始化/加股时: 解析 184 CSV + >100B + additions + overrides → Firestore
 # 用法: python -m build_watchlist  (或 import 后调用 build())
 import csv
+import os
 import re
 import sqlite3
 import sys
-import os
 
 from firestore_store import StockStore
 
@@ -13,6 +13,7 @@ PROJECT_ROOT = os.path.dirname(ROOT)
 CSV_PATH = os.path.join(PROJECT_ROOT, "184家_行业结论对照总表_20260815.csv")
 DB_PATH = os.path.join(PROJECT_ROOT, "research.db")
 ADDITIONS_PATH = os.path.join(ROOT, "watchlist_additions.yaml")
+OVERRIDES_PATH = os.path.join(ROOT, "overrides.yaml")
 MIN_MCAP_B = 100  # >100B 大盘
 
 
@@ -65,8 +66,8 @@ def load_large_caps(db_path=DB_PATH, min_mcap=MIN_MCAP_B):
     return out
 
 
-def load_additions(path=ADDITIONS_PATH):
-    """watchlist_additions.yaml → {ticker: {target, source}}. 文件缺失返回 {}."""
+def _load_yaml_specs(path, default_source="manual"):
+    """yaml 解析为 {ticker: {target, source}}. 文件缺失返回 {}."""
     if not os.path.exists(path):
         return {}
     import yaml
@@ -75,23 +76,43 @@ def load_additions(path=ADDITIONS_PATH):
     for ticker, spec in data.items():
         t = ticker.upper()
         if isinstance(spec, dict):
-            out[t] = {"target": spec.get("target"), "source": spec.get("source", "manual")}
+            out[t] = {
+                "target": spec.get("target"),
+                "source": spec.get("source", default_source),
+            }
+        elif spec is None:
+            out[t] = {"target": None, "source": default_source}
         else:  # 简写: 纯数字 = 目标价
-            out[t] = {"target": float(spec), "source": "manual"}
+            out[t] = {"target": float(spec), "source": default_source}
     return out
 
 
+def load_additions(path=ADDITIONS_PATH):
+    """watchlist_additions.yaml → {ticker: {target, source}} (默认 source=manual, 除非显式指明)."""
+    return _load_yaml_specs(path, default_source="manual")
+
+
+def load_overrides(path=OVERRIDES_PATH):
+    """overrides.yaml → {ticker: {target, source}} (默认 source=manual)."""
+    return _load_yaml_specs(path, default_source="manual")
+
+
 def build(csv_path=CSV_PATH, db_path=DB_PATH, additions_path=ADDITIONS_PATH,
-          store=None, review_out=None):
-    """合并三源写入 Firestore. 返回 {写入数, 跳过数, review清单}. store=None 用真 Firestore."""
+          overrides_path=OVERRIDES_PATH, store=None, review_out=None):
+    """合并四源写入 Firestore. 优先级: overrides > additions > large_caps > 184 CSV.
+    返回 {written, skip_target, review}. store=None 用真 Firestore."""
     if store is None:
         store = StockStore()
     skill, review = parse_184_csv(csv_path)
     caps = load_large_caps(db_path)
     adds = load_additions(additions_path)
+    overs = load_overrides(overrides_path)
+
     merged = dict(skill)
-    merged.update(caps)   # 大盘覆盖(若 184 里有 >100B, 但实际无重叠)
-    merged.update(adds)   # 手动覆盖
+    merged.update(caps)   # 大盘覆盖
+    merged.update(adds)   # 用户关注
+    merged.update(overs)  # 手动覆盖(最高优先级)
+
     n_skip = 0
     for ticker, data in merged.items():
         if data["target"] is None and data["source"] != "manual":
@@ -102,11 +123,6 @@ def build(csv_path=CSV_PATH, db_path=DB_PATH, additions_path=ADDITIONS_PATH,
     return {"written": len(merged), "skip_target": n_skip, "review": len(review)}
 
 
-if __name__ == "__main__":
-    r = build()
-    print(f"写入 {r['written']} 只, script无目标价 {r['skip_target']}, 歧义待确认 {r['review']}")
-
-
 def write_review(path, review):
     """歧义清单写入 md 供用户逐条确认(高位触发价或标跳过)"""
     lines = ["# 买入区歧义待确认（决定高位触发价，或标「跳过」）\n",
@@ -114,3 +130,8 @@ def write_review(path, review):
     for code, buy, status in sorted(review):
         lines.append(f"| {code} | {buy} | {status} | |\n")
     open(path, "w", encoding="utf-8").write("".join(lines))
+
+
+if __name__ == "__main__":
+    r = build()
+    print(f"写入 {r['written']} 只, script无目标价 {r['skip_target']}, 歧义待确认 {r['review']}")
