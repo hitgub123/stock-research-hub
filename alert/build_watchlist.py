@@ -17,9 +17,13 @@ OVERRIDES_PATH = os.path.join(ROOT, "overrides.yaml")
 MIN_MCAP_B = 100  # >100B 大盘
 
 
+def _clean_ticker(t):
+    return (t or "").strip().upper().replace("/", "-")
+
+
 def parse_buy_zone(buy):
     """提取买入区高位为触发价. 返回 (high, status).
-    status ∈ ok / signal(含文字) / malformed($错位) / date(2026-11) / ambiguous(高低差>3x) / empty"""
+    status in ok / signal / malformed / date / ambiguous / empty"""
     s = (buy or "").strip()
     if not s:
         return None, "empty"
@@ -45,7 +49,7 @@ def parse_184_csv(path=CSV_PATH):
     out, review = {}, []
     with open(path, encoding="utf-8-sig") as f:
         for r in csv.DictReader(f):
-            code = (r.get("代码") or "").strip().upper()
+            code = _clean_ticker(r.get("代码"))
             if not code:
                 continue
             high, status = parse_buy_zone(r.get("买入区"))
@@ -61,7 +65,7 @@ def load_large_caps(db_path=DB_PATH, min_mcap=MIN_MCAP_B):
     conn = sqlite3.connect(db_path)
     rows = conn.execute(
         "SELECT ticker FROM companies WHERE market_cap_b > ?", (min_mcap,))
-    out = {r[0].upper(): {"target": None, "source": "script"} for r in rows}
+    out = {_clean_ticker(r[0]): {"target": None, "source": "script"} for r in rows if r[0]}
     conn.close()
     return out
 
@@ -74,7 +78,9 @@ def _load_yaml_specs(path, default_source="manual"):
     data = yaml.safe_load(open(path, encoding="utf-8")) or {}
     out = {}
     for ticker, spec in data.items():
-        t = ticker.upper()
+        t = _clean_ticker(ticker)
+        if not t:
+            continue
         if isinstance(spec, dict):
             out[t] = {
                 "target": spec.get("target"),
@@ -88,8 +94,8 @@ def _load_yaml_specs(path, default_source="manual"):
 
 
 def load_additions(path=ADDITIONS_PATH):
-    """watchlist_additions.yaml → {ticker: {target, source}} (默认 source=manual, 除非显式指明)."""
-    return _load_yaml_specs(path, default_source="manual")
+    """watchlist_additions.yaml → {ticker: {target, source}} (默认 source=script)."""
+    return _load_yaml_specs(path, default_source="script")
 
 
 def load_overrides(path=OVERRIDES_PATH):
