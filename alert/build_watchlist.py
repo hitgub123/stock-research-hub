@@ -94,8 +94,8 @@ def _load_yaml_specs(path, default_source="manual"):
 
 
 def load_additions(path=ADDITIONS_PATH):
-    """watchlist_additions.yaml → {ticker: {target, source}} (默认 source=script)."""
-    return _load_yaml_specs(path, default_source="script")
+    """watchlist_additions.yaml → {ticker: {target, source}} (默认 source=manual)."""
+    return _load_yaml_specs(path, default_source="manual")
 
 
 def load_overrides(path=OVERRIDES_PATH):

@@ -58,12 +58,23 @@ def _webhook():
     from google.cloud import secretmanager
     _, project = default()
     client = secretmanager.SecretManagerServiceClient()
-    name = f"projects/{project or 'stock-alert'}/secrets/stock-discord-webhook/versions/latest"
+    name = f"projects/{project or 'stock-alert-hub'}/secrets/stock-discord-webhook/versions/latest"
     return client.access_secret_version(name=name).payload.data.decode("utf-8")
 
 
+def format_source_label(source):
+    """根据目标价来源生成明确的推送判断条件说明"""
+    if source == "skill":
+        return "报告 (earnings-review + investment-research 双报告)"
+    elif source == "script":
+        return "脚本计算"
+    elif source == "manual":
+        return "报告 (研报复核确认)"
+    return "无目标价" if not source or source == "none" else str(source)
+
+
 def notify_alerts(webhook, triggered, send=None):
-    """一条 Discord 消息列出所有触发股票"""
+    """一条 Discord 消息列出所有触发股票，并明确说明判断条件"""
     if send is None:
         import requests
         def _s(url, title, desc):
@@ -72,8 +83,11 @@ def notify_alerts(webhook, triggered, send=None):
             except Exception:
                 return False
         send = _s
-    lines = [f"{t} 现价{price:.2f} < 目标{target:.2f}({source})" for t, price, target, source in triggered]
-    return send(webhook, f"🐂 {len(triggered)} 只触及买入区", "\n".join(lines))
+    lines = []
+    for t, price, target, source in triggered:
+        label = format_source_label(source)
+        lines.append(f"• **{t}**: 现价 `${price:.2f}` < 目标 `${target:.2f}`\n  └ 判断条件: {label}")
+    return send(webhook, f"🐂 {len(triggered)} 只股票触及买入区", "\n".join(lines))
 
 
 def run_monitor(store, webhook, now, fetch=None, send=None):
@@ -105,7 +119,7 @@ def run_monitor(store, webhook, now, fetch=None, send=None):
 
 
 def close_summary(store, webhook, now, fetch=None, send=None, last_summary_key=None):
-    """收盘总结(每日一次): 触发清单 + 接近目标(≤目标×1.05)按偏离排序"""
+    """收盘总结(每日一次): 触发清单 + 接近目标(≤目标×1.05)按偏离排序，包含判断条件来源"""
     if fetch is None:
         fetch = default_fetch
     day = now.strftime("%Y-%m-%d")
@@ -123,11 +137,12 @@ def close_summary(store, webhook, now, fetch=None, send=None, last_summary_key=N
         store.upsert(ticker, {"last_price": price})
         if price is None:
             continue
+        source = data.get("source")
         if price < target:
-            triggered.append((ticker, price, float(target)))
+            triggered.append((ticker, price, float(target), source))
         elif price <= target * 1.05:
-            near.append((ticker, price, float(target), price / float(target)))
-    near.sort(key=lambda x: x[3])
+            near.append((ticker, price, float(target), source, price / float(target)))
+    near.sort(key=lambda x: x[4])
     if send is None:
         import requests
         def _s(url, title, desc):
@@ -136,9 +151,22 @@ def close_summary(store, webhook, now, fetch=None, send=None, last_summary_key=N
             except Exception:
                 return False
         send = _s
-    lines = [f"触及: {t} {p:.2f} < {target:.2f}" for t, p, target in triggered]
-    lines += [f"接近: {t} {p:.2f}({target:.2f}) {r*100:.0f}%" for t, p, target, r in near]
-    send(webhook, f"📊 收盘总结 {day}", "\n".join(lines) or "今日无触发/接近")
+    lines = []
+    if triggered:
+        lines.append("【🎯 触及买入区】")
+        for t, p, target, source in triggered:
+            label = format_source_label(source)
+            lines.append(f"• **{t}**: 现价 `${p:.2f}` < 目标 `${target:.2f}` ({label})")
+    if near:
+        if lines:
+            lines.append("")
+        lines.append("【👀 接近买入区 (偏离 <= 5%)】")
+        for t, p, target, source, r in near:
+            label = format_source_label(source)
+            lines.append(f"• **{t}**: 现价 `${p:.2f}` / 目标 `${target:.2f}` (偏离 {(r-1)*100:+.1f}%, {label})")
+
+    body = "\n".join(lines) if lines else "今日无触发/接近买入区的标的"
+    send(webhook, f"📊 美股收盘总结 {day}", body)
     if last_summary_key is not None:
         last_summary_key(day)
     return {"sent": True, "triggered": len(triggered), "near": len(near)}
