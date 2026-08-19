@@ -63,18 +63,29 @@ def _webhook():
 
 
 def format_source_label(source):
-    """根据目标价来源生成明确的推送判断条件说明"""
+    """根据目标价来源生成带彩色视觉图标的明确判断条件说明"""
     if source == "skill":
-        return "报告 (earnings-review + investment-research 双报告)"
+        return "🟢【报告】earnings-review + investment-research 双报告"
     elif source == "script":
-        return "脚本计算"
+        return "🟠【脚本计算】"
     elif source == "manual":
-        return "报告 (研报复核确认)"
-    return "无目标价" if not source or source == "none" else str(source)
+        return "🟢【报告】研报复核确认"
+    return "⚪【无目标价】" if not source or source == "none" else f"⚪【{source}】"
+
+
+def format_source_tag(source):
+    """收盘总结精简彩色标签"""
+    if source == "skill":
+        return "🟢【报告】"
+    elif source == "script":
+        return "🟠【脚本计算】"
+    elif source == "manual":
+        return "🟢【报告复核】"
+    return "⚪"
 
 
 def notify_alerts(webhook, triggered, send=None):
-    """一条 Discord 消息列出所有触发股票，并明确说明判断条件"""
+    """一条 Discord 消息列出所有触发股票，并带彩色图标明确说明判断条件"""
     if send is None:
         import requests
         def _s(url, title, desc):
@@ -86,7 +97,7 @@ def notify_alerts(webhook, triggered, send=None):
     lines = []
     for t, price, target, source in triggered:
         label = format_source_label(source)
-        lines.append(f"• **{t}**: 现价 `${price:.2f}` < 目标 `${target:.2f}`\n  └ 判断条件: {label}")
+        lines.append(f"• **{t}**: 现价 `${price:.2f}` < 目标 `${target:.2f}`\n  └ {label}")
     return send(webhook, f"🐂 {len(triggered)} 只股票触及买入区", "\n".join(lines))
 
 
@@ -119,7 +130,7 @@ def run_monitor(store, webhook, now, fetch=None, send=None):
 
 
 def close_summary(store, webhook, now, fetch=None, send=None, last_summary_key=None):
-    """收盘总结(每日一次): 触发清单 + 接近目标(≤目标×1.05)按偏离排序，包含判断条件来源"""
+    """收盘总结(每日一次): 触发清单 + 接近目标(≤目标×1.05)按偏离排序，包含彩色图标判断条件"""
     if fetch is None:
         fetch = default_fetch
     day = now.strftime("%Y-%m-%d")
@@ -155,15 +166,15 @@ def close_summary(store, webhook, now, fetch=None, send=None, last_summary_key=N
     if triggered:
         lines.append("【🎯 触及买入区】")
         for t, p, target, source in triggered:
-            label = format_source_label(source)
-            lines.append(f"• **{t}**: 现价 `${p:.2f}` < 目标 `${target:.2f}` ({label})")
+            tag = format_source_tag(source)
+            lines.append(f"• **{t}**: 现价 `${p:.2f}` < 目标 `${target:.2f}` {tag}")
     if near:
         if lines:
             lines.append("")
         lines.append("【👀 接近买入区 (偏离 <= 5%)】")
         for t, p, target, source, r in near:
-            label = format_source_label(source)
-            lines.append(f"• **{t}**: 现价 `${p:.2f}` / 目标 `${target:.2f}` (偏离 {(r-1)*100:+.1f}%, {label})")
+            tag = format_source_tag(source)
+            lines.append(f"• **{t}**: 现价 `${p:.2f}` / 目标 `${target:.2f}` (偏离 {(r-1)*100:+.1f}%) {tag}")
 
     body = "\n".join(lines) if lines else "今日无触发/接近买入区的标的"
     send(webhook, f"📊 美股收盘总结 {day}", body)

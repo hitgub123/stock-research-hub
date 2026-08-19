@@ -1,5 +1,5 @@
 import datetime
-from monitor import in_push_window, is_us_dst, us_open_jst, run_monitor, close_summary, format_source_label
+from monitor import in_push_window, is_us_dst, us_open_jst, run_monitor, close_summary, format_source_label, format_source_tag
 from firestore_store import StockStore
 
 
@@ -54,10 +54,12 @@ def make_store(docs=None):
     return StockStore(client=FakeClient(docs or {}))
 
 
-def test_format_source_label():
-    assert "双报告" in format_source_label("skill")
-    assert "脚本计算" in format_source_label("script")
-    assert "研报复核" in format_source_label("manual")
+def test_format_source_label_and_tag():
+    assert "🟢" in format_source_label("skill") and "报告" in format_source_label("skill")
+    assert "🟠" in format_source_label("script") and "脚本计算" in format_source_label("script")
+    assert "🟢" in format_source_label("manual")
+    assert "🟢" in format_source_tag("skill")
+    assert "🟠" in format_source_tag("script")
 
 
 def test_is_us_dst():
@@ -93,8 +95,8 @@ def test_run_triggers_and_cooldown():
                     send=lambda *a, **k: sent.append(a[2]) or True)
     assert r["triggered"] == 2 and r["pushed"] == 2
     assert sent and "AAPL" in sent[0] and "TME" in sent[0]
-    assert "脚本计算" in sent[0]
-    assert "双报告" in sent[0]
+    assert "🟠【脚本计算】" in sent[0]
+    assert "🟢【报告】" in sent[0]
     assert "last_notified" in store.get("AAPL")
 
     # 冷却: 3 天后再跑 → 不推
@@ -139,5 +141,5 @@ def test_close_summary():
                       send=lambda *a, **k: sent.append(a[2]) or True)
     assert r["sent"] and r["triggered"] == 1 and r["near"] == 1
     assert "AAPL" in sent[0] and "MSFT" in sent[0]
-    assert "脚本计算" in sent[0]
-    assert "双报告" in sent[0]
+    assert "🟠【脚本计算】" in sent[0]
+    assert "🟢【报告】" in sent[0]
